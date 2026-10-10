@@ -1,0 +1,110 @@
+[
+  {
+    "classe": "4eme",
+    "matiere": "Géographie",
+    "id": "g4-climats-monde",
+    "titre": "Les grands climats du monde et leurs zones",
+    "duree": "40 min",
+    "contenu": "<p>Le <b>climat</b> d'un lieu dépend surtout de sa <b>latitude</b> (distance à l'équateur), de son <b>altitude</b> et de sa position par rapport à la mer. On distingue de grandes zones climatiques sur la Terre.</p><div class='definition'><b>Le climat équatorial</b> est chaud et humide toute l'année (forêts denses, Amazonie, bassin du Congo).<br><b>Le climat tropical</b> alterne une saison sèche et une saison des pluies (savanes du Soudan et du Sahel).<br><b>Le climat désertique</b> est très chaud et très sec, avec des écarts de température importants (Sahara).<br><b>Le climat tempéré</b> connaît des saisons bien marquées (Europe occidentale).<br><b>Le climat polaire</b> est très froid toute l'année (Groenland, Antarctique).</div><p>Plus on s'éloigne de l'équateur, plus les températures baissent : les zones climatiques se répartissent en bandes approximativement parallèles à l'équateur.</p><div class='exemple'><b>Exemple :</b> le Cameroun, proche de l'équateur, connaît un climat équatorial au sud et tropical au centre et au nord. Il est donc varié selon sa latitude et son relief.</div><div class='astuce'><b>Astuce :</b> pour deviner le climat d'un lieu, regarde d'abord sa latitude : plus il est proche de l'équateur, plus il est chaud. Puis considère l'altitude et la proximité de la mer, qui modifient le climat.</div>",
+    "exercices": [
+      { "q": "Quels sont les trois facteurs qui déterminent le climat d'un lieu ?", "r": "La latitude, l'altitude et la proximité de la mer.", "indice": "Pense à la distance à l'équateur, à la hauteur et à l'océan." },
+      { "q": "Quel est le climat dominant dans le Sahara ?", "r": "Le climat désertique : très chaud, très sec, avec de forts écarts de température.", "indice": "Pense à la chaleur et à la rareté de la pluie." },
+      { "q": "Où trouve-t-on un climat équatorial ?", "r": "Dans le bassin du Congo et en Amazonie : chaud et humide toute l'année.", "indice": "Pense aux grandes forêts denses proches de l'équateur." },
+      { "q": "Pourquoi les températures baissent-elles quand on s'éloigne de l'équateur ?", "r": "Les rayons du Soleil sont moins directs, donc moins intenses.", "indice": "Pense à l'inclinaison des rayons." },
+      { "q": "Quel climat connaît des saisons bien marquées ?", "r": "Le climat tempéré, par exemple en Europe occidentale.", "indice": "Pense aux quatre saisons." }
+    ],
+    "qcm": [
+      { "q": "Le facteur principal du climat est :", "options": ["la latitude", "la couleur du sol", "le nom du pays", "la langue"], "correct": 0, "exp": "La latitude détermine en grande partie la température." },
+      { "q": "Le climat équatorial est :", "options": ["froid et sec", "chaud et humide toute l'année", "tempéré", "polaire"], "correct": 1, "exp": "Il est chaud et humide toute l'année." },
+      { "q": "Le Sahara a un climat :", "options": ["équatorial", "désertique", "polaire", "tempéré"], "correct": 1, "exp": "C'est un climat désertique." },
+      { "q": "Le climat polaire se trouve :", "options": ["à l'équateur", "au Groenland et en Antarctique", "au Sahara", "en Amazonie"], "correct": 1, "exp": "Ces régions sont très froides." },
+      { "q": "Le climat tempéré se caractérise par :", "options": ["des saisons bien marquées", "une chaleur constante", "une absence de pluie", "un froid permanent"], "correct": 0, "exp": "Il présente quatre saisons distinctes." },
+      { "q": "Le climat tropical alterne :", "options": ["jour et nuit", "saison sèche et saison des pluies", "neige et sable", "mer et montagne"], "correct": 1, "exp": "Il a une saison sèche et une saison des pluies." },
+      { "q": "Plus on s'éloigne de l'équateur :", "options": ["plus il fait chaud", "les températures baissent", "il pleut toujours", "le climat ne change pas"], "correct": 1, "exp": "Les rayons sont moins directs : il fait plus froid." },
+      { "q": "L'altitude a pour effet :", "options": ["d'augmenter la température", "de rendre le climat plus frais", "de supprimer le climat", "de rendre la mer plus chaude"], "correct": 1, "exp": "Plus on monte, plus il fait frais." },
+      { "q": "Le bassin du Congo est situé dans un climat :", "options": ["désertique", "équatorial", "polaire", "tempéré"], "correct": 1, "exp": "Il a un climat équatorial." },
+      { "q": "Au Cameroun, le climat varie selon :", "options": ["la latitude et le relief", "la couleur des maisons", "les jours de la semaine", "la langue parlée"], "correct": 0, "exp": "La latitude et le relief expliquent les différences." }
+    ]
+  },
+  {
+    "classe": "4eme",
+    "matiere": "Géographie",
+    "id": "g4-urbanisation-mondiale",
+    "titre": "L'urbanisation : villes, croissance et défis",
+    "duree": "40 min",
+    "contenu": "<p>L'<b>urbanisation</b> est l'augmentation de la part de la population qui vit dans les villes. Aujourd'hui, plus de la moitié de l'humanité habite en ville.</p><div class='definition'><b>Une métropole</b> est une très grande ville qui exerce une influence sur une vaste région.<br><b>La mégalopole</b> est un ensemble de plusieurs métropoles qui se rejoignent.<br><b>La croissance urbaine</b> est l'augmentation de la population des villes, due à l'exode rural et à la natalité.<br><b>Le bidonville</b> est un quartier informel, sans équipements suffisants, où vivent beaucoup de personnes pauvres.</div><p>L'urbanisation rapide pose des défis : logement, eau potable, assainissement, transports, emploi. Les pays en développement, comme ceux d'Afrique, connaissent une croissance urbaine très forte.</p><div class='exemple'><b>Exemple :</b> à Douala ou à Yaoundé, la population a fortement augmenté en quelques décennies. Les quartiers se sont étendus, et l'accès à l'eau et aux transports est devenu un enjeu important.</div><div class='astuce'><b>Astuce :</b> pour parler de l'urbanisation, utilise trois idées : la croissance de la population urbaine, les causes (exode rural, natalité) et les conséquences (défis de logement, d'eau, de transport).</div>",
+    "exercices": [
+      { "q": "Qu'est-ce que l'urbanisation ?", "r": "L'augmentation de la part de la population qui vit dans les villes.", "indice": "Pense au mot ville." },
+      { "q": "Quelle est la différence entre une métropole et une mégalopole ?", "r": "La métropole est une très grande ville influente sur une région. La mégalopole est un ensemble de plusieurs métropoles qui se rejoignent.", "indice": "Mégalopole = ensemble de métropoles." },
+      { "q": "Cite deux causes de la croissance urbaine.", "r": "L'exode rural et la natalité élevée en ville.", "indice": "Pense aux mouvements de population." },
+      { "q": "Cite deux défis posés par une urbanisation rapide.", "r": "Le logement, l'accès à l'eau potable, l'assainissement, les transports, l'emploi.", "indice": "Pense aux besoins quotidiens des habitants." },
+      { "q": "Qu'est-ce qu'un bidonville ?", "r": "Un quartier informel, sans équipements suffisants, où vivent des personnes pauvres.", "indice": "Pense à un habitat précaire." }
+    ],
+    "qcm": [
+      { "q": "L'urbanisation désigne :", "options": ["la disparition des villes", "l'augmentation de la population urbaine", "la fin de l'exode rural", "la construction de forêts"], "correct": 1, "exp": "C'est l'augmentation de la part urbaine de la population." },
+      { "q": "Une métropole est :", "options": ["un village", "une très grande ville qui influence une région", "un désert", "une île"], "correct": 1, "exp": "C'est une très grande ville de rayonnement régional." },
+      { "q": "Une mégalopole est :", "options": ["une seule petite ville", "un ensemble de métropoles", "une campagne", "un port"], "correct": 1, "exp": "Plusieurs métropoles se rejoignent." },
+      { "q": "L'exode rural est :", "options": ["le départ des villes vers les campagnes", "le départ des campagnes vers les villes", "la fermeture des écoles", "la construction de routes"], "correct": 1, "exp": "Les habitants quittent les campagnes pour les villes." },
+      { "q": "Plus de la moitié de l'humanité vit aujourd'hui :", "options": ["dans des villages", "dans les villes", "en mer", "dans le désert"], "correct": 1, "exp": "La majorité de l'humanité vit en ville." },
+      { "q": "Un bidonville est :", "options": ["un quartier riche", "un quartier informel et précaire", "un musée", "un parc"], "correct": 1, "exp": "C'est un habitat précaire et informel." },
+      { "q": "L'assainissement désigne :", "options": ["l'évacuation des eaux usées et des déchets", "la construction de routes", "la création d'emplois", "la plantation d'arbres"], "correct": 0, "exp": "C'est l'évacuation des eaux usées et des déchets." },
+      { "q": "Un défi de l'urbanisation rapide est :", "options": ["le manque de logements", "l'abondance de logements", "la disparition des villes", "l'absence totale de population"], "correct": 0, "exp": "La demande de logement augmente vite." },
+      { "q": "La croissance urbaine est due notamment :", "options": ["à l'exode rural", "à la disparition des habitants", "à la fermeture des écoles", "au désert"], "correct": 0, "exp": "L'exode rural est une cause majeure." },
+      { "q": "Les pays en développement connaissent surtout :", "options": ["une urbanisation très forte", "une baisse de leur population urbaine", "aucune ville", "uniquement des villages"], "correct": 0, "exp": "Leur croissance urbaine est rapide." }
+    ]
+  },
+  {
+    "classe": "4eme",
+    "matiere": "Géographie",
+    "id": "g4-cameroun-villes-reseau",
+    "titre": "Le Cameroun : réseau urbain et axes de communication",
+    "duree": "40 min",
+    "contenu": "<p>Le réseau urbain du Cameroun est organisé autour de quelques grandes villes, reliées par des <b>axes de communication</b> : routes, voies ferrées, ports et aéroports.</p><div class='definition'><b>Un axe de communication</b> est une voie qui relie deux lieux : route nationale, chemin de fer, voie maritime, voie aérienne.<br><b>Un port</b> est un lieu d'échange maritime. Le port de Douala est le principal port du pays.<br><b>Une capitale régionale</b> est la ville principale d'une région : Garoua, Bafoussam, Bamenda, Ebolowa, Maroua.<br><b>Le chemin de fer</b> relie notamment Douala, Yaoundé et le Nord, et sert au transport de marchandises et de voyageurs.</div><p>Le réseau urbain est concentré autour de Douala et Yaoundé, qui sont les deux pôles principaux. Les axes de communication permettent de relier les régions et d'exporter les productions agricoles et minières.</p><div class='exemple'><b>Exemple :</b> le cacao produit dans le Centre ou le Sud est transporté par route ou par rail jusqu'au port de Douala, d'où il est exporté vers l'étranger.</div><div class='astuce'><b>Astuce :</b> pour comprendre un réseau, trace mentalement les liens entre les villes principales et le port. Tu verras que Douala est le point de sortie des produits du pays.</div>",
+    "exercices": [
+      { "q": "Qu'est-ce qu'un axe de communication ?", "r": "Une voie qui relie deux lieux : route, chemin de fer, voie maritime ou aérienne.", "indice": "Pense aux moyens de transport." },
+      { "q": "Quel est le principal port du Cameroun ?", "r": "Le port de Douala.", "indice": "C'est la capitale économique." },
+      { "q": "Cite deux capitales régionales du Cameroun.", "r": "Par exemple : Garoua, Bafoussam, Bamenda, Ebolowa, Maroua.", "indice": "Ce sont les villes principales de leurs régions." },
+      { "q": "Pourquoi le port de Douala est-il important pour l'économie ?", "r": "Il permet d'exporter les produits agricoles et miniers et d'importer les marchandises.", "indice": "Pense aux échanges avec l'étranger." },
+      { "q": "Quel est le rôle du chemin de fer au Cameroun ?", "r": "Il relie les grandes villes et transporte marchandises et voyageurs.", "indice": "Pense au Nord et à Douala." }
+    ],
+    "qcm": [
+      { "q": "Un axe de communication est :", "options": ["une montagne", "une voie qui relie deux lieux", "un fleuve", "une ville"], "correct": 1, "exp": "C'est une voie de transport." },
+      { "q": "Le principal port du Cameroun est :", "options": ["Kribi", "Douala", "Limbe", "Garoua"], "correct": 1, "exp": "Douala est le principal port." },
+      { "q": "Une capitale régionale est :", "options": ["la capitale du pays", "la ville principale d'une région", "un port", "un village"], "correct": 1, "exp": "C'est la ville principale d'une région." },
+      { "q": "Le chemin de fer relie notamment :", "options": ["Douala, Yaoundé et le Nord", "Paris et Londres", "le Sahara", "les îles"], "correct": 0, "exp": "C'est la ligne principale du pays." },
+      { "q": "Les deux pôles urbains principaux du Cameroun sont :", "options": ["Douala et Yaoundé", "Maroua et Garoua", "Bamenda et Ebolowa", "Kribi et Limbe"], "correct": 0, "exp": "Douala et Yaoundé concentrent l'essentiel de l'activité." },
+      { "q": "Le cacao est transporté vers :", "options": ["le désert", "le port de Douala pour l'exportation", "les montagnes", "un lac"], "correct": 1, "exp": "Il est exporté par le port de Douala." },
+      { "q": "Un port est :", "options": ["un lieu d'échange maritime", "une montagne", "une forêt", "un désert"], "correct": 0, "exp": "C'est un lieu d'échanges par la mer." },
+      { "q": "Le réseau urbain camerounais est organisé autour :", "options": ["de quelques grandes villes", "de la forêt uniquement", "du désert", "des montagnes"], "correct": 0, "exp": "Quelques grandes villes structurent le réseau." },
+      { "q": "Une route nationale est :", "options": ["un axe de communication", "un fleuve", "un port", "une capitale"], "correct": 0, "exp": "C'est une voie de communication terrestre." },
+      { "q": "Pour exporter les productions agricoles, le Cameroun utilise surtout :", "options": ["ses ports", "ses déserts", "ses lacs de cratère", "ses montagnes"], "correct": 0, "exp": "Les ports, notamment Douala, assurent l'exportation." }
+    ]
+  },
+  {
+    "classe": "4eme",
+    "matiere": "Géographie",
+    "id": "g4-developpement-inegalites",
+    "titre": "Pays développés et pays en développement : inégalités",
+    "duree": "40 min",
+    "contenu": "<p>Les pays du monde ne sont pas tous au même niveau de développement. On distingue les <b>pays développés</b> (Europe de l'Ouest, Amérique du Nord, Japon) et les <b>pays en développement</b> (Afrique, Asie du Sud, Amérique latine).</p><div class='definition'><b>Le développement</b> désigne l'amélioration des conditions de vie : santé, éducation, revenus, accès à l'eau et à l'énergie.<br><b>L'indicateur de développement humain (IDH)</b> combine espérance de vie, niveau d'éducation et revenu par habitant. Il permet de comparer les pays.<br><b>Les inégalités</b> sont les écarts entre les riches et les pauvres, entre les pays et à l'intérieur d'un même pays.</div><p>Les pays en développement ont souvent une espérance de vie plus faible, un accès à l'éducation plus limité et des revenus moins élevés. Mais ils sont aussi très dynamiques et ont une jeunesse nombreuse.</p><div class='exemple'><b>Exemple :</b> au Cameroun, l'accès à l'eau potable et à l'électricité progresse, mais des écarts importants demeurent entre les villes et les campagnes.</div><div class='astuce'><b>Astuce :</b> ne réduis pas le développement au revenu. La santé et l'éducation comptent autant : un pays peut être riche et inégalitaire, ou moins riche avec une bonne éducation.</div>",
+    "exercices": [
+      { "q": "Cite deux pays développés et deux pays en développement.", "r": "Développés : France, Japon (ou États-Unis). En développement : Cameroun, Inde (ou Bolivie).", "indice": "Pense aux continents." },
+      { "q": "Quels sont les trois critères de l'IDH ?", "r": "L'espérance de vie, le niveau d'éducation et le revenu par habitant.", "indice": "Pense à la santé, à l'instruction et à l'argent." },
+      { "q": "Qu'est-ce qu'une inégalité ?", "r": "Un écart entre des personnes, des groupes ou des pays, dans l'accès aux richesses, à la santé ou à l'éducation.", "indice": "Pense aux différences." },
+      { "q": "Pourquoi ne peut-on pas réduire le développement au seul revenu ?", "r": "Parce que la santé, l'éducation et l'accès aux services comptent aussi.", "indice": "Relis l'astuce du cours." },
+      { "q": "Cite un exemple d'inégalité entre villes et campagnes au Cameroun.", "r": "L'accès à l'électricité ou à l'eau potable est souvent plus facile en ville.", "indice": "Pense aux services de base." }
+    ],
+    "qcm": [
+      { "q": "Un pays développé se trouve surtout :", "options": ["en Europe de l'Ouest et en Amérique du Nord", "dans le Sahara", "en Amazonie", "dans le désert de Gobi"], "correct": 0, "exp": "C'est là que se trouvent les pays développés." },
+      { "q": "Le développement désigne :", "options": ["l'amélioration des conditions de vie", "la croissance des forêts", "la disparition des villes", "l'augmentation de la pollution"], "correct": 0, "exp": "C'est l'amélioration des conditions de vie." },
+      { "q": "L'IDH combine :", "options": ["espérance de vie, éducation, revenu", "population, superficie, climat", "langue, religion, couleur", "nombre de voitures"], "correct": 0, "exp": "C'est l'indicateur combinant santé, éducation et revenu." },
+      { "q": "Une inégalité est :", "options": ["un écart entre personnes ou pays", "une égalité parfaite", "une fête", "une montagne"], "correct": 0, "exp": "C'est un écart dans l'accès aux richesses ou aux services." },
+      { "q": "Les pays en développement ont souvent :", "options": ["une espérance de vie plus faible", "une espérance de vie plus forte", "aucune population", "aucune école"], "correct": 0, "exp": "L'espérance de vie est souvent plus faible." },
+      { "q": "Un pays peut être riche et inégalitaire :", "options": ["oui", "non", "jamais", "seulement en mer"], "correct": 0, "exp": "Un revenu élevé ne garantit pas l'égalité." },
+      { "q": "L'Afrique est généralement classée parmi :", "options": ["les pays développés", "les pays en développement", "les déserts", "les océans"], "correct": 1, "exp": "La plupart des pays africains sont en développement." },
+      { "q": "Le développement inclut notamment :", "options": ["la santé et l'éducation", "uniquement la pêche", "uniquement les routes", "la seule taille des villes"], "correct": 0, "exp": "Santé, éducation et accès aux services sont essentiels." },
+      { "q": "Les pays en développement ont souvent une jeunesse :", "options": ["absente", "nombreuse", "inexistante", "très âgée uniquement"], "correct": 1, "exp": "Leur population est souvent jeune et nombreuse." },
+      { "q": "Au Cameroun, les écarts entre villes et campagnes concernent surtout :", "options": ["l'accès aux services de base", "la couleur des maisons", "le nombre de langues", "la taille des montagnes"], "correct": 0, "exp": "Les services de base sont souvent inégalement répartis." }
+    ]
+  }
+]

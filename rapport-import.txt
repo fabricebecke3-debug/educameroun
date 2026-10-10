@@ -1,0 +1,5 @@
+RAPPORT D'IMPORT — 10/10/2026 15:29:46
+Leçons importées : 170
+Erreurs bloquantes : 0
+Avertissements : 1
+  ⚠ 4eme-mathematiques-NEWS.json → m4-pythagore : identifiant déjà utilisé, leçon ignorée

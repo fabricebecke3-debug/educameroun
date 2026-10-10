@@ -1,0 +1,110 @@
+[
+  {
+    "classe": "6eme",
+    "matiere": "Géographie",
+    "id": "g6-terre-univers",
+    "titre": "La Terre dans l'univers : jour, nuit et saisons",
+    "duree": "40 min",
+    "contenu": "<p>La <b>Terre</b> est une planète du système solaire. Elle tourne autour du <b>Soleil</b>, une étoile qui éclaire et réchauffe la planète.</p><div class='definition'><b>La rotation :</b> la Terre tourne sur elle-même en 24 heures. C'est ce mouvement qui produit le <b>jour</b> et la <b>nuit</b>.<br><b>La révolution :</b> la Terre tourne autour du Soleil en une année (environ 365 jours).<br><b>L'axe de rotation :</b> la Terre est inclinée. Cette inclinaison crée les <b>saisons</b>.</div><p>La face de la Terre éclairée par le Soleil connaît le jour, et la face opposée connaît la nuit.</p><div class='exemple'><b>Exemple :</b> au Cameroun, les jours et les nuits durent presque la même durée toute l'année, car le pays est proche de l'équateur. En Europe, les jours d'été sont beaucoup plus longs.</div><div class='astuce'><b>Astuce :</b> retiens que la rotation donne le jour et la nuit (24 h), et que la révolution donne l'année (365 jours).</div>",
+    "exercices": [
+      { "q": "Combien de temps met la Terre pour faire un tour complet sur elle-même ?", "r": "24 heures.", "indice": "C'est la durée d'un jour." },
+      { "q": "Quel mouvement de la Terre produit l'alternance du jour et de la nuit ?", "r": "La rotation.", "indice": "La Terre tourne sur elle-même." },
+      { "q": "Combien de temps met la Terre pour faire un tour complet autour du Soleil ?", "r": "Environ 365 jours, soit une année.", "indice": "C'est la révolution." },
+      { "q": "Pourquoi le Cameroun a-t-il des jours et des nuits de durée presque égale ?", "r": "Parce qu'il est situé près de l'équateur, où la durée du jour varie peu au cours de l'année.", "indice": "Pense à la position du pays par rapport à l'équateur." },
+      { "q": "Quelle est la cause des saisons ?", "r": "L'inclinaison de l'axe de la Terre par rapport au Soleil.", "indice": "La Terre est penchée sur son axe." }
+    ],
+    "qcm": [
+      { "q": "La Terre est :", "options": ["une étoile", "une planète", "un satellite", "une comète"], "correct": 1, "exp": "La Terre est une planète qui tourne autour du Soleil." },
+      { "q": "Quel est l'astre qui éclaire la Terre ?", "options": ["la Lune", "le Soleil", "Mars", "une étoile lointaine"], "correct": 1, "exp": "Le Soleil est l'étoile qui éclaire la Terre." },
+      { "q": "La rotation de la Terre dure :", "options": ["une semaine", "un mois", "24 heures", "une année"], "correct": 2, "exp": "La Terre fait un tour sur elle-même en 24 heures." },
+      { "q": "La révolution de la Terre dure :", "options": ["24 heures", "un mois", "environ 365 jours", "une semaine"], "correct": 2, "exp": "La Terre tourne autour du Soleil en environ une année." },
+      { "q": "Quel mouvement produit le jour et la nuit ?", "options": ["la révolution", "la rotation", "l'éclipse", "la marée"], "correct": 1, "exp": "La rotation sur soi-même alterne le jour et la nuit." },
+      { "q": "Quelle est la cause des saisons ?", "options": ["la distance de la Lune", "l'inclinaison de l'axe de la Terre", "les nuages", "les océans"], "correct": 1, "exp": "L'inclinaison de l'axe fait varier l'éclairement selon les saisons." },
+      { "q": "Au Cameroun, la durée du jour et de la nuit est :", "options": ["très variable selon les mois", "presque toujours la même", "toujours de 12 heures exactement", "très courte"], "correct": 1, "exp": "Le Cameroun est proche de l'équateur : la durée du jour varie peu." },
+      { "q": "Combien de jours dure une année environ ?", "options": ["12", "30", "365", "100"], "correct": 2, "exp": "Une année dure environ 365 jours." },
+      { "q": "La Terre fait partie :", "options": ["du système solaire", "de la Lune", "du Soleil", "d'aucun système"], "correct": 0, "exp": "La Terre est une planète du système solaire." },
+      { "q": "La face de la Terre opposée au Soleil connaît :", "options": ["le jour", "la nuit", "l'éclipse", "l'hiver uniquement"], "correct": 1, "exp": "La face non éclairée connaît la nuit." }
+    ]
+  },
+  {
+    "classe": "6eme",
+    "matiere": "Géographie",
+    "id": "g6-coordonnees",
+    "titre": "Se repérer sur la carte : latitude et longitude",
+    "duree": "40 min",
+    "contenu": "<p>Pour trouver un lieu sur la Terre, on utilise un <b>système de coordonnées</b> : la <b>latitude</b> et la <b>longitude</b>, mesurées en degrés.</p><div class='definition'><b>L'équateur</b> est le cercle imaginaire qui sépare la Terre en deux hémisphères : nord et sud. Il correspond à la latitude 0°.<br><b>La latitude</b> mesure la distance au nord ou au sud de l'équateur (de 0° à 90°).<br><b>Le méridien de Greenwich</b> est la ligne de référence de la longitude : longitude 0°.<br><b>La longitude</b> mesure la distance à l'est ou à l'ouest du méridien de Greenwich (de 0° à 180°).</div><div class='exemple'><b>Exemple :</b> Yaoundé se trouve à environ 4° de latitude nord, ce qui veut dire qu'elle est au nord de l'équateur. Le Cameroun est donc dans l'hémisphère nord.</div><div class='astuce'><b>Astuce :</b> pour la latitude, pense à la lettre N (nord) ou S (sud). Pour la longitude, pense à E (est) ou O (ouest). Tu peux aussi retenir : l'équateur est l'horizontale, le méridien de Greenwich est la verticale.</div>",
+    "exercices": [
+      { "q": "Qu'est-ce que l'équateur ?", "r": "C'est le cercle imaginaire qui sépare la Terre en hémisphère nord et hémisphère sud. Sa latitude est 0°.", "indice": "C'est la ligne de référence pour la latitude." },
+      { "q": "Quelle est la latitude de l'équateur ?", "r": "0°.", "indice": "Il est à égale distance du pôle nord et du pôle sud." },
+      { "q": "Qu'est-ce que la latitude ?", "r": "C'est la distance d'un lieu au nord ou au sud de l'équateur, mesurée en degrés.", "indice": "Pense à la mesure nord-sud." },
+      { "q": "Quel est le méridien de référence pour la longitude ?", "r": "Le méridien de Greenwich, dont la longitude est 0°.", "indice": "Il passe par la ville de Londres." },
+      { "q": "Le Cameroun est-il situé dans l'hémisphère nord ou sud ? Justifie.", "r": "Dans l'hémisphère nord, car il se trouve au nord de l'équateur.", "indice": "Pense à la position par rapport à l'équateur." }
+    ],
+    "qcm": [
+      { "q": "La latitude 0° correspond à :", "options": ["le pôle Nord", "l'équateur", "le méridien de Greenwich", "le tropique"], "correct": 1, "exp": "L'équateur est la ligne de latitude 0°." },
+      { "q": "La longitude 0° correspond à :", "options": ["l'équateur", "le méridien de Greenwich", "le pôle Sud", "le tropique du Cancer"], "correct": 1, "exp": "Le méridien de Greenwich est la référence de la longitude 0°." },
+      { "q": "La latitude mesure :", "options": ["la distance à l'est ou à l'ouest", "la distance au nord ou au sud de l'équateur", "la hauteur d'une montagne", "la profondeur de la mer"], "correct": 1, "exp": "La latitude se mesure au nord ou au sud de l'équateur." },
+      { "q": "La longitude mesure :", "options": ["la distance au nord de l'équateur", "la distance à l'est ou à l'ouest du méridien de Greenwich", "l'altitude", "la température"], "correct": 1, "exp": "La longitude se mesure à l'est ou à l'ouest du méridien de Greenwich." },
+      { "q": "L'équateur sépare la Terre en :", "options": ["deux hémisphères", "trois continents", "quatre océans", "deux pôles"], "correct": 0, "exp": "L'équateur divise la Terre en hémisphère nord et hémisphère sud." },
+      { "q": "Le Cameroun se situe dans :", "options": ["l'hémisphère sud", "l'hémisphère nord", "l'hémisphère est", "aucun hémisphère"], "correct": 1, "exp": "Le Cameroun est au nord de l'équateur, donc dans l'hémisphère nord." },
+      { "q": "Quelle est la valeur maximale de la latitude ?", "options": ["45°", "90°", "180°", "360°"], "correct": 1, "exp": "La latitude varie de 0° à 90° (pôles)." },
+      { "q": "Quelle est la valeur maximale de la longitude ?", "options": ["90°", "120°", "180°", "360°"], "correct": 2, "exp": "La longitude varie de 0° à 180°." },
+      { "q": "Quelle ville donne son nom au méridien de référence ?", "options": ["Paris", "Londres", "Yaoundé", "New York"], "correct": 1, "exp": "Le méridien de Greenwich passe par l'observatoire de Greenwich, à Londres." },
+      { "q": "Sur une carte, la latitude est représentée par :", "options": ["les lignes verticales", "les lignes horizontales", "les couleurs", "les symboles"], "correct": 1, "exp": "Les parallèles, lignes horizontales, indiquent la latitude." }
+    ]
+  },
+  {
+    "classe": "6eme",
+    "matiere": "Géographie",
+    "id": "g6-relief-cameroun",
+    "titre": "Le relief du Cameroun",
+    "duree": "40 min",
+    "contenu": "<p>Le <b>relief</b> désigne l'ensemble des formes de la surface terrestre : montagnes, plateaux, plaines, vallées. Le Cameroun présente une grande variété de reliefs.</p><div class='definition'><b>Une montagne</b> est une élévation importante du sol.<br><b>Un plateau</b> est une étendue élevée et relativement plate.<br><b>Une plaine</b> est une étendue basse et plate.</div><p>Au Cameroun, on distingue plusieurs grands ensembles :</p><ul><li>le <b>mont Cameroun</b>, un volcan actif au sud-ouest, qui culmine à environ 4 100 m ;</li><li>les <b>hauts plateaux de l'Ouest</b>, appelés les Grassfields ;</li><li>le <b>plateau de l'Adamaoua</b>, au centre du pays ;</li><li>les <b>plaines côtières</b> du littoral, comme autour de Douala ;</li><li>les <b>plaines du Nord</b>, vers le lac Tchad.</li></ul><div class='exemple'><b>Exemple :</b> le mont Cameroun est le plus haut sommet d'Afrique de l'Ouest, et l'un des volcans les plus actifs du continent.</div><div class='astuce'><b>Astuce :</b> pour te souvenir du relief, pense au Cameroun en « escalier » : plaines côtières au sud-ouest, plateaux au centre et à l'ouest, plaines du Nord.</div>",
+    "exercices": [
+      { "q": "Définis une montagne, un plateau et une plaine.", "r": "Montagne : élévation importante du sol. Plateau : étendue élevée et relativement plate. Plaine : étendue basse et plate.", "indice": "Pense à la hauteur et à la forme du terrain." },
+      { "q": "Quel est le nom du volcan le plus élevé du Cameroun ?", "r": "Le mont Cameroun, au sud-ouest du pays.", "indice": "Il donne son nom au pays." },
+      { "q": "Où se situe le plateau de l'Adamaoua ?", "r": "Au centre du Cameroun.", "indice": "Il est situé entre le sud et le nord du pays." },
+      { "q": "Quels sont les grands ensembles de relief du Cameroun ?", "r": "Le mont Cameroun, les hauts plateaux de l'Ouest (Grassfields), le plateau de l'Adamaoua, les plaines côtières et les plaines du Nord.", "indice": "Pense aux régions : ouest, centre, littoral, nord." },
+      { "q": "Pourquoi le mont Cameroun est-il important ?", "r": "C'est un volcan actif et le point culminant du pays, un élément majeur du paysage.", "indice": "Pense à sa hauteur et à son activité." }
+    ],
+    "qcm": [
+      { "q": "Comment appelle-t-on une étendue basse et plate ?", "options": ["une montagne", "une plaine", "un plateau", "une vallée"], "correct": 1, "exp": "La plaine est une étendue basse et plate." },
+      { "q": "Quel est le volcan le plus connu du Cameroun ?", "options": ["le mont Cameroun", "le Kilimandjaro", "le mont Blanc", "l'Etna"], "correct": 0, "exp": "Le mont Cameroun est le volcan le plus connu du pays." },
+      { "q": "Le plateau de l'Adamaoua se situe :", "options": ["au nord", "au centre", "à l'est", "au sud"], "correct": 1, "exp": "L'Adamaoua se trouve au centre du Cameroun." },
+      { "q": "Comment appelle-t-on les hauts plateaux de l'Ouest ?", "options": ["les Grassfields", "les Sahel", "les Savanes", "les Déserts"], "correct": 0, "exp": "Ce sont les Grassfields, hauts plateaux de l'Ouest." },
+      { "q": "Où se trouvent les plaines côtières ?", "options": ["au nord", "sur le littoral", "au centre", "à l'est"], "correct": 1, "exp": "Les plaines côtières bordent l'océan Atlantique, sur le littoral." },
+      { "q": "Une montagne est :", "options": ["une étendue plate", "une élévation importante du sol", "une étendue basse", "un fleuve"], "correct": 1, "exp": "Une montagne est une élévation importante du terrain." },
+      { "q": "Le mont Cameroun est situé :", "options": ["au nord-est", "au sud-ouest", "au centre", "au nord"], "correct": 1, "exp": "Le mont Cameroun est situé au sud-ouest du pays." },
+      { "q": "Quelle est la nature du mont Cameroun ?", "options": ["un désert", "un volcan actif", "une île", "un lac"], "correct": 1, "exp": "Le mont Cameroun est un volcan actif." },
+      { "q": "Les plaines du Nord se trouvent près de :", "options": ["l'océan Atlantique", "le lac Tchad", "la forêt équatoriale", "le mont Cameroun"], "correct": 1, "exp": "Les plaines du Nord s'étendent vers le lac Tchad." },
+      { "q": "Un plateau se distingue d'une plaine par :", "options": ["sa hauteur", "sa couleur", "son nom", "son climat"], "correct": 0, "exp": "Le plateau est élevé, la plaine est basse." }
+    ]
+  },
+  {
+    "classe": "6eme",
+    "matiere": "Géographie",
+    "id": "g6-climat-cameroun",
+    "titre": "Le climat du Cameroun et les saisons",
+    "duree": "40 min",
+    "contenu": "<p>Le <b>climat</b> est l'ensemble des conditions de température et de pluie observées sur une longue période dans un lieu. Le Cameroun présente plusieurs types de climats, selon sa latitude et son relief.</p><div class='definition'><b>Climat équatorial :</b> chaud et très humide toute l'année, au sud du pays (forêt).<br><b>Climat tropical de type soudanien :</b> une saison sèche et une saison des pluies bien marquées, au centre et au nord.<br><b>Climat de montagne :</b> plus frais, en altitude, comme sur les hauts plateaux de l'Ouest.</div><p>Dans le sud du pays, on connaît deux saisons des pluies (grande et petite saison des pluies) séparées par deux saisons sèches. Dans le nord, il n'y a qu'une saison des pluies et une saison sèche.</p><div class='exemple'><b>Exemple :</b> à Maroua, au nord, la saison des pluies dure quelques mois, et la saison sèche est longue. À Douala, au sud, il pleut presque toute l'année.</div><div class='astuce'><b>Astuce :</b> pour distinguer les climats, pense à la latitude (plus on va vers le nord, plus la saison sèche est longue) et à l'altitude (plus on monte, plus il fait frais).</div>",
+    "exercices": [
+      { "q": "Qu'est-ce que le climat ?", "r": "C'est l'ensemble des conditions de température et de précipitations observées sur une longue période.", "indice": "Ce n'est pas la météo du jour, mais une moyenne sur plusieurs années." },
+      { "q": "Quel type de climat trouve-t-on au sud du Cameroun ?", "r": "Un climat équatorial, chaud et très humide toute l'année.", "indice": "Pense à la forêt." },
+      { "q": "Combien de saisons des pluies connaît le sud du Cameroun ?", "r": "Deux : une grande saison des pluies et une petite saison des pluies.", "indice": "Pense aux deux pics de pluie dans l'année." },
+      { "q": "Compare la saison des pluies du nord et du sud du Cameroun.", "r": "Au nord, il n'y a qu'une saison des pluies, plus courte. Au sud, il y en a deux, et il pleut presque toute l'année.", "indice": "Compte les saisons des pluies dans chaque région." },
+      { "q": "Pourquoi les hauts plateaux de l'Ouest sont-ils plus frais ?", "r": "Parce qu'ils sont en altitude : plus on monte, plus la température baisse.", "indice": "Pense au relief étudié dans la leçon précédente." }
+    ],
+    "qcm": [
+      { "q": "Le climat est :", "options": ["la météo du jour", "l'ensemble des conditions observées sur une longue période", "la pluie uniquement", "la température d'une seule journée"], "correct": 1, "exp": "Le climat est une moyenne des conditions sur une longue période." },
+      { "q": "Quel climat domine au sud du Cameroun ?", "options": ["désertique", "équatorial", "polaire", "méditerranéen"], "correct": 1, "exp": "Le sud du Cameroun a un climat équatorial, chaud et humide." },
+      { "q": "Combien de saisons des pluies le sud du Cameroun connaît-il ?", "options": ["une", "deux", "trois", "aucune"], "correct": 1, "exp": "Le sud connaît deux saisons des pluies dans l'année." },
+      { "q": "Dans le nord du Cameroun, il y a :", "options": ["deux saisons des pluies", "une saison des pluies", "aucune pluie", "quatre saisons des pluies"], "correct": 1, "exp": "Le nord ne connaît qu'une saison des pluies, plus courte." },
+      { "q": "Les hauts plateaux de l'Ouest sont plus frais car :", "options": ["ils sont près de la mer", "ils sont en altitude", "ils sont dans le désert", "il n'y a pas de soleil"], "correct": 1, "exp": "L'altitude fait baisser la température." },
+      { "q": "Le climat soudanien se caractérise par :", "options": ["une humidité constante", "une saison sèche et une saison des pluies bien marquées", "du froid toute l'année", "de la neige"], "correct": 1, "exp": "Le climat soudanien alterne une saison sèche et une saison des pluies marquées." },
+      { "q": "Le climat équatorial est :", "options": ["froid et sec", "chaud et très humide toute l'année", "désertique", "polaire"], "correct": 1, "exp": "Le climat équatorial est chaud et humide toute l'année." },
+      { "q": "Plus on se déplace vers le nord, la saison sèche :", "options": ["disparaît", "devient plus longue", "devient plus courte", "devient neigeuse"], "correct": 1, "exp": "Vers le nord, la saison sèche est plus longue." },
+      { "q": "Une saison sèche est une période :", "options": ["très pluvieuse", "avec peu ou pas de pluie", "avec de la neige", "très froide"], "correct": 1, "exp": "La saison sèche se caractérise par peu ou pas de pluie." },
+      { "q": "Maroua, ville du nord, a un climat :", "options": ["équatorial", "soudanien", "polaire", "montagnard uniquement"], "correct": 1, "exp": "Maroua, au nord, a un climat soudanien : une saison des pluies et une longue saison sèche." }
+    ]
+  }
+]

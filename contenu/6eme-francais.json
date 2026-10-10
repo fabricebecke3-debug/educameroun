@@ -1,0 +1,110 @@
+[
+  {
+    "classe": "6eme",
+    "matiere": "Français",
+    "id": "f6-phrase-types",
+    "titre": "La phrase : types et ponctuation",
+    "duree": "40 min",
+    "contenu": "<p>Une <b>phrase</b> est une suite de mots qui a un sens complet. Elle commence par une <b>majuscule</b> et se termine par un signe de ponctuation : le point (.), le point d'interrogation (?) ou le point d'exclamation (!).</p><div class='definition'><b>Il existe quatre types de phrases :</b><br>1) <b>déclarative</b> : elle affirme ou nie une chose, elle se termine par un point. Ex. : Le marché est animé.<br>2) <b>interrogative</b> : elle pose une question, elle se termine par un point d'interrogation. Ex. : Où habites-tu ?<br>3) <b>impérative</b> : elle donne un ordre, un conseil ou une interdiction, le verbe est à l'impératif. Ex. : Ferme la porte.<br>4) <b>exclamative</b> : elle exprime une émotion (joie, colère, surprise), elle se termine par un point d'exclamation. Ex. : Quelle belle journée !</div><p>La <b>forme négative</b> utilise deux mots : <b>ne ... pas</b>. Ex. : Il pleut. → Il ne pleut pas.</p><div class='astuce'><b>Astuce :</b> lis la phrase à voix haute. Si ta voix monte à la fin, c'est probablement une question. Si elle exprime une émotion, c'est une exclamation.</div><div class='exemple'><b>Exemple :</b> « Viens vite ! » est une phrase impérative : elle donne un ordre. Le point d'exclamation n'en fait pas une phrase exclamative.</div>",
+    "exercices": [
+      { "q": "Donne le type de chaque phrase : a) Le marché est animé. b) Quel est ton nom ? c) Ferme la fenêtre. d) Que cette fleur est belle !", "r": "a) déclarative ; b) interrogative ; c) impérative ; d) exclamative.", "indice": "Regarde le signe de ponctuation puis le sens de la phrase : ordre, question, émotion ou simple affirmation." },
+      { "q": "Mets cette phrase à la forme négative : « Il pleut. »", "r": "Il ne pleut pas. Les deux mots « ne » et « pas » encadrent le verbe.", "indice": "Place « ne » avant le verbe et « pas » après." },
+      { "q": "Transforme cette phrase déclarative en phrase interrogative : « Tu viens à l'école. »", "r": "Viens-tu à l'école ? ou Est-ce que tu viens à l'école ?", "indice": "Tu peux inverser le sujet et le verbe, ou ajouter « Est-ce que »." },
+      { "q": "Remets la ponctuation et les majuscules : « où habites tu »", "r": "Où habites-tu ? La phrase commence par une majuscule, la question se termine par un point d'interrogation, et le trait d'union relie « habites » et « tu ».", "indice": "Une question se termine toujours par « ? »." },
+      { "q": "Écris une phrase impérative et une phrase exclamative en utilisant le verbe « manger ».", "r": "Exemple : Mange tes légumes ! (impérative) — Que ce plat est délicieux ! (exclamative).", "indice": "Pour l'impératif, le verbe est à la 2e personne et sans sujet." }
+    ],
+    "qcm": [
+      { "q": "« Le chien aboie. » Quel est le type de cette phrase ?", "options": ["déclarative", "interrogative", "impérative", "exclamative"], "correct": 0, "exp": "La phrase affirme un fait et se termine par un point : elle est déclarative." },
+      { "q": "« Viens ici tout de suite ! » Quel est le type de cette phrase ?", "options": ["déclarative", "interrogative", "impérative", "exclamative"], "correct": 2, "exp": "Elle donne un ordre à l'impératif : elle est impérative." },
+      { "q": "« Quelle chaleur aujourd'hui ! » Quel est le type de cette phrase ?", "options": ["déclarative", "interrogative", "impérative", "exclamative"], "correct": 3, "exp": "Elle exprime une émotion et finit par un point d'exclamation : elle est exclamative." },
+      { "q": "Quelle phrase se termine par un point d'interrogation ?", "options": ["Tu pars demain.", "Tu pars demain ?", "Pars demain !", "Tu pars demain !"], "correct": 1, "exp": "Une phrase interrogative se termine par un point d'interrogation." },
+      { "q": "Quelle est la forme négative de « Je mange du riz. » ?", "options": ["Je ne mange pas du riz.", "Je mange pas du riz.", "Je ne mange du riz.", "Je ne pas mange du riz."], "correct": 0, "exp": "La négation encadre le verbe : ne ... pas." },
+      { "q": "Par quelle lettre commence une phrase ?", "options": ["une minuscule", "une majuscule", "un chiffre", "un point"], "correct": 1, "exp": "Toute phrase commence par une majuscule." },
+      { "q": "Quelle phrase est impérative ?", "options": ["Tu lis un livre.", "Lis un livre !", "Lis-tu un livre ?", "Quel beau livre !"], "correct": 1, "exp": "« Lis un livre ! » donne un ordre à l'impératif." },
+      { "q": "Combien de phrases contient le texte : « Le lion rugit. Les enfants ont peur. » ?", "options": ["1", "2", "3", "4"], "correct": 1, "exp": "Il y a deux phrases, chacune se terminant par un point." },
+      { "q": "Quel signe de ponctuation termine une phrase exclamative ?", "options": [".", "?", "!", ","], "correct": 2, "exp": "La phrase exclamative se termine par un point d'exclamation (!)." },
+      { "q": "Quelle phrase est interrogative ?", "options": ["Tu aimes la lecture.", "Est-ce que tu aimes la lecture ?", "Aime la lecture !", "La lecture est belle."], "correct": 1, "exp": "« Est-ce que tu aimes la lecture ? » pose une question et finit par un point d'interrogation." }
+    ]
+  },
+  {
+    "classe": "6eme",
+    "matiere": "Français",
+    "id": "f6-nom-determinant",
+    "titre": "Le nom et le déterminant",
+    "duree": "40 min",
+    "contenu": "<p>Le <b>nom</b> désigne une personne (Koffi), un animal (le lion), une chose (la table) ou une idée (le courage). Il a un <b>genre</b> (masculin ou féminin) et un <b>nombre</b> (singulier ou pluriel).</p><div class='definition'><b>Le déterminant</b> est un petit mot placé devant le nom. Il s'accorde avec lui en genre et en nombre.<br><b>Articles définis :</b> le, la, l', les (le chat, l'école, les élèves).<br><b>Articles indéfinis :</b> un, une, des (un livre, une maison, des amis).<br><b>Déterminants possessifs :</b> mon, ma, mes, ton, ta, tes, son, sa, ses...<br><b>Déterminants démonstratifs :</b> ce, cet, cette, ces.</div><p><b>Le pluriel</b> se forme le plus souvent en ajoutant un <b>s</b> : un livre → des livres. Certains noms en -al prennent -aux (un cheval → des chevaux), et certains en -eau ou -eu prennent -x (un bateau → des bateaux).</p><div class='exemple'><b>Exemple :</b> la table → les tables (on change le déterminant et le nom). un ami → une amie (le féminin change la forme du nom et du déterminant).</div><div class='astuce'><b>Astuce :</b> devant une voyelle ou un h muet, on écrit l' (l'arbre, l'homme) et cet (cet arbre, cet homme).</div>",
+    "exercices": [
+      { "q": "Souligne les noms et entoure les déterminants dans la phrase : « Les enfants jouent dans la cour de leur école. »", "r": "Noms : enfants, cour, école. Déterminants : Les, la, leur.", "indice": "Les noms désignent une personne, un animal, une chose ou une idée." },
+      { "q": "Mets au pluriel : un journal, un cheval, un bijou, une fleur.", "r": "des journaux, des chevaux, des bijoux, des fleurs.", "indice": "Pour les noms en -al, le pluriel est en -aux." },
+      { "q": "Mets au féminin : un ami, un élève, un lion.", "r": "une amie, une élève, une lionne.", "indice": "Le féminin change aussi le déterminant : un devient une." },
+      { "q": "Complète avec le bon article défini (le, la, l', les) : ... arbre, ... école, ... élèves.", "r": "l'arbre, l'école, les élèves.", "indice": "Devant une voyelle, on écrit l'." },
+      { "q": "Écris cinq noms de ton quartier avec leur déterminant, puis mets-les au pluriel.", "r": "Exemple : la rue → les rues ; le marché → les marchés ; un village → des villages ; une école → des écoles ; l'arbre → les arbres.", "indice": "Pense aux lieux, aux bâtiments et aux objets que tu vois chaque jour." }
+    ],
+    "qcm": [
+      { "q": "Dans « la table », quel est le déterminant ?", "options": ["la", "table", "la table", "aucun"], "correct": 0, "exp": "« la » est l'article défini qui accompagne le nom « table »." },
+      { "q": "Quel est le pluriel de « un cheval » ?", "options": ["des chevaux", "des chevals", "des cheval", "des chevales"], "correct": 0, "exp": "Les noms en -al prennent -aux au pluriel : des chevaux." },
+      { "q": "Quel est le pluriel de « un bijou » ?", "options": ["des bijous", "des bijoux", "des bijouxs", "des bijou"], "correct": 1, "exp": "Les noms en -ou prennent souvent -x au pluriel : des bijoux." },
+      { "q": "Quel article accompagne le nom « école » ?", "options": ["le", "la", "l'", "les"], "correct": 2, "exp": "Devant une voyelle, on utilise l' : l'école." },
+      { "q": "Quel est le féminin de « un ami » ?", "options": ["une amie", "une ami", "une amis", "une amiee"], "correct": 0, "exp": "Le féminin d'ami est amie, avec le déterminant une." },
+      { "q": "Quel déterminant est possessif ?", "options": ["un", "des", "mon", "ce"], "correct": 2, "exp": "« mon » indique à qui appartient le nom : c'est un possessif." },
+      { "q": "Quel déterminant démonstratif convient devant « arbre » ?", "options": ["ce", "cet", "cette", "ces"], "correct": 1, "exp": "Devant une voyelle, on utilise cet : cet arbre." },
+      { "q": "Le mot « des » est :", "options": ["un article défini", "un article indéfini", "un possessif", "un démonstratif"], "correct": 1, "exp": "« des » est l'article indéfini pluriel : des amis." },
+      { "q": "Dans quelle phrase le nom est-il au pluriel ?", "options": ["Le chat dort.", "Les chats dorment.", "Un chat dort.", "Ce chat dort."], "correct": 1, "exp": "« chats » est au pluriel, avec l'article « Les »." },
+      { "q": "Le nom « courage » désigne :", "options": ["une personne", "un animal", "une qualité ou une idée", "un lieu"], "correct": 2, "exp": "Le courage est une qualité : c'est un nom abstrait." }
+    ]
+  },
+  {
+    "classe": "6eme",
+    "matiere": "Français",
+    "id": "f6-verbe-sujet",
+    "titre": "Le verbe et son sujet",
+    "duree": "40 min",
+    "contenu": "<p>Le <b>verbe</b> exprime une action (courir, manger), un état (être, rester) ou un sentiment. Il se <b>conjugue</b> : sa terminaison change selon la personne (je, tu, il...) et le nombre.</p><div class='definition'><b>Le sujet</b> est le mot ou le groupe de mots qui fait l'action ou dont on parle. Pour le trouver, pose la question « Qui est-ce qui ? » ou « Qu'est-ce qui ? » avant le verbe.<br><b>L'accord :</b> le verbe s'accorde en personne et en nombre avec son sujet.</div><div class='exemple'><b>Exemple :</b> « Les élèves lisent. » Qui est-ce qui lit ? Les élèves : c'est le sujet. Le verbe lisent est à la 3e personne du pluriel.</div><p><b>Présent des verbes du 1er groupe</b> (terminés par -er), par exemple chanter :</p><p>je chante · tu chantes · il/elle chante · nous chantons · vous chantez · ils/elles chantent</p><p><b>Être</b> : je suis, tu es, il est, nous sommes, vous êtes, ils sont. <b>Avoir</b> : j'ai, tu as, il a, nous avons, vous avez, ils ont.</p><div class='astuce'><b>Astuce :</b> le sujet peut être un pronom (je, tu, il, elle, nous, vous, ils, elles), un nom ou un groupe nominal. Pour un verbe du 1er groupe, la terminaison est souvent -e, -es, -e, -ons, -ez, -ent.</div>",
+    "exercices": [
+      { "q": "Trouve le sujet du verbe dans : « Mon père prépare le repas. »", "r": "Sujet : Mon père. On demande « Qui est-ce qui prépare ? » → Mon père.", "indice": "Pose la question « Qui est-ce qui ? » avant le verbe." },
+      { "q": "Conjugue le verbe « jouer » au présent avec : nous, ils, tu.", "r": "nous jouons, ils jouent, tu joues.", "indice": "Les verbes en -er suivent le même modèle : je chante, tu chantes, il chante, nous chantons, vous chantez, ils chantent." },
+      { "q": "Complète avec le verbe être au présent : « Vous ... gentils. » « Elles ... à l'école. »", "r": "Vous êtes gentils. Elles sont à l'école.", "indice": "vous → êtes ; elles → sont." },
+      { "q": "Accorde le verbe entre parenthèses : « Les oiseaux (chanter) le matin. »", "r": "Les oiseaux chantent le matin.", "indice": "Le sujet « Les oiseaux » est au pluriel, donc la terminaison est -ent." },
+      { "q": "Relève les verbes conjugués dans : « Nous allons au marché et nous achetons du poisson. »", "r": "allons, achetons.", "indice": "Un verbe conjugué a une terminaison qui varie avec le sujet." }
+    ],
+    "qcm": [
+      { "q": "Dans « Les enfants jouent », quel est le sujet ?", "options": ["jouent", "Les enfants", "jouent dehors", "Les"], "correct": 1, "exp": "On demande « Qui est-ce qui joue ? » : Les enfants." },
+      { "q": "« Ils ... au football. » (jouer) Quelle forme est correcte ?", "options": ["joue", "jouent", "jouons", "jouez"], "correct": 1, "exp": "Avec « ils », le verbe prend la terminaison -ent : ils jouent." },
+      { "q": "« Tu ... très gentil. » (être) Quelle forme est correcte ?", "options": ["es", "est", "sont", "êtes"], "correct": 0, "exp": "Avec « tu », le verbe être s'écrit es." },
+      { "q": "« Nous ... à Yaoundé. » (habiter) Quelle forme est correcte ?", "options": ["habite", "habites", "habitons", "habitez"], "correct": 2, "exp": "Avec « nous », la terminaison est -ons : nous habitons." },
+      { "q": "Quel est le verbe de la phrase « Le soleil brille » ?", "options": ["soleil", "Le", "brille", "le soleil"], "correct": 2, "exp": "« brille » est le verbe conjugué : il s'accorde avec le sujet." },
+      { "q": "« Vous ... des cahiers. » (avoir) Quelle forme est correcte ?", "options": ["ai", "avez", "ont", "avons"], "correct": 1, "exp": "Avec « vous », le verbe avoir s'écrit avez." },
+      { "q": "Quel mot est un verbe ?", "options": ["maison", "rapide", "courir", "la"], "correct": 2, "exp": "« courir » exprime une action : c'est un verbe." },
+      { "q": "Dans « Mes amies dansent », quel est le sujet ?", "options": ["dansent", "Mes amies", "amies", "Mes"], "correct": 1, "exp": "« Mes amies » fait l'action : c'est le groupe sujet." },
+      { "q": "« Elle ... un livre. » (lire) Quelle forme est correcte ?", "options": ["lis", "lit", "lisent", "lisons"], "correct": 1, "exp": "Avec « elle », la forme est lit." },
+      { "q": "Le verbe s'accorde avec :", "options": ["le complément", "le sujet", "le déterminant", "la ponctuation"], "correct": 1, "exp": "Le verbe s'accorde toujours en personne et en nombre avec son sujet." }
+    ]
+  },
+  {
+    "classe": "6eme",
+    "matiere": "Français",
+    "id": "f6-recit",
+    "titre": "Le récit : structure et temps du passé",
+    "duree": "40 min",
+    "contenu": "<p>Un <b>récit</b> raconte une histoire : des personnages vivent des événements dans un lieu et à un moment donnés. Celui qui raconte s'appelle le <b>narrateur</b>.</p><div class='definition'><b>La structure d'un récit :</b><br>1) la <b>situation initiale</b> présente les personnages, le lieu et le moment ;<br>2) l'<b>élément déclencheur</b> (ou perturbateur) lance le problème ;<br>3) les <b>péripéties</b> sont les actions qui s'enchaînent ;<br>4) le <b>dénouement</b> résout le problème et donne la situation finale.</div><p>Pour relier les événements, on utilise des <b>connecteurs temporels</b> : d'abord, ensuite, puis, alors, enfin, finalement.</p><div class='exemple'><b>Exemple :</b> « Koffi était berger dans un village. Un matin, son troupeau avait disparu. Il le chercha toute la journée. Enfin, il retrouva ses moutons près de la rivière. » Situation initiale : Koffi, berger, village. Élément déclencheur : la disparition du troupeau.</div><p>Dans un récit au passé, on utilise surtout l'<b>imparfait</b> pour décrire le décor et les personnages (il était, ils avaient) et le <b>passé simple</b> ou le <b>passé composé</b> pour les actions.</p><div class='astuce'><b>Astuce :</b> pour écrire un récit, réponds à cinq questions : Qui ? Où ? Quand ? Quel problème ? Comment est-il résolu ?</div>",
+    "exercices": [
+      { "q": "Dans le texte « Il était une fois un petit berger nommé Koffi. Un matin, son troupeau disparut. », identifie la situation initiale et l'élément déclencheur.", "r": "Situation initiale : un petit berger nommé Koffi, « Il était une fois ». Élément déclencheur : la disparition du troupeau.", "indice": "La situation initiale présente les personnages ; l'élément déclencheur est le premier problème." },
+      { "q": "Remets dans l'ordre les phrases d'un récit : (1) « Enfin, il retrouva ses moutons. » (2) « Un matin, il vit que le troupeau avait disparu. » (3) « Koffi était berger dans un village. » (4) « Il chercha partout pendant la journée. »", "r": "3, 2, 4, 1 : situation initiale, élément déclencheur, péripétie, dénouement.", "indice": "Commence par la présentation des personnages, puis le problème, puis la fin." },
+      { "q": "Relève trois connecteurs temporels dans : « D'abord, il chercha dans la forêt. Ensuite, il alla à la rivière. Enfin, il rentra chez lui. »", "r": "d'abord, ensuite, enfin.", "indice": "Ce sont des mots qui indiquent l'ordre des événements." },
+      { "q": "Écris le dénouement d'un récit qui commence par : « Le roi cherchait un messager courageux pour traverser la forêt. »", "r": "Exemple : Un jeune garçon se présenta. Il traversa la forêt, trouva la lettre et rentra victorieux. Le roi le remercia.", "indice": "Le dénouement répond au problème posé : qui le résout, et comment la situation se termine." },
+      { "q": "Conjugue à l'imparfait : « il (être) », « ils (avoir) », « elle (aller) ».", "r": "il était ; ils avaient ; elle allait.", "indice": "L'imparfait se forme sur le radical de la forme « nous » du présent : nous avons → ils avaient." }
+    ],
+    "qcm": [
+      { "q": "Qui sont les personnages d'un récit ?", "options": ["les lecteurs", "les personnages qui vivent l'histoire", "le narrateur seulement", "l'auteur"], "correct": 1, "exp": "Les personnages sont ceux qui vivent les événements du récit." },
+      { "q": "La situation initiale présente :", "options": ["la fin de l'histoire", "les personnages, le lieu et le moment", "le problème uniquement", "le dénouement"], "correct": 1, "exp": "Elle présente qui, où et quand, avant le début du problème." },
+      { "q": "L'élément déclencheur est :", "options": ["la fin de l'histoire", "le problème qui lance l'histoire", "la description du décor", "le résumé"], "correct": 1, "exp": "C'est l'événement qui crée le problème et fait démarrer l'action." },
+      { "q": "Quel connecteur indique l'ordre dans le temps ?", "options": ["pourtant", "ensuite", "parce que", "mais"], "correct": 1, "exp": "« ensuite » indique qu'un événement suit un autre." },
+      { "q": "Le dénouement est :", "options": ["le début du récit", "le moment où le problème est résolu", "une description du lieu", "le titre du texte"], "correct": 1, "exp": "Le dénouement termine l'histoire en résolvant le problème." },
+      { "q": "Quel temps sert surtout à décrire le décor dans un récit au passé ?", "options": ["le futur", "l'imparfait", "l'impératif", "le présent"], "correct": 1, "exp": "L'imparfait décrit les décors et les états qui durent : il était, il avait." },
+      { "q": "Dans quel ordre trouve-t-on les parties d'un récit ?", "options": ["situation initiale, élément déclencheur, péripéties, dénouement", "dénouement, péripéties, situation initiale", "péripéties, dénouement, situation initiale", "élément déclencheur, dénouement, situation initiale"], "correct": 0, "exp": "L'histoire commence par la situation initiale, puis le problème, les péripéties et le dénouement." },
+      { "q": "Un récit sert à :", "options": ["poser une question", "raconter une histoire", "donner un ordre", "exprimer une émotion"], "correct": 1, "exp": "Le récit raconte une suite d'événements." },
+      { "q": "Le narrateur est :", "options": ["la personne qui raconte l'histoire", "toujours un personnage", "le lieu de l'action", "le titre du texte"], "correct": 0, "exp": "Le narrateur est celui qui raconte. Il peut être un personnage ou non." },
+      { "q": "Lequel est un connecteur de conclusion ?", "options": ["d'abord", "finalement", "mais", "si"], "correct": 1, "exp": "« finalement » introduit la fin de l'histoire." }
+    ]
+  }
+]

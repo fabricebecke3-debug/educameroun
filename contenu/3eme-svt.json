@@ -1,0 +1,110 @@
+[
+  {
+    "classe": "3eme",
+    "matiere": "SVT",
+    "id": "s3-adn-genes-chromosomes",
+    "titre": "L'ADN, les gènes et les chromosomes",
+    "duree": "40 min",
+    "contenu": "<p>Chaque être vivant possède une <b>information génétique</b> qui détermine ses caractères : couleur des yeux, groupe sanguin, taille. Cette information est portée par l'<b>ADN</b>, présent dans le noyau de chaque cellule.</p><div class='definition'><b>L'ADN</b> (acide désoxyribonucléique) est une molécule en double hélice qui porte l'information génétique.<br><b>Un gène</b> est un segment d'ADN qui code un caractère précis.<br><b>Un chromosome</b> est une structure formée d'ADN très condensé. L'espèce humaine possède 46 chromosomes, organisés en 23 paires (22 paires d'autosomes et une paire de chromosomes sexuels).<br><b>Un caryotype</b> est la représentation ordonnée des chromosomes d'une cellule.</div><p>Chaque chromosome d'une paire provient d'un parent : l'un vient du père, l'autre de la mère.</p><div class='exemple'><b>Exemple :</b> chez l'homme, les chromosomes sexuels sont XY (garçon) ou XX (fille). Le chromosome Y est transmis par le père, ce qui détermine le sexe de l'enfant.</div><div class='astuce'><b>Astuce :</b> retiens la hiérarchie : ADN → gène → chromosome. L'ADN est la molécule, le gène est une portion de cette molécule, et le chromosome est l'ensemble condensé.</div>",
+    "exercices": [
+      { "q": "Où se trouve l'ADN dans une cellule ?", "r": "Dans le noyau.", "indice": "C'est le centre de commande de la cellule." },
+      { "q": "Quelle est la différence entre un gène et un chromosome ?", "r": "Le gène est un segment d'ADN qui code un caractère ; le chromosome est une structure d'ADN très condensé qui porte plusieurs gènes.", "indice": "Un chromosome contient plusieurs gènes." },
+      { "q": "Combien de chromosomes possède une cellule humaine, et combien de paires ?", "r": "46 chromosomes, soit 23 paires.", "indice": "Relis la définition du cours." },
+      { "q": "Pourquoi un enfant reçoit-il un chromosome de chaque paire de chacun de ses parents ?", "r": "Chaque chromosome d'une paire provient d'un parent : un du père, un de la mère.", "indice": "Pense à la reproduction." },
+      { "q": "Quels sont les chromosomes sexuels d'un garçon et d'une fille ?", "r": "Garçon : XY. Fille : XX.", "indice": "Pense aux lettres de la paire sexuelle." }
+    ],
+    "qcm": [
+      { "q": "L'information génétique est portée par :", "options": ["l'ADN", "le sang", "les os", "la peau"], "correct": 0, "exp": "C'est l'ADN qui porte l'information héréditaire." },
+      { "q": "L'ADN se présente sous la forme :", "options": ["d'une double hélice", "d'un cube", "d'une sphère", "d'un tube plat"], "correct": 0, "exp": "C'est la célèbre double hélice." },
+      { "q": "Un gène est :", "options": ["un segment d'ADN qui code un caractère", "un organe", "une cellule sanguine", "un muscle"], "correct": 0, "exp": "C'est une portion d'ADN." },
+      { "q": "L'espèce humaine possède :", "options": ["23 chromosomes", "46 chromosomes", "12 chromosomes", "100 chromosomes"], "correct": 1, "exp": "46 chromosomes, soit 23 paires." },
+      { "q": "Le caryotype est :", "options": ["une représentation ordonnée des chromosomes", "un muscle", "une maladie", "un organe"], "correct": 0, "exp": "On range les chromosomes par paires." },
+      { "q": "Le chromosome Y est transmis :", "options": ["par la mère", "par le père", "par les deux parents", "par aucun"], "correct": 1, "exp": "Le père transmet le chromosome Y." },
+      { "q": "Les chromosomes sexuels d'une fille sont :", "options": ["XX", "XY", "YY", "AB"], "correct": 0, "exp": "Une fille a XX." },
+      { "q": "Un chromosome d'une paire vient :", "options": ["du père uniquement", "de la mère uniquement", "d'un parent", "de nulle part"], "correct": 2, "exp": "Chaque chromosome provient d'un des deux parents." },
+      { "q": "L'ordre de la hiérarchie génétique est :", "options": ["ADN, gène, chromosome", "chromosome, ADN, gène", "gène, chromosome, ADN", "cellule, gène, ADN"], "correct": 0, "exp": "L'ADN contient les gènes, regroupés en chromosomes." },
+      { "q": "Où se trouve l'ADN ?", "options": ["dans le noyau", "dans la peau", "dans le sang uniquement", "dans les os"], "correct": 0, "exp": "L'ADN est dans le noyau des cellules." }
+    ]
+  },
+  {
+    "classe": "3eme",
+    "matiere": "SVT",
+    "id": "s3-transmission-caracteres",
+    "titre": "La transmission des caractères : allèles et drépanocytose",
+    "duree": "40 min",
+    "contenu": "<p>Un même gène peut exister sous plusieurs formes appelées <b>allèles</b>. Les allèles déterminent les variantes d'un caractère : par exemple, la couleur des yeux ou le groupe sanguin.</p><div class='definition'><b>Un allèle dominant</b> s'exprime dès qu'il est présent (noté en majuscule).<br><b>Un allèle récessif</b> ne s'exprime que si l'individu possède deux copies de cet allèle (noté en minuscule).<br><b>Un individu hétérozygote</b> possède deux allèles différents. <b>Un individu homozygote</b> possède deux allèles identiques.<br><b>Un caractère héréditaire</b> est transmis des parents aux enfants par les gènes.</div><p><b>La drépanocytose</b> est une maladie génétique héréditaire : elle touche les globules rouges, qui prennent une forme de faucille. Elle est due à un allèle récessif. Une personne qui a deux copies de cet allèle est malade. Une personne qui en a une seule est porteuse saine.</p><div class='exemple'><b>Exemple :</b> si les deux parents sont porteurs sains (hétérozygotes), chaque enfant a une chance sur quatre d'être malade, deux chances sur quatre d'être porteur sain et une chance sur quatre de ne pas porter l'allèle.</div><div class='astuce'><b>Astuce :</b> pour un allèle récessif, un enfant malade doit avoir reçu l'allèle de chacun de ses deux parents. Deux parents sains peuvent donc avoir un enfant malade.</div>",
+    "exercices": [
+      { "q": "Qu'est-ce qu'un allèle ?", "r": "Une forme différente d'un même gène.", "indice": "Un gène peut exister sous plusieurs formes." },
+      { "q": "Quelle est la différence entre allèle dominant et allèle récessif ?", "r": "Le dominant s'exprime dès qu'il est présent ; le récessif ne s'exprime que si l'individu en possède deux copies.", "indice": "Compte les copies nécessaires." },
+      { "q": "Pourquoi un porteur sain de drépanocytose n'est-il pas malade ?", "r": "Il ne possède qu'une seule copie de l'allèle récessif ; il faut deux copies pour être malade.", "indice": "Relis la définition du porteur." },
+      { "q": "Deux parents porteurs sains ont un enfant. Quelle est la probabilité qu'il soit malade ?", "r": "Une chance sur quatre (25 %).", "indice": "Fais le croisement des deux allèles possibles de chaque parent." },
+      { "q": "Explique pourquoi deux parents sains peuvent avoir un enfant malade.", "r": "S'ils sont tous deux porteurs sains, ils peuvent transmettre chacun l'allèle récessif à l'enfant.", "indice": "Pense aux parents porteurs." }
+    ],
+    "qcm": [
+      { "q": "Les allèles sont :", "options": ["des formes différentes d'un même gène", "des organes", "des cellules sanguines", "des maladies"], "correct": 0, "exp": "Ce sont les variantes d'un gène." },
+      { "q": "Un allèle récessif s'exprime :", "options": ["toujours", "seulement si l'individu a deux copies", "jamais", "avec une seule copie"], "correct": 1, "exp": "Il faut deux copies pour qu'il s'exprime." },
+      { "q": "La drépanocytose touche :", "options": ["les globules rouges", "les os", "la peau", "les yeux"], "correct": 0, "exp": "Elle déforme les globules rouges." },
+      { "q": "Un individu homozygote possède :", "options": ["deux allèles identiques", "deux allèles différents", "aucun allèle", "un seul gène"], "correct": 0, "exp": "Les deux allèles sont identiques." },
+      { "q": "Un porteur sain de drépanocytose a :", "options": ["deux copies de l'allèle", "une seule copie de l'allèle", "aucune copie", "trois copies"], "correct": 1, "exp": "Une copie seulement : il ne développe pas la maladie." },
+      { "q": "Deux parents porteurs sains ont une probabilité d'avoir un enfant malade de :", "options": ["un sur deux", "un sur quatre", "zéro", "trois sur quatre"], "correct": 1, "exp": "Sur quatre combinaisons, une seule donne deux copies." },
+      { "q": "Un allèle dominant est noté :", "options": ["en minuscule", "en majuscule", "en chiffre", "en couleur"], "correct": 1, "exp": "Par convention, il est noté en majuscule." },
+      { "q": "La drépanocytose est une maladie :", "options": ["génétique et héréditaire", "contagieuse par l'air", "due à un virus", "due à une mauvaise alimentation"], "correct": 0, "exp": "Elle est transmise par les gènes." },
+      { "q": "Un caractère héréditaire est transmis :", "options": ["par les gènes", "par l'air", "par la nourriture", "par le sol"], "correct": 0, "exp": "Les parents transmettent leurs gènes." },
+      { "q": "Un enfant malade de drépanocytose a reçu l'allèle :", "options": ["d'un seul parent", "de chacun de ses deux parents", "d'aucun parent", "du voisin"], "correct": 1, "exp": "Il faut deux copies, une de chaque parent." }
+    ]
+  },
+  {
+    "classe": "3eme",
+    "matiere": "SVT",
+    "id": "s3-volcans-seismes",
+    "titre": "Volcans et séismes : la tectonique des plaques",
+    "duree": "40 min",
+    "contenu": "<p>La Terre est constituée de plusieurs couches. La croûte terrestre est découpée en <b>plaques lithosphériques</b> qui se déplacent lentement. Leurs mouvements provoquent les <b>séismes</b> et une partie de l'<b>activité volcanique</b>.</p><div class='definition'><b>Un séisme</b> est une secousse brutale de la Terre, due à la rupture de roches en profondeur, le long d'une faille. Son point de départ est le <b>foyer</b> ; le point situé à la surface au-dessus est l'<b>épicentre</b>.<br><b>Un volcan</b> est un relief formé par l'accumulation de matériaux (laves, cendres) émis par une cheminée volcanique.<br><b>La lave</b> est le magma qui arrive en surface.<br><b>Une dorsale océanique</b> est une chaîne de volcans sous-marins où deux plaques s'écartent.</div><p>Les zones de forte activité sismique et volcanique se trouvent surtout aux limites des plaques.</p><div class='exemple'><b>Exemple :</b> le mont Cameroun, au sud-ouest du pays, est un volcan actif situé sur une ligne volcanique importante. Il rappelle que la géodynamique interne est encore active en Afrique.</div><div class='astuce'><b>Astuce :</b> retiens que le foyer est en profondeur et l'épicentre est en surface, juste au-dessus. Les dégâts sont souvent les plus forts près de l'épicentre.</div>",
+    "exercices": [
+      { "q": "Qu'est-ce que la tectonique des plaques ?", "r": "Le déplacement lent des plaques lithosphériques, qui provoque séismes et volcans.", "indice": "Pense aux plaques de la croûte." },
+      { "q": "Quelle est la différence entre le foyer et l'épicentre d'un séisme ?", "r": "Le foyer est le point de départ en profondeur ; l'épicentre est le point situé en surface, à la verticale du foyer.", "indice": "Profondeur ou surface ?" },
+      { "q": "Qu'est-ce que la lave ?", "r": "Le magma qui arrive à la surface.", "indice": "Le magma devient lave en sortant." },
+      { "q": "Où se trouvent surtout les zones de forte activité sismique ?", "r": "Aux limites des plaques lithosphériques.", "indice": "Pense aux frontières entre plaques." },
+      { "q": "Pourquoi le mont Cameroun est-il un volcan actif ?", "r": "Il est situé sur une ligne volcanique active, où le magma remonte en surface.", "indice": "Pense au magma et à la géodynamique interne." }
+    ],
+    "qcm": [
+      { "q": "Un séisme est :", "options": ["une secousse brutale de la Terre", "une pluie forte", "un vent violent", "une éruption de glace"], "correct": 0, "exp": "C'est une secousse due à la rupture de roches." },
+      { "q": "Le point de départ d'un séisme en profondeur est :", "options": ["l'épicentre", "le foyer", "la surface", "la mer"], "correct": 1, "exp": "C'est le foyer." },
+      { "q": "L'épicentre est :", "options": ["le point en profondeur", "le point situé en surface, au-dessus du foyer", "un volcan", "la lave"], "correct": 1, "exp": "C'est le point de surface." },
+      { "q": "La lave est :", "options": ["le magma qui arrive en surface", "de l'eau de mer", "de la neige", "un séisme"], "correct": 0, "exp": "Le magma devient lave en surface." },
+      { "q": "Les plaques lithosphériques sont :", "options": ["fixes", "en mouvement lent", "en mouvement très rapide", "absentes"], "correct": 1, "exp": "Elles se déplacent lentement." },
+      { "q": "Les zones à forte activité sismique se situent surtout :", "options": ["au centre des plaques", "aux limites des plaques", "dans les déserts", "dans les lacs"], "correct": 1, "exp": "Les limites de plaques concentrent l'activité." },
+      { "q": "Un volcan est un relief formé par :", "options": ["l'accumulation de matériaux émis", "l'érosion du vent", "la glace", "la pluie"], "correct": 0, "exp": "Il s'accumule laves et cendres." },
+      { "q": "Une dorsale océanique est :", "options": ["une chaîne de volcans sous-marins", "un pont", "une rivière", "une falaise"], "correct": 0, "exp": "C'est une chaîne sous-marine où les plaques s'écartent." },
+      { "q": "Le mont Cameroun est situé :", "options": ["au nord", "au sud-ouest", "à l'est", "au centre"], "correct": 1, "exp": "Il est au sud-ouest du pays." },
+      { "q": "Les dégâts d'un séisme sont souvent les plus forts :", "options": ["près de l'épicentre", "très loin", "dans la mer", "sous terre uniquement"], "correct": 0, "exp": "L'intensité diminue en s'éloignant de l'épicentre." }
+    ]
+  },
+  {
+    "classe": "3eme",
+    "matiere": "SVT",
+    "id": "s3-ecosystemes-biodiversite",
+    "titre": "Les écosystèmes et la biodiversité",
+    "duree": "40 min",
+    "contenu": "<p>Un <b>écosystème</b> est l'ensemble formé par un milieu de vie (biotope) et les êtres vivants qui y vivent (biocénose). Les êtres vivants interagissent entre eux et avec leur milieu.</p><div class='definition'><b>Le biotope</b> est le milieu physique : sol, eau, air, climat.<br><b>La biocénose</b> est l'ensemble des êtres vivants : végétaux, animaux, micro-organismes.<br><b>La biodiversité</b> désigne la variété des espèces, des gènes et des écosystèmes sur Terre.<br><b>Une chaîne alimentaire</b> montre qui mange qui : producteur (plante), consommateur (herbivore, carnivore), décomposeur (champignon, bactérie).</div><p>Chaque espèce a un rôle dans l'écosystème. La disparition d'une espèce peut déséquilibrer toute la chaîne alimentaire.</p><div class='exemple'><b>Exemple :</b> dans la forêt camerounaise, les arbres sont des producteurs, les singes et les insectes des consommateurs, et les champignons du sol des décomposeurs. Couper la forêt détruit tout cet équilibre.</div><div class='astuce'><b>Astuce :</b> pour analyser un écosystème, identifie d'abord le biotope (le milieu), puis la biocénose (les êtres vivants), puis les liens entre eux.</div>",
+    "exercices": [
+      { "q": "Qu'est-ce qu'un écosystème ?", "r": "L'ensemble formé par un milieu de vie (biotope) et les êtres vivants qui y vivent (biocénose).", "indice": "Deux parties : le milieu et les vivants." },
+      { "q": "Quelle est la différence entre biotope et biocénose ?", "r": "Le biotope est le milieu physique ; la biocénose est l'ensemble des êtres vivants.", "indice": "Le milieu ou les vivants ?" },
+      { "q": "Classe dans une chaîne alimentaire : arbre, singe, champignon.", "r": "Arbre : producteur ; singe : consommateur ; champignon : décomposeur.", "indice": "Qui fabrique, qui mange, qui décompose ?" },
+      { "q": "Qu'est-ce que la biodiversité ?", "r": "La variété des espèces, des gènes et des écosystèmes sur Terre.", "indice": "Pense à la diversité du vivant." },
+      { "q": "Pourquoi la disparition d'une espèce peut-elle déséquilibrer un écosystème ?", "r": "Parce que chaque espèce a un rôle et que les chaînes alimentaires sont interdépendantes.", "indice": "Pense aux liens entre espèces." }
+    ],
+    "qcm": [
+      { "q": "Un écosystème comprend :", "options": ["le biotope et la biocénose", "uniquement les animaux", "uniquement l'air", "uniquement les routes"], "correct": 0, "exp": "C'est l'ensemble du milieu et des vivants." },
+      { "q": "Le biotope désigne :", "options": ["le milieu physique", "les êtres vivants", "les maladies", "les routes"], "correct": 0, "exp": "C'est le milieu : sol, eau, air, climat." },
+      { "q": "La biocénose désigne :", "options": ["le milieu physique", "l'ensemble des êtres vivants", "le climat", "le sol seul"], "correct": 1, "exp": "C'est l'ensemble des vivants." },
+      { "q": "Dans une chaîne alimentaire, la plante est un :", "options": ["consommateur", "producteur", "décomposeur", "prédateur"], "correct": 1, "exp": "Elle fabrique sa matière organique." },
+      { "q": "Un champignon du sol est généralement un :", "options": ["producteur", "consommateur", "décomposeur", "biotope"], "correct": 2, "exp": "Il décompose la matière morte." },
+      { "q": "La biodiversité désigne :", "options": ["la variété du vivant", "le nombre d'habitants", "la taille des villes", "la quantité d'eau"], "correct": 0, "exp": "C'est la variété des espèces, gènes et écosystèmes." },
+      { "q": "Un herbivore est un :", "options": ["producteur", "consommateur", "décomposeur", "biotope"], "correct": 1, "exp": "Il se nourrit de végétaux : c'est un consommateur." },
+      { "q": "Couper une forêt entraîne :", "options": ["un équilibre renforcé", "la perte de biodiversité", "rien", "une augmentation des espèces"], "correct": 1, "exp": "La destruction de l'habitat réduit la biodiversité." },
+      { "q": "Le biotope comprend :", "options": ["le sol, l'eau, l'air et le climat", "les singes uniquement", "les champignons uniquement", "les humains uniquement"], "correct": 0, "exp": "C'est le milieu physique." },
+      { "q": "La disparition d'une espèce peut :", "options": ["déséquilibrer la chaîne alimentaire", "ne rien changer", "rendre l'écosystème plus simple sans effet", "créer plus de nourriture"], "correct": 0, "exp": "Les espèces sont liées entre elles." }
+    ]
+  }
+]

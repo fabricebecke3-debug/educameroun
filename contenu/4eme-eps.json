@@ -1,0 +1,110 @@
+[
+  {
+    "classe": "4eme",
+    "matiere": "EPS",
+    "id": "eps4-endurance-methode",
+    "titre": "Développer l'endurance : méthodes et fréquence cardiaque",
+    "duree": "40 min",
+    "contenu": "<p>L'<b>endurance</b> est la capacité à maintenir un effort prolongé. Pour la développer, on peut utiliser plusieurs méthodes d'entraînement, et contrôler l'intensité grâce à la <b>fréquence cardiaque</b>.</p><div class='definition'><b>La fréquence cardiaque</b> est le nombre de battements du cœur par minute. Au repos, elle est en général comprise entre 60 et 80 battements par minute.<br><b>La fréquence cardiaque maximale</b> peut être estimée par la formule : 220 − âge.<br><b>L'endurance fondamentale</b> consiste à courir longtemps à une intensité modérée, où l'on peut encore parler.<br><b>L'interval training</b> alterne des périodes d'effort intense et des périodes de récupération.</div><p>Pour progresser, on travaille à une fréquence cardiaque d'environ 60 à 75 % de la fréquence maximale, c'est la zone d'endurance.</p><div class='exemple'><b>Exemple :</b> un élève de 14 ans a une fréquence maximale estimée à 220 − 14 = 206 battements par minute. Pour un entraînement d'endurance, il vise environ 124 à 155 battements par minute.</div><div class='astuce'><b>Astuce :</b> le test de la parole est simple : si tu peux parler en phrases complètes pendant l'effort, tu es dans la bonne zone d'endurance.</div>",
+    "exercices": [
+      { "q": "Qu'est-ce que l'endurance ?", "r": "La capacité à maintenir un effort prolongé.", "indice": "Pense à la durée de l'effort." },
+      { "q": "Calcule la fréquence cardiaque maximale estimée d'un élève de 13 ans.", "r": "220 − 13 = 207 battements par minute.", "indice": "Applique la formule 220 − âge." },
+      { "q": "Quelle est la zone d'endurance conseillée (en % de la fréquence maximale) ?", "r": "Environ 60 à 75 % de la fréquence maximale.", "indice": "Relis le cours." },
+      { "q": "Décris l'interval training.", "r": "Alterner des périodes d'effort intense et des périodes de récupération.", "indice": "Pense à l'alternance." },
+      { "q": "Comment vérifier qu'on est dans la zone d'endurance sans appareil ?", "r": "En vérifiant qu'on peut encore parler en phrases complètes pendant l'effort.", "indice": "Relis l'astuce." }
+    ],
+    "qcm": [
+      { "q": "L'endurance est la capacité à :", "options": ["soulever un poids", "maintenir un effort prolongé", "sauter haut", "lancer loin"], "correct": 1, "exp": "C'est tenir un effort dans la durée." },
+      { "q": "La fréquence cardiaque désigne :", "options": ["le poids du cœur", "le nombre de battements par minute", "la taille des muscles", "la quantité de sang"], "correct": 1, "exp": "C'est le nombre de battements par minute." },
+      { "q": "La fréquence cardiaque au repos est en général :", "options": ["entre 60 et 80 bpm", "entre 150 et 200 bpm", "inférieure à 10", "supérieure à 300"], "correct": 0, "exp": "C'est la plage habituelle au repos." },
+      { "q": "La fréquence maximale estimée d'un élève de 14 ans est :", "options": ["206", "220", "14", "234"], "correct": 0, "exp": "220 − 14 = 206." },
+      { "q": "L'interval training alterne :", "options": ["effort intense et récupération", "marche et sommeil", "étirements et sauts", "repos total"], "correct": 0, "exp": "C'est l'alternance d'efforts et de pauses actives." },
+      { "q": "La zone d'endurance se situe environ entre :", "options": ["10 et 20 % de la fréquence max", "60 et 75 % de la fréquence max", "90 et 100 %", "0 et 5 %"], "correct": 1, "exp": "C'est la zone d'entraînement d'endurance." },
+      { "q": "Pendant un effort d'endurance, on doit pouvoir :", "options": ["à peine respirer", "parler en phrases complètes", "crier", "ne rien ressentir"], "correct": 1, "exp": "Le test de la parole indique une intensité modérée." },
+      { "q": "L'endurance fondamentale consiste à :", "options": ["courir très vite un court instant", "courir longtemps à intensité modérée", "rester immobile", "sauter sans arrêt"], "correct": 1, "exp": "C'est un effort long et modéré." },
+      { "q": "Pour un élève de 12 ans, la fréquence maximale estimée est :", "options": ["208", "210", "232", "198"], "correct": 0, "exp": "220 − 12 = 208." },
+      { "q": "Un bon entraînement d'endurance doit être :", "options": ["irrégulier", "régulier et progressif", "uniquement intense", "absent"], "correct": 1, "exp": "La régularité et la progression sont essentielles." }
+    ]
+  },
+  {
+    "classe": "4eme",
+    "matiere": "EPS",
+    "id": "eps4-athletisme-lancer",
+    "titre": "L'athlétisme : le lancer de balle (ou de poids)",
+    "duree": "40 min",
+    "contenu": "<p>Le <b>lancer</b> est une épreuve d'athlétisme qui consiste à projeter un engin le plus loin possible, dans un secteur délimité. On peut lancer une balle, un javelot, un disque ou un poids.</p><div class='definition'><b>L'élan</b> est la phase qui précède le lancer : la prise d'élan permet d'accumuler de l'énergie.<br><b>Le transfert de force</b> est le passage de l'énergie des jambes vers le tronc, puis vers le bras.<br><b>Le lâcher</b> est le moment où l'engin quitte la main, avec un angle favorable (environ 35 à 45 degrés pour un lancer loin).<br><b>La règle de sécurité</b> impose de ne jamais lancer sans vérifier que la zone est libre et de ne pas franchir la ligne.</div><p>Un bon lancer combine force, vitesse et coordination. Les jambes poussent, le tronc se tourne, le bras accompagne le geste.</p><div class='exemple'><b>Exemple :</b> pour lancer une balle, l'élève fait un pas de côté, pivote en tournant les hanches, puis lâche la balle en dirigeant le bras vers l'avant et vers le haut.</div><div class='astuce'><b>Astuce :</b> le mouvement est un enchaînement : jambes, hanches, épaule, bras. Plus la chaîne est fluide, plus le lancer est loin.</div>",
+    "exercices": [
+      { "q": "En quoi consiste le lancer en athlétisme ?", "r": "Projeter un engin le plus loin possible dans un secteur délimité.", "indice": "Pense au but de l'épreuve." },
+      { "q": "Cite deux engins utilisés en lancer.", "r": "La balle, le javelot, le disque ou le poids.", "indice": "Relis le cours." },
+      { "q": "Quel est le rôle de l'élan ?", "r": "Accumuler de l'énergie avant le lancer.", "indice": "Pense à la phase qui précède le geste." },
+      { "q": "Décris l'enchaînement du transfert de force.", "r": "Jambes, hanches, épaule, puis bras.", "indice": "Pense à la chaîne du corps." },
+      { "q": "Pourquoi faut-il vérifier la zone avant un lancer ?", "r": "Pour éviter de blesser quelqu'un avec l'engin.", "indice": "Pense à la sécurité." }
+    ],
+    "qcm": [
+      { "q": "Le lancer consiste à :", "options": ["courir longtemps", "projeter un engin le plus loin possible", "sauter en hauteur", "nager vite"], "correct": 1, "exp": "C'est projeter l'engin le plus loin." },
+      { "q": "La phase qui précède le lancer s'appelle :", "options": ["le lâcher", "l'élan", "la réception", "l'arrivée"], "correct": 1, "exp": "L'élan accumule de l'énergie." },
+      { "q": "Le transfert de force part :", "options": ["des bras vers les jambes", "des jambes vers le tronc puis le bras", "de la tête", "du dos uniquement"], "correct": 1, "exp": "L'énergie suit la chaîne du corps." },
+      { "q": "Un angle de lâcher favorable pour un lancer loin est d'environ :", "options": ["5 à 10 degrés", "35 à 45 degrés", "80 à 90 degrés", "0 degré"], "correct": 1, "exp": "C'est l'angle optimal pour une bonne distance." },
+      { "q": "Avant de lancer, il faut :", "options": ["ne rien vérifier", "vérifier que la zone est libre", "fermer les yeux", "courir"], "correct": 1, "exp": "La sécurité impose de vérifier la zone." },
+      { "q": "Un lancer réussi combine :", "options": ["force, vitesse et coordination", "uniquement la taille", "uniquement la chance", "rien"], "correct": 0, "exp": "Ces qualités sont complémentaires." },
+      { "q": "Le lâcher est le moment où :", "options": ["l'engin quitte la main", "le lanceur se repose", "l'élan commence", "la zone est nettoyée"], "correct": 0, "exp": "C'est le départ de l'engin." },
+      { "q": "Pour le lancer, les jambes :", "options": ["ne servent à rien", "poussent et transmettent l'énergie", "restent immobiles", "tournent sans appui"], "correct": 1, "exp": "Elles fournissent la base de la force." },
+      { "q": "Un engin de lancer peut être :", "options": ["un poids", "un ballon de foot", "une raquette", "un maillot"], "correct": 0, "exp": "Le poids est un engin de lancer." },
+      { "q": "Ne pas franchir la ligne de lancer est :", "options": ["une règle de sécurité et de jeu", "une faute sans importance", "un record", "un avantage"], "correct": 0, "exp": "C'est une règle à respecter." }
+    ]
+  },
+  {
+    "classe": "4eme",
+    "matiere": "EPS",
+    "id": "eps4-football-tactique",
+    "titre": "Le football : tactique, placement et rôles",
+    "duree": "40 min",
+    "contenu": "<p>Le <b>football</b> est un sport collectif à onze joueurs. Pour réussir, l'équipe s'organise tactiquement : chacun occupe une zone et joue un rôle précis.</p><div class='definition'><b>Le système de jeu</b> désigne la répartition des joueurs sur le terrain (par exemple 4-3-3 ou 4-4-2).<br><b>Le placement</b> est la position d'un joueur par rapport au ballon et aux adversaires.<br><b>La couverture</b> consiste pour un défenseur à se placer derrière un coéquipier pour compenser une erreur.<br><b>Le démarquage</b> est le déplacement d'un joueur pour se libérer et recevoir le ballon.<br><b>La possession</b> est le fait de garder le ballon, en utilisant des passes courtes et des mouvements.</div><p>En attaque, l'équipe cherche à créer des espaces. En défense, elle cherche à récupérer le ballon en se resserrant.</p><div class='exemple'><b>Exemple :</b> un milieu de terrain qui reçoit le ballon et se démarque en diagonale permet à l'équipe de progresser. Pendant ce temps, un défenseur se place en couverture pour éviter une contre-attaque.</div><div class='astuce'><b>Astuce :</b> le football est un jeu d'espace et de mouvement. Ne suis pas toujours le ballon : appelle la passe, déplace-toi pour créer une ligne de passe libre.</div>",
+    "exercices": [
+      { "q": "Combien de joueurs compte une équipe de football ?", "r": "Onze joueurs.", "indice": "Pense au nombre de joueurs sur le terrain." },
+      { "q": "Qu'est-ce que le démarquage ?", "r": "Le déplacement d'un joueur pour se libérer et recevoir le ballon.", "indice": "Pense à se libérer de l'adversaire." },
+      { "q": "Qu'est-ce que la couverture en défense ?", "r": "Se placer derrière un coéquipier pour compenser une erreur.", "indice": "Pense à l'aide apportée à un coéquipier." },
+      { "q": "Explique la notion de possession de balle.", "r": "Garder le ballon grâce à des passes courtes et des mouvements pour contrôler le jeu.", "indice": "Pense au contrôle du match." },
+      { "q": "Pourquoi l'équipe doit-elle se resserrer en défense ?", "r": "Pour réduire les espaces et récupérer le ballon plus facilement.", "indice": "Pense au terrain occupé." }
+    ],
+    "qcm": [
+      { "q": "Une équipe de football compte :", "options": ["cinq joueurs", "onze joueurs", "sept joueurs", "quinze joueurs"], "correct": 1, "exp": "Onze joueurs par équipe." },
+      { "q": "Le démarquage consiste à :", "options": ["se cacher", "se libérer pour recevoir le ballon", "frapper l'adversaire", "sortir du terrain"], "correct": 1, "exp": "C'est se libérer du marquage." },
+      { "q": "La couverture désigne :", "options": ["un maillot", "un joueur qui se place derrière un coéquipier", "un but", "un arbitre"], "correct": 1, "exp": "C'est l'aide apportée en défense." },
+      { "q": "La possession de balle se maintient par :", "options": ["des passes courtes et des mouvements", "des tirs lointains uniquement", "des fautes", "l'absence de mouvement"], "correct": 0, "exp": "Les passes et les mouvements gardent le ballon." },
+      { "q": "Le système 4-4-2 désigne :", "options": ["une répartition des joueurs sur le terrain", "un score", "une durée de match", "un type de ballon"], "correct": 0, "exp": "C'est une organisation tactique." },
+      { "q": "En défense, l'équipe doit :", "options": ["s'éparpiller", "se resserrer", "quitter le terrain", "ne pas bouger"], "correct": 1, "exp": "Se resserrer réduit les espaces." },
+      { "q": "Le placement d'un joueur désigne :", "options": ["sa position par rapport au ballon et aux adversaires", "la couleur du maillot", "son âge", "son nom"], "correct": 0, "exp": "C'est sa position sur le terrain." },
+      { "q": "Dans le football, le jeu repose surtout sur :", "options": ["l'espace et le mouvement", "les insultes", "le hasard uniquement", "l'immobilité"], "correct": 0, "exp": "Le mouvement crée des espaces." },
+      { "q": "Un bon joueur, sans ballon, doit :", "options": ["rester immobile", "se déplacer pour créer une ligne de passe", "sortir du jeu", "suivre toujours le ballon"], "correct": 1, "exp": "Il crée des solutions pour ses partenaires." },
+      { "q": "La contre-attaque consiste à :", "options": ["attaquer très vite après avoir récupéré le ballon", "reculer", "abandonner le ballon", "faire une faute"], "correct": 0, "exp": "C'est une attaque rapide après récupération." }
+    ]
+  },
+  {
+    "classe": "4eme",
+    "matiere": "EPS",
+    "id": "eps4-securite-premiers-secours",
+    "titre": "Premiers secours et sécurité en activité physique",
+    "duree": "40 min",
+    "contenu": "<p>Pendant une activité sportive, un accident peut arriver. Savoir réagir calmement et correctement peut éviter qu'une blessure devienne grave.</p><div class='definition'><b>Protéger</b> : éviter tout nouveau danger pour soi-même et pour la victime, avant d'intervenir.<br><b>Alerter</b> : prévenir les secours (un adulte, l'enseignant, le centre de santé ou le numéro d'urgence).<br><b>Secourir</b> : apporter les premiers gestes adaptés, sans aggraver la blessure.<br><b>La plaie</b> doit être nettoyée à l'eau propre, puis protégée d'un pansement.<br><b>Une entorse</b> (cheville tordue) nécessite de reposer la zone, de la surélever et de la mettre dans un linge froid, puis de consulter.</div><p>Il ne faut jamais déplacer une personne qui a reçu un coup à la tête ou au dos sans l'avis d'un adulte formé.</p><div class='exemple'><b>Exemple :</b> pendant un match, un élève se tord la cheville. L'enseignant le fait s'arrêter, lui fait poser le pied sur un support, applique une compresse froide et prévient l'infirmerie.</div><div class='astuce'><b>Astuce :</b> retiens la règle PAS : Protéger, Alerter, Secourir. Dans cet ordre, toujours.</div>",
+    "exercices": [
+      { "q": "Quelles sont les trois étapes de la conduite à tenir face à un accident ?", "r": "Protéger, alerter, secourir.", "indice": "Pense à la règle PAS." },
+      { "q": "Pourquoi faut-il protéger avant de secourir ?", "r": "Pour éviter de créer un deuxième accident ou de se blesser soi-même.", "indice": "Pense au danger qui pourrait encore exister." },
+      { "q": "Que faut-il faire pour une plaie légère ?", "r": "La nettoyer à l'eau propre et la protéger d'un pansement.", "indice": "Relis le cours." },
+      { "q": "Quels sont les gestes à faire en cas d'entorse ?", "r": "Reposer la zone, la surélever, appliquer un linge froid et consulter.", "indice": "Pense au repos et au froid." },
+      { "q": "Pourquoi ne faut-il pas déplacer une personne qui a reçu un coup à la tête ?", "r": "Un mouvement peut aggraver une lésion ; seul un adulte formé doit décider.", "indice": "Pense à la prudence face à la colonne et à la tête." }
+    ],
+    "qcm": [
+      { "q": "La règle PAS signifie :", "options": ["Protéger, Alerter, Secourir", "Pleurer, Attendre, Sortir", "Parler, Avancer, Stopper", "Partir, Appeler, Soigner"], "correct": 0, "exp": "C'est l'ordre des gestes de premiers secours." },
+      { "q": "La première chose à faire face à un accident est :", "options": ["secourir immédiatement", "protéger la zone", "partir", "filmer"], "correct": 1, "exp": "On protège d'abord pour éviter un nouveau danger." },
+      { "q": "Pour une plaie légère, on utilise :", "options": ["de l'alcool sur la plaie", "de l'eau propre et un pansement", "rien", "de la terre"], "correct": 1, "exp": "L'eau propre nettoie sans agresser." },
+      { "q": "En cas d'entorse, on applique :", "options": ["de la chaleur", "un linge froid", "un mouvement brusque", "rien"], "correct": 1, "exp": "Le froid réduit l'inflammation." },
+      { "q": "Il ne faut pas déplacer une personne blessée à la tête :", "options": ["sans l'avis d'un adulte formé", "toujours", "jamais", "sans raison"], "correct": 0, "exp": "C'est un risque de l'aggraver." },
+      { "q": "Alerter signifie :", "options": ["prévenir les secours", "partir seul", "soigner seul", "ignorer"], "correct": 0, "exp": "On prévient un adulte ou les secours." },
+      { "q": "Secourir consiste à :", "options": ["apporter des gestes adaptés sans aggraver", "filmer la scène", "éloigner tout le monde", "ne rien faire"], "correct": 0, "exp": "Ce sont les gestes de premiers secours." },
+      { "q": "Une entorse est :", "options": ["une fracture ouverte", "une articulation tordue", "une brûlure", "une piqûre"], "correct": 1, "exp": "C'est une blessure d'articulation." },
+      { "q": "Après une entorse, il faut :", "options": ["reprendre l'effort immédiatement", "reposer et surélever la zone", "marcher longtemps", "masser fortement"], "correct": 1, "exp": "Le repos favorise la guérison." },
+      { "q": "La sécurité en activité physique repose sur :", "options": ["l'imprudence", "la vérification du terrain et des consignes", "le hasard", "l'absence de règles"], "correct": 1, "exp": "La prévention est la clé." }
+    ]
+  }
+]

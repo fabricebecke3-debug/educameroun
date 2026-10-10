@@ -1,0 +1,110 @@
+[
+  {
+    "classe": "3eme",
+    "matiere": "Anglais",
+    "id": "a3-past-continuous",
+    "titre": "Le past continuous : décrire une action en cours dans le passé",
+    "duree": "40 min",
+    "contenu": "<p>Le <b>past continuous</b> décrit une action qui était <b>en cours</b> à un moment précis du passé. Il se forme avec le prétérit de be (was / were) et le participe présent (-ing).</p><div class='definition'><b>Formule affirmative :</b> sujet + was/were + verbe-ing. Ex. : I was reading at six o'clock. They were playing football.<br><b>was</b> avec I, he, she, it ; <b>were</b> avec you, we, they.<br><b>Négative :</b> wasn't / weren't + verbe-ing. Ex. : She wasn't sleeping.<br><b>Question :</b> Was/Were + sujet + verbe-ing ? Ex. : Were you studying at noon?</div><div class='exemple'><b>Exemple :</b> <i>When the teacher came in, we were talking.</i> (Quand le professeur est entré, nous étions en train de parler.) La conversation était en cours quand l'action du professeur s'est produite.</div><div class='astuce'><b>Astuce :</b> le past continuous s'utilise souvent avec le past simple. Le past continuous décrit le décor, le past simple raconte l'événement qui interrompt. Mots-clés utiles : while (pendant que), when (quand).</div>",
+    "exercices": [
+      { "q": "Mets au past continuous : I (read) ; they (play) ; she (cook).", "r": "I was reading ; they were playing ; she was cooking.", "indice": "Was avec I et she ; were avec they. Ajoute -ing au verbe." },
+      { "q": "Traduis : « Pendant que je dormais, il pleuvait. »", "r": "While I was sleeping, it was raining.", "indice": "While introduit l'action en cours." },
+      { "q": "Mets à la forme négative : We were watching TV.", "r": "We weren't watching TV.", "indice": "Were + not devient weren't." },
+      { "q": "Complète : When the phone rang, she ... (take) a shower.", "r": "was taking", "indice": "Action en cours interrompue par le téléphone : past continuous." },
+      { "q": "Pose la question : They were studying at nine.", "r": "Were they studying at nine?", "indice": "Inverse was/were et le sujet." }
+    ],
+    "qcm": [
+      { "q": "Le past continuous se forme avec :", "options": ["was/were + verbe-ing", "have + participe passé", "will + verbe", "do + verbe"], "correct": 0, "exp": "C'est was/were suivi du -ing." },
+      { "q": "Avec « they », on utilise :", "options": ["was", "were", "is", "has"], "correct": 1, "exp": "Avec you, we, they : were." },
+      { "q": "« Nous étions en train de manger. » :", "options": ["We were eating.", "We ate.", "We have eaten.", "We are eating."], "correct": 0, "exp": "Action en cours dans le passé : were eating." },
+      { "q": "La négation de « she was sleeping » est :", "options": ["she wasn't sleeping", "she didn't sleeping", "she not was sleeping", "she isn't sleeping"], "correct": 0, "exp": "Was not devient wasn't." },
+      { "q": "Quelle conjonction introduit souvent le past continuous ?", "options": ["while", "tomorrow", "every", "never"], "correct": 0, "exp": "While signifie pendant que." },
+      { "q": "Dans « When I arrived, he was cooking. », l'action interrompue est :", "options": ["he was cooking", "I arrived", "when", "aucune"], "correct": 1, "exp": "L'arrivée est l'événement ponctuel, au past simple." },
+      { "q": "Question correcte :", "options": ["Was you working?", "Were you working?", "Did you were working?", "You were working?"], "correct": 1, "exp": "Were + sujet + verbe-ing." },
+      { "q": "Le -ing du verbe « run » donne :", "options": ["running", "runing", "runned", "runs"], "correct": 0, "exp": "On double le n : running." },
+      { "q": "« Il pleuvait à six heures. » :", "options": ["It was raining at six.", "It rained at six.", "It is raining at six.", "It has rained at six."], "correct": 0, "exp": "Action en cours : was raining." },
+      { "q": "Le past continuous exprime :", "options": ["une action en cours dans le passé", "une action future", "une habitude", "un ordre"], "correct": 0, "exp": "Il décrit une action non terminée au passé." }
+    ]
+  },
+  {
+    "classe": "3eme",
+    "matiere": "Anglais",
+    "id": "a3-conditionals",
+    "titre": "Les phrases conditionnelles : type 1 et type 2",
+    "duree": "40 min",
+    "contenu": "<p>Une phrase <b>conditionnelle</b> exprime une condition et sa conséquence. On distingue plusieurs types ; les deux plus étudiés au collège sont le type 1 (réel) et le type 2 (imaginaire).</p><div class='definition'><b>Type 1 (réel, avenir possible) :</b> if + present simple, will + verbe. Ex. : If it rains, we will stay at home.<br><b>Type 2 (irréel, hypothèse peu probable) :</b> if + past simple, would + verbe. Ex. : If I had money, I would buy a bicycle.<br><b>Important :</b> le if-clause peut être placé avant ou après la conséquence. Une virgule sépare les deux quand la condition vient en premier.</div><div class='exemple'><b>Exemple :</b> <i>If you study hard, you will pass the BEPC.</i> (Si tu travailles bien, tu réussiras le BEPC.) Type 1 : la situation est réelle et possible.</div><div class='astuce'><b>Astuce :</b> dans le if-clause, on n'utilise jamais will au type 1. On écrit « if it rains », et non « if it will rain ».</div>",
+    "exercices": [
+      { "q": "Complète au type 1 : If he ... (come), we ... (go) out.", "r": "comes ; will go", "indice": "If + present simple ; will + verbe." },
+      { "q": "Complète au type 2 : If I ... (be) rich, I ... (travel) around the world.", "r": "were ; would travel", "indice": "If + past simple (were avec I) ; would + verbe." },
+      { "q": "Traduis : « Si tu veux, tu peux venir. » (type 1)", "r": "If you want, you can come.", "indice": "Condition réelle : present simple, puis can." },
+      { "q": "Traduis : « Si j'avais le temps, je lirais ce livre. » (type 2)", "r": "If I had time, I would read this book.", "indice": "If + past simple, would + verbe." },
+      { "q": "Réécris avec la condition en premier : We will leave when it stops raining. → avec if (type 1).", "r": "If it stops raining, we will leave.", "indice": "Pour une condition réelle, if + present simple." }
+    ],
+    "qcm": [
+      { "q": "Le type 1 exprime :", "options": ["une condition réelle et possible", "une condition impossible", "un passé terminé", "un ordre"], "correct": 0, "exp": "C'est une situation réelle dans l'avenir." },
+      { "q": "La structure du type 1 est :", "options": ["if + present simple, will + verbe", "if + past simple, would + verbe", "if + will, will", "if + to, to"], "correct": 0, "exp": "C'est la structure du type 1." },
+      { "q": "La structure du type 2 est :", "options": ["if + present simple, will + verbe", "if + past simple, would + verbe", "if + present perfect, has", "if + -ing"], "correct": 1, "exp": "C'est la structure du type 2." },
+      { "q": "« If it rains, we will stay home. » est :", "options": ["type 1", "type 2", "passé simple", "impératif"], "correct": 0, "exp": "Condition réelle : type 1." },
+      { "q": "« If I were you, I would study harder. » est :", "options": ["type 1", "type 2", "present perfect", "futur simple"], "correct": 1, "exp": "Hypothèse imaginaire : type 2." },
+      { "q": "Au type 2, avec le sujet I, on écrit souvent :", "options": ["were", "was", "am", "be"], "correct": 0, "exp": "On emploie were dans l'hypothèse." },
+      { "q": "Dans un if-clause de type 1, on évite :", "options": ["le present simple", "will", "le sujet", "la virgule"], "correct": 1, "exp": "On n'utilise pas will dans le if-clause." },
+      { "q": "« Si tu travailles, tu réussiras. » en type 1 :", "options": ["If you work, you will succeed.", "If you will work, you succeed.", "If you worked, you will succeed.", "If you work, you succeed."], "correct": 0, "exp": "If + present, will + verbe." },
+      { "q": "La virgule est utilisée quand :", "options": ["la condition commence la phrase", "la phrase est très courte", "la phrase est une question", "il n'y a pas de sujet"], "correct": 0, "exp": "Elle sépare la condition de la conséquence." },
+      { "q": "« Si j'avais des ailes, je volerais. » est :", "options": ["If I had wings, I would fly.", "If I have wings, I will fly.", "If I had wings, I will fly.", "If I have wings, I would fly."], "correct": 0, "exp": "Hypothèse irréelle : type 2." }
+    ]
+  },
+  {
+    "classe": "3eme",
+    "matiere": "Anglais",
+    "id": "a3-passive-voice",
+    "titre": "La voix passive au présent et au passé simple",
+    "duree": "40 min",
+    "contenu": "<p>La <b>voix passive</b> met en valeur l'action subie par le sujet, ou lorsque l'agent (la personne qui fait l'action) est inconnu ou sans importance. Elle se forme avec be + participe passé.</p><div class='definition'><b>Présent passif :</b> am/is/are + participe passé. Ex. : Cassava is grown in Cameroon.<br><b>Passé simple passif :</b> was/were + participe passé. Ex. : The letter was written yesterday.<br><b>Négative :</b> ajoute not après be. Ex. : The door isn't closed.<br><b>Agent :</b> on introduit l'agent avec by. Ex. : The house was built by my grandfather.</div><div class='exemple'><b>Exemple :</b> <i>Active : The farmers grow maize. Passive : Maize is grown by the farmers.</i> Le sujet devient maize, et le complément devient l'agent introduit par by.</div><div class='astuce'><b>Astuce :</b> pour passer de l'actif au passif : le complément d'objet devient sujet, on met le verbe be au temps du verbe actif, puis on met le verbe au participe passé.</div>",
+    "exercices": [
+      { "q": "Mets au présent passif : They sell bread every day.", "r": "Bread is sold every day.", "indice": "Sujet = pain ; be au présent (is) + participe passé." },
+      { "q": "Mets au passé simple passif : The teacher wrote the test.", "r": "The test was written by the teacher.", "indice": "Was + participe passé ; by introduit l'agent." },
+      { "q": "Mets à la forme négative : The window was broken.", "r": "The window wasn't broken.", "indice": "Ajoute not après was." },
+      { "q": "Transforme au passif : Many people visit Foumban.", "r": "Foumban is visited by many people.", "indice": "Le complément devient sujet ; le verbe be au présent." },
+      { "q": "Donne le participe passé de : build, make, grow, write.", "r": "built, made, grown, written.", "indice": "Ce sont des verbes irréguliers." }
+    ],
+    "qcm": [
+      { "q": "La voix passive se forme avec :", "options": ["be + participe passé", "have + infinitif", "will + verbe", "do + infinitif"], "correct": 0, "exp": "C'est be + participe passé." },
+      { "q": "« Le pain est vendu ici. » :", "options": ["Bread is sold here.", "Bread sells here.", "Bread sold here.", "Bread is selling here."], "correct": 0, "exp": "Présent passif : is sold." },
+      { "q": "Le passé simple passif de « write » :", "options": ["was written", "wrote", "was write", "is written"], "correct": 0, "exp": "Was + written." },
+      { "q": "L'agent d'une phrase passive est introduit par :", "options": ["by", "with", "to", "for"], "correct": 0, "exp": "On utilise by." },
+      { "q": "La négation de « The door is closed » est :", "options": ["The door isn't closed.", "The door is not close.", "The door doesn't closed.", "The door not closed."], "correct": 0, "exp": "Ajoute not après is : isn't." },
+      { "q": "Le participe passé de « build » est :", "options": ["builded", "built", "building", "builds"], "correct": 1, "exp": "Build est irrégulier : built." },
+      { "q": "Dans « The house was built by my grandfather », le sujet est :", "options": ["the house", "my grandfather", "built", "by"], "correct": 0, "exp": "C'est le sujet grammatical de la phrase passive." },
+      { "q": "La voix passive est utile quand :", "options": ["l'agent est inconnu ou sans importance", "on veut poser une question", "on donne un ordre", "on parle du futur seulement"], "correct": 0, "exp": "On met alors l'accent sur l'action." },
+      { "q": "« Le maïs est cultivé par les paysans. » en anglais :", "options": ["Maize is grown by the farmers.", "Maize grows by farmers.", "Maize is growing farmers.", "Maize was grown farmers."], "correct": 0, "exp": "Présent passif avec by." },
+      { "q": "Le passé simple passif de « see » est :", "options": ["was seen", "saw", "was see", "seen"], "correct": 0, "exp": "Was + seen." }
+    ]
+  },
+  {
+    "classe": "3eme",
+    "matiere": "Anglais",
+    "id": "a3-reading-writing-letter",
+    "titre": "Écrire une lettre ou un courriel en anglais",
+    "duree": "40 min",
+    "contenu": "<p>Pour écrire une lettre ou un courriel en anglais, il faut respecter une structure et un registre adaptés au destinataire. On distingue la lettre formelle (à un professeur, une administration) et la lettre informelle (à un ami).</p><div class='definition'><b>Structure :</b> adresse de l'expéditeur, date, formule d'appel (Dear Mr Mbarga, / Dear Sarah,), corps du message, formule de politesse (Yours sincerely / Best wishes), signature.<br><b>Registre formel :</b> phrases complètes, pas de contractions (I am, I do not), formules polies (I would be grateful if...).<br><b>Registre informel :</b> contractions et expressions familières (I'm, can't, Hi there).<br><b>Les formules de politesse :</b> Yours sincerely (si le nom est connu), Yours faithfully (si le nom est inconnu).</div><div class='exemple'><b>Exemple :</b> <i>Dear Madam, I am writing to apply for the post of secretary. I would be grateful if you could send me more information. Yours faithfully, Paul Nkeng.</i></div><div class='astuce'><b>Astuce :</b> adapte le registre au destinataire. Pour une lettre à un professeur ou à une administration, évite les contractions et les expressions familières.</div>",
+    "exercices": [
+      { "q": "Quelle formule utiliser pour commencer une lettre à une personne dont tu connais le nom ?", "r": "Dear Mr Mbarga, (ou Dear Ms ..., )", "indice": "Pense à Dear suivi du titre et du nom." },
+      { "q": "Quelle formule de politesse utiliser si tu ne connais pas le nom du destinataire ?", "r": "Yours faithfully.", "indice": "Relis l'encadré sur les formules de politesse." },
+      { "q": "Réécris en registre formel : I can't come to the meeting.", "r": "I am unable to attend the meeting.", "indice": "Évite les contractions et utilise des formules polies." },
+      { "q": "Rédige une formule pour demander poliment une information.", "r": "I would be grateful if you could send me more information.", "indice": "Utilise I would be grateful if..." },
+      { "q": "Quelle est la différence entre une lettre formelle et une lettre informelle ?", "r": "La formelle est polie, sans contractions, pour une personne de statut supérieur ou une administration ; l'informelle est familière, pour un ami.", "indice": "Pense au destinataire." }
+    ],
+    "qcm": [
+      { "q": "Une lettre formelle s'adresse surtout à :", "options": ["un ami", "une administration ou un professeur", "un frère", "un voisin proche"], "correct": 1, "exp": "Le registre formel convient à ces destinataires." },
+      { "q": "Dear Sarah, est une formule :", "options": ["formelle", "informelle", "de conclusion", "de titre"], "correct": 1, "exp": "C'est une formule amicale." },
+      { "q": "Yours faithfully s'emploie quand :", "options": ["le nom du destinataire est inconnu", "on écrit à un ami", "on termine une lettre familière", "on écrit une question"], "correct": 0, "exp": "Yours faithfully pour un destinataire inconnu." },
+      { "q": "Yours sincerely s'emploie quand :", "options": ["le nom du destinataire est connu", "le nom est inconnu", "on écrit à un enfant", "on ne connaît pas la langue"], "correct": 0, "exp": "Yours sincerely pour un nom connu." },
+      { "q": "Dans une lettre formelle, on évite :", "options": ["les phrases complètes", "les contractions", "les formules polies", "la signature"], "correct": 1, "exp": "Les contractions relèvent du registre familier." },
+      { "q": "« Je serais reconnaissant si... » se dit :", "options": ["I would be grateful if...", "I am happy if...", "I will be if...", "I hope if..."], "correct": 0, "exp": "C'est une formule polie." },
+      { "q": "Le corps d'une lettre vient :", "options": ["après la formule d'appel", "avant la date", "après la signature", "nulle part"], "correct": 0, "exp": "Il suit l'appel." },
+      { "q": "Une formule d'appel possible est :", "options": ["Dear Mr Mbarga,", "Yours faithfully", "Best wishes", "Thank you"], "correct": 0, "exp": "C'est une formule d'appel." },
+      { "q": "La phrase « I can't come » devient en registre formel :", "options": ["I cannot attend.", "I can't come, sorry.", "No way I come.", "I won't come."], "correct": 0, "exp": "I cannot attend est plus formel." },
+      { "q": "Une lettre informelle à un ami peut commencer par :", "options": ["Hi there,", "Dear Madam,", "To whom it may concern,", "Sir,"], "correct": 0, "exp": "Hi there est familier." }
+    ]
+  }
+]

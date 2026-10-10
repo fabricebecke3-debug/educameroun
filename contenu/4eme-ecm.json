@@ -1,0 +1,110 @@
+[
+  {
+    "classe": "4eme",
+    "matiere": "ECM",
+    "id": "e4-droits-humains",
+    "titre": "Les droits humains et leur protection",
+    "duree": "40 min",
+    "contenu": "<p>Les <b>droits humains</b> sont les droits que possède toute personne du seul fait qu'elle est humaine. Ils sont universels : ils s'appliquent partout, sans distinction d'origine, de sexe, de religion ou d'opinion.</p><div class='definition'><b>La Déclaration universelle des droits de l'homme</b> (ONU, 1948) proclame les droits fondamentaux : droit à la vie, à la liberté, à l'égalité, à la sûreté, à la libre expression.<br><b>Les droits civils et politiques</b> protègent la liberté individuelle et la participation à la vie politique (voter, se réunir, s'exprimer).<br><b>Les droits économiques et sociaux</b> garantissent des conditions de vie dignes (santé, éducation, travail, logement).<br><b>La protection</b> est assurée par les lois nationales, les tribunaux et les organisations internationales.</div><p>Un droit ne peut pas être respecté pour certains et ignoré pour d'autres : c'est le principe de l'universalité.</p><div class='exemple'><b>Exemple :</b> le droit à l'éducation est un droit économique et social. Il est garanti à chaque enfant, quel que soit son milieu, et l'État doit mettre en place des écoles.</div><div class='astuce'><b>Astuce :</b> pour classer un droit, demande-toi : concerne-t-il la liberté et la participation politique (civil et politique), ou les conditions de vie (économique et social) ?</div>",
+    "exercices": [
+      { "q": "Qu'est-ce qu'un droit humain ?", "r": "Un droit que possède toute personne du seul fait qu'elle est humaine.", "indice": "Pense à ce qui ne dépend pas de la nationalité." },
+      { "q": "En quelle année la Déclaration universelle des droits de l'homme a-t-elle été adoptée ?", "r": "En 1948, par l'ONU.", "indice": "C'est juste après la Seconde Guerre mondiale." },
+      { "q": "Classe ces droits : voter (A) ; avoir accès aux soins (B) ; s'exprimer librement (C) ; travailler dans des conditions dignes (D).", "r": "Civils et politiques : A et C. Économiques et sociaux : B et D.", "indice": "Liberté et participation politique d'un côté, conditions de vie de l'autre." },
+      { "q": "Explique le principe d'universalité des droits humains.", "r": "Les droits s'appliquent à toutes les personnes, partout, sans distinction.", "indice": "Pense à l'expression universel." },
+      { "q": "Qui assure la protection des droits humains ?", "r": "Les lois nationales, les tribunaux et les organisations internationales.", "indice": "Pense aux institutions." }
+    ],
+    "qcm": [
+      { "q": "Les droits humains sont :", "options": ["réservés aux adultes", "universels", "réservés aux riches", "accordés par un seul pays"], "correct": 1, "exp": "Ils s'appliquent à toutes les personnes." },
+      { "q": "La Déclaration universelle des droits de l'homme date de :", "options": ["1789", "1948", "1960", "2000"], "correct": 1, "exp": "Elle est adoptée par l'ONU en 1948." },
+      { "q": "Le droit de voter est :", "options": ["un droit économique", "un droit civil et politique", "un devoir", "un privilège fiscal"], "correct": 1, "exp": "Il relève de la participation politique." },
+      { "q": "Le droit au logement est :", "options": ["un droit civil uniquement", "un droit économique et social", "une obligation", "un privilège"], "correct": 1, "exp": "Il garantit des conditions de vie dignes." },
+      { "q": "Le principe d'universalité signifie que les droits :", "options": ["s'appliquent à tous, partout", "s'appliquent seulement en Europe", "dépendent de la fortune", "sont facultatifs"], "correct": 0, "exp": "Ils valent pour toutes les personnes." },
+      { "q": "La liberté d'expression est :", "options": ["un droit civil et politique", "un devoir économique", "une sanction", "un impôt"], "correct": 0, "exp": "Elle protège la liberté individuelle." },
+      { "q": "Le droit à l'éducation est :", "options": ["un droit économique et social", "un droit de vote", "une peine", "un devoir fiscal"], "correct": 0, "exp": "Il garantit des conditions de vie dignes et l'accès au savoir." },
+      { "q": "Qui protège les droits humains ?", "options": ["personne", "les lois, les tribunaux et les organisations internationales", "seulement les familles", "seulement les entreprises"], "correct": 1, "exp": "Plusieurs institutions assurent cette protection." },
+      { "q": "Un droit humain :", "options": ["dépend du sexe", "appartient à toute personne du seul fait qu'elle est humaine", "dépend de la nationalité uniquement", "n'existe pas"], "correct": 1, "exp": "C'est la définition des droits humains." },
+      { "q": "Le droit à la santé relève :", "options": ["des droits économiques et sociaux", "des droits civils uniquement", "des devoirs", "du droit pénal"], "correct": 0, "exp": "Il garantit des conditions de vie dignes." }
+    ]
+  },
+  {
+    "classe": "4eme",
+    "matiere": "ECM",
+    "id": "e4-citoyennete-responsable",
+    "titre": "La citoyenneté responsable et la participation",
+    "duree": "40 min",
+    "contenu": "<p>Être citoyen ne se limite pas à avoir des droits. Il s'agit aussi de <b>participer</b> à la vie de la cité et de prendre des décisions de manière <b>responsable</b>.</p><div class='definition'><b>La citoyenneté</b> est le lien qui unit une personne à son État et qui lui donne des droits et des devoirs.<br><b>La participation</b> est l'engagement dans la vie collective : voter, s'informer, participer aux associations, aux débats, à la vie scolaire.<br><b>La responsabilité</b> consiste à tenir compte des conséquences de ses actes sur les autres et sur la société.<br><b>Le bien commun</b> est l'intérêt de l'ensemble de la communauté, au-delà des intérêts individuels.</div><p>Un citoyen responsable s'informe avant de se prononcer, respecte les opinions des autres et agit pour le bien commun.</p><div class='exemple'><b>Exemple :</b> dans son établissement, un élève qui participe au conseil de classe, qui propose une amélioration du cadre de vie et qui respecte les décisions prises par la majorité exerce une citoyenneté responsable.</div><div class='astuce'><b>Astuce :</b> avant de partager une information ou une opinion, vérifie sa source. Un citoyen responsable évite de diffuser des rumeurs qui peuvent nuire à d'autres.</div>",
+    "exercices": [
+      { "q": "Qu'est-ce que la citoyenneté ?", "r": "Le lien entre une personne et son État, qui donne des droits et des devoirs.", "indice": "Pense au lien avec le pays." },
+      { "q": "Cite trois formes de participation à la vie collective.", "r": "Voter, participer aux associations, participer aux débats, à la vie scolaire.", "indice": "Pense aux actions qui impliquent les autres." },
+      { "q": "Qu'est-ce que le bien commun ?", "r": "L'intérêt de l'ensemble de la communauté, au-delà des intérêts individuels.", "indice": "Pense à ce qui profite à tous." },
+      { "q": "Pourquoi faut-il vérifier une information avant de la partager ?", "r": "Pour ne pas diffuser de rumeurs qui peuvent nuire aux autres.", "indice": "Relis l'astuce du cours." },
+      { "q": "Propose une action citoyenne responsable dans ton établissement.", "r": "Exemple : organiser une campagne de propreté de la cour, ou proposer un projet pour la bibliothèque.", "indice": "Pense à un projet utile à tous." }
+    ],
+    "qcm": [
+      { "q": "La citoyenneté est :", "options": ["un jeu", "le lien entre une personne et son État", "une langue", "une couleur"], "correct": 1, "exp": "Elle unit la personne à son État." },
+      { "q": "La participation consiste à :", "options": ["rester à l'écart", "s'engager dans la vie collective", "ignorer les autres", "fuir les débats"], "correct": 1, "exp": "C'est l'engagement dans la vie collective." },
+      { "q": "La responsabilité consiste à :", "options": ["ne pas se soucier des autres", "tenir compte des conséquences de ses actes", "agir sans réfléchir", "imposer ses idées"], "correct": 1, "exp": "On prend en compte l'effet de ses actes." },
+      { "q": "Le bien commun désigne :", "options": ["l'intérêt personnel", "l'intérêt de la communauté", "la fortune d'une famille", "un objet"], "correct": 1, "exp": "C'est l'intérêt collectif." },
+      { "q": "Un citoyen responsable :", "options": ["diffuse toutes les rumeurs", "s'informe avant de se prononcer", "ignore les règles", "impose son opinion"], "correct": 1, "exp": "Il s'informe avant de décider." },
+      { "q": "Voter est une forme de :", "options": ["participation", "violence", "fuite", "indifférence"], "correct": 0, "exp": "C'est une participation à la vie politique." },
+      { "q": "Partager une rumeur sans la vérifier peut :", "options": ["aider", "nuire aux autres", "rendre plus sage", "améliorer la vie collective"], "correct": 1, "exp": "Une rumeur peut porter atteinte à des personnes." },
+      { "q": "La citoyenneté donne :", "options": ["des droits et des devoirs", "seulement des droits", "seulement des devoirs", "rien"], "correct": 0, "exp": "Elle entraîne droits et devoirs." },
+      { "q": "Respecter l'opinion des autres est :", "options": ["une faiblesse", "une attitude citoyenne", "une erreur", "un refus de débattre"], "correct": 1, "exp": "C'est une attitude de tolérance et de respect." },
+      { "q": "Dans l'exemple de l'élève au conseil de classe, il exerce :", "options": ["une citoyenneté responsable", "une faute", "une fuite", "une sanction"], "correct": 0, "exp": "Il participe et respecte les décisions collectives." }
+    ]
+  },
+  {
+    "classe": "4eme",
+    "matiere": "ECM",
+    "id": "e4-lutte-violence",
+    "titre": "Lutter contre la violence et les discriminations",
+    "duree": "40 min",
+    "contenu": "<p>La <b>violence</b> désigne tout acte qui porte atteinte à l'intégrité physique, psychologique ou morale d'une personne. Elle peut être physique, verbale, psychologique ou économique.</p><div class='definition'><b>Le harcèlement</b> est une répétition d'agressions envers une personne, qui la fragilise et l'isole.<br><b>La discrimination</b> est un traitement injuste fondé sur une caractéristique (origine, sexe, religion, handicap).<br><b>La violence sexuelle</b> est tout acte à caractère sexuel imposé sans consentement. Elle est interdite et punie par la loi.<br><b>La protection des victimes</b> passe par le signalement à un adulte de confiance, à la police ou à la justice.</div><p>Chacun peut agir : ne pas participer au harcèlement, soutenir la victime, signaler les faits et refuser de se moquer.</p><div class='exemple'><b>Exemple :</b> un camarade est régulièrement moqué à cause de son accent. Le témoin qui ne rit pas, qui en parle à un adulte et qui soutient la victime agit contre la violence.</div><div class='astuce'><b>Astuce :</b> le silence protège l'agresseur. Parler à un adulte de confiance est un acte de courage, qui peut sauver une personne.</div>",
+    "exercices": [
+      { "q": "Qu'est-ce que la violence ?", "r": "Tout acte qui porte atteinte à l'intégrité physique, psychologique ou morale d'une personne.", "indice": "Pense aux formes physiques, verbales et psychologiques." },
+      { "q": "Qu'est-ce que le harcèlement ?", "r": "La répétition d'agressions envers une personne, qui la fragilise et l'isole.", "indice": "Le mot clé est répétition." },
+      { "q": "Cite trois formes de violence.", "r": "Physique, verbale, psychologique (ou économique).", "indice": "Pense à ce que l'on peut subir." },
+      { "q": "Que peut faire un témoin de harcèlement ?", "r": "Ne pas y participer, soutenir la victime, signaler les faits à un adulte.", "indice": "Pense à ce qui aide la victime." },
+      { "q": "Pourquoi le silence protège-t-il l'agresseur ?", "r": "Parce qu'il laisse les agressions continuer sans être signalées.", "indice": "Relis l'astuce." }
+    ],
+    "qcm": [
+      { "q": "La violence désigne :", "options": ["un acte qui porte atteinte à une personne", "un jeu scolaire", "un sport", "une fête"], "correct": 0, "exp": "C'est tout acte qui nuit à l'intégrité d'une personne." },
+      { "q": "Le harcèlement est :", "options": ["un acte isolé et sans conséquence", "une répétition d'agressions", "un jeu", "un compliment"], "correct": 1, "exp": "Il se caractérise par la répétition." },
+      { "q": "La discrimination est :", "options": ["un traitement juste", "un traitement injuste fondé sur une caractéristique", "une loi", "une fête"], "correct": 1, "exp": "Elle est injuste et interdite." },
+      { "q": "La violence verbale est :", "options": ["les coups", "les insultes et les moqueries", "le vol", "l'absence"], "correct": 1, "exp": "Elle passe par les mots." },
+      { "q": "Un témoin de harcèlement peut :", "options": ["rire avec les agresseurs", "soutenir la victime et signaler les faits", "ignorer et partir", "filmer et diffuser"], "correct": 1, "exp": "Soutenir et signaler protègent la victime." },
+      { "q": "La violence sexuelle est :", "options": ["permise", "interdite et punie par la loi", "un jeu", "une tradition sans conséquence"], "correct": 1, "exp": "Elle est interdite et sévèrement sanctionnée." },
+      { "q": "Parler à un adulte de confiance est :", "options": ["une faiblesse", "un acte de courage", "une faute", "inutile"], "correct": 1, "exp": "C'est un acte qui peut protéger une personne." },
+      { "q": "Le silence face à la violence :", "options": ["protège la victime", "protège l'agresseur", "résout tout", "n'a aucun effet"], "correct": 1, "exp": "Il laisse les agressions se poursuivre." },
+      { "q": "La discrimination peut se fonder sur :", "options": ["l'origine, le sexe ou la religion", "la taille des chaussures", "la couleur des cahiers", "la saison"], "correct": 0, "exp": "Ce sont des motifs de discrimination interdits." },
+      { "q": "Dans l'exemple de l'élève moqué pour son accent, la bonne attitude est :", "options": ["rire avec les autres", "en parler à un adulte et soutenir la victime", "partir sans rien dire et oublier", "diffuser la moquerie"], "correct": 1, "exp": "C'est le comportement qui protège." }
+    ]
+  },
+  {
+    "classe": "4eme",
+    "matiere": "ECM",
+    "id": "e4-institutions-internationales",
+    "titre": "Les institutions internationales et la coopération",
+    "duree": "40 min",
+    "contenu": "<p>Les États ne peuvent pas toujours résoudre seuls les problèmes qui les dépassent : pauvreté, maladies, changement climatique, conflits. Ils se regroupent alors au sein d'<b>organisations internationales</b>.</p><div class='definition'><b>L'ONU</b> (Organisation des Nations unies, fondée en 1945) réunit la plupart des pays du monde pour maintenir la paix et promouvoir les droits humains.<br><b>L'Union africaine</b> (UA) regroupe les États du continent africain et promeut l'intégration, la paix et le développement.<br><b>L'UNESCO</b> agit pour l'éducation, la science et la culture.<br><b>La coopération internationale</b> désigne l'aide et l'action commune entre États pour atteindre un objectif commun.</div><p>Les organisations internationales ont des missions très variées : santé (OMS), enfance (UNICEF), développement (PNUD), alimentation (FAO).</p><div class='exemple'><b>Exemple :</b> lors d'une épidémie, l'OMS coordonne les actions des pays pour surveiller la maladie, partager les informations et organiser les soins.</div><div class='astuce'><b>Astuce :</b> retiens le domaine de chaque organisation : ONU (paix), Union africaine (Afrique), UNESCO (éducation et culture), OMS (santé), UNICEF (enfance).</div>",
+    "exercices": [
+      { "q": "Pourquoi les États se regroupent-ils dans des organisations internationales ?", "r": "Parce que certains problèmes dépassent les capacités d'un seul pays : pauvreté, maladies, climat, conflits.", "indice": "Pense aux problèmes qui touchent plusieurs pays." },
+      { "q": "En quelle année l'ONU a-t-elle été fondée et quel est son rôle principal ?", "r": "En 1945 ; maintenir la paix et promouvoir les droits humains.", "indice": "C'est juste après la Seconde Guerre mondiale." },
+      { "q": "Quel est le domaine de l'UNESCO ?", "r": "L'éducation, la science et la culture.", "indice": "Pense au nom : Éducation, Science, Culture." },
+      { "q": "Quelle organisation s'occupe de la santé mondiale ?", "r": "L'OMS (Organisation mondiale de la santé).", "indice": "Elle coordonne les actions contre les épidémies." },
+      { "q": "Qu'est-ce que la coopération internationale ?", "r": "L'action commune entre États pour atteindre un objectif commun.", "indice": "Pense à l'aide et au travail ensemble." }
+    ],
+    "qcm": [
+      { "q": "L'ONU a été fondée en :", "options": ["1789", "1945", "1960", "2000"], "correct": 1, "exp": "En 1945, après la Seconde Guerre mondiale." },
+      { "q": "L'Union africaine regroupe :", "options": ["les pays d'Europe", "les États du continent africain", "les pays d'Asie", "les pays d'Amérique"], "correct": 1, "exp": "Elle regroupe les États africains." },
+      { "q": "L'UNESCO s'occupe de :", "options": ["l'éducation, la science et la culture", "la guerre", "le commerce du pétrole", "la construction de routes"], "correct": 0, "exp": "Son domaine est l'éducation, la science et la culture." },
+      { "q": "L'OMS s'occupe de :", "options": ["la santé", "les élections", "le sport", "la monnaie"], "correct": 0, "exp": "L'Organisation mondiale de la santé gère la santé mondiale." },
+      { "q": "La coopération internationale désigne :", "options": ["la concurrence entre États", "l'action commune entre États", "la guerre", "le repli sur soi"], "correct": 1, "exp": "C'est l'action commune pour un objectif partagé." },
+      { "q": "L'UNICEF s'occupe surtout :", "options": ["de l'enfance", "du pétrole", "des frontières", "de l'armée"], "correct": 0, "exp": "L'UNICEF protège et soutient les enfants." },
+      { "q": "Une épidémie est gérée au niveau international notamment par :", "options": ["l'OMS", "l'UNESCO", "l'OPEP", "la FIFA"], "correct": 0, "exp": "L'OMS coordonne la réponse sanitaire." },
+      { "q": "L'ONU a pour rôle principal :", "options": ["de maintenir la paix", "de vendre des produits", "de gérer les sports", "de fixer les prix"], "correct": 0, "exp": "Maintenir la paix est sa mission première." },
+      { "q": "Les problèmes comme le changement climatique sont :", "options": ["réglés par un seul pays", "traités au niveau international", "sans importance", "inexistants"], "correct": 1, "exp": "Ils demandent une coopération internationale." },
+      { "q": "Quel domaine relève de la FAO ?", "options": ["l'alimentation et l'agriculture", "l'armée", "la musique", "les transports aériens"], "correct": 0, "exp": "La FAO s'occupe de l'alimentation et de l'agriculture." }
+    ]
+  }
+]

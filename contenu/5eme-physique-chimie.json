@@ -1,0 +1,110 @@
+[
+  {
+    "classe": "5eme",
+    "matiere": "Physique-Chimie",
+    "id": "pc5-lumiere",
+    "titre": "La lumière : sources, propagation et ombres",
+    "duree": "40 min",
+    "contenu": "<p>La <b>lumière</b> permet de voir les objets. Il existe des sources de lumière qui en produisent elles-mêmes, et des objets qui la renvoient seulement.</p><div class='definition'><b>Une source primaire</b> produit sa propre lumière : le Soleil, une lampe, une flamme.<br><b>Une source secondaire</b> renvoie la lumière qu'elle reçoit : la Lune, un miroir, une feuille de papier.<br><b>Propagation rectiligne :</b> dans un milieu homogène et transparent, la lumière se déplace en ligne droite.<br><b>Vitesse de la lumière :</b> environ 300 000 km/s dans le vide ou dans l'air.</div><p>Un objet opaque arrête la lumière et crée une <b>ombre</b> derrière lui. Un objet transparent laisse passer la lumière. Un objet translucide la laisse passer en la diffusant.</p><div class='exemple'><b>Exemple :</b> pendant une éclipse de Lune, la Terre se place entre le Soleil et la Lune : son ombre tombe sur la Lune.</div><div class='astuce'><b>Astuce :</b> pour te rappeler la propagation rectiligne, pense à un rayon de soleil qui passe par une fente : il trace une ligne droite dans la poussière.</div>",
+    "exercices": [
+      { "q": "Quelle est la différence entre une source primaire et une source secondaire ?", "r": "La source primaire produit sa propre lumière (Soleil). La source secondaire renvoie la lumière reçue (Lune).", "indice": "Demande-toi si l'objet fabrique la lumière ou la renvoie." },
+      { "q": "Classe ces objets en source primaire ou secondaire : une lampe, la Lune, une bougie, un miroir.", "r": "Primaires : lampe, bougie. Secondaires : Lune, miroir.", "indice": "Les objets qui fabriquent leur lumière sont primaires." },
+      { "q": "Qu'est-ce que la propagation rectiligne de la lumière ?", "r": "Dans un milieu homogène et transparent, la lumière se déplace en ligne droite.", "indice": "Pense à un rayon de soleil dans une pièce." },
+      { "q": "Pourquoi un objet opaque produit-il une ombre ?", "r": "Il arrête la lumière, qui ne peut pas passer derrière lui en ligne droite.", "indice": "Pense à la propagation rectiligne." },
+      { "q": "Quelle est la vitesse approximative de la lumière dans l'air ?", "r": "Environ 300 000 km/s.", "indice": "C'est une vitesse très élevée, bien plus grande que celle du son." }
+    ],
+    "qcm": [
+      { "q": "Le Soleil est une source :", "options": ["secondaire", "primaire", "opaque", "translucide"], "correct": 1, "exp": "Le Soleil produit sa propre lumière." },
+      { "q": "La Lune est une source :", "options": ["primaire", "secondaire", "transparente", "lumineuse"], "correct": 1, "exp": "La Lune renvoie la lumière du Soleil : elle est secondaire." },
+      { "q": "Dans un milieu homogène, la lumière se propage :", "options": ["en ligne droite", "en cercle", "en zigzag", "elle ne se propage pas"], "correct": 0, "exp": "C'est la propagation rectiligne." },
+      { "q": "Un objet opaque :", "options": ["laisse passer la lumière", "arrête la lumière et crée une ombre", "diffuse la lumière", "produit de la lumière"], "correct": 1, "exp": "Un objet opaque bloque la lumière." },
+      { "q": "Une vitre est un objet :", "options": ["opaque", "transparent", "source primaire", "translucide uniquement"], "correct": 1, "exp": "Une vitre transparente laisse passer la lumière." },
+      { "q": "La vitesse de la lumière dans l'air est d'environ :", "options": ["300 km/s", "300 000 km/s", "3 m/s", "340 m/s"], "correct": 1, "exp": "La lumière va à environ 300 000 km/s." },
+      { "q": "Une éclipse de Lune se produit quand :", "options": ["la Lune passe devant le Soleil", "la Terre se place entre le Soleil et la Lune", "le Soleil disparaît", "la Lune tourne sur elle-même"], "correct": 1, "exp": "La Terre projette son ombre sur la Lune." },
+      { "q": "Un objet translucide :", "options": ["laisse passer la lumière en la diffusant", "bloque toute la lumière", "produit sa propre lumière", "est invisible"], "correct": 0, "exp": "Il laisse passer la lumière de façon diffuse : papier calque, verre dépoli." },
+      { "q": "Le miroir est une source :", "options": ["primaire", "secondaire", "opaque et primaire", "inexistante"], "correct": 1, "exp": "Le miroir renvoie la lumière reçue." },
+      { "q": "Une lampe allumée est une source :", "options": ["primaire", "secondaire", "transparente", "opaque"], "correct": 0, "exp": "La lampe produit sa propre lumière." }
+    ]
+  },
+  {
+    "classe": "5eme",
+    "matiere": "Physique-Chimie",
+    "id": "pc5-forces-poids",
+    "titre": "Les forces : force, poids et dynamomètre",
+    "duree": "40 min",
+    "contenu": "<p>Une <b>force</b> peut mettre un objet en mouvement, le ralentir, le déformer ou le maintenir en équilibre. Elle se mesure en <b>newton (N)</b> à l'aide d'un <b>dynamomètre</b>.</p><div class='definition'><b>Le poids</b> est la force d'attraction exercée par la Terre sur un objet. Il dépend de la masse : P = m × g, avec m la masse en kg et g ≈ 10 N/kg.<br><b>La masse</b> est la quantité de matière de l'objet. Elle se mesure avec une balance, en kg. Elle ne change pas d'un lieu à l'autre.<br><b>Le poids</b> peut changer selon le lieu (sur la Lune, il est plus faible).</div><div class='exemple'><b>Exemple :</b> un sac de riz de 5 kg a un poids de P = 5 × 10 = 50 N. Sa masse est la même partout, mais son poids serait plus faible sur la Lune.</div><div class='astuce'><b>Astuce :</b> pour convertir la masse en poids, multiplie par 10 (approximation). Pour l'inverse, divise le poids par 10 pour trouver la masse en kg.</div>",
+    "exercices": [
+      { "q": "Quelles sont les effets possibles d'une force ?", "r": "Mettre en mouvement, ralentir, déformer, maintenir en équilibre.", "indice": "Pense à ce qu'une poussée ou un tirage peut faire à un objet." },
+      { "q": "Quelle est l'unité de la force ?", "r": "Le newton (N).", "indice": "Il porte le nom d'un physicien anglais." },
+      { "q": "Calcule le poids d'un objet de 4 kg. (g ≈ 10 N/kg)", "r": "P = 4 × 10 = 40 N.", "indice": "P = m × g." },
+      { "q": "Un objet a un poids de 30 N. Quelle est sa masse ?", "r": "m = P ÷ g = 30 ÷ 10 = 3 kg.", "indice": "Divise le poids par g." },
+      { "q": "Quelle est la différence entre masse et poids ?", "r": "La masse est la quantité de matière (en kg), constante. Le poids est la force de la Terre sur l'objet (en N), qui dépend du lieu.", "indice": "La masse ne change pas, le poids varie selon le lieu." }
+    ],
+    "qcm": [
+      { "q": "L'unité de la force est :", "options": ["le kilogramme", "le newton", "le mètre", "le litre"], "correct": 1, "exp": "La force s'exprime en newton (N)." },
+      { "q": "Le poids d'un objet de 2 kg vaut environ :", "options": ["2 N", "20 N", "200 N", "0,2 N"], "correct": 1, "exp": "P = 2 × 10 = 20 N." },
+      { "q": "Le dynamomètre sert à :", "options": ["mesurer une masse", "mesurer une force", "mesurer une température", "mesurer un volume"], "correct": 1, "exp": "Il mesure les forces, en newtons." },
+      { "q": "La masse se mesure en :", "options": ["newton", "kilogramme", "mètre", "seconde"], "correct": 1, "exp": "La masse est exprimée en kilogramme." },
+      { "q": "Un objet de masse 3 kg a un poids de :", "options": ["3 N", "30 N", "300 N", "0,3 N"], "correct": 1, "exp": "P = 3 × 10 = 30 N." },
+      { "q": "Un objet dont le poids est 50 N a une masse de :", "options": ["5 kg", "50 kg", "500 kg", "0,5 kg"], "correct": 0, "exp": "m = 50 ÷ 10 = 5 kg." },
+      { "q": "Le poids d'un objet est :", "options": ["la quantité de matière", "la force d'attraction de la Terre", "son volume", "sa couleur"], "correct": 1, "exp": "Le poids est la force exercée par la Terre sur l'objet." },
+      { "q": "La masse d'un objet, en comparaison avec son poids :", "options": ["change selon le lieu", "reste la même partout", "est toujours nulle", "vaut toujours son poids"], "correct": 1, "exp": "La masse est constante, contrairement au poids." },
+      { "q": "Une force peut :", "options": ["seulement mettre en mouvement", "déformer un objet", "ne rien faire", "seulement ralentir"], "correct": 1, "exp": "Une force peut déformer, mettre en mouvement, ralentir ou équilibrer." },
+      { "q": "Sur la Lune, le poids d'un objet est :", "options": ["plus élevé que sur Terre", "plus faible que sur Terre", "identique à la Terre", "nul"], "correct": 1, "exp": "L'attraction lunaire est plus faible : le poids diminue, la masse reste la même." }
+    ]
+  },
+  {
+    "classe": "5eme",
+    "matiere": "Physique-Chimie",
+    "id": "pc5-masse-volumique",
+    "titre": "La masse volumique",
+    "duree": "40 min",
+    "contenu": "<p>Deux objets de même volume n'ont pas forcément la même masse. Pour comparer la « lourdeur » de deux matières à volume égal, on utilise la <b>masse volumique</b>.</p><div class='definition'><b>La masse volumique</b> ρ est la masse d'une unité de volume d'une substance : ρ = m ÷ V.<br>Unités courantes : g/cm³ ou kg/m³ (1 g/cm³ = 1 000 kg/m³).<br><b>Un corps qui a une masse volumique plus grande que l'eau</b> coule. Un corps moins dense que l'eau flotte.</div><div class='exemple'><b>Exemple :</b> 1 cm³ de fer a une masse d'environ 7,9 g : sa masse volumique est 7,9 g/cm³. L'eau a une masse volumique de 1 g/cm³, donc le fer coule dans l'eau.</div><p>Pour calculer la masse à partir de la masse volumique : m = ρ × V. Pour calculer le volume : V = m ÷ ρ.</p><div class='astuce'><b>Astuce :</b> retiens la formule avec le triangle : m en haut, ρ et V en bas (ρ × V = m ; m ÷ V = ρ ; m ÷ ρ = V).</div>",
+    "exercices": [
+      { "q": "Qu'est-ce que la masse volumique ?", "r": "C'est la masse d'une unité de volume d'une substance.", "indice": "Pense à la masse rapportée au volume." },
+      { "q": "Calcule la masse volumique d'un objet de 200 g de volume 100 cm³.", "r": "ρ = 200 ÷ 100 = 2 g/cm³.", "indice": "ρ = m ÷ V." },
+      { "q": "Un bloc a une masse volumique de 2 g/cm³ et un volume de 50 cm³. Calcule sa masse.", "r": "m = 2 × 50 = 100 g.", "indice": "m = ρ × V." },
+      { "q": "Un objet de masse volumique 0,8 g/cm³ flotte-t-il dans l'eau ? Justifie.", "r": "Oui, car 0,8 est inférieur à 1 g/cm³, la masse volumique de l'eau.", "indice": "Compare avec l'eau." },
+      { "q": "Convertis 2,5 g/cm³ en kg/m³.", "r": "2,5 × 1 000 = 2 500 kg/m³.", "indice": "1 g/cm³ = 1 000 kg/m³." }
+    ],
+    "qcm": [
+      { "q": "La formule de la masse volumique est :", "options": ["ρ = m × V", "ρ = m ÷ V", "ρ = V ÷ m", "ρ = m + V"], "correct": 1, "exp": "ρ = m ÷ V." },
+      { "q": "L'unité la plus courante de la masse volumique est :", "options": ["le newton", "le g/cm³", "le litre", "le mètre"], "correct": 1, "exp": "On utilise souvent g/cm³ ou kg/m³." },
+      { "q": "La masse volumique de l'eau est d'environ :", "options": ["0,1 g/cm³", "1 g/cm³", "10 g/cm³", "100 g/cm³"], "correct": 1, "exp": "L'eau a une masse volumique voisine de 1 g/cm³." },
+      { "q": "Un objet de masse volumique supérieure à celle de l'eau :", "options": ["flotte", "coule", "disparaît", "remonte"], "correct": 1, "exp": "Il est plus dense que l'eau : il coule." },
+      { "q": "Calcul : m = 300 g et V = 150 cm³. ρ vaut :", "options": ["2 g/cm³", "0,5 g/cm³", "450 g/cm³", "150 g/cm³"], "correct": 0, "exp": "300 ÷ 150 = 2 g/cm³." },
+      { "q": "Calcul : ρ = 3 g/cm³ et V = 10 cm³. La masse vaut :", "options": ["0,3 g", "3 g", "30 g", "13 g"], "correct": 2, "exp": "m = ρ × V = 3 × 10 = 30 g." },
+      { "q": "1 g/cm³ équivaut à :", "options": ["10 kg/m³", "100 kg/m³", "1 000 kg/m³", "10 000 kg/m³"], "correct": 2, "exp": "1 g/cm³ = 1 000 kg/m³." },
+      { "q": "Un corps de masse volumique 0,9 g/cm³ dans l'eau :", "options": ["coule", "flotte", "reste au fond", "se dissout"], "correct": 1, "exp": "Il est moins dense que l'eau : il flotte." },
+      { "q": "Pour calculer le volume, on utilise :", "options": ["V = m × ρ", "V = m ÷ ρ", "V = ρ + m", "V = ρ ÷ m"], "correct": 1, "exp": "V = m ÷ ρ." },
+      { "q": "À volume égal, deux corps de masses différentes ont :", "options": ["des masses volumiques différentes", "la même masse volumique", "le même poids", "le même volume"], "correct": 0, "exp": "Leurs masses volumiques diffèrent puisque leurs masses diffèrent." }
+    ]
+  },
+  {
+    "classe": "5eme",
+    "matiere": "Physique-Chimie",
+    "id": "pc5-circuit-electrique",
+    "titre": "Les circuits électriques : série et dérivation",
+    "duree": "40 min",
+    "contenu": "<p>Un <b>circuit électrique</b> est un ensemble de composants reliés par des fils conducteurs, qui permet au courant électrique de circuler.</p><div class='definition'><b>Le générateur</b> (pile, batterie) fournit l'énergie électrique.<br><b>Le conducteur</b> (fil de cuivre) laisse passer le courant. Un <b>isolant</b> (plastique) ne le laisse pas passer.<br><b>L'interrupteur</b> ouvre ou ferme le circuit.<br><b>Le circuit en série</b> : les composants sont placés les uns à la suite des autres, sur un seul chemin. Si l'un est coupé, tout s'éteint.<br><b>Le circuit en dérivation</b> : les composants sont sur plusieurs branches. Si l'un est coupé, les autres continuent de fonctionner.</div><div class='exemple'><b>Exemple :</b> les guirlandes anciennes étaient en série : une ampoule grillée éteignait toute la guirlande. Les lampes d'une maison sont montées en dérivation : une lampe éteinte n'empêche pas les autres de briller.</div><div class='astuce'><b>Astuce :</b> pour reconnaître le montage, cherche s'il existe un seul chemin (série) ou plusieurs chemins possibles (dérivation).</div>",
+    "exercices": [
+      { "q": "Quel est le rôle du générateur dans un circuit ?", "r": "Il fournit l'énergie électrique au circuit.", "indice": "Pense à la pile ou à la batterie." },
+      { "q": "Donne un conducteur et un isolant.", "r": "Conducteur : le cuivre (fil). Isolant : le plastique.", "indice": "Le conducteur laisse passer le courant." },
+      { "q": "Quelle est la différence entre un montage en série et en dérivation ?", "r": "En série, un seul chemin : si un composant est coupé, tout s'arrête. En dérivation, plusieurs branches : les autres continuent de fonctionner.", "indice": "Compte les chemins possibles du courant." },
+      { "q": "Pourquoi l'interrupteur est-il utile ?", "r": "Il permet d'ouvrir ou de fermer le circuit, donc d'allumer ou d'éteindre.", "indice": "Pense à un interrupteur de lampe." },
+      { "q": "Dans un montage en dérivation, une lampe est grillée. Que se passe-t-il pour les autres ?", "r": "Elles continuent de fonctionner.", "indice": "Pense aux branches indépendantes." }
+    ],
+    "qcm": [
+      { "q": "Le générateur d'un circuit est :", "options": ["l'interrupteur", "la pile ou la batterie", "le fil", "la lampe"], "correct": 1, "exp": "Il fournit l'énergie électrique." },
+      { "q": "Un conducteur est un matériau qui :", "options": ["bloque le courant", "laisse passer le courant", "produit du courant", "éteint les lampes"], "correct": 1, "exp": "Les conducteurs laissent passer le courant." },
+      { "q": "Un isolant est par exemple :", "options": ["le cuivre", "le plastique", "le fer", "l'aluminium"], "correct": 1, "exp": "Le plastique ne laisse pas passer le courant." },
+      { "q": "Dans un montage en série, si une lampe est coupée :", "options": ["les autres continuent", "tout s'éteint", "rien ne change", "le générateur explose"], "correct": 1, "exp": "Il n'y a qu'un seul chemin : le circuit est interrompu." },
+      { "q": "Dans un montage en dérivation, si une lampe est coupée :", "options": ["tout s'éteint", "les autres continuent de briller", "le courant s'arrête", "la pile se recharge"], "correct": 1, "exp": "Les branches sont indépendantes." },
+      { "q": "L'interrupteur sert à :", "options": ["produire du courant", "ouvrir ou fermer le circuit", "éclairer", "stocker l'énergie"], "correct": 1, "exp": "Il ouvre ou ferme le circuit." },
+      { "q": "Les lampes d'une maison sont généralement montées :", "options": ["en série", "en dérivation", "en court-circuit", "sans fil"], "correct": 1, "exp": "En dérivation, une lampe éteinte n'éteint pas les autres." },
+      { "q": "Un circuit électrique est :", "options": ["un ensemble de composants reliés pour faire circuler le courant", "une route", "un câble isolant", "une lampe seule"], "correct": 0, "exp": "C'est un ensemble de composants reliés par des conducteurs." },
+      { "q": "Le fil de cuivre est :", "options": ["un isolant", "un conducteur", "un générateur", "un interrupteur"], "correct": 1, "exp": "Le cuivre est un bon conducteur." },
+      { "q": "Pour reconnaître un montage en série, il faut :", "options": ["plusieurs chemins possibles", "un seul chemin pour le courant", "une pile obligatoire", "deux interrupteurs"], "correct": 1, "exp": "Un seul chemin : c'est un montage en série." }
+    ]
+  }
+]

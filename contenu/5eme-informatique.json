@@ -1,0 +1,110 @@
+[
+  {
+    "classe": "5eme",
+    "matiere": "Informatique",
+    "id": "i5-traitement-texte",
+    "titre": "Le traitement de texte : mise en forme d'un document",
+    "duree": "40 min",
+    "contenu": "<p>Un <b>traitement de texte</b> permet de saisir, corriger et mettre en forme un document : lettre, rapport, affiche. Une bonne mise en forme rend le texte plus lisible et plus professionnel.</p><div class='definition'><b>La police</b> est le style des caractères (Arial, Times New Roman).<br><b>La taille</b> est la hauteur des caractères, mesurée en points.<br><b>Le gras, l'italique et le souligné</b> sont des styles qui mettent en valeur un mot ou une phrase.<br><b>L'alignement</b> définit la position du texte : à gauche, centré, à droite ou justifié.<br><b>Le titre</b> est un texte plus grand et mis en évidence, qui structure le document.</div><p>Pour bien mettre en forme : utilise peu de polices (deux au maximum), garde une taille de texte uniforme pour le corps du texte et réserve le gras aux titres ou aux mots importants.</p><div class='exemple'><b>Exemple :</b> pour une lettre à ton directeur, utilise un titre centré en gras, un corps de texte justifié en taille 12, et un espace entre chaque paragraphe.</div><div class='astuce'><b>Astuce :</b> l'outil « Reproduire la mise en forme » (pinceau) permet de copier le style d'un texte vers un autre, ce qui fait gagner du temps.</div>",
+    "exercices": [
+      { "q": "Qu'est-ce que la police de caractères ?", "r": "Le style des lettres : par exemple Arial ou Times New Roman.", "indice": "Pense à la forme des lettres." },
+      { "q": "Quelle est la différence entre gras et italique ?", "r": "Le gras épaissit les caractères ; l'italique les penche vers la droite.", "indice": "Pense à l'aspect visuel des lettres." },
+      { "q": "Quels sont les différents types d'alignement d'un paragraphe ?", "r": "À gauche, centré, à droite, justifié.", "indice": "Pense à la position du texte sur la page." },
+      { "q": "Pourquoi utiliser peu de polices dans un document ?", "r": "Pour que le texte reste lisible et cohérent.", "indice": "Pense à l'effet d'un document trop chargé." },
+      { "q": "Décris la mise en forme d'un titre bien structuré.", "r": "Exemple : un titre plus grand, en gras, centré, séparé du texte par un espace.", "indice": "Pense à ce qui met le titre en évidence." }
+    ],
+    "qcm": [
+      { "q": "La police de caractères désigne :", "options": ["la taille du texte", "le style des lettres", "la couleur de la page", "le nombre de pages"], "correct": 1, "exp": "La police est le style graphique des caractères." },
+      { "q": "La taille d'un texte se mesure en :", "options": ["mètres", "points", "litres", "kilogrammes"], "correct": 1, "exp": "La taille des caractères s'exprime en points." },
+      { "q": "Le gras sert à :", "options": ["pencher le texte", "épaissir le texte pour le mettre en valeur", "effacer le texte", "changer de page"], "correct": 1, "exp": "Le gras met en évidence." },
+      { "q": "L'alignement justifié signifie :", "options": ["texte centré", "texte aligné à gauche uniquement", "texte aligné à droite et à gauche", "texte en colonnes"], "correct": 2, "exp": "Le texte justifié est aligné des deux côtés." },
+      { "q": "Combien de polices conseille-t-on au maximum dans un document ?", "options": ["une dizaine", "deux", "cinq", "aucune"], "correct": 1, "exp": "Deux polices suffisent en général." },
+      { "q": "Le titre d'un document doit être :", "options": ["plus petit que le texte", "mis en évidence", "caché", "en couleur uniquement"], "correct": 1, "exp": "Un titre est mis en évidence pour structurer le document." },
+      { "q": "L'italique consiste à :", "options": ["épaissir les lettres", "pencher les lettres vers la droite", "souligner", "barrer"], "correct": 1, "exp": "Les caractères sont penchés." },
+      { "q": "L'outil « reproduire la mise en forme » sert à :", "options": ["imprimer", "copier un style vers un autre texte", "supprimer un texte", "changer de police automatiquement"], "correct": 1, "exp": "Il copie le style d'un texte." },
+      { "q": "Un alignement centré est utilisé surtout pour :", "options": ["les titres", "les longs paragraphes", "les chiffres", "les liens"], "correct": 0, "exp": "Les titres sont souvent centrés." },
+      { "q": "Une bonne mise en forme rend un texte :", "options": ["illisible", "lisible et professionnel", "plus long", "plus difficile"], "correct": 1, "exp": "Elle améliore la lisibilité." }
+    ]
+  },
+  {
+    "classe": "5eme",
+    "matiere": "Informatique",
+    "id": "i5-tableur",
+    "titre": "Le tableur : cellules, formules et calculs",
+    "duree": "40 min",
+    "contenu": "<p>Un <b>tableur</b> (comme Excel ou LibreOffice Calc) organise les données dans un tableau. Il permet de faire des calculs automatiquement et de présenter des données sous forme de graphiques.</p><div class='definition'><b>Une cellule</b> est la case du tableau. Elle est repérée par sa colonne (lettre) et sa ligne (chiffre) : par exemple A1, B3.<br><b>Une formule</b> commence par le signe égal (=). Elle permet de calculer à partir du contenu des cellules.<br><b>Une somme</b> s'écrit par exemple =SOMME(A1:A5) : elle additionne les cellules de A1 à A5.<br><b>Une référence relative</b> s'adapte si on copie la formule vers une autre cellule.</div><div class='exemple'><b>Exemple :</b> dans la cellule C1, on écrit =A1*B1 pour calculer le total d'un article : prix (A1) multiplié par quantité (B1). En copiant la formule vers le bas, chaque ligne se calcule automatiquement.</div><div class='astuce'><b>Astuce :</b> tu n'as jamais besoin de retaper un résultat. Si tu modifies une donnée, la formule met à jour le résultat automatiquement.</div>",
+    "exercices": [
+      { "q": "Comment s'appelle la case d'un tableur et comment est-elle repérée ?", "r": "C'est une cellule, repérée par sa colonne (lettre) et sa ligne (chiffre), par exemple B3.", "indice": "Pense à la lettre et au chiffre du tableau." },
+      { "q": "Par quel signe commence une formule dans un tableur ?", "r": "Le signe égal (=).", "indice": "C'est le premier symbole de la formule." },
+      { "q": "Écris la formule qui additionne les cellules de A1 à A5.", "r": "=SOMME(A1:A5).", "indice": "Utilise la fonction SOMME avec deux points entre les cellules." },
+      { "q": "Dans la cellule C1, on veut calculer le prix (A1) multiplié par la quantité (B1). Quelle formule écrire ?", "r": "=A1*B1.", "indice": "La multiplication s'écrit avec une étoile." },
+      { "q": "Pourquoi n'a-t-on pas besoin de retaper un résultat si on modifie une donnée ?", "r": "Parce que la formule recalcule automatiquement le résultat à partir des cellules.", "indice": "Pense au lien entre formule et cellule." }
+    ],
+    "qcm": [
+      { "q": "Une cellule de tableur est repérée par :", "options": ["un nom", "sa colonne et sa ligne", "sa couleur", "sa taille"], "correct": 1, "exp": "Par exemple B3 : colonne B, ligne 3." },
+      { "q": "Une formule commence par :", "options": ["une lettre", "le signe =", "un point", "un espace"], "correct": 1, "exp": "Toute formule commence par =." },
+      { "q": "La formule =SOMME(A1:A5) :", "options": ["multiplie A1 et A5", "additionne les cellules de A1 à A5", "compte les lettres", "supprime les cellules"], "correct": 1, "exp": "Elle additionne les cellules de A1 à A5." },
+      { "q": "La formule qui multiplie A1 par B1 est :", "options": ["=A1+B1", "=A1*B1", "=A1/B1", "=A1-B1"], "correct": 1, "exp": "La multiplication s'écrit avec *." },
+      { "q": "Un tableur sert surtout à :", "options": ["écrire des lettres", "faire des calculs automatiques", "dessiner", "écouter de la musique"], "correct": 1, "exp": "Il calcule automatiquement à partir des données." },
+      { "q": "La division s'écrit avec :", "options": ["*", "/", "+", "-"], "correct": 1, "exp": "La division utilise le symbole /." },
+      { "q": "La cellule B3 se trouve :", "options": ["colonne B, ligne 3", "colonne 3, ligne B", "colonne A, ligne 2", "colonne C, ligne 1"], "correct": 0, "exp": "La lettre désigne la colonne, le chiffre la ligne." },
+      { "q": "Si on modifie une donnée utilisée dans une formule :", "options": ["le résultat ne change pas", "le résultat se met à jour automatiquement", "le tableur s'éteint", "la formule disparaît"], "correct": 1, "exp": "La formule recalcule le résultat." },
+      { "q": "Un graphique dans un tableur permet de :", "options": ["présenter les données visuellement", "écrire un texte", "supprimer les cellules", "changer de logiciel"], "correct": 0, "exp": "Il présente les données sous forme visuelle." },
+      { "q": "Une référence relative :", "options": ["reste fixe quand on copie la formule", "s'adapte quand on copie la formule", "supprime la formule", "n'existe pas"], "correct": 1, "exp": "Elle s'adapte lors de la copie." }
+    ]
+  },
+  {
+    "classe": "5eme",
+    "matiere": "Informatique",
+    "id": "i5-sauvegarde-supports",
+    "titre": "Sauvegarder ses données et les supports de stockage",
+    "duree": "40 min",
+    "contenu": "<p>Les données sont précieuses : un fichier perdu peut être irrécupérable. Il faut donc les <b>sauvegarder</b>, c'est-à-dire en faire une copie supplémentaire, rangée ailleurs.</p><div class='definition'><b>La mémoire vive (RAM)</b> conserve les données le temps de l'utilisation. Elle s'efface quand l'ordinateur est éteint.<br><b>Le disque dur</b> conserve les données de façon durable, même éteint.<br><b>Une clé USB</b> est un support de stockage portable.<br><b>Le cloud</b> (ou « nuage ») est un stockage sur des serveurs distants accessibles par internet.<br><b>La sauvegarde</b> est une copie des fichiers importants, stockée à part pour les récupérer en cas de problème.</div><p>La règle de base est de sauvegarder régulièrement, et de conserver les copies sur deux supports différents.</p><div class='exemple'><b>Exemple :</b> un élève enregistre son rapport sur l'ordinateur, puis en copie une version sur une clé USB et sur un service de stockage en ligne. Si l'ordinateur tombe en panne, le rapport est toujours disponible.</div><div class='astuce'><b>Astuce :</b> ne garde jamais un seul exemplaire de tes travaux importants. Une copie sur clé USB et une copie sur le cloud protègent bien mieux qu'une seule copie.</div>",
+    "exercices": [
+      { "q": "Qu'est-ce que sauvegarder ?", "r": "Faire une copie des fichiers importants, rangée à part, pour les récupérer en cas de problème.", "indice": "Pense à la protection contre la perte." },
+      { "q": "Quelle est la différence entre la mémoire vive et le disque dur ?", "r": "La mémoire vive s'efface à l'extinction ; le disque dur conserve les données durablement.", "indice": "Pense à ce qui reste après avoir éteint l'ordinateur." },
+      { "q": "Qu'est-ce que le cloud ?", "r": "Un stockage de données sur des serveurs distants, accessible par internet.", "indice": "Pense à un stockage en ligne." },
+      { "q": "Pourquoi conserver ses copies sur deux supports différents ?", "r": "Pour ne pas tout perdre si un support tombe en panne.", "indice": "Pense au risque de panne d'un seul support." },
+      { "q": "Cite deux supports de stockage portables.", "r": "La clé USB, le disque dur externe, la carte mémoire.", "indice": "Pense aux objets qu'on peut emporter." }
+    ],
+    "qcm": [
+      { "q": "Sauvegarder un fichier signifie :", "options": ["le supprimer", "en faire une copie rangée à part", "le cacher", "le renommer"], "correct": 1, "exp": "C'est faire une copie de protection." },
+      { "q": "La mémoire vive :", "options": ["conserve les données durablement", "s'efface quand l'ordinateur est éteint", "est un logiciel", "est une imprimante"], "correct": 1, "exp": "Elle ne garde rien à l'extinction." },
+      { "q": "Le disque dur conserve les données :", "options": ["seulement pendant l'utilisation", "durablement", "uniquement sur internet", "jamais"], "correct": 1, "exp": "Il garde les données même éteint." },
+      { "q": "Le cloud est :", "options": ["un nuage physique", "un stockage sur des serveurs distants", "une clé USB", "un logiciel de jeu"], "correct": 1, "exp": "C'est un stockage en ligne." },
+      { "q": "Une clé USB est :", "options": ["un support de stockage portable", "un écran", "un logiciel", "un câble d'alimentation uniquement"], "correct": 0, "exp": "C'est un support portable pour stocker des données." },
+      { "q": "La règle de sauvegarde conseillée est :", "options": ["une seule copie suffit", "garder les copies sur deux supports différents", "ne jamais sauvegarder", "tout effacer"], "correct": 1, "exp": "Deux supports différents protègent mieux." },
+      { "q": "Si l'ordinateur tombe en panne, une sauvegarde permet :", "options": ["de perdre ses travaux", "de récupérer ses fichiers", "de casser l'écran", "de ne rien faire"], "correct": 1, "exp": "Elle permet de retrouver les fichiers." },
+      { "q": "Un support de stockage sert à :", "options": ["écrire des lettres uniquement", "conserver des données", "afficher des images", "jouer de la musique uniquement"], "correct": 1, "exp": "Il conserve les données." },
+      { "q": "Pourquoi sauvegarder régulièrement ?", "options": ["pour perdre moins de travail en cas de problème", "pour ralentir l'ordinateur", "pour effacer les fichiers", "pour occuper de la place"], "correct": 0, "exp": "On limite ainsi les pertes en cas de panne." },
+      { "q": "Une carte mémoire est :", "options": ["un support de stockage", "un logiciel", "un navigateur", "une imprimante"], "correct": 0, "exp": "C'est un support portable de stockage." }
+    ]
+  },
+  {
+    "classe": "5eme",
+    "matiere": "Informatique",
+    "id": "i5-algorithme-boucle",
+    "titre": "Algorithme : séquences, conditions et boucles",
+    "duree": "40 min",
+    "contenu": "<p>Un <b>algorithme</b> est une suite d'instructions. Pour résoudre des problèmes plus complexes, on utilise trois structures : la <b>séquence</b>, la <b>condition</b> et la <b>boucle</b>.</p><div class='definition'><b>La séquence</b> : les instructions s'exécutent l'une après l'autre, dans l'ordre.<br><b>La condition (SI)</b> : une instruction n'est exécutée que si une condition est vraie. Exemple : SI il pleut ALORS prendre un parapluie.<br><b>La boucle (RÉPÈTER)</b> : une série d'instructions est répétée plusieurs fois. Exemple : RÉPÉTER 5 fois : frapper dans les mains.</div><div class='exemple'><b>Exemple :</b> algorithme pour dire si un nombre est pair : 1) lire le nombre ; 2) SI le reste de sa division par 2 est 0 ALORS afficher « pair » SINON afficher « impair ».</div><div class='astuce'><b>Astuce :</b> pour rédiger un algorithme avec une condition, pose-toi la question « Que dois-je faire si... ? ». La réponse devient l'instruction SI... ALORS... SINON.</div>",
+    "exercices": [
+      { "q": "Quelle est la différence entre une séquence et une condition ?", "r": "La séquence exécute les instructions dans l'ordre. La condition n'exécute une instruction que si une condition est vraie.", "indice": "Pense à « toujours » et à « seulement si »." },
+      { "q": "Écris un algorithme avec une condition : si la température dépasse 30 °C, boire de l'eau.", "r": "SI température > 30 ALORS boire de l'eau.", "indice": "Utilise la structure SI... ALORS..." },
+      { "q": "Décris une boucle pour écrire le nombre 1 à 5.", "r": "Pour i allant de 1 à 5 : afficher i.", "indice": "La boucle répète la même instruction en changeant un nombre." },
+      { "q": "Explique l'algorithme pour savoir si un nombre est pair.", "r": "Diviser par 2 ; si le reste est 0, le nombre est pair, sinon il est impair.", "indice": "Pense au reste de la division." },
+      { "q": "Écris un algorithme qui répète 3 fois « Bonjour ».", "r": "RÉPÉTER 3 fois : afficher « Bonjour ».", "indice": "Utilise la structure RÉPÉTER." }
+    ],
+    "qcm": [
+      { "q": "Dans une séquence, les instructions :", "options": ["s'exécutent au hasard", "s'exécutent dans l'ordre", "ne s'exécutent pas", "se répètent toujours"], "correct": 1, "exp": "Elles sont exécutées une après l'autre." },
+      { "q": "La structure SI... ALORS... correspond à :", "options": ["une séquence", "une condition", "une boucle", "une variable"], "correct": 1, "exp": "Elle teste une condition." },
+      { "q": "La structure RÉPÉTER correspond à :", "options": ["une condition", "une boucle", "une séquence", "un commentaire"], "correct": 1, "exp": "Elle répète des instructions." },
+      { "q": "Le reste de la division d'un nombre pair par 2 est :", "options": ["1", "0", "2", "3"], "correct": 1, "exp": "Un nombre pair est divisible par 2 : reste 0." },
+      { "q": "Dans l'algorithme « SI il pleut ALORS prendre un parapluie », la condition est :", "options": ["prendre un parapluie", "il pleut", "ALORS", "SI"], "correct": 1, "exp": "La condition est « il pleut »." },
+      { "q": "Une boucle est utile pour :", "options": ["répéter des instructions", "éteindre l'ordinateur", "écrire une lettre", "changer de police"], "correct": 0, "exp": "Elle évite de réécrire les mêmes instructions." },
+      { "q": "Que fait « RÉPÉTER 5 fois : frapper dans les mains » ?", "options": ["frappe une fois", "frappe 5 fois", "ne frappe jamais", "frappe à l'infini"], "correct": 1, "exp": "L'instruction est répétée 5 fois." },
+      { "q": "Le SINON sert à :", "options": ["faire une autre action si la condition n'est pas vraie", "répéter", "arrêter l'algorithme", "écrire un titre"], "correct": 0, "exp": "C'est l'action alternative." },
+      { "q": "Pour rédiger une condition, on se demande :", "options": ["que dois-je faire si... ?", "quelle est la couleur ?", "quel est le titre ?", "où est la souris ?"], "correct": 0, "exp": "La question « que faire si » mène à la condition." },
+      { "q": "Un algorithme est une :", "options": ["suite d'instructions", "image", "police de caractères", "cellule de tableur"], "correct": 0, "exp": "C'est une suite d'instructions précises." }
+    ]
+  }
+]

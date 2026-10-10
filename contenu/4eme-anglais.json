@@ -1,0 +1,110 @@
+[
+  {
+    "classe": "4eme",
+    "matiere": "Anglais",
+    "id": "a4-present-perfect",
+    "titre": "Le present perfect : have/has + participe passé",
+    "duree": "40 min",
+    "contenu": "<p>Le <b>present perfect</b> relie le passé et le présent. On l'utilise pour une expérience de vie, une action passée dont le résultat compte maintenant, ou une action commencée dans le passé et qui continue.</p><div class='definition'><b>Formule affirmative :</b> sujet + have/has + participe passé. Ex. : I have visited Garoua. She has finished her homework.<br><b>have</b> avec I, you, we, they ; <b>has</b> avec he, she, it.<br><b>Négative :</b> haven't / hasn't + participe passé. Ex. : We haven't seen the film.<br><b>Question :</b> Have/Has + sujet + participe passé ? Ex. : Have you ever eaten fufu?<br><b>Participes passés réguliers :</b> play → played ; visit → visited. <b>Irréguliers :</b> go → gone ; see → seen ; eat → eaten ; write → written.</div><div class='exemple'><b>Exemple :</b> <i>I have never been to Kribi.</i> (Je ne suis jamais allé à Kribi.) L'expérience compte, sans date précise.</div><div class='astuce'><b>Astuce :</b> avec le present perfect, on n'utilise pas de moment précis du passé (yesterday, last year, in 2019). On utilise plutôt ever, never, already, yet, just, for, since.</div>",
+    "exercices": [
+      { "q": "Complète avec have ou has : They ... lived here for years. He ... finished his work.", "r": "have ; has.", "indice": "They prend have ; he prend has." },
+      { "q": "Mets au participe passé : go, see, eat, write, play.", "r": "gone, seen, eaten, written, played.", "indice": "Les verbes réguliers prennent -ed ; les irréguliers ont une forme spéciale." },
+      { "q": "Mets à la forme négative : She has visited Douala.", "r": "She hasn't visited Douala.", "indice": "Has + not devient hasn't." },
+      { "q": "Pose la question : You have already eaten.", "r": "Have you already eaten?", "indice": "Mets have en tête de phrase." },
+      { "q": "Traduis : « Je n'ai jamais vu la mer. »", "r": "I have never seen the sea.", "indice": "Never se place entre have et le participe passé." }
+    ],
+    "qcm": [
+      { "q": "Le present perfect se forme avec :", "options": ["will + verbe", "have/has + participe passé", "do + verbe", "was + verbe -ing"], "correct": 1, "exp": "C'est have/has suivi du participe passé." },
+      { "q": "Avec « she », on utilise :", "options": ["have", "has", "had", "having"], "correct": 1, "exp": "Avec he, she, it : has." },
+      { "q": "Le participe passé de « see » est :", "options": ["saw", "seed", "seen", "seeing"], "correct": 2, "exp": "See devient seen." },
+      { "q": "« Nous sommes déjà allés au marché. »", "options": ["We have already went to the market.", "We have already gone to the market.", "We already gone to the market.", "We have gone already to the market yesterday."], "correct": 1, "exp": "Gone est le participe passé de go." },
+      { "q": "La négation de « They have finished » est :", "options": ["They haven't finished.", "They don't finished.", "They hasn't finished.", "They not have finished."], "correct": 0, "exp": "Avec they : haven't." },
+      { "q": "Quel marqueur de temps est compatible avec le present perfect ?", "options": ["yesterday", "last year", "ever", "in 2019"], "correct": 2, "exp": "Ever s'utilise avec le present perfect ; les dates précises non." },
+      { "q": "Le participe passé de « write » est :", "options": ["wrote", "writed", "written", "writing"], "correct": 2, "exp": "Write devient written." },
+      { "q": "Question correcte :", "options": ["Has you ever travelled?", "Have you ever travelled?", "Do you have ever travelled?", "Have you ever travel?"], "correct": 1, "exp": "Have + sujet + participe passé." },
+      { "q": "« Il n'a jamais mangé de fufu. » :", "options": ["He has never eaten fufu.", "He never has eat fufu.", "He hasn't never eaten fufu.", "He has not ate fufu."], "correct": 0, "exp": "Has never + participe passé eaten." },
+      { "q": "Le present perfect exprime :", "options": ["une action future certaine", "une expérience ou une action passée liée au présent", "une habitude du passé uniquement", "un ordre"], "correct": 1, "exp": "Il relie le passé au présent." }
+    ]
+  },
+  {
+    "classe": "4eme",
+    "matiere": "Anglais",
+    "id": "a4-future-will-going-to",
+    "titre": "Parler du futur : will et be going to",
+    "duree": "40 min",
+    "contenu": "<p>En anglais, il existe plusieurs façons de parler du futur. Les deux plus utilisées sont <b>will</b> et <b>be going to</b>.</p><div class='definition'><b>Will</b> sert à exprimer une décision prise au moment de parler, une promesse, une prédiction générale ou une offre. Ex. : I will help you. (Je vais t'aider.)<br><b>Be going to</b> sert à exprimer une intention déjà décidée, ou une prédiction basée sur des signes visibles. Ex. : We are going to travel to Bamenda next week.<br><b>Formes :</b> will + verbe sans to ; be (am/is/are) + going to + verbe.<br><b>Négative :</b> won't (will not) ; am/is/are not going to.</div><div class='exemple'><b>Exemple :</b> <i>Look at those clouds! It is going to rain.</i> (Regarde ces nuages ! Il va pleuvoir.) Le signe visible annonce la pluie. <i>The phone is ringing. I will answer it.</i> (Le téléphone sonne. Je vais répondre.) La décision est prise sur le moment.</div><div class='astuce'><b>Astuce :</b> demande-toi : la décision est-elle déjà prise ou un signe est-il visible ? Si oui, be going to. Si la décision naît maintenant, will.</div>",
+    "exercices": [
+      { "q": "Complète avec will ou be going to : It is cloudy. It ... rain. / I think I ... help you.", "r": "It is going to rain. / I will help you.", "indice": "Signe visible : going to. Décision sur le moment : will." },
+      { "q": "Traduis : « Nous allons visiter Foumban demain. » (le projet est décidé)", "r": "We are going to visit Foumban tomorrow.", "indice": "Projet déjà décidé : be going to." },
+      { "q": "Mets à la forme négative : She will come. / They are going to leave.", "r": "She won't come. / They aren't going to leave.", "indice": "Will not devient won't." },
+      { "q": "Pose une question : Are you going to study tonight? → réponds par une affirmation.", "r": "Yes, I am going to study tonight.", "indice": "Réponds avec le même auxiliaire." },
+      { "q": "Écris une promesse avec will et un projet avec be going to.", "r": "Exemple : I will call you tonight. / I am going to buy a new bag.", "indice": "Promesse : will. Projet décidé : be going to." }
+    ],
+    "qcm": [
+      { "q": "Pour une décision prise sur le moment, on utilise :", "options": ["will", "be going to", "present perfect", "past simple"], "correct": 0, "exp": "La décision naît au moment de parler : will." },
+      { "q": "Pour un projet déjà décidé, on utilise :", "options": ["will", "be going to", "can", "should"], "correct": 1, "exp": "L'intention est déjà formée : be going to." },
+      { "q": "« Regarde, il va tomber ! » (signe visible) :", "options": ["It will fall!", "It is going to fall!", "It falls!", "It has fallen!"], "correct": 1, "exp": "Signe visible : be going to." },
+      { "q": "La négation de « I will go » est :", "options": ["I won't go.", "I don't will go.", "I will not to go.", "I not will go."], "correct": 0, "exp": "Will not devient won't." },
+      { "q": "« Nous allons partir » (projet) :", "options": ["We will leave.", "We are going to leave.", "We leave.", "We left."], "correct": 1, "exp": "Projet décidé : be going to." },
+      { "q": "Après will, le verbe est :", "options": ["à l'infinitif avec to", "sans to", "au -ing", "au passé"], "correct": 1, "exp": "Will est suivi du verbe sans to." },
+      { "q": "La bonne forme avec « he » est :", "options": ["He is going to play.", "He are going to play.", "He am going to play.", "He going to play."], "correct": 0, "exp": "Avec he : is going to." },
+      { "q": "« Je t'aiderai ! » (promesse) :", "options": ["I help you!", "I will help you!", "I going to help you!", "I helped you!"], "correct": 1, "exp": "Promesse : will." },
+      { "q": "Quelle phrase exprime une prédiction basée sur un signe visible ?", "options": ["It will be nice, I think.", "The sky is black. It is going to storm.", "I will be a doctor, maybe.", "It may rain someday."], "correct": 1, "exp": "Le ciel noir est un signe visible : be going to." },
+      { "q": "« They won't come. » signifie :", "options": ["Ils ne viendront pas.", "Ils viennent.", "Ils sont venus.", "Ils viendraient."], "correct": 0, "exp": "Won't = will not : ils ne viendront pas." }
+    ]
+  },
+  {
+    "classe": "4eme",
+    "matiere": "Anglais",
+    "id": "a4-vocabulary-school-life",
+    "titre": "School life : vocabulaire et expressions",
+    "duree": "40 min",
+    "contenu": "<p>La vie scolaire a son vocabulaire propre. Connaître ces mots te permet de parler de ton établissement, de tes cours et de tes activités en anglais.</p><div class='definition'><b>Les matières :</b> maths (mathematics), English, science, history, geography, physics, chemistry, biology, music, physical education (PE).<br><b>Le matériel :</b> a notebook (cahier), a pen (stylo), a pencil (crayon), a ruler (règle), a rubber (gomme), a schoolbag (cartable).<br><b>Les personnes :</b> a pupil ou a student (élève), a teacher (professeur), a headmaster (directeur), a classmate (camarade de classe).<br><b>Les lieux :</b> the classroom (la salle de classe), the library (la bibliothèque), the playground (la cour de récréation), the canteen (la cantine).<br><b>Les expressions :</b> to do homework (faire ses devoirs), to revise for an exam (réviser un examen), to take notes (prendre des notes).</div><div class='exemple'><b>Exemple :</b> <i>My favourite subject is English. I take notes in my notebook, and I do my homework in the library after school.</i></div><div class='astuce'><b>Astuce :</b> retiens les mots par groupes (matières, matériel, lieux). Un bon moyen est de nommer chaque objet de ta salle de classe en anglais.</div>",
+    "exercices": [
+      { "q": "Traduis : cahier, stylo, cartable, règle.", "r": "notebook, pen, schoolbag, ruler.", "indice": "Pense aux objets de ton sac d'école." },
+      { "q": "Traduis : bibliothèque, cantine, cour de récréation, salle de classe.", "r": "library, canteen, playground, classroom.", "indice": "Ce sont des lieux de l'école." },
+      { "q": "Traduis : « J'aime les mathématiques et la biologie. »", "r": "I like mathematics and biology.", "indice": "Mathematics et biology sont des matières." },
+      { "q": "Comment dit-on « faire ses devoirs » et « réviser pour un examen » ?", "r": "to do homework ; to revise for an exam.", "indice": "Utilise les expressions du cours." },
+      { "q": "Écris une phrase sur ta journée à l'école avec trois mots de vocabulaire.", "r": "Exemple : I take notes in my notebook during English class.", "indice": "Utilise un lieu, un matériel et une matière." }
+    ],
+    "qcm": [
+      { "q": "« Cahier » se traduit par :", "options": ["pen", "notebook", "ruler", "bag"], "correct": 1, "exp": "Notebook signifie cahier." },
+      { "q": "« Bibliothèque » se dit :", "options": ["library", "lesson", "classroom", "canteen"], "correct": 0, "exp": "Library est la bibliothèque." },
+      { "q": "Quel mot désigne le professeur ?", "options": ["pupil", "teacher", "headmaster", "classmate"], "correct": 1, "exp": "Teacher signifie professeur." },
+      { "q": "« Cour de récréation » se dit :", "options": ["playground", "canteen", "library", "notebook"], "correct": 0, "exp": "Playground est la cour de récréation." },
+      { "q": "« Réviser pour un examen » se dit :", "options": ["to take notes", "to revise for an exam", "to do homework", "to play football"], "correct": 1, "exp": "C'est l'expression correcte." },
+      { "q": "« Règle » (outil) se traduit par :", "options": ["rubber", "ruler", "pencil", "pen"], "correct": 1, "exp": "Ruler signifie règle." },
+      { "q": "« Directeur » de l'école se dit :", "options": ["headmaster", "teacher", "pupil", "classroom"], "correct": 0, "exp": "Headmaster signifie directeur." },
+      { "q": "« Élève » se dit :", "options": ["teacher", "pupil", "classmate", "playground"], "correct": 1, "exp": "Pupil est l'élève." },
+      { "q": "« Cantine » se traduit par :", "options": ["library", "playground", "canteen", "classroom"], "correct": 2, "exp": "Canteen désigne la cantine." },
+      { "q": "« Prendre des notes » se dit :", "options": ["to take notes", "to make notes", "to write books", "to draw notes"], "correct": 0, "exp": "L'expression correcte est to take notes." }
+    ]
+  },
+  {
+    "classe": "4eme",
+    "matiere": "Anglais",
+    "id": "a4-reading-comprehension",
+    "titre": "Compréhension écrite : repérer les informations clés",
+    "duree": "40 min",
+    "contenu": "<p>Lire un texte en anglais demande une méthode. Il ne faut pas traduire mot à mot : l'objectif est de comprendre l'idée générale, puis de repérer les informations précises.</p><div class='definition'><b>Le skimming</b> consiste à lire rapidement pour saisir l'idée générale (titre, premier paragraphe, dernière phrase).<br><b>Le scanning</b> consiste à chercher une information précise (une date, un nom, un chiffre) sans lire tout le texte.<br><b>Le contexte</b> permet de deviner le sens d'un mot inconnu à partir des mots qui l'entourent.<br><b>Les mots-clés</b> sont les mots qui portent le sens essentiel du texte.</div><div class='exemple'><b>Exemple :</b> dans un texte sur un marché de Yaoundé, si tu lis « the vendors sell fresh vegetables », tu peux deviner que vendors signifie « vendeurs », même sans le savoir, grâce à sell (vendre).</div><div class='astuce'><b>Astuce :</b> avant de lire, regarde les questions. Tu sais alors quelles informations chercher, et tu lis plus efficacement.</div>",
+    "exercices": [
+      { "q": "Quelle différence y a-t-il entre skimming et scanning ?", "r": "Le skimming cherche l'idée générale en lisant vite ; le scanning cherche une information précise.", "indice": "Idée générale ou information précise ?" },
+      { "q": "Dans « The shop opens at seven and closes at eight », quelle information cherches-tu avec le scanning si on te demande l'heure de fermeture ?", "r": "At eight (8 h).", "indice": "Repère le mot clé closes." },
+      { "q": "Devine le sens de « abundant » dans « The harvest was abundant this year, so the market was full. »", "r": "Abondant : il y avait beaucoup de récolte, donc le marché était plein.", "indice": "Le marché est plein : quelle idée est liée ?" },
+      { "q": "Pourquoi regarder les questions avant de lire ?", "r": "Pour savoir quelles informations chercher et lire plus efficacement.", "indice": "Relis l'astuce." },
+      { "q": "Quels mots peux-tu repérer pour comprendre le sens général d'un texte ?", "r": "Le titre, le premier paragraphe, les mots-clés et la dernière phrase.", "indice": "Pense au skimming." }
+    ],
+    "qcm": [
+      { "q": "Le skimming consiste à :", "options": ["lire mot à mot", "lire vite pour l'idée générale", "chercher un chiffre", "traduire tout le texte"], "correct": 1, "exp": "C'est une lecture rapide pour l'idée principale." },
+      { "q": "Le scanning consiste à :", "options": ["chercher une information précise", "lire le texte entier lentement", "écrire un résumé", "dessiner"], "correct": 0, "exp": "On cherche un élément précis." },
+      { "q": "Le contexte sert à :", "options": ["deviner le sens d'un mot inconnu", "effacer les mots", "compter les lettres", "traduire les titres seulement"], "correct": 0, "exp": "Les mots voisins aident à comprendre." },
+      { "q": "Les mots-clés sont :", "options": ["les mots les plus longs", "les mots qui portent le sens essentiel", "les mots inutiles", "les articles"], "correct": 1, "exp": "Ils portent l'information importante." },
+      { "q": "Pour trouver l'heure d'ouverture, on utilise :", "options": ["le skimming", "le scanning", "la traduction mot à mot", "l'écriture"], "correct": 1, "exp": "C'est une information précise : scanning." },
+      { "q": "Avant de lire un texte, il est utile de :", "options": ["le traduire", "lire les questions", "le recopier", "l'effacer"], "correct": 1, "exp": "Les questions guident la lecture." },
+      { "q": "Pour l'idée générale d'un texte, on lit surtout :", "options": ["le titre et le premier paragraphe", "la dernière ligne seulement", "une seule phrase au hasard", "les chiffres"], "correct": 0, "exp": "Titre et premier paragraphe donnent le sujet." },
+      { "q": "Traduire mot à mot un texte anglais est :", "options": ["la meilleure méthode", "souvent inefficace", "obligatoire", "interdit"], "correct": 1, "exp": "Il faut comprendre l'idée, pas traduire chaque mot." },
+      { "q": "« Vendors » signifie probablement :", "options": ["acheteurs", "vendeurs", "voisins", "élèves"], "correct": 1, "exp": "Le contexte (sell) indique vendeurs." },
+      { "q": "Un bon lecteur en anglais :", "options": ["s'arrête à chaque mot inconnu", "devine grâce au contexte", "ne lit jamais la question", "traduit tout"], "correct": 1, "exp": "Il utilise le contexte et les mots-clés." }
+    ]
+  }
+]

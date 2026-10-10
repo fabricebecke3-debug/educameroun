@@ -1,0 +1,110 @@
+[
+  {
+    "classe": "4eme",
+    "matiere": "Français",
+    "id": "f4-complements-verbe",
+    "titre": "Les compléments du verbe : COD et COI",
+    "duree": "40 min",
+    "contenu": "<p>Un verbe peut être suivi de <b>compléments</b> qui précisent l'action. Le sujet et le verbe forment le noyau de la phrase ; les compléments enrichissent la phrase.</p><div class='definition'><b>Le complément d'objet direct (COD)</b> complète le verbe sans préposition. On le trouve en posant la question « qui ? » ou « quoi ? » après le verbe. Ex. : Il mange <i>du riz</i>.<br><b>Le complément d'objet indirect (COI)</b> est relié au verbe par une préposition (à, de). On le trouve avec « à qui ? », « à quoi ? », « de qui ? ». Ex. : Il parle <i>à son professeur</i>.<br><b>Le complément circonstanciel (CC)</b> indique le lieu, le temps, la manière, la cause. Il peut être supprimé sans changer la phrase principale. Ex. : Il mange <i>à midi</i>.</div><p><b>Le pronom complément</b> remplace le complément : le, la, les pour le COD (Je le vois) ; lui, leur pour le COI (Je lui parle).</p><div class='exemple'><b>Exemple :</b> <i>Le maître explique la leçon à ses élèves.</i> La leçon : COD (on demande « explique quoi ? »). À ses élèves : COI (« à qui ? »).</div><div class='astuce'><b>Astuce :</b> si le complément est précédé de « à » ou « de » et qu'il ne peut pas être remplacé par le, la, les, c'est probablement un COI. Teste avec un pronom : le, la, les pour le COD ; lui, leur pour le COI.</div>",
+    "exercices": [
+      { "q": "Souligne le COD et entoure le COI : « Le berger donne du lait à ses enfants. »", "r": "COD : du lait (on donne quoi ?). COI : à ses enfants (à qui ?).", "indice": "COD sans préposition ; COI avec à ou de." },
+      { "q": "Remplace le complément souligné par un pronom : « Je regarde le tableau. » ; « Je parle à mon ami. »", "r": "Je le regarde. ; Je lui parle.", "indice": "Le COD devient le, la, les ; le COI devient lui ou leur." },
+      { "q": "Identifie le complément circonstanciel : « Nous partons demain matin. »", "r": "Demain matin : complément circonstanciel de temps.", "indice": "Il indique quand l'action a lieu et peut être supprimé." },
+      { "q": "Dans « Le président parle aux jeunes de l'avenir », trouve le COI et le complément de l'avenir.", "r": "aux jeunes : COI (à qui ?). de l'avenir : COI aussi, introduit par de (de quoi ?).", "indice": "Toute préposition introduit un COI si le complément est indispensable au sens du verbe." },
+      { "q": "Écris une phrase avec un COD et un COI.", "r": "Exemple : Il offre un livre à son frère.", "indice": "Un livre : COD ; à son frère : COI." }
+    ],
+    "qcm": [
+      { "q": "Le COD est un complément :", "options": ["relié au verbe par une préposition", "sans préposition", "de temps uniquement", "du sujet"], "correct": 1, "exp": "Le COD n'est pas introduit par une préposition." },
+      { "q": "Dans « Il parle à son ami », « à son ami » est :", "options": ["COD", "COI", "CC de lieu", "sujet"], "correct": 1, "exp": "Il est introduit par à : c'est un COI." },
+      { "q": "Dans « Il mange du riz », « du riz » est :", "options": ["COI", "COD", "CC", "attribut"], "correct": 1, "exp": "« Mange quoi ? du riz » : c'est un COD." },
+      { "q": "Le pronom qui remplace un COD masculin singulier est :", "options": ["lui", "le", "leur", "y"], "correct": 1, "exp": "Le COD se remplace par le, la, les." },
+      { "q": "Le pronom qui remplace un COI de personne est :", "options": ["le", "lui", "la", "les"], "correct": 1, "exp": "Le COI de personne se remplace par lui ou leur." },
+      { "q": "Un complément circonstanciel :", "options": ["est toujours un COD", "peut être supprimé sans changer le sens principal", "est toujours un COI", "est le sujet"], "correct": 1, "exp": "Il apporte une précision facultative." },
+      { "q": "Dans « Nous partons demain », « demain » est :", "options": ["COD", "COI", "CC de temps", "sujet"], "correct": 2, "exp": "Il indique le moment : c'est un CC de temps." },
+      { "q": "Dans « Je pense à mes parents », « à mes parents » est :", "options": ["COD", "COI", "sujet", "CC de manière"], "correct": 1, "exp": "C'est un COI, introduit par à." },
+      { "q": "Remplacer « Je regarde la mer » par un pronom donne :", "options": ["Je lui regarde", "Je la regarde", "Je leur regarde", "Je regarde y"], "correct": 1, "exp": "La mer est féminin singulier : la." },
+      { "q": "Dans « Le maître explique la leçon à ses élèves », « à ses élèves » est :", "options": ["COD", "COI", "CC de lieu", "attribut du sujet"], "correct": 1, "exp": "Introduit par à, c'est un COI." }
+    ]
+  },
+  {
+    "classe": "4eme",
+    "matiere": "Français",
+    "id": "f4-discours-rapporte",
+    "titre": "Le discours direct et le discours indirect",
+    "duree": "40 min",
+    "contenu": "<p>Pour rapporter les paroles de quelqu'un, on peut utiliser le <b>discours direct</b> ou le <b>discours indirect</b>.</p><div class='definition'><b>Le discours direct</b> reproduit les paroles exactes, entre guillemets ou après deux-points et tirets dans un dialogue. Ex. : Il dit : « Je viendrai demain. »<br><b>Le discours indirect</b> rapporte les paroles sans guillemets, en les intégrant dans une phrase introduite par « que » ou « si ». Ex. : Il dit qu'il viendra le lendemain.</div><p><b>Les transformations habituelles :</b></p><ul><li>je → il/elle (le sujet change selon le locuteur)</li><li>mon → son ; ma → sa ; mes → ses</li><li>demain → le lendemain ; aujourd'hui → ce jour-là ; ici → là</li><li>le présent devient l'imparfait (je suis → il était) et le futur devient le conditionnel (je viendrai → il viendrait)</li></ul><div class='exemple'><b>Exemple :</b> Direct : Le maître dit : « Vous êtes en retard aujourd'hui. » Indirect : Le maître dit que nous étions en retard ce jour-là.</div><div class='astuce'><b>Astuce :</b> dans une question au discours indirect, il n'y a plus de point d'interrogation ; on utilise « si » (pour une question fermée) ou un mot interrogatif. Ex. : Il demande : « Viens-tu ? » → Il demande si je viens.</div>",
+    "exercices": [
+      { "q": "Transforme au discours indirect : Elle dit : « Je suis malade. »", "r": "Elle dit qu'elle est malade. (ou : Elle dit qu'elle était malade.)", "indice": "Je devient elle ; le présent peut passer à l'imparfait." },
+      { "q": "Transforme au discours direct : Il demande si nous avons fini.", "r": "Il demande : « Avez-vous fini ? »", "indice": "Si dans une question fermée au discours indirect devient une question directe." },
+      { "q": "Transforme au discours indirect : Le père dit : « Je partirai demain. »", "r": "Le père dit qu'il partirait le lendemain.", "indice": "Le futur devient le conditionnel ; demain devient le lendemain." },
+      { "q": "Relève les transformations : « Elle dit : Mon frère vient ce soir. » devient « Elle dit que son frère vient ce soir-là. »", "r": "mon devient son ; ce soir devient ce soir-là.", "indice": "Compare les possessifs et les expressions de temps." },
+      { "q": "Rapporte au discours indirect : « Où est ton livre ? » demande le maître à l'élève.", "r": "Le maître demande à l'élève où est son livre.", "indice": "Une question ouverte garde le mot interrogatif ; ton devient son." }
+    ],
+    "qcm": [
+      { "q": "Le discours direct reproduit :", "options": ["un résumé", "les paroles exactes", "une description", "une opinion"], "correct": 1, "exp": "Il reproduit les paroles mot pour mot." },
+      { "q": "Le discours indirect est introduit souvent par :", "options": ["que", "le", "la", "et"], "correct": 0, "exp": "Il utilise la conjonction que (ou si)." },
+      { "q": "« Je viendrai » au discours indirect devient :", "options": ["il vient", "il viendrait", "il venait", "il est venu"], "correct": 1, "exp": "Le futur devient le conditionnel : il viendrait." },
+      { "q": "Au discours indirect, « mon » devient généralement :", "options": ["ton", "son", "notre", "votre"], "correct": 1, "exp": "Le possessif s'adapte : mon → son." },
+      { "q": "« Demain » devient au discours indirect :", "options": ["aujourd'hui", "hier", "le lendemain", "ce soir"], "correct": 2, "exp": "Demain devient le lendemain." },
+      { "q": "Une question fermée au discours indirect est introduite par :", "options": ["si", "que", "où", "quand"], "correct": 0, "exp": "On utilise si : Il demande si tu viens." },
+      { "q": "« Je suis fatigué » au discours indirect, à l'imparfait :", "options": ["il était fatigué", "il est fatigué", "il sera fatigué", "il a été fatigué"], "correct": 0, "exp": "Le présent peut passer à l'imparfait : il était fatigué." },
+      { "q": "Dans le discours direct, les paroles sont :", "options": ["entre guillemets ou après un tiret de dialogue", "sans ponctuation", "remplacées par un résumé", "au conditionnel"], "correct": 0, "exp": "Les guillemets ou les tirets signalent le discours direct." },
+      { "q": "« Viens ici ! » au discours indirect devient :", "options": ["il lui dit de venir là", "il lui dit de venir ici", "il vient ici", "il viendra ici"], "correct": 0, "exp": "L'impératif devient un infinitif introduit par de : il lui dit de venir là." },
+      { "q": "Au discours indirect, la ponctuation de fin de phrase :", "options": ["reste la même", "disparaît (pas de point d'interrogation)", "devient un point d'exclamation", "devient un tiret"], "correct": 1, "exp": "La phrase rapportée n'est plus une question au sens direct." }
+    ]
+  },
+  {
+    "classe": "4eme",
+    "matiere": "Français",
+    "id": "f4-figures-style",
+    "titre": "Les figures de style : comparaison, métaphore, personnification",
+    "duree": "40 min",
+    "contenu": "<p>Les <b>figures de style</b> sont des procédés qui rendent un texte plus expressif ou plus frappant. Les plus courantes sont la comparaison, la métaphore et la personnification.</p><div class='definition'><b>La comparaison</b> rapproche deux éléments à l'aide d'un outil comparatif : comme, tel, pareil à, semblable à. Ex. : Il court comme un lièvre.<br><b>La métaphore</b> désigne une chose par le nom d'une autre, sans outil de comparaison. Ex. : Cet enfant est un lion.<br><b>La personnification</b> donne des sentiments ou des actions humaines à un objet, un animal ou une idée. Ex. : Le vent murmure dans les arbres.</div><p>Une figure de style a un <b>effet</b> : elle rend l'image plus vivante, elle émeut ou elle fait sourire.</p><div class='exemple'><b>Exemple :</b> « La ville est une fourmilière. » C'est une métaphore : la ville est comparée à une fourmilière, sans outil de comparaison. L'effet : on imagine une ville très animée.</div><div class='astuce'><b>Astuce :</b> pour reconnaître une comparaison, cherche le mot « comme » ou « tel ». Pour une métaphore, cherche une phrase où le verbe « être » relie deux choses sans outil comparatif.</div>",
+    "exercices": [
+      { "q": "Identifie la figure de style : « Il est fort comme un lion. »", "r": "Comparaison (outil : comme).", "indice": "Cherche l'outil de comparaison." },
+      { "q": "Identifie la figure de style : « Ce professeur est une encyclopédie. »", "r": "Métaphore : le professeur est désigné par le nom d'une autre chose.", "indice": "Il n'y a pas d'outil comparatif." },
+      { "q": "Identifie la figure de style : « Le soleil sourit au matin. »", "r": "Personnification : le soleil reçoit une action humaine (sourire).", "indice": "Une chose ou un élément naturel agit comme un être humain." },
+      { "q": "Explique l'effet de la métaphore « la ville est une jungle ».", "r": "On imagine une ville dangereuse, agitée et sans règles, comme une jungle.", "indice": "Pense aux images associées à une jungle." },
+      { "q": "Écris une comparaison et une personnification sur la pluie.", "r": "Exemple : La pluie tombe comme des larmes. La pluie pleure sur le village.", "indice": "Comparaison : utilise comme. Personnification : donne à la pluie une action humaine." }
+    ],
+    "qcm": [
+      { "q": "Une comparaison utilise :", "options": ["un outil comparatif comme « comme » ou « tel »", "le verbe être seul", "un point d'exclamation", "un titre"], "correct": 0, "exp": "Elle s'appuie sur un outil comparatif." },
+      { "q": "« Il est un lion » est :", "options": ["une comparaison", "une métaphore", "une personnification", "une question"], "correct": 1, "exp": "Pas d'outil comparatif : c'est une métaphore." },
+      { "q": "« Le vent murmure » est :", "options": ["une comparaison", "une métaphore", "une personnification", "un proverbe"], "correct": 2, "exp": "Le vent reçoit une action humaine : personnification." },
+      { "q": "« Il court comme un guépard » est :", "options": ["une métaphore", "une comparaison", "une personnification", "une interrogation"], "correct": 1, "exp": "L'outil comme signale une comparaison." },
+      { "q": "Une métaphore :", "options": ["désigne une chose par le nom d'une autre", "utilise toujours comme", "n'a pas d'effet", "est une question"], "correct": 0, "exp": "Elle transpose le nom d'une chose à une autre." },
+      { "q": "Une figure de style sert surtout à :", "options": ["rendre le texte plus expressif", "compter des mots", "écrire un horaire", "répéter des idées"], "correct": 0, "exp": "Elle rend le texte plus vivant et plus frappant." },
+      { "q": "« Le soleil sourit » est :", "options": ["une personnification", "une comparaison", "une métaphore", "une répétition"], "correct": 0, "exp": "Le soleil reçoit une action humaine." },
+      { "q": "Dans « tel un roi, il marche fièrement », l'outil de comparaison est :", "options": ["tel", "fièrement", "marche", "il"], "correct": 0, "exp": "Tel est un outil comparatif." },
+      { "q": "« La vie est un long fleuve » est :", "options": ["une comparaison", "une métaphore", "une personnification", "une question"], "correct": 1, "exp": "La vie est désignée par le fleuve, sans outil comparatif." },
+      { "q": "Quel est l'effet le plus fréquent d'une figure de style ?", "options": ["rendre l'image plus vivante", "rendre le texte plus court", "supprimer le sens", "ennuyer le lecteur"], "correct": 0, "exp": "Elle rend l'image vivante et frappante." }
+    ]
+  },
+  {
+    "classe": "4eme",
+    "matiere": "Français",
+    "id": "f4-argumentation",
+    "titre": "Argumenter : thèse, arguments et connecteurs logiques",
+    "duree": "40 min",
+    "contenu": "<p>Argumenter, c'est défendre une opinion avec des <b>raisons</b> et des <b>preuves</b>, pour convaincre le lecteur. Un texte argumentatif suit une organisation claire.</p><div class='definition'><b>La thèse</b> est l'opinion défendue par l'auteur.<br><b>Les arguments</b> sont les raisons qui soutiennent la thèse.<br><b>Les exemples</b> illustrent et prouvent les arguments.<br><b>La conclusion</b> reprend la thèse et ouvre une réflexion.</div><p><b>Les connecteurs logiques</b> relient les idées :</p><ul><li><b>pour exprimer la cause</b> : car, parce que, puisque ;</li><li><b>pour exprimer la conséquence</b> : donc, par conséquent, c'est pourquoi ;</li><li><b>pour exprimer l'opposition</b> : mais, cependant, pourtant, en revanche ;</li><li><b>pour ajouter</b> : de plus, en outre, d'ailleurs.</li></ul><div class='exemple'><b>Exemple :</b> <i>Le sport doit être encouragé à l'école. D'abord, il améliore la santé. De plus, il développe l'esprit d'équipe. Par conséquent, il mérite une place dans l'emploi du temps.</i></div><div class='astuce'><b>Astuce :</b> pour un bon argument, pose-toi la question « pourquoi ? » après ta thèse, puis ajoute un exemple concret pour illustrer ta réponse.</div>",
+    "exercices": [
+      { "q": "Dans le texte « Il faut lire chaque jour. Car la lecture enrichit le vocabulaire. », identifie la thèse et l'argument.", "r": "Thèse : il faut lire chaque jour. Argument : la lecture enrichit le vocabulaire.", "indice": "La thèse est l'opinion, l'argument est la raison." },
+      { "q": "Complète avec un connecteur de conséquence : « Il pleut beaucoup, ... les routes sont glissantes. »", "r": "donc (ou par conséquent).", "indice": "Il s'agit d'une conséquence de la pluie." },
+      { "q": "Complète avec un connecteur d'opposition : « Le travail est important ; ... il faut aussi se reposer. »", "r": "cependant (ou pourtant, mais).", "indice": "Il exprime une idée contraire." },
+      { "q": "Rédige une thèse sur l'école et ajoute un argument avec car.", "r": "Exemple : L'école doit être gratuite pour tous, car elle permet à chacun de réussir.", "indice": "Une thèse est une opinion. Car introduit une cause." },
+      { "q": "Quel est le rôle de la conclusion dans un texte argumentatif ?", "r": "Elle reprend la thèse et ouvre une réflexion sur le sujet.", "indice": "Elle termine le raisonnement." }
+    ],
+    "qcm": [
+      { "q": "La thèse est :", "options": ["une liste d'exemples", "l'opinion défendue par l'auteur", "la conclusion", "une citation"], "correct": 1, "exp": "C'est l'opinion que l'auteur veut défendre." },
+      { "q": "Les arguments sont :", "options": ["les raisons qui soutiennent la thèse", "les titres", "les questions", "les dialogues"], "correct": 0, "exp": "Ce sont les raisons qui appuient la thèse." },
+      { "q": "Le connecteur « car » exprime :", "options": ["la conséquence", "la cause", "l'opposition", "le temps"], "correct": 1, "exp": "Car introduit une cause." },
+      { "q": "« Il a plu, donc les routes sont glissantes » : « donc » exprime :", "options": ["la cause", "la conséquence", "l'opposition", "l'addition"], "correct": 1, "exp": "Donc introduit une conséquence." },
+      { "q": "« Mais » exprime :", "options": ["la cause", "l'opposition", "la conséquence", "le temps"], "correct": 1, "exp": "Mais marque une opposition." },
+      { "q": "« Cependant » peut être remplacé par :", "options": ["donc", "pourtant", "car", "parce que"], "correct": 1, "exp": "Pourtant et cependant marquent l'opposition." },
+      { "q": "« De plus » exprime :", "options": ["l'addition", "la cause", "l'opposition", "la conséquence"], "correct": 0, "exp": "De plus ajoute un argument." },
+      { "q": "La conclusion d'un texte argumentatif :", "options": ["commence le texte", "reprend la thèse", "ajoute un dialogue", "est une liste"], "correct": 1, "exp": "Elle reprend la thèse et ouvre une réflexion." },
+      { "q": "Un exemple dans une argumentation sert à :", "options": ["illustrer et prouver un argument", "allonger le texte", "remplacer la thèse", "changer de sujet"], "correct": 0, "exp": "Il rend l'argument concret et convaincant." },
+      { "q": "« Parce que » introduit :", "options": ["une cause", "une conséquence", "une opposition", "une comparaison"], "correct": 0, "exp": "Parce que exprime la cause." }
+    ]
+  }
+]

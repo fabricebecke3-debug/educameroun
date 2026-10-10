@@ -1,0 +1,110 @@
+[
+  {
+    "classe": "4eme",
+    "matiere": "Physique-Chimie",
+    "id": "pc4-vitesse",
+    "titre": "Le mouvement et la vitesse",
+    "duree": "40 min",
+    "contenu": "<p>Un objet est en <b>mouvement</b> lorsque sa position change au cours du temps par rapport à un point de référence. Pour décrire ce mouvement, on utilise la <b>vitesse</b>.</p><div class='definition'><b>La vitesse moyenne</b> v est la distance parcourue d divisée par la durée t : v = d ÷ t.<br>Unités : m/s (mètre par seconde) ou km/h (kilomètre par heure).<br><b>Conversion :</b> pour passer de m/s à km/h, on multiplie par 3,6. Pour passer de km/h à m/s, on divise par 3,6.</div><div class='exemple'><b>Exemple :</b> un bus parcourt 120 km en 2 heures. Sa vitesse moyenne est v = 120 ÷ 2 = 60 km/h. En m/s : 60 ÷ 3,6 ≈ 16,7 m/s.</div><p>Un mouvement est <b>uniforme</b> si la vitesse reste constante. Il est <b>varié</b> si la vitesse change.</p><div class='astuce'><b>Astuce :</b> pour retrouver la formule, utilise le triangle d, v, t : d = v × t ; t = d ÷ v. Vérifie toujours que les unités sont cohérentes avant de calculer.</div>",
+    "exercices": [
+      { "q": "Un élève marche 600 m en 5 minutes. Calcule sa vitesse en m/s.", "r": "Il faut convertir 5 min = 300 s. v = 600 ÷ 300 = 2 m/s.", "indice": "Convertis d'abord le temps en secondes." },
+      { "q": "Une voiture roule à 90 km/h. Quelle distance parcourt-elle en 2 heures ?", "r": "d = v × t = 90 × 2 = 180 km.", "indice": "d = v × t." },
+      { "q": "Convertis 72 km/h en m/s.", "r": "72 ÷ 3,6 = 20 m/s.", "indice": "Pour passer de km/h à m/s, on divise par 3,6." },
+      { "q": "Un coureur met 10 s pour parcourir 100 m. Quelle est sa vitesse moyenne en km/h ?", "r": "v = 100 ÷ 10 = 10 m/s ; 10 × 3,6 = 36 km/h.", "indice": "Calcule d'abord en m/s, puis convertis." },
+      { "q": "Un mouvement à vitesse constante est-il uniforme ou varié ?", "r": "Uniforme.", "indice": "Relis la définition du cours." }
+    ],
+    "qcm": [
+      { "q": "La formule de la vitesse moyenne est :", "options": ["v = d × t", "v = d ÷ t", "v = t ÷ d", "v = d + t"], "correct": 1, "exp": "v = distance ÷ durée." },
+      { "q": "Une voiture parcourt 200 km en 4 h. Sa vitesse est :", "options": ["800 km/h", "50 km/h", "204 km/h", "5 km/h"], "correct": 1, "exp": "200 ÷ 4 = 50 km/h." },
+      { "q": "Pour convertir 36 km/h en m/s, on :", "options": ["multiplie par 3,6", "divise par 3,6", "ajoute 3,6", "soustrait 3,6"], "correct": 1, "exp": "36 ÷ 3,6 = 10 m/s." },
+      { "q": "10 m/s correspond à :", "options": ["10 km/h", "36 km/h", "3,6 km/h", "100 km/h"], "correct": 1, "exp": "10 × 3,6 = 36 km/h." },
+      { "q": "Un mouvement à vitesse constante est dit :", "options": ["varié", "uniforme", "immobile", "accéléré"], "correct": 1, "exp": "Sa vitesse ne change pas : il est uniforme." },
+      { "q": "La distance parcourue se calcule par :", "options": ["d = v ÷ t", "d = v × t", "d = t ÷ v", "d = v + t"], "correct": 1, "exp": "d = v × t." },
+      { "q": "Un élève marche à 2 m/s pendant 50 s. Il parcourt :", "options": ["25 m", "100 m", "52 m", "48 m"], "correct": 1, "exp": "d = 2 × 50 = 100 m." },
+      { "q": "Pour calculer une vitesse, il faut des unités :", "options": ["cohérentes", "différentes", "absentes", "au hasard"], "correct": 0, "exp": "Les unités doivent être cohérentes (m et s, ou km et h)." },
+      { "q": "Un mouvement dont la vitesse change est :", "options": ["uniforme", "varié", "nul", "fixe"], "correct": 1, "exp": "C'est un mouvement varié." },
+      { "q": "Le temps de 5 minutes correspond à :", "options": ["50 s", "300 s", "500 s", "5 s"], "correct": 1, "exp": "5 × 60 = 300 s." }
+    ]
+  },
+  {
+    "classe": "4eme",
+    "matiere": "Physique-Chimie",
+    "id": "pc4-pression",
+    "titre": "La pression : force, surface et pression atmosphérique",
+    "duree": "40 min",
+    "contenu": "<p>La <b>pression</b> mesure l'effet d'une force pressante répartie sur une surface. Plus la surface est petite pour une même force, plus la pression est grande.</p><div class='definition'><b>Formule :</b> p = F ÷ S, avec p la pression en pascal (Pa), F la force pressante en newton (N) et S la surface pressée en mètre carré (m²).<br><b>La pression atmosphérique</b> est la pression exercée par l'air sur tous les objets. Au niveau de la mer, elle vaut environ 101 000 Pa, soit environ 1 bar.</div><div class='exemple'><b>Exemple :</b> une femme de 600 N est debout sur des talons aiguilles de 0,0001 m² au total. La pression est p = 600 ÷ 0,0001 = 6 000 000 Pa. Sur des semelles plates de 0,03 m², la pression n'est que de 600 ÷ 0,03 = 20 000 Pa.</div><p>Un liquide exerce aussi une pression qui augmente avec la profondeur.</p><div class='astuce'><b>Astuce :</b> pour réduire une pression, on augmente la surface. C'est pour cela que les raquettes de neige ou les pneus larges s'enfoncent moins.</div>",
+    "exercices": [
+      { "q": "Calcule la pression exercée par une force de 400 N sur une surface de 2 m².", "r": "p = 400 ÷ 2 = 200 Pa.", "indice": "p = F ÷ S." },
+      { "q": "Une force de 50 N s'applique sur une surface de 0,5 m². Quelle est la pression ?", "r": "p = 50 ÷ 0,5 = 100 Pa.", "indice": "Divise la force par la surface." },
+      { "q": "Pourquoi un clou pénètre-t-il plus facilement qu'un bâton, pour une même force ?", "r": "La pointe du clou a une très petite surface : la pression est donc beaucoup plus grande.", "indice": "Plus la surface est petite, plus la pression est grande." },
+      { "q": "Quelle est la pression atmosphérique approximative au niveau de la mer ?", "r": "Environ 101 000 Pa (soit environ 1 bar).", "indice": "C'est une valeur à retenir." },
+      { "q": "Explique pourquoi on augmente la surface des semelles pour marcher sur la neige.", "r": "Augmenter la surface diminue la pression sur la neige, donc on s'enfonce moins.", "indice": "Relis l'astuce du cours." }
+    ],
+    "qcm": [
+      { "q": "La formule de la pression est :", "options": ["p = F × S", "p = F ÷ S", "p = S ÷ F", "p = F + S"], "correct": 1, "exp": "p = force ÷ surface." },
+      { "q": "L'unité de la pression est :", "options": ["le newton", "le pascal", "le mètre", "le kilogramme"], "correct": 1, "exp": "La pression s'exprime en pascal (Pa)." },
+      { "q": "Pour une même force, si la surface diminue, la pression :", "options": ["diminue", "augmente", "reste identique", "devient nulle"], "correct": 1, "exp": "La pression et la surface varient en sens inverse." },
+      { "q": "Une force de 100 N sur 4 m² donne une pression de :", "options": ["400 Pa", "25 Pa", "104 Pa", "96 Pa"], "correct": 1, "exp": "100 ÷ 4 = 25 Pa." },
+      { "q": "La pression atmosphérique est due :", "options": ["à l'eau", "au poids de l'air", "au soleil", "aux arbres"], "correct": 1, "exp": "L'air a un poids et exerce une pression." },
+      { "q": "Pourquoi les raquettes de neige empêchent-elles de s'enfoncer ?", "options": ["elles diminuent la surface", "elles augmentent la surface d'appui", "elles réduisent la force", "elles chauffent la neige"], "correct": 1, "exp": "En augmentant la surface, la pression diminue." },
+      { "q": "Au niveau de la mer, la pression atmosphérique vaut environ :", "options": ["100 Pa", "101 000 Pa", "10 Pa", "1 000 000 Pa"], "correct": 1, "exp": "Environ 101 000 Pa." },
+      { "q": "La pression d'un liquide :", "options": ["diminue avec la profondeur", "augmente avec la profondeur", "reste toujours nulle", "ne dépend pas de la profondeur"], "correct": 1, "exp": "Elle augmente quand on descend." },
+      { "q": "Une force de 600 N sur une surface de 0,03 m² donne :", "options": ["20 000 Pa", "18 Pa", "200 Pa", "2 000 Pa"], "correct": 0, "exp": "600 ÷ 0,03 = 20 000 Pa." },
+      { "q": "La surface pressée se mesure en :", "options": ["mètres", "mètres carrés", "newtons", "kilogrammes"], "correct": 1, "exp": "La surface s'exprime en m²." }
+    ]
+  },
+  {
+    "classe": "4eme",
+    "matiere": "Physique-Chimie",
+    "id": "pc4-atomes-molecules",
+    "titre": "Atomes, éléments et molécules",
+    "duree": "40 min",
+    "contenu": "<p>Toute la matière est constituée d'<b>atomes</b>. Un atome est la plus petite partie d'un élément chimique qui garde les propriétés de cet élément.</p><div class='definition'><b>Un élément chimique</b> est une sorte d'atome caractérisée par son symbole : H (hydrogène), O (oxygène), C (carbone), Fe (fer), Na (sodium).<br><b>Une molécule</b> est un assemblage d'atomes liés entre eux. Ex. : la molécule d'eau est H2O (2 atomes d'hydrogène et 1 atome d'oxygène).<br><b>Un corps pur simple</b> est formé d'un seul élément (O2, Fe). <b>Un corps pur composé</b> est formé de plusieurs éléments (H2O, CO2).<br><b>La formule chimique</b> indique la nature et le nombre d'atomes d'une molécule.</div><div class='exemple'><b>Exemple :</b> le dioxyde de carbone CO2 contient 1 atome de carbone (C) et 2 atomes d'oxygène (O). C'est un corps pur composé.</div><div class='astuce'><b>Astuce :</b> dans une formule, le petit chiffre indique le nombre d'atomes de l'élément qui le précède. Sans chiffre, il n'y a qu'un atome. Ainsi, H2O contient 2 H et 1 O.</div>",
+    "exercices": [
+      { "q": "Qu'est-ce qu'un atome ?", "r": "La plus petite partie d'un élément chimique qui en garde les propriétés.", "indice": "C'est la brique de base de la matière." },
+      { "q": "Donne les symboles de l'oxygène, du carbone, du fer et du sodium.", "r": "O, C, Fe, Na.", "indice": "Certains symboles viennent du latin." },
+      { "q": "Combien d'atomes de chaque élément dans la molécule H2O ?", "r": "2 atomes d'hydrogène (H) et 1 atome d'oxygène (O).", "indice": "Le petit chiffre suit l'élément." },
+      { "q": "O2 est-il un corps pur simple ou composé ? Justifie.", "r": "Corps pur simple : il ne contient qu'un seul élément, l'oxygène.", "indice": "Compte le nombre d'éléments différents." },
+      { "q": "Combien d'atomes contient la molécule CO2 au total ?", "r": "3 atomes : 1 de carbone et 2 d'oxygène.", "indice": "Additionne les atomes de chaque élément." }
+    ],
+    "qcm": [
+      { "q": "Un atome est :", "options": ["une molécule", "la plus petite partie d'un élément chimique", "un corps composé", "une formule"], "correct": 1, "exp": "C'est la plus petite partie d'un élément." },
+      { "q": "Le symbole du fer est :", "options": ["F", "Fe", "Fi", "Ir"], "correct": 1, "exp": "Fe vient du latin ferrum." },
+      { "q": "La molécule d'eau est :", "options": ["HO", "H2O", "H2O2", "O2H"], "correct": 1, "exp": "2 atomes d'hydrogène et 1 d'oxygène." },
+      { "q": "O2 est :", "options": ["un corps pur simple", "un corps pur composé", "un mélange", "un élément inconnu"], "correct": 0, "exp": "Un seul élément : l'oxygène." },
+      { "q": "CO2 est :", "options": ["un corps pur simple", "un corps pur composé", "un atome", "un mélange"], "correct": 1, "exp": "Deux éléments différents : c'est un corps pur composé." },
+      { "q": "Dans H2O, le nombre d'atomes d'oxygène est :", "options": ["2", "1", "3", "0"], "correct": 1, "exp": "Sans chiffre après O, il y a un seul atome." },
+      { "q": "Le symbole du carbone est :", "options": ["Ca", "C", "Cb", "Co"], "correct": 1, "exp": "Le carbone a pour symbole C." },
+      { "q": "Une formule chimique indique :", "options": ["la couleur d'une substance", "la nature et le nombre d'atomes", "la température", "la masse uniquement"], "correct": 1, "exp": "Elle donne les éléments et leur nombre." },
+      { "q": "Le nombre total d'atomes dans H2O est :", "options": ["2", "3", "4", "1"], "correct": 1, "exp": "2 H + 1 O = 3 atomes." },
+      { "q": "Un élément chimique est caractérisé par :", "options": ["son odeur", "son symbole", "sa couleur", "sa taille"], "correct": 1, "exp": "Chaque élément possède un symbole propre." }
+    ]
+  },
+  {
+    "classe": "4eme",
+    "matiere": "Physique-Chimie",
+    "id": "pc4-reactions-chimiques",
+    "titre": "Les réactions chimiques et la conservation de la masse",
+    "duree": "40 min",
+    "contenu": "<p>Une <b>réaction chimique</b> transforme des substances initiales, appelées <b>réactifs</b>, en de nouvelles substances, appelées <b>produits</b>. Les atomes ne disparaissent pas : ils se réorganisent.</p><div class='definition'><b>Réactifs</b> : substances qui disparaissent (ou qui sont consommées).<br><b>Produits</b> : nouvelles substances formées.<br><b>La conservation de la masse</b> : au cours d'une réaction chimique, la masse totale des réactifs est égale à la masse totale des produits.<br><b>Équation chimique</b> : elle écrit la réaction avec une flèche, par exemple : fer + dioxygène → oxyde de fer.</div><div class='exemple'><b>Exemple :</b> la combustion du bois. Le bois et le dioxygène de l'air (réactifs) donnent de la cendre, de la vapeur d'eau et du dioxyde de carbone (produits). Si l'on pèse tout avant et après, la masse totale ne change pas.</div><div class='astuce'><b>Astuce :</b> si la masse semble diminuer après une réaction, c'est souvent qu'un produit gazeux s'est échappé dans l'air. Dans un récipient fermé, la masse reste constante.</div>",
+    "exercices": [
+      { "q": "Qu'appelle-t-on réactifs et produits ?", "r": "Réactifs : les substances de départ, consommées. Produits : les nouvelles substances formées.", "indice": "Les réactifs sont au début de la flèche, les produits à la fin." },
+      { "q": "Énonce le principe de conservation de la masse.", "r": "Dans une réaction chimique, la masse totale des réactifs est égale à la masse totale des produits.", "indice": "Rien ne se perd, rien ne se crée." },
+      { "q": "Dans un récipient fermé, 10 g de réactifs donnent des produits. Quelle est la masse des produits ?", "r": "10 g.", "indice": "Applique la conservation de la masse." },
+      { "q": "Pourquoi la masse semble-t-elle diminuer si un gaz s'échappe dans l'air ?", "r": "Le gaz formé n'est pas retenu dans le récipient : on ne pèse pas la totalité des produits.", "indice": "Pense au récipient ouvert." },
+      { "q": "Dans l'équation fer + dioxygène → oxyde de fer, quels sont les réactifs ?", "r": "Le fer et le dioxygène.", "indice": "Ce sont les substances avant la flèche." }
+    ],
+    "qcm": [
+      { "q": "Les réactifs sont :", "options": ["les produits de la réaction", "les substances de départ", "la chaleur", "le récipient"], "correct": 1, "exp": "Ce sont les substances initiales." },
+      { "q": "Les produits sont :", "options": ["les substances de départ", "les nouvelles substances formées", "les catalyseurs", "les récipients"], "correct": 1, "exp": "Ce sont les substances obtenues." },
+      { "q": "Au cours d'une réaction, la masse totale :", "options": ["augmente toujours", "diminue toujours", "se conserve", "devient nulle"], "correct": 2, "exp": "Elle se conserve (dans un système fermé)." },
+      { "q": "Dans une réaction chimique, les atomes :", "options": ["disparaissent", "se réorganisent", "se multiplient", "se transforment en énergie uniquement"], "correct": 1, "exp": "Ils se réorganisent pour former de nouvelles molécules." },
+      { "q": "La flèche dans une équation chimique indique :", "options": ["la fin de l'expérience", "la transformation des réactifs en produits", "la couleur", "la température"], "correct": 1, "exp": "Elle indique le sens de la réaction." },
+      { "q": "Dans un récipient fermé, si les réactifs pèsent 25 g, les produits pèsent :", "options": ["25 g", "12 g", "50 g", "0 g"], "correct": 0, "exp": "La masse se conserve." },
+      { "q": "La combustion du bois est une :", "options": ["réaction chimique", "fusion", "dissolution", "évaporation"], "correct": 0, "exp": "La combustion transforme le bois et le dioxygène en nouveaux produits." },
+      { "q": "Si la masse semble diminuer, c'est souvent parce que :", "options": ["la loi est fausse", "un gaz s'est échappé dans l'air", "la balance est cassée toujours", "il n'y a pas de réaction"], "correct": 1, "exp": "Un produit gazeux non pesé s'est dispersé." },
+      { "q": "Le fer et le dioxygène sont :", "options": ["des produits", "des réactifs", "des atomes uniquement", "de l'eau"], "correct": 1, "exp": "Ce sont les substances de départ." },
+      { "q": "La conservation de la masse est :", "options": ["une règle de la physique seulement", "un principe valable dans une réaction chimique", "une erreur", "une loi uniquement pour l'eau"], "correct": 1, "exp": "C'est un principe fondamental des réactions chimiques." }
+    ]
+  }
+]

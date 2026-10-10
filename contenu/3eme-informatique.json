@@ -1,0 +1,590 @@
+[
+  {
+    "classe": "3eme",
+    "matiere": "Informatique",
+    "id": "i3-bases-donnees",
+    "titre": "Les bases de données : tables, champs et clés",
+    "duree": "40 min",
+    "contenu": "<p>Une <b>base de données</b> organise de grandes quantités d'informations de façon structurée, pour les retrouver et les modifier facilement. Les données sont rangées dans des <b>tables</b>, un peu comme un registre d'élèves.</p><div class='definition'><b>Une table</b> contient des données de même nature (par exemple, la table Élèves).<br><b>Un champ</b> est une colonne de la table : un type d'information (nom, âge, classe).<br><b>Un enregistrement</b> est une ligne de la table : les informations d'une personne ou d'un objet.<br><b>La clé primaire</b> est le champ qui identifie de façon unique chaque enregistrement (par exemple, un numéro d'élève).<br><b>Une requête</b> est une question posée à la base pour sélectionner des données (par exemple : les élèves de 3ème).</div><div class='exemple'><b>Exemple :</b> dans une table Élèves, chaque ligne est un élève. Les colonnes sont numéro, nom, classe. Le numéro est la clé primaire : deux élèves ne peuvent pas avoir le même.</div><div class='astuce'><b>Astuce :</b> pour retenir, pense à un tableau Excel : la table est le tableau, les champs sont les colonnes, les enregistrements sont les lignes. La clé primaire est la colonne qui ne se répète jamais.</div>",
+    "exercices": [
+      {
+        "q": "Qu'est-ce qu'une table dans une base de données ?",
+        "r": "Un ensemble de données de même nature, rangées en lignes et colonnes.",
+        "indice": "Pense au tableau d'un registre."
+      },
+      {
+        "q": "Quelle est la différence entre un champ et un enregistrement ?",
+        "r": "Un champ est une colonne (un type d'information) ; un enregistrement est une ligne (les données d'une personne ou d'un objet).",
+        "indice": "Colonne ou ligne ?"
+      },
+      {
+        "q": "Pourquoi une clé primaire est-elle utile ?",
+        "r": "Elle identifie de façon unique chaque enregistrement, sans doublon.",
+        "indice": "Pense à deux élèves homonymes."
+      },
+      {
+        "q": "Dans une table Élèves avec les champs numéro, nom, classe, quel champ peut être clé primaire ?",
+        "r": "Le numéro, car il est unique pour chaque élève.",
+        "indice": "Cherche le champ qui ne se répète pas."
+      },
+      {
+        "q": "Écris en langage courant la requête : les élèves de la classe de 3ème.",
+        "r": "Sélectionner les enregistrements de la table Élèves dont le champ classe vaut 3ème.",
+        "indice": "Une requête filtre les lignes selon une condition."
+      }
+    ],
+    "qcm": [
+      {
+        "q": "Une base de données sert à :",
+        "options": [
+          "organiser et retrouver des informations",
+          "jouer en ligne",
+          "dessiner",
+          "écouter de la musique"
+        ],
+        "correct": 0,
+        "exp": "Elle structure les données."
+      },
+      {
+        "q": "Une table contient :",
+        "options": [
+          "des données de même nature",
+          "des données sans lien",
+          "uniquement des images",
+          "rien"
+        ],
+        "correct": 0,
+        "exp": "Elle regroupe des données homogènes."
+      },
+      {
+        "q": "Un champ correspond à :",
+        "options": [
+          "une colonne",
+          "une ligne",
+          "une table",
+          "une requête"
+        ],
+        "correct": 0,
+        "exp": "C'est une colonne."
+      },
+      {
+        "q": "Un enregistrement correspond à :",
+        "options": [
+          "une ligne",
+          "une colonne",
+          "un champ",
+          "une clé"
+        ],
+        "correct": 0,
+        "exp": "C'est une ligne de la table."
+      },
+      {
+        "q": "La clé primaire :",
+        "options": [
+          "identifie de façon unique chaque enregistrement",
+          "est répétée partout",
+          "supprime la table",
+          "est un logiciel"
+        ],
+        "correct": 0,
+        "exp": "Elle est unique."
+      },
+      {
+        "q": "Une requête sert à :",
+        "options": [
+          "poser une question à la base",
+          "supprimer la base",
+          "écrire une lettre",
+          "imprimer"
+        ],
+        "correct": 0,
+        "exp": "Elle sélectionne des données."
+      },
+      {
+        "q": "Dans une table Élèves, le champ nom est :",
+        "options": [
+          "une colonne",
+          "une ligne",
+          "une base",
+          "un bouton"
+        ],
+        "correct": 0,
+        "exp": "C'est un champ, donc une colonne."
+      },
+      {
+        "q": "Deux élèves ne peuvent pas avoir le même :",
+        "options": [
+          "numéro de clé primaire",
+          "prénom",
+          "âge",
+          "couleur de cheveux"
+        ],
+        "correct": 0,
+        "exp": "La clé primaire est unique."
+      },
+      {
+        "q": "Une base de données est comparable à :",
+        "options": [
+          "un tableau bien organisé",
+          "une chanson",
+          "une route",
+          "un nuage"
+        ],
+        "correct": 0,
+        "exp": "Les données y sont rangées en lignes et colonnes."
+      },
+      {
+        "q": "Pour trouver tous les élèves d'une classe, on utilise :",
+        "options": [
+          "une requête",
+          "une clé primaire seule",
+          "un dessin",
+          "un chant"
+        ],
+        "correct": 0,
+        "exp": "La requête sélectionne selon une condition."
+      }
+    ]
+  },
+  {
+    "classe": "3eme",
+    "matiere": "Informatique",
+    "id": "i3-html-page-web",
+    "titre": "Créer une page web avec HTML : balises et structure",
+    "duree": "40 min",
+    "contenu": "<p>Une page web est écrite en <b>HTML</b> (HyperText Markup Language). Le langage HTML utilise des <b>balises</b>, qui indiquent au navigateur comment afficher le contenu.</p><div class='definition'><b>Une balise</b> est un mot placé entre chevrons, par exemple &lt;p&gt;. Elle s'ouvre avec &lt;p&gt; et se ferme avec &lt;/p&gt;.<br><b>La structure de base</b> : &lt;html&gt; contient tout, &lt;head&gt; contient les informations (titre), &lt;body&gt; contient le contenu visible.<br><b>Le titre</b> : &lt;h1&gt; (le plus grand) à &lt;h6&gt;.<br><b>Le paragraphe</b> : &lt;p&gt;. <b>Le gras</b> : &lt;b&gt;. <b>L'image</b> : &lt;img src=\"...\" alt=\"...\"&gt; (sans balise de fermeture).<br><b>Le lien</b> : &lt;a href=\"...\"&gt;texte&lt;/a&gt;.</div><div class='exemple'><b>Exemple :</b> <code>&lt;h1&gt;Mon école&lt;/h1&gt;</code> affiche un grand titre « Mon école ». <code>&lt;p&gt;Bienvenue !&lt;/p&gt;</code> affiche un paragraphe.</div><div class='astuce'><b>Astuce :</b> chaque balise ouverte doit être fermée, sauf les balises simples comme img. Vérifie toujours que tes balises sont bien emboîtées.</div>",
+    "exercices": [
+      {
+        "q": "Qu'est-ce que HTML ?",
+        "r": "Le langage de description des pages web, qui utilise des balises.",
+        "indice": "HTML signifie HyperText Markup Language."
+      },
+      {
+        "q": "Quelle est la différence entre &lt;head&gt; et &lt;body&gt; ?",
+        "r": "Le head contient les informations de la page (titre) ; le body contient le contenu visible.",
+        "indice": "Ce que l'on voit ou ce qui le décrit."
+      },
+      {
+        "q": "Écris le code d'un titre principal « Ma ville » et d'un paragraphe « Bienvenue ».",
+        "r": "&lt;h1&gt;Ma ville&lt;/h1&gt; &lt;p&gt;Bienvenue&lt;/p&gt;",
+        "indice": "h1 pour le titre, p pour le paragraphe."
+      },
+      {
+        "q": "Quelle est la balise du gras ?",
+        "r": "&lt;b&gt; (ou &lt;strong&gt;).",
+        "indice": "Pense à la lettre b."
+      },
+      {
+        "q": "Écris un lien vers un site, avec le texte « Visiter ».",
+        "r": "&lt;a href=\"https://exemple.com\"&gt;Visiter&lt;/a&gt;",
+        "indice": "La balise a et son attribut href."
+      }
+    ],
+    "qcm": [
+      {
+        "q": "HTML est :",
+        "options": [
+          "un langage de description de pages web",
+          "un logiciel de jeu",
+          "un réseau",
+          "un processeur"
+        ],
+        "correct": 0,
+        "exp": "C'est le langage des pages web."
+      },
+      {
+        "q": "Une balise s'écrit entre :",
+        "options": [
+          "chevrons",
+          "parenthèses",
+          "accolades",
+          "guillemets"
+        ],
+        "correct": 0,
+        "exp": "Entre < et >."
+      },
+      {
+        "q": "La balise du paragraphe est :",
+        "options": [
+          "p",
+          "h1",
+          "img",
+          "a"
+        ],
+        "correct": 0,
+        "exp": "C'est p."
+      },
+      {
+        "q": "La balise du plus grand titre est :",
+        "options": [
+          "h1",
+          "h6",
+          "p",
+          "b"
+        ],
+        "correct": 0,
+        "exp": "h1 est le plus grand."
+      },
+      {
+        "q": "Le contenu visible de la page se trouve dans :",
+        "options": [
+          "body",
+          "head",
+          "title seul",
+          "rien"
+        ],
+        "correct": 0,
+        "exp": "Le body contient le visible."
+      },
+      {
+        "q": "Une balise de fermeture commence par :",
+        "options": [
+          "/",
+          "*",
+          "#",
+          "!"
+        ],
+        "correct": 0,
+        "exp": "Par le caractère /."
+      },
+      {
+        "q": "La balise pour insérer une image est :",
+        "options": [
+          "img",
+          "p",
+          "h2",
+          "table"
+        ],
+        "correct": 0,
+        "exp": "C'est img, avec les attributs src et alt."
+      },
+      {
+        "q": "L'attribut href sert à :",
+        "options": [
+          "indiquer l'adresse d'un lien",
+          "donner une couleur",
+          "fermer la page",
+          "choisir la police"
+        ],
+        "correct": 0,
+        "exp": "C'est l'adresse du lien."
+      },
+      {
+        "q": "La structure de base d'une page contient :",
+        "options": [
+          "html, head, body",
+          "tableau, ligne, cellule",
+          "ouvrir, fermer",
+          "x, y, z"
+        ],
+        "correct": 0,
+        "exp": "Ce sont les trois éléments structurants."
+      },
+      {
+        "q": "Une balise ouverte doit généralement être :",
+        "options": [
+          "fermée",
+          "ignorée",
+          "doublée",
+          "supprimée"
+        ],
+        "correct": 0,
+        "exp": "On la ferme avec sa balise de fin."
+      }
+    ]
+  },
+  {
+    "classe": "3eme",
+    "matiere": "Informatique",
+    "id": "i3-securite-chiffrement",
+    "titre": "La sécurité numérique : mots de passe, chiffrement et malwares",
+    "duree": "40 min",
+    "contenu": "<p>La <b>sécurité informatique</b> vise à protéger les données contre le vol, la destruction et l'accès non autorisé. Elle repose sur des outils techniques et sur des comportements responsables.</p><div class='definition'><b>Un mot de passe robuste</b> est long, mélange lettres, chiffres et symboles, et n'est jamais réutilisé.<br><b>L'authentification à deux facteurs</b> ajoute une deuxième preuve d'identité, par exemple un code envoyé sur le téléphone.<br><b>Le chiffrement</b> transforme une information lisible en un message illisible, sauf pour celui qui possède la clé de déchiffrement.<br><b>Un malware</b> est un logiciel malveillant : virus, ver, rançongiciel, espiogiciel.<br><b>L'hameçonnage</b> (phishing) est une tentative de vol d'informations par un faux message qui imite un organisme de confiance.</div><div class='exemple'><b>Exemple :</b> un message affirmant que ton compte bancaire sera bloqué si tu ne donnes pas ton mot de passe est un hameçonnage. Il ne faut jamais répondre et signaler le message.</div><div class='astuce'><b>Astuce :</b> un organisme sérieux ne demande jamais ton mot de passe par message. En cas de doute, contacte directement l'organisme par son site officiel, pas par le lien reçu.</div>",
+    "exercices": [
+      {
+        "q": "Qu'est-ce que la sécurité informatique ?",
+        "r": "L'ensemble des moyens qui protègent les données contre le vol, la destruction et l'accès non autorisé.",
+        "indice": "Pense à la protection des données."
+      },
+      {
+        "q": "Quelles caractéristiques doit avoir un mot de passe robuste ?",
+        "r": "Être long, mélanger lettres, chiffres et symboles, et ne pas être réutilisé.",
+        "indice": "Relis la définition."
+      },
+      {
+        "q": "Qu'est-ce que le chiffrement ?",
+        "r": "La transformation d'une information lisible en message illisible, sauf pour celui qui possède la clé.",
+        "indice": "Pense au code secret."
+      },
+      {
+        "q": "Qu'est-ce que l'hameçonnage ?",
+        "r": "Une tentative de vol d'informations par un faux message qui imite un organisme de confiance.",
+        "indice": "Pense au faux message."
+      },
+      {
+        "q": "Que doit-on faire face à un message suspect demandant ton mot de passe ?",
+        "r": "Ne pas répondre, signaler le message et contacter l'organisme par son site officiel.",
+        "indice": "Ne jamais donner son mot de passe."
+      }
+    ],
+    "qcm": [
+      {
+        "q": "La sécurité informatique vise à :",
+        "options": [
+          "protéger les données",
+          "détruire les fichiers",
+          "partager les mots de passe",
+          "désactiver internet"
+        ],
+        "correct": 0,
+        "exp": "Elle protège les données."
+      },
+      {
+        "q": "Un mot de passe robuste doit :",
+        "options": [
+          "être long et varié",
+          "être court et simple",
+          "être le même partout",
+          "être le prénom"
+        ],
+        "correct": 0,
+        "exp": "Il doit être long et varié."
+      },
+      {
+        "q": "Le chiffrement sert à :",
+        "options": [
+          "rendre une information illisible sans la clé",
+          "afficher une photo",
+          "imprimer",
+          "supprimer une page"
+        ],
+        "correct": 0,
+        "exp": "Il protège le contenu."
+      },
+      {
+        "q": "Un malware est :",
+        "options": [
+          "un logiciel malveillant",
+          "un logiciel de bureautique",
+          "un écran",
+          "un câble"
+        ],
+        "correct": 0,
+        "exp": "C'est un programme nuisible."
+      },
+      {
+        "q": "L'hameçonnage consiste à :",
+        "options": [
+          "voler des informations par un faux message",
+          "réparer un ordinateur",
+          "faire un dessin",
+          "écrire un article"
+        ],
+        "correct": 0,
+        "exp": "C'est la technique du faux message."
+      },
+      {
+        "q": "L'authentification à deux facteurs ajoute :",
+        "options": [
+          "une deuxième preuve d'identité",
+          "un deuxième écran",
+          "une deuxième souris",
+          "un deuxième clavier"
+        ],
+        "correct": 0,
+        "exp": "Un code ou une validation supplémentaire."
+      },
+      {
+        "q": "Un organisme sérieux demande-t-il ton mot de passe par message ?",
+        "options": [
+          "non, jamais",
+          "oui, toujours",
+          "seulement le lundi",
+          "seulement en été"
+        ],
+        "correct": 0,
+        "exp": "Un organisme sérieux ne le demande jamais."
+      },
+      {
+        "q": "Un rançongiciel est :",
+        "options": [
+          "un malware qui bloque les données contre une rançon",
+          "un jeu",
+          "un câble",
+          "un site officiel"
+        ],
+        "correct": 0,
+        "exp": "Il bloque les fichiers pour réclamer de l'argent."
+      },
+      {
+        "q": "En cas de doute sur un message, il faut :",
+        "options": [
+          "contacter l'organisme par son site officiel",
+          "cliquer sur le lien reçu",
+          "répondre au message",
+          "transmettre le mot de passe"
+        ],
+        "correct": 0,
+        "exp": "On vérifie par une voie sûre."
+      },
+      {
+        "q": "Réutiliser le même mot de passe partout est :",
+        "options": [
+          "risqué",
+          "recommandé",
+          "obligatoire",
+          "sans effet"
+        ],
+        "correct": 0,
+        "exp": "Un vol sur un site compromet les autres."
+      }
+    ]
+  },
+  {
+    "classe": "3eme",
+    "matiere": "Informatique",
+    "id": "i3-recherche-dichotomique",
+    "titre": "Algorithme de recherche dichotomique",
+    "duree": "40 min",
+    "contenu": "<p>Pour rechercher une valeur dans une liste, on peut examiner les éléments un par un : c'est la <b>recherche séquentielle</b>. Si la liste est <b>triée</b>, on peut aller beaucoup plus vite avec la <b>recherche dichotomique</b>.</p><div class='definition'><b>La recherche séquentielle</b> parcourt la liste élément par élément, jusqu'à trouver la valeur ou atteindre la fin.<br><b>La recherche dichotomique</b> compare la valeur cherchée à l'élément du milieu de la liste triée. Si elle est plus petite, on cherche dans la moitié gauche ; si elle est plus grande, dans la moitié droite. On répète jusqu'à trouver la valeur.</div><div class='exemple'><b>Exemple :</b> chercher 23 dans la liste triée [2 ; 5 ; 8 ; 12 ; 16 ; 23 ; 38 ; 56 ; 72 ; 91]. Le milieu est 16 : 23 est plus grand, on garde la moitié droite. Le nouveau milieu est 38 : 23 est plus petit, on garde [23]. On trouve 23 en 3 comparaisons.</div><div class='astuce'><b>Astuce :</b> la recherche dichotomique ne fonctionne que sur une liste triée. Elle divise le nombre d'éléments à examiner par deux à chaque étape.</div>",
+    "exercices": [
+      {
+        "q": "Quelle est la différence entre recherche séquentielle et recherche dichotomique ?",
+        "r": "La séquentielle examine les éléments un par un ; la dichotomique divise la liste en deux à chaque étape, mais exige une liste triée.",
+        "indice": "Un par un ou par moitiés ?"
+      },
+      {
+        "q": "Pourquoi la liste doit-elle être triée pour la recherche dichotomique ?",
+        "r": "Pour savoir de quel côté se trouve la valeur cherchée par rapport à l'élément du milieu.",
+        "indice": "Pense à la comparaison."
+      },
+      {
+        "q": "Dans la liste [2 ; 5 ; 8 ; 12 ; 16], quel est l'élément du milieu ?",
+        "r": "8.",
+        "indice": "La liste contient cinq éléments : le troisième est au milieu."
+      },
+      {
+        "q": "On cherche 12 dans la liste triée [2 ; 5 ; 8 ; 12 ; 16 ; 23 ; 38]. Quel est le premier élément comparé ?",
+        "r": "Le milieu : 12, la liste a sept éléments, le quatrième est au milieu.",
+        "indice": "Compte les éléments."
+      },
+      {
+        "q": "Pourquoi la recherche dichotomique est-elle plus rapide sur une grande liste ?",
+        "r": "Parce qu'elle divise par deux le nombre d'éléments à examiner à chaque étape.",
+        "indice": "Relis l'astuce du cours."
+      }
+    ],
+    "qcm": [
+      {
+        "q": "La recherche séquentielle :",
+        "options": [
+          "examine les éléments un par un",
+          "coupe la liste en deux",
+          "ne fonctionne jamais",
+          "trie la liste"
+        ],
+        "correct": 0,
+        "exp": "Elle parcourt la liste élément par élément."
+      },
+      {
+        "q": "La recherche dichotomique exige :",
+        "options": [
+          "une liste triée",
+          "une liste vide",
+          "un seul élément",
+          "des nombres négatifs"
+        ],
+        "correct": 0,
+        "exp": "La liste doit être triée."
+      },
+      {
+        "q": "À chaque étape, la recherche dichotomique :",
+        "options": [
+          "divise la liste en deux",
+          "ajoute un élément",
+          "supprime la liste",
+          "change l'ordre"
+        ],
+        "correct": 0,
+        "exp": "Elle réduit de moitié la zone de recherche."
+      },
+      {
+        "q": "Dans [2 ; 5 ; 8 ; 12 ; 16], le milieu est :",
+        "options": [
+          "8",
+          "5",
+          "12",
+          "2"
+        ],
+        "correct": 0,
+        "exp": "Le troisième élément est au centre."
+      },
+      {
+        "q": "Si la valeur cherchée est plus grande que le milieu, on garde :",
+        "options": [
+          "la moitié droite",
+          "la moitié gauche",
+          "rien",
+          "toute la liste"
+        ],
+        "correct": 0,
+        "exp": "Les valeurs plus grandes sont à droite."
+      },
+      {
+        "q": "Si la valeur cherchée est plus petite que le milieu, on garde :",
+        "options": [
+          "la moitié gauche",
+          "la moitié droite",
+          "rien",
+          "toute la liste"
+        ],
+        "correct": 0,
+        "exp": "Les valeurs plus petites sont à gauche."
+      },
+      {
+        "q": "Dans l'exemple de 23 dans [2 ; 5 ; 8 ; 12 ; 16 ; 23 ; 38 ; 56 ; 72 ; 91], le premier milieu est :",
+        "options": [
+          "16",
+          "23",
+          "56",
+          "8"
+        ],
+        "correct": 0,
+        "exp": "Avec dix éléments, les deux éléments centraux sont 16 et 23 ; la recherche prend le cinquième, 16."
+      },
+      {
+        "q": "Pour une liste de 1 000 éléments triés, la recherche dichotomique examine au maximum environ :",
+        "options": [
+          "10 éléments",
+          "500 éléments",
+          "1 000 éléments",
+          "100 000 éléments"
+        ],
+        "correct": 0,
+        "exp": "Environ 10 comparaisons, car 2 puissance 10 vaut 1 024."
+      },
+      {
+        "q": "Un avantage de la recherche séquentielle est :",
+        "options": [
+          "elle fonctionne sur une liste non triée",
+          "elle est toujours plus rapide",
+          "elle ne compare rien",
+          "elle trie la liste"
+        ],
+        "correct": 0,
+        "exp": "Elle n'a pas besoin de liste triée."
+      },
+      {
+        "q": "La recherche dichotomique se termine quand :",
+        "options": [
+          "la valeur est trouvée ou la zone est vide",
+          "on arrive au premier élément seulement",
+          "on change de liste",
+          "on ferme l'ordinateur"
+        ],
+        "correct": 0,
+        "exp": "On s'arrête dans ces deux cas."
+      }
+    ]
+  }
+]

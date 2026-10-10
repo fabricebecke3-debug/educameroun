@@ -1,0 +1,110 @@
+[
+  {
+    "classe": "5eme",
+    "matiere": "Français",
+    "id": "f5-groupe-nominal",
+    "titre": "Le groupe nominal : déterminant, nom et expansions",
+    "duree": "40 min",
+    "contenu": "<p>Un <b>groupe nominal</b> (GN) est un ensemble de mots organisé autour d'un nom noyau. Il peut remplacer un nom dans une phrase.</p><div class='definition'><b>Le noyau</b> du GN est le nom : c'est le mot principal.<br><b>Le déterminant</b> accompagne le nom : le, la, un, ces, mon...<br><b>L'adjectif épithète</b> s'ajoute directement au nom et le précise : une <i>grande</i> maison.<br><b>Le complément du nom</b> est un groupe introduit par une préposition, qui précise le nom : la maison <i>de mes parents</i>.</div><div class='exemple'><b>Exemple :</b> <i>Les jeunes élèves de l'école du quartier</i> est un groupe nominal. Le noyau est « élèves ». Les autres mots sont des expansions qui le précisent.</div><p>Les <b>expansions du nom</b> sont les mots qui enrichissent le nom : adjectifs, compléments du nom, propositions relatives (qui, que).</p><div class='astuce'><b>Astuce :</b> pour trouver le noyau, demande-toi : quel est le mot le plus important du groupe ? C'est souvent le seul mot qui peut être remplacé par un pronom comme « il », « elle » ou « ils ».</div>",
+    "exercices": [
+      { "q": "Dans le GN « la belle maison de mon oncle », indique le déterminant, le noyau, l'épithète et le complément du nom.", "r": "Déterminant : la ; noyau : maison ; épithète : belle ; complément du nom : de mon oncle.", "indice": "L'épithète est un adjectif collé au nom. Le complément du nom commence par une préposition." },
+      { "q": "Ajoute deux expansions au nom « élève » pour en faire un GN de 4 mots au moins.", "r": "Exemple : « les élèves studieux de la classe ».", "indice": "Ajoute un adjectif et un complément introduit par de ou à." },
+      { "q": "Dans « un marché très animé du centre-ville », quel est le noyau ? Peut-on le remplacer par un pronom ?", "r": "Le noyau est « marché ». On peut le remplacer par « il » : « il est très animé ».", "indice": "Le noyau est le mot principal du groupe." },
+      { "q": "Transforme l'adjectif en complément du nom : « un livre passionnant » → « un livre … »", "r": "un livre qui passionne (ou un livre d'aventures, un livre de la bibliothèque, etc.)", "indice": "Tu peux remplacer l'adjectif par une préposition et un nom, ou par une proposition relative." },
+      { "q": "Identifie le noyau et les expansions dans : « Les enfants qui jouent dans la cour sont très contents. »", "r": "Dans le GN « Les enfants qui jouent dans la cour » : noyau « enfants » ; expansion : la proposition relative « qui jouent dans la cour ».", "indice": "Une proposition relative commence par qui, que ou dont." }
+    ],
+    "qcm": [
+      { "q": "Le noyau d'un groupe nominal est :", "options": ["le déterminant", "le nom", "l'adjectif", "le verbe"], "correct": 1, "exp": "Le nom est le mot principal, appelé noyau." },
+      { "q": "Dans « une grande maison », « grande » est :", "options": ["un déterminant", "un adjectif épithète", "le noyau", "un complément du nom"], "correct": 1, "exp": "L'adjectif s'ajoute directement au nom : c'est une épithète." },
+      { "q": "Dans « la maison de mes parents », « de mes parents » est :", "options": ["un déterminant", "une épithète", "un complément du nom", "le noyau"], "correct": 2, "exp": "Ce groupe précise le nom et commence par une préposition : c'est un complément du nom." },
+      { "q": "Le déterminant de « ces élèves » est :", "options": ["élèves", "ces", "ces élèves", "aucun"], "correct": 1, "exp": "ces accompagne le nom : c'est le déterminant." },
+      { "q": "Une proposition relative commence souvent par :", "options": ["le", "qui, que ou dont", "et", "mais"], "correct": 1, "exp": "Qui, que et dont introduisent une proposition relative." },
+      { "q": "Dans « un marché animé », le noyau est :", "options": ["un", "marché", "animé", "aucun"], "correct": 1, "exp": "Le nom « marché » est le noyau." },
+      { "q": "Un groupe nominal peut être :", "options": ["remplacé par un pronom", "toujours remplacé par un verbe", "toujours une phrase", "un adverbe"], "correct": 0, "exp": "Un GN se remplace par un pronom comme il, elle, ils ou elles." },
+      { "q": "Dans « les élèves de la classe », le GN « de la classe » est :", "options": ["un complément du nom", "un déterminant", "une épithète", "le noyau"], "correct": 0, "exp": "Il précise le nom élèves grâce à la préposition de." },
+      { "q": "Dans « mon petit frère », « petit » est :", "options": ["un déterminant", "un adjectif épithète", "le noyau", "une préposition"], "correct": 1, "exp": "« petit » est un adjectif placé devant le nom : c'est une épithète." },
+      { "q": "Dans « Les enfants qui jouent sont contents », la proposition « qui jouent » est :", "options": ["un déterminant", "une expansion du nom (relative)", "le noyau", "un verbe principal"], "correct": 1, "exp": "C'est une proposition relative qui précise le nom enfants." }
+    ]
+  },
+  {
+    "classe": "5eme",
+    "matiere": "Français",
+    "id": "f5-adjectif-accord",
+    "titre": "L'adjectif qualificatif : accord et fonctions",
+    "duree": "40 min",
+    "contenu": "<p>L'<b>adjectif qualificatif</b> donne une qualité au nom ou au pronom. Il s'<b>accorde</b> en genre et en nombre avec le nom qu'il qualifie.</p><div class='definition'><b>Accord au féminin :</b> on ajoute en général un -e : grand → grande ; petit → petite.<br><b>Accord au pluriel :</b> on ajoute en général un -s : grand → grands.<br><b>Cas particuliers :</b> beau → belle ; vieux → vieille ; heureux → heureuse ; blanc → blanche ; final → finale ; mou → molle.<br><b>Épithète :</b> l'adjectif est collé au nom : un <i>long</i> voyage.<br><b>Attribut du sujet :</b> l'adjectif est relié au sujet par un verbe comme être ou devenir : la route est <i>longue</i>.</div><div class='exemple'><b>Exemple :</b> <i>Les rues sont propres et animées.</i> « Propres » et « animées » sont au pluriel et au féminin pluriel car ils qualifient « rues ». Ce sont des attributs du sujet.</div><div class='astuce'><b>Astuce :</b> pour accorder un adjectif, demande-toi : qui est-ce que je qualifie ? Le nom accordé donne le genre et le nombre de l'adjectif.</div>",
+    "exercices": [
+      { "q": "Mets au féminin : un garçon poli ; un chat noir ; un homme heureux.", "r": "une fille polie ; une chatte noire ; une femme heureuse.", "indice": "Attention aux adjectifs en -eux, qui deviennent -euse au féminin." },
+      { "q": "Mets au pluriel : un beau village ; un vieux pont ; un bateau blanc.", "r": "de beaux villages ; de vieux ponts ; des bateaux blancs.", "indice": "Les adjectifs en -au prennent -x ou -s selon les cas." },
+      { "q": "Accorde l'adjectif entre parenthèses : « Les fleurs (rouge) de la cour sont très (joli). »", "r": "Les fleurs rouges de la cour sont très jolies.", "indice": "Fleurs est au féminin pluriel : l'adjectif doit être au féminin pluriel." },
+      { "q": "Indique si l'adjectif est épithète ou attribut du sujet : « un grand arbre » ; « l'arbre est grand ».", "r": "« grand » est épithète dans la première phrase, et attribut du sujet dans la seconde.", "indice": "Épithète = collé au nom. Attribut = relié au sujet par un verbe." },
+      { "q": "Complète avec l'adjectif qui convient : « Cette robe est très … » (beau, belle, beaux).", "r": "belle.", "indice": "Robe est féminin singulier." }
+    ],
+    "qcm": [
+      { "q": "Le féminin de « grand » est :", "options": ["grande", "grandes", "grandement", "grandi"], "correct": 0, "exp": "On ajoute -e : grande." },
+      { "q": "Le féminin de « beau » est :", "options": ["beaue", "belle", "beaux", "bele"], "correct": 1, "exp": "Beau devient belle : c'est un cas particulier." },
+      { "q": "Le pluriel de « un vieux pont » est :", "options": ["des vieux ponts", "de vieux ponts", "des vieuxs ponts", "des vieilles ponts"], "correct": 1, "exp": "Après un pluriel indéfini « de » : de vieux ponts." },
+      { "q": "Dans « un chien fidèle », « fidèle » est :", "options": ["un déterminant", "une épithète", "un attribut du sujet", "un verbe"], "correct": 1, "exp": "L'adjectif est collé au nom : c'est une épithète." },
+      { "q": "Dans « la maison est grande », « grande » est :", "options": ["une épithète", "un attribut du sujet", "un déterminant", "le noyau"], "correct": 1, "exp": "Il est relié au sujet « maison » par le verbe être." },
+      { "q": "Le féminin de « heureux » est :", "options": ["heureuse", "heureue", "heureux", "heureusement"], "correct": 0, "exp": "Heureux devient heureuse." },
+      { "q": "Accorde : « des livres (intéressant) » :", "options": ["intéressant", "intéressants", "intéressante", "intéressantes"], "correct": 1, "exp": "Livres est masculin pluriel : intéressants." },
+      { "q": "Accorde : « les filles sont (sage) » :", "options": ["sage", "sages", "sagees", "sagement"], "correct": 1, "exp": "Filles est féminin pluriel : sages." },
+      { "q": "Le féminin de « blanc » est :", "options": ["blanc", "blanche", "blancse", "blanque"], "correct": 1, "exp": "Blanc devient blanche." },
+      { "q": "Un adjectif qualificatif :", "options": ["donne une qualité au nom", "remplace un verbe", "introduit une phrase", "indique le lieu"], "correct": 0, "exp": "L'adjectif qualificatif exprime une qualité du nom ou du pronom." }
+    ]
+  },
+  {
+    "classe": "5eme",
+    "matiere": "Français",
+    "id": "f5-passe-compose",
+    "titre": "Le passé composé : avoir ou être",
+    "duree": "40 min",
+    "contenu": "<p>Le <b>passé composé</b> exprime une action terminée dans le passé. Il est formé de deux parties : un <b>auxiliaire</b> (avoir ou être) au présent, suivi du <b>participe passé</b> du verbe.</p><div class='definition'><b>Avec avoir :</b> sujet + avoir (présent) + participe passé. Ex. : J'<i>ai mangé</i> du riz. Le participe passé ne s'accorde pas avec le sujet.<br><b>Avec être :</b> les verbes de mouvement comme aller, venir, arriver, partir, entrer, sortir, naître, mourir et les verbes pronominaux. Le participe passé s'accorde avec le sujet. Ex. : Elle est <i>partie</i> ; ils sont <i>arrivés</i>.</div><p>Participes passés courants : mangé (manger), fini (finir), pris (prendre), été (être), eu (avoir), fait (faire), dit (dire).</p><div class='exemple'><b>Exemple :</b> Hier, nous <i>avons joué</i> au football. Ma sœur est <i>venue</i> au marché avec moi.</div><div class='astuce'><b>Astuce :</b> pour savoir si on utilise être ou avoir, demande-toi : est-ce un verbe de mouvement ou pronominal ? Si oui, être. Sinon, avoir.</div>",
+    "exercices": [
+      { "q": "Mets au passé composé : je (manger) ; nous (finir) ; tu (prendre).", "r": "j'ai mangé ; nous avons fini ; tu as pris.", "indice": "Avec ces verbes, on utilise avoir." },
+      { "q": "Mets au passé composé avec être : elle (partir) ; ils (arriver).", "r": "elle est partie ; ils sont arrivés.", "indice": "Le participe s'accorde avec le sujet." },
+      { "q": "Accorde le participe passé : « Les filles sont (sortir) de l'école. » ; « Nous avons (acheter) des fruits. »", "r": "Les filles sont sorties de l'école. Nous avons acheté des fruits.", "indice": "Avec être, accorde avec le sujet. Avec avoir, pas d'accord avec le sujet." },
+      { "q": "Transforme au passé composé : « Ils vont au marché. »", "r": "Ils sont allés au marché.", "indice": "Aller se conjugue avec être." },
+      { "q": "Écris trois phrases au passé composé sur ta journée d'hier.", "r": "Exemple : J'ai fait mes devoirs. Je suis allé à l'école. Nous avons mangé du riz.", "indice": "Utilise avoir pour la plupart des verbes et être pour les verbes de mouvement." }
+    ],
+    "qcm": [
+      { "q": "Le passé composé est formé de :", "options": ["un auxiliaire et un participe passé", "deux verbes à l'infinitif", "un nom et un adjectif", "un article et un nom"], "correct": 0, "exp": "Il combine un auxiliaire (avoir ou être) et un participe passé." },
+      { "q": "« J'ai ... du riz hier. » Quel participe convient ?", "options": ["mangé", "manger", "mange", "mangée"], "correct": 0, "exp": "Avec avoir, le participe passé est mangé, sans accord." },
+      { "q": "« Elle est ... au marché. » (aller)", "options": ["allé", "allée", "aller", "allez"], "correct": 1, "exp": "Avec être, le participe s'accorde avec le sujet féminin : allée." },
+      { "q": "Quel verbe se conjugue avec être au passé composé ?", "options": ["manger", "venir", "finir", "écrire"], "correct": 1, "exp": "Venir est un verbe de mouvement : il prend être." },
+      { "q": "Au passé composé, « nous ... fini nos devoirs. »", "options": ["avons", "sommes", "avez", "êtes"], "correct": 0, "exp": "Avec finir, on utilise avoir : nous avons fini." },
+      { "q": "« Les garçons sont ... à l'école. » (arriver)", "options": ["arrivé", "arrivés", "arrivée", "arrivez"], "correct": 1, "exp": "Avec être et sujet masculin pluriel : arrivés." },
+      { "q": "Le participe passé de « prendre » est :", "options": ["pris", "prend", "prendu", "pren"], "correct": 0, "exp": "Le participe passé de prendre est pris." },
+      { "q": "Le passé composé exprime :", "options": ["une action en cours", "une action terminée dans le passé", "une action future", "un ordre"], "correct": 1, "exp": "C'est le temps de l'action achevée." },
+      { "q": "Le participe passé de « faire » est :", "options": ["fait", "fais", "faite", "faisant"], "correct": 0, "exp": "Faire donne fait." },
+      { "q": "« Ma sœur est ... au village hier. » (partir)", "options": ["parti", "partie", "partis", "parties"], "correct": 1, "exp": "Avec être et sujet féminin singulier : partie." }
+    ]
+  },
+  {
+    "classe": "5eme",
+    "matiere": "Français",
+    "id": "f5-portrait-description",
+    "titre": "La description : le portrait physique et moral",
+    "duree": "40 min",
+    "contenu": "<p>La <b>description</b> présente un lieu, un objet ou une personne. Pour décrire une personne, on fait son <b>portrait</b> : on décrit son apparence physique et son caractère (portrait moral).</p><div class='definition'><b>Le portrait physique</b> décrit l'apparence : taille, âge, cheveux, yeux, vêtements, démarche.<br><b>Le portrait moral</b> décrit le caractère : qualités, défauts, humeur, attitude.<br><b>Le point de vue</b> est la manière dont le narrateur regarde ce qu'il décrit.</div><p>Pour décrire, on utilise des <b>adjectifs qualificatifs</b>, des <b>compléments du nom</b> et des <b>verbes d'état</b> comme être ou avoir, ou des verbes à l'imparfait.</p><div class='exemple'><b>Exemple :</b> <i>Le vieil homme est grand et maigre. Il a des cheveux blancs et un regard sévère, mais sa voix est douce.</i> Physique : grand, maigre, cheveux blancs. Moral : sévère, doux.</div><div class='astuce'><b>Astuce :</b> pour un bon portrait, organise-le du général au particulier : la silhouette, puis le visage, puis les vêtements, puis le caractère.</div>",
+    "exercices": [
+      { "q": "Classe ces mots en portrait physique ou moral : grand, courageux, cheveux crépus, généreux, yeux noirs, timide.", "r": "Physique : grand, cheveux crépus, yeux noirs. Moral : courageux, généreux, timide.", "indice": "Le physique se voit, le moral se devine dans le comportement." },
+      { "q": "Décris physiquement un élève de ta classe en 3 phrases.", "r": "Exemple : Il est assez grand. Il porte un uniforme bleu. Il a des yeux marron et un sourire large.", "indice": "Parle de la taille, des vêtements, des yeux, des cheveux." },
+      { "q": "Décris moralement un personnage généreux en 2 phrases.", "r": "Exemple : Il partage toujours ce qu'il a avec ses amis. Il aide les personnes en difficulté sans rien demander en retour.", "indice": "Montre le caractère par des actions." },
+      { "q": "Quelle différence y a-t-il entre décrire et raconter ?", "r": "Décrire présente un lieu ou une personne à un moment donné. Raconter présente une suite d'événements dans le temps.", "indice": "La description ne fait pas avancer l'histoire." },
+      { "q": "Rédige un court portrait (4 à 5 phrases) de ton meilleur ami en mêlant portrait physique et moral.", "r": "Réponse libre. Vérifie : des adjectifs bien accordés, du physique et du moral, un ordre logique.", "indice": "Commence par la silhouette, puis le visage, puis le caractère." }
+    ],
+    "qcm": [
+      { "q": "Le portrait physique décrit :", "options": ["le caractère", "l'apparence", "l'histoire", "le lieu"], "correct": 1, "exp": "Le physique concerne l'apparence." },
+      { "q": "Le portrait moral décrit :", "options": ["la taille", "le caractère", "les vêtements", "la couleur des yeux"], "correct": 1, "exp": "Le moral concerne les qualités, défauts et attitudes." },
+      { "q": "Dans « il est courageux », « courageux » relève :", "options": ["du portrait physique", "du portrait moral", "du lieu", "de l'action"], "correct": 1, "exp": "Le courage est un trait de caractère." },
+      { "q": "Dans « des cheveux crépus », on décrit :", "options": ["le caractère", "le physique", "une action", "un lieu"], "correct": 1, "exp": "Les cheveux relèvent de l'apparence physique." },
+      { "q": "Pour décrire, on utilise surtout :", "options": ["le futur", "les adjectifs qualificatifs", "l'impératif", "les conjonctions"], "correct": 1, "exp": "Les adjectifs qualificatifs donnent des qualités." },
+      { "q": "La description se distingue du récit car elle :", "options": ["fait avancer l'histoire", "présente sans faire avancer l'histoire", "contient toujours un dialogue", "est toujours au futur"], "correct": 1, "exp": "Elle présente un lieu ou une personne sans faire progresser l'action." },
+      { "q": "Le point de vue est :", "options": ["la distance entre le narrateur et ce qu'il décrit, et la manière de le regarder", "la couleur du livre", "le titre", "le nombre de pages"], "correct": 0, "exp": "C'est la manière dont le narrateur regarde ce qu'il décrit." },
+      { "q": "Pour un portrait réussi, on commence souvent par :", "options": ["les vêtements", "la silhouette générale", "le caractère", "la conclusion"], "correct": 1, "exp": "On part du général vers le particulier." },
+      { "q": "Dans « il est doux et patient », on décrit :", "options": ["le physique", "le moral", "le lieu", "une action"], "correct": 1, "exp": "Doux et patient sont des qualités morales." },
+      { "q": "Quel temps est souvent utilisé pour décrire un personnage au passé ?", "options": ["l'imparfait", "le futur simple", "l'impératif", "le passé composé uniquement"], "correct": 0, "exp": "L'imparfait sert à décrire au passé." }
+    ]
+  }
+]

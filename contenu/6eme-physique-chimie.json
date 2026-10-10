@@ -1,0 +1,110 @@
+[
+  {
+    "classe": "6eme",
+    "matiere": "Physique-Chimie",
+    "id": "pc6-etats-matiere",
+    "titre": "Les trois états de la matière",
+    "duree": "40 min",
+    "contenu": "<p>Tout ce qui nous entoure est constitué de <b>matière</b>. La matière existe sous trois <b>états</b> : solide, liquide et gazeux.</p><div class='definition'><b>Solide :</b> il a une forme propre et un volume propre. Ex. : une pierre, une craie.<br><b>Liquide :</b> il n'a pas de forme propre (il prend la forme du récipient) mais il a un volume propre. Ex. : l'eau, l'huile.<br><b>Gaz :</b> il n'a ni forme propre ni volume propre : il occupe tout l'espace disponible. Ex. : l'air, la vapeur d'eau.</div><p>La matière peut <b>changer d'état</b> quand on la chauffe ou la refroidit :</p><ul><li><b>fusion</b> : solide → liquide (la glace fond) ;</li><li><b>vaporisation</b> : liquide → gaz (l'eau bout) ;</li><li><b>solidification</b> : liquide → solide (l'eau devient glace au congélateur) ;</li><li><b>condensation</b> : gaz → liquide (la buée sur un verre froid).</li></ul><div class='exemple'><b>Exemple :</b> un glaçon posé sur une table fond et devient de l'eau. Si on chauffe cette eau, elle se transforme en vapeur.</div><div class='astuce'><b>Astuce :</b> pour te souvenir des changements d'état, pense au sens du mot : la fusion, c'est fondre ; la vaporisation, c'est passer en vapeur.</div>",
+    "exercices": [
+      { "q": "Classe ces éléments selon leur état à température ordinaire : une bouteille d'eau, une pierre, de l'air, du sable, de l'huile.", "r": "Solides : la pierre, le sable. Liquides : l'eau, l'huile. Gaz : l'air.", "indice": "Le liquide a un volume propre mais pas de forme propre." },
+      { "q": "Décris les propriétés d'un solide, d'un liquide et d'un gaz en une phrase chacun.", "r": "Solide : il a une forme et un volume propres. Liquide : il a un volume propre mais prend la forme du récipient. Gaz : il n'a ni forme ni volume propres et occupe tout l'espace.", "indice": "Compare la forme et le volume." },
+      { "q": "Quel est le nom du changement d'état : une glace qui fond ? Et celui de l'eau qui devient glace ?", "r": "Une glace qui fond : fusion (solide → liquide). L'eau qui gèle : solidification (liquide → solide).", "indice": "Pense au sens du mot." },
+      { "q": "Explique pourquoi la buée se forme sur un verre froid.", "r": "La vapeur d'eau présente dans l'air (gaz) rencontre le verre froid et se condense en fines gouttelettes liquides : c'est la condensation.", "indice": "Le passage d'un gaz à un liquide s'appelle la condensation." },
+      { "q": "Un élève fait bouillir de l'eau. Quel changement d'état observe-t-il ? Comment s'appelle-t-il ?", "r": "L'eau liquide se transforme en vapeur (gaz) : c'est la vaporisation.", "indice": "Pense à la vapeur qui s'échappe de la casserole." }
+    ],
+    "qcm": [
+      { "q": "Quel état de la matière n'a ni forme ni volume propres ?", "options": ["le solide", "le liquide", "le gaz", "aucun"], "correct": 2, "exp": "Le gaz occupe tout l'espace disponible, il n'a ni forme ni volume propres." },
+      { "q": "L'eau est un liquide. Que possède-t-elle en propre ?", "options": ["une forme", "un volume", "rien", "les deux"], "correct": 1, "exp": "Le liquide a un volume propre, mais il prend la forme du récipient." },
+      { "q": "Le passage d'un solide à un liquide s'appelle :", "options": ["la fusion", "la vaporisation", "la condensation", "la solidification"], "correct": 0, "exp": "La fusion est le passage du solide au liquide." },
+      { "q": "Le passage d'un liquide à un gaz s'appelle :", "options": ["la fusion", "la vaporisation", "la condensation", "la solidification"], "correct": 1, "exp": "La vaporisation transforme un liquide en gaz." },
+      { "q": "La glace qui devient de l'eau est un exemple de :", "options": ["fusion", "solidification", "condensation", "vaporisation"], "correct": 0, "exp": "La glace (solide) fond en eau (liquide) : c'est la fusion." },
+      { "q": "La buée sur une vitre est un exemple de :", "options": ["fusion", "vaporisation", "condensation", "solidification"], "correct": 2, "exp": "La vapeur d'eau (gaz) se condense en gouttelettes (liquide)." },
+      { "q": "Quel élément est un solide ?", "options": ["l'air", "l'eau", "une craie", "la vapeur"], "correct": 2, "exp": "La craie a une forme et un volume propres : c'est un solide." },
+      { "q": "Quel est le passage du liquide au solide ?", "options": ["la solidification", "la fusion", "la vaporisation", "la condensation"], "correct": 0, "exp": "La solidification transforme un liquide en solide, comme l'eau qui gèle." },
+      { "q": "Quel état a un volume propre mais pas de forme propre ?", "options": ["le gaz", "le liquide", "le solide", "aucun"], "correct": 1, "exp": "Le liquide prend la forme de son récipient, mais garde son volume." },
+      { "q": "La vapeur d'eau est un :", "options": ["solide", "liquide", "gaz", "mélange"], "correct": 2, "exp": "La vapeur d'eau est l'eau à l'état gazeux." }
+    ]
+  },
+  {
+    "classe": "6eme",
+    "matiere": "Physique-Chimie",
+    "id": "pc6-corps-purs-melanges",
+    "titre": "Les corps purs et les mélanges",
+    "duree": "40 min",
+    "contenu": "<p>Une substance peut être <b>pure</b> ou <b>mélangée</b> à d'autres.</p><div class='definition'><b>Corps pur :</b> il est constitué d'une seule substance. Ex. : l'eau distillée, le sel pur, le fer.<br><b>Mélange :</b> il est constitué de plusieurs substances. Ex. : l'eau de mer, l'air, le lait, le sable mouillé.</div><p>Un corps pur a une température de fusion et une température d'ébullition <b>fixes</b>. Un mélange n'en a pas : il fond et bout sur une plage de températures.</p><p>On peut séparer les constituants d'un mélange par différentes méthodes :</p><ul><li><b>la décantation</b> : on laisse reposer, le plus lourd tombe au fond (sable et eau) ;</li><li><b>la filtration</b> : on fait passer le mélange à travers un filtre (sable et eau) ;</li><li><b>l'évaporation</b> : on chauffe pour faire disparaître le liquide et garder le solide dissous (eau salée).</li></ul><div class='exemple'><b>Exemple :</b> pour récupérer le sel dans l'eau de mer, on laisse évaporer l'eau au soleil : il reste le sel.</div><div class='astuce'><b>Astuce :</b> pour savoir si un liquide est un corps pur ou un mélange, cherche s'il est transparent et homogène ; ce n'est pas suffisant. Seul un test précis (mesure de température de fusion ou d'ébullition) permet de conclure.</div>",
+    "exercices": [
+      { "q": "Classe ces éléments en corps pur ou mélange : l'eau distillée, l'air, le fer, le lait, le sel pur.", "r": "Corps purs : l'eau distillée, le fer, le sel pur. Mélanges : l'air, le lait.", "indice": "Un corps pur est constitué d'une seule substance." },
+      { "q": "Quelle différence y a-t-il entre décantation et filtration ?", "r": "La décantation laisse le mélange reposer pour que le solide lourd tombe au fond. La filtration fait passer le mélange à travers un filtre qui retient les solides.", "indice": "Pense à l'action : laisser reposer ou filtrer." },
+      { "q": "Comment récupérer le sel dissous dans de l'eau salée ?", "r": "Par évaporation : on chauffe ou on laisse l'eau s'évaporer, le sel reste.", "indice": "Ce qui s'évapore est le liquide." },
+      { "q": "Un élève mélange du sable et de l'eau. Quelle méthode lui permet de séparer les deux ?", "r": "La filtration ou la décantation.", "indice": "Le sable ne se dissout pas dans l'eau." },
+      { "q": "Pourquoi l'eau de mer est-elle un mélange et non un corps pur ?", "r": "Elle contient de l'eau et plusieurs sels dissous, donc plusieurs substances.", "indice": "Compte les substances présentes." }
+    ],
+    "qcm": [
+      { "q": "Un corps pur est constitué :", "options": ["de plusieurs substances", "d'une seule substance", "d'air uniquement", "d'eau et de sel"], "correct": 1, "exp": "Un corps pur ne contient qu'une seule substance." },
+      { "q": "Lequel est un mélange ?", "options": ["le fer", "l'eau distillée", "le lait", "le sel pur"], "correct": 2, "exp": "Le lait contient plusieurs substances : c'est un mélange." },
+      { "q": "Pour séparer du sable et de l'eau, on peut utiliser :", "options": ["la filtration", "la fusion", "la vaporisation", "la solidification"], "correct": 0, "exp": "La filtration retient le sable et laisse passer l'eau." },
+      { "q": "Pour récupérer le sel dans l'eau salée, on utilise :", "options": ["la décantation", "l'évaporation", "la filtration", "la condensation"], "correct": 1, "exp": "L'évaporation fait disparaître l'eau et le sel reste." },
+      { "q": "Un corps pur a une température de fusion :", "options": ["variable", "fixe", "toujours nulle", "inexistante"], "correct": 1, "exp": "Un corps pur fond à une température fixe." },
+      { "q": "L'air est :", "options": ["un corps pur", "un mélange de gaz", "un solide", "un liquide"], "correct": 1, "exp": "L'air contient plusieurs gaz : c'est un mélange." },
+      { "q": "La décantation permet de :", "options": ["séparer un liquide et un solide qui tombe au fond", "dissoudre un solide", "fondre un solide", "évaporer un liquide"], "correct": 0, "exp": "La décantation sépare un solide plus lourd qui tombe au fond d'un liquide." },
+      { "q": "Quel exemple est un corps pur ?", "options": ["l'eau de mer", "le sel pur", "le sable mouillé", "l'air"], "correct": 1, "exp": "Le sel pur est une seule substance." },
+      { "q": "Un mélange fond :", "options": ["à une température fixe", "sur une plage de températures", "jamais", "à zéro degré toujours"], "correct": 1, "exp": "Un mélange n'a pas de température de fusion fixe." },
+      { "q": "Le sable et l'eau forment :", "options": ["un corps pur", "un mélange", "un gaz", "un solide homogène"], "correct": 1, "exp": "Le sable et l'eau sont deux substances différentes : c'est un mélange." }
+    ]
+  },
+  {
+    "classe": "6eme",
+    "matiere": "Physique-Chimie",
+    "id": "pc6-solutions",
+    "titre": "Les solutions et la dissolution",
+    "duree": "40 min",
+    "contenu": "<p>Lorsqu'on verse du sucre dans de l'eau et qu'on remue, le sucre disparaît : il s'est <b>dissous</b>. Le mélange obtenu est une <b>solution</b>.</p><div class='definition'><b>Solvant :</b> le liquide qui dissout (ici l'eau).<br><b>Soluté :</b> la substance qui se dissout (ici le sucre).<br><b>Solution :</b> le mélange homogène obtenu : solvant + soluté.</div><p>Une solution est <b>homogène</b> : on ne voit plus les grains de sucre ou de sel. Un soluté a une <b>limite de dissolution</b> : au-delà, il reste des grains au fond. On dit alors que la solution est saturée.</p><div class='exemple'><b>Exemple :</b> le jus de bissap ou de gingembre est une solution : le sucre est dissous dans l'eau. Le sirop est une solution très concentrée.</div><div class='astuce'><b>Astuce :</b> pour dissoudre plus vite un solide dans un liquide, on peut remuer, ou chauffer le liquide (sauf cas particulier) : le soluté se dissout plus facilement.</div>",
+    "exercices": [
+      { "q": "Dans une eau sucrée, identifie le solvant et le soluté.", "r": "Solvant : l'eau. Soluté : le sucre.", "indice": "Le solvant est le liquide qui dissout." },
+      { "q": "Qu'est-ce qu'une solution homogène ?", "r": "C'est un mélange dans lequel on ne voit plus les constituants du soluté : le mélange est uniforme.", "indice": "Pense à l'eau sucrée : on ne voit plus les grains." },
+      { "q": "Un élève ajoute du sel dans de l'eau. Au bout d'un moment, des grains restent au fond. Que s'est-il passé ?", "r": "La solution est saturée : l'eau ne peut plus dissoudre de sel à cette température.", "indice": "Il existe une limite à la quantité de soluté qu'on peut dissoudre." },
+      { "q": "Cite deux façons d'accélérer la dissolution du sucre dans l'eau.", "r": "Remuer, ou chauffer l'eau.", "indice": "Pense à ce qui augmente le contact entre le sucre et l'eau." },
+      { "q": "Le jus de bissap sucré est-il un corps pur ou une solution ? Justifie.", "r": "C'est une solution : le sucre est dissous dans l'eau du jus, le mélange est homogène.", "indice": "Il contient un solvant et un soluté." }
+    ],
+    "qcm": [
+      { "q": "Dans une solution d'eau sucrée, le sucre est :", "options": ["le solvant", "le soluté", "le mélange", "la solution"], "correct": 1, "exp": "Le sucre est la substance qui se dissout : c'est le soluté." },
+      { "q": "Le liquide qui dissout s'appelle :", "options": ["le soluté", "le solvant", "la solution", "le gaz"], "correct": 1, "exp": "Le solvant est le liquide qui permet la dissolution." },
+      { "q": "Une solution est :", "options": ["hétérogène", "homogène", "toujours colorée", "un gaz"], "correct": 1, "exp": "Dans une solution, on ne voit plus les constituants du soluté : elle est homogène." },
+      { "q": "Une solution saturée est une solution :", "options": ["vide", "dans laquelle on ne peut plus dissoudre de soluté", "sans eau", "chaude uniquement"], "correct": 1, "exp": "Une solution saturée ne peut plus dissoudre de soluté : il reste des grains au fond." },
+      { "q": "Pour accélérer la dissolution du sucre, on peut :", "options": ["le couper en morceaux plus gros", "remuer le mélange", "ne rien faire", "le geler"], "correct": 1, "exp": "Remuer augmente le contact entre le soluté et le solvant." },
+      { "q": "Le sirop est une solution :", "options": ["très diluée", "très concentrée en sucre", "sans sucre", "un corps pur"], "correct": 1, "exp": "Le sirop contient beaucoup de sucre dissous : il est très concentré." },
+      { "q": "Quel exemple est une solution ?", "options": ["le sable mouillé", "l'eau sucrée", "le fer", "la glace"], "correct": 1, "exp": "L'eau sucrée est un mélange homogène de sucre dissous dans l'eau." },
+      { "q": "Quand un soluté est dissous, il :", "options": ["disparaît dans le solvant", "se transforme en gaz", "devient un solide", "change de masse"], "correct": 0, "exp": "Le soluté est réparti dans le solvant : il semble disparaître, mais il est toujours présent." },
+      { "q": "Dans l'eau salée, le sel est :", "options": ["le solvant", "le soluté", "la solution", "le gaz"], "correct": 1, "exp": "Le sel est dissous dans l'eau : c'est le soluté." },
+      { "q": "La dissolution est :", "options": ["la fusion d'un solide", "la disparition apparente d'un soluté dans un solvant", "la condensation d'un gaz", "l'évaporation d'un liquide"], "correct": 1, "exp": "La dissolution est le fait qu'un soluté se disperse dans un solvant." }
+    ]
+  },
+  {
+    "classe": "6eme",
+    "matiere": "Physique-Chimie",
+    "id": "pc6-mesures-masse-volume",
+    "titre": "Mesurer une masse et un volume",
+    "duree": "40 min",
+    "contenu": "<p>En sciences, on mesure des grandeurs. Deux grandeurs importantes en 6ème sont la <b>masse</b> et le <b>volume</b>.</p><div class='definition'><b>La masse</b> mesure la quantité de matière d'un objet. Elle se mesure avec une balance et s'exprime en <b>gramme (g)</b> ou en <b>kilogramme (kg)</b>.<br><b>Le volume</b> mesure l'espace occupé par un objet. Pour un liquide, on utilise une éprouvette graduée ou un récipient gradué. Unités : <b>millilitre (mL)</b> et <b>litre (L)</b>.</div><p><b>Conversions à connaître :</b></p><ul><li>1 kg = 1 000 g</li><li>1 L = 1 000 mL</li><li>1 mL = 1 cm³</li></ul><div class='exemple'><b>Exemple :</b> un sac de riz de 2 kg contient 2 000 g. Une bouteille de 1,5 L contient 1 500 mL.</div><div class='astuce'><b>Astuce :</b> pour convertir des kilogrammes en grammes, on multiplie par 1 000 (ou on déplace la virgule de 3 rangs vers la droite). Pour des millilitres en litres, on divise par 1 000.</div>",
+    "exercices": [
+      { "q": "Convertis en grammes : 3 kg ; 0,5 kg.", "r": "3 kg = 3 000 g ; 0,5 kg = 500 g.", "indice": "1 kg = 1 000 g." },
+      { "q": "Convertis en litres : 2 500 mL ; 750 mL.", "r": "2 500 mL = 2,5 L ; 750 mL = 0,75 L.", "indice": "On divise les millilitres par 1 000." },
+      { "q": "Quelle unité utiliser pour mesurer la masse d'un cahier : le gramme ou le litre ? Pourquoi ?", "r": "Le gramme, car la masse se mesure en grammes ou en kilogrammes. Le litre sert pour les volumes.", "indice": "Le litre mesure un volume de liquide." },
+      { "q": "Une éprouvette contient 250 mL d'eau. Quel est son volume en litres ?", "r": "250 mL = 0,25 L.", "indice": "On divise par 1 000." },
+      { "q": "Un sac de ciment pèse 50 kg. Combien de grammes cela fait-il ?", "r": "50 kg = 50 000 g.", "indice": "On multiplie les kilogrammes par 1 000." }
+    ],
+    "qcm": [
+      { "q": "La masse se mesure avec :", "options": ["une éprouvette", "une balance", "un thermomètre", "une règle"], "correct": 1, "exp": "La balance mesure la masse : c'est son rôle." },
+      { "q": "Combien de grammes dans 1 kg ?", "options": ["10", "100", "1 000", "10 000"], "correct": 2, "exp": "1 kg = 1 000 g." },
+      { "q": "Combien de millilitres dans 1 L ?", "options": ["10", "100", "1 000", "10 000"], "correct": 2, "exp": "1 L = 1 000 mL." },
+      { "q": "Quelle unité sert à mesurer un volume de liquide ?", "options": ["le gramme", "le litre", "le kilogramme", "le mètre"], "correct": 1, "exp": "Le litre (L) et le millilitre (mL) mesurent les volumes." },
+      { "q": "2 kg équivalent à :", "options": ["200 g", "2 000 g", "20 000 g", "20 g"], "correct": 1, "exp": "2 × 1 000 = 2 000 g." },
+      { "q": "500 mL équivalent à :", "options": ["0,5 L", "5 L", "0,05 L", "50 L"], "correct": 0, "exp": "500 mL = 500 ÷ 1 000 = 0,5 L." },
+      { "q": "Quelle unité est la plus adaptée pour la masse d'une tomate ?", "options": ["le kilogramme", "le gramme", "la tonne", "le litre"], "correct": 1, "exp": "Une tomate se pèse en grammes : c'est une petite masse." },
+      { "q": "L'éprouvette sert à :", "options": ["peser un objet", "mesurer un volume de liquide", "mesurer la température", "mesurer une longueur"], "correct": 1, "exp": "L'éprouvette graduée mesure le volume d'un liquide." },
+      { "q": "1 mL est égal à :", "options": ["1 cm³", "1 dm³", "10 cm³", "100 cm³"], "correct": 0, "exp": "1 mL = 1 cm³." },
+      { "q": "Quelle est la masse de 1,5 kg en grammes ?", "options": ["15 g", "150 g", "1 500 g", "15 000 g"], "correct": 2, "exp": "1,5 × 1 000 = 1 500 g." }
+    ]
+  }
+]

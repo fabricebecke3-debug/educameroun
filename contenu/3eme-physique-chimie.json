@@ -1,0 +1,110 @@
+[
+  {
+    "classe": "3eme",
+    "matiere": "Physique-Chimie",
+    "id": "pc3-structure-atome",
+    "titre": "La structure de l'atome : noyau, électrons et neutralité",
+    "duree": "40 min",
+    "contenu": "<p>L'<b>atome</b> est constitué d'un <b>noyau</b> très petit, situé au centre, entouré d'un nuage d'<b>électrons</b>. Presque toute la masse de l'atome est concentrée dans le noyau.</p><div class='definition'><b>Le noyau</b> contient des <b>protons</b> (charge électrique positive, notée +) et des <b>neutrons</b> (sans charge électrique).<br><b>Les électrons</b> portent une charge négative (notée −). Ils sont très légers par rapport au noyau.<br><b>Le numéro atomique Z</b> est le nombre de protons du noyau. Il caractérise l'élément chimique.<br><b>Le nombre de masse A</b> est la somme des protons et des neutrons : A = Z + N.<br><b>Un atome est électriquement neutre</b> : il possède autant d'électrons que de protons.</div><div class='exemple'><b>Exemple :</b> l'atome de carbone a Z = 6. Il possède 6 protons, 6 électrons, et généralement 6 neutrons, donc A = 12.</div><div class='astuce'><b>Astuce :</b> le numéro atomique Z donne tout : nombre de protons, et donc nombre d'électrons dans un atome neutre. Si tu connais Z, tu connais la nature de l'élément.</div>",
+    "exercices": [
+      { "q": "Où se trouve la plus grande partie de la masse d'un atome ?", "r": "Dans le noyau.", "indice": "Le noyau contient les protons et les neutrons." },
+      { "q": "Un atome a 8 protons et 8 neutrons. Calcule son numéro atomique Z et son nombre de masse A.", "r": "Z = 8 ; A = 8 + 8 = 16.", "indice": "Z est le nombre de protons ; A est la somme protons plus neutrons." },
+      { "q": "Combien d'électrons possède un atome neutre de numéro atomique Z = 11 ?", "r": "11 électrons.", "indice": "Un atome neutre a autant d'électrons que de protons." },
+      { "q": "Quelle est la charge électrique du noyau d'un atome d'oxygène (Z = 8) ?", "r": "+8, car le noyau contient 8 protons (charge positive) et les neutrons n'ont pas de charge.", "indice": "Seuls les protons portent une charge." },
+      { "q": "Un atome a 6 protons, 6 neutrons et 6 électrons. Est-il neutre ? Justifie.", "r": "Oui : il a autant de protons que d'électrons, les charges s'annulent.", "indice": "Compare charges positives et négatives." }
+    ],
+    "qcm": [
+      { "q": "Le noyau d'un atome contient :", "options": ["des protons et des neutrons", "uniquement des électrons", "uniquement des neutrons", "de l'air"], "correct": 0, "exp": "Il contient protons et neutrons." },
+      { "q": "La charge électrique d'un électron est :", "options": ["positive", "négative", "nulle", "variable"], "correct": 1, "exp": "L'électron porte une charge négative." },
+      { "q": "Les neutrons :", "options": ["ont une charge positive", "ont une charge négative", "n'ont pas de charge", "sont dans le nuage"], "correct": 2, "exp": "Ils sont électriquement neutres." },
+      { "q": "Le numéro atomique Z correspond au nombre de :", "options": ["protons", "neutrons", "électrons seulement", "nuages"], "correct": 0, "exp": "Z est le nombre de protons." },
+      { "q": "Un atome a Z = 6 et N = 6. Son nombre de masse A vaut :", "options": ["6", "12", "36", "3"], "correct": 1, "exp": "A = Z + N = 12." },
+      { "q": "Un atome neutre :", "options": ["a autant de protons que d'électrons", "a plus d'électrons que de protons", "n'a pas d'électrons", "a plus de neutrons que de protons toujours"], "correct": 0, "exp": "Les charges se compensent." },
+      { "q": "Le noyau est :", "options": ["très petit par rapport à l'atome", "aussi grand que l'atome", "absent", "à l'extérieur de l'atome"], "correct": 0, "exp": "Le noyau est minuscule, au centre." },
+      { "q": "Le nombre de masse A est égal à :", "options": ["Z + N", "Z − N", "Z × N", "N seulement"], "correct": 0, "exp": "A = protons + neutrons." },
+      { "q": "Le numéro atomique caractérise :", "options": ["l'élément chimique", "la couleur de l'atome", "la température", "la vitesse"], "correct": 0, "exp": "Z identifie l'élément." },
+      { "q": "Un atome d'oxygène (Z = 8) possède en général :", "options": ["8 électrons", "16 électrons", "4 électrons", "0 électron"], "correct": 0, "exp": "Un atome neutre a Z électrons." }
+    ]
+  },
+  {
+    "classe": "3eme",
+    "matiere": "Physique-Chimie",
+    "id": "pc3-tableau-periodique",
+    "titre": "Le tableau périodique des éléments",
+    "duree": "40 min",
+    "contenu": "<p>Le <b>tableau périodique</b> classe tous les éléments chimiques connus. Chaque élément y est représenté par une case contenant son symbole, son numéro atomique et sa masse.</p><div class='definition'><b>Les lignes</b> du tableau s'appellent les <b>périodes</b>.<br><b>Les colonnes</b> s'appellent les <b>familles</b> : les éléments d'une même colonne ont des propriétés chimiques voisines.<br><b>Les gaz nobles</b> (hélium He, néon Ne, argon Ar) forment la dernière colonne. Ils sont très peu réactifs.<br><b>Les métaux alcalins</b> (lithium Li, sodium Na, potassium K) forment la première colonne. Ils réagissent facilement avec l'eau.</div><p>Le classement suit le numéro atomique : on range les éléments par ordre croissant de Z.</p><div class='exemple'><b>Exemple :</b> le sodium (Na) et le potassium (K) sont dans la même colonne. Ils réagissent tous deux de manière vive avec l'eau, car ils appartiennent à la même famille.</div><div class='astuce'><b>Astuce :</b> pour retenir la première colonne, pense aux métaux alcalins : ils ont un électron de plus que le gaz noble qui les précède et réagissent très facilement.</div>",
+    "exercices": [
+      { "q": "Comment sont classés les éléments dans le tableau périodique ?", "r": "Par ordre croissant de numéro atomique Z.", "indice": "Pense au numéro atomique." },
+      { "q": "Quelle est la différence entre une période et une famille ?", "r": "Une période est une ligne ; une famille est une colonne.", "indice": "Lignes ou colonnes ?" },
+      { "q": "Cite trois gaz nobles.", "r": "L'hélium (He), le néon (Ne), l'argon (Ar).", "indice": "Ils sont dans la dernière colonne." },
+      { "q": "Pourquoi les éléments d'une même colonne ont-ils des propriétés voisines ?", "r": "Ils ont le même nombre d'électrons sur leur couche externe, donc des comportements chimiques semblables.", "indice": "Pense aux électrons externes." },
+      { "q": "Quels sont les noms de la première colonne du tableau ?", "r": "Les métaux alcalins, comme le lithium, le sodium et le potassium.", "indice": "Ce sont des métaux très réactifs." }
+    ],
+    "qcm": [
+      { "q": "Les lignes du tableau périodique s'appellent :", "options": ["les périodes", "les familles", "les noyaux", "les charges"], "correct": 0, "exp": "Ce sont les périodes." },
+      { "q": "Les colonnes du tableau s'appellent :", "options": ["les périodes", "les familles", "les électrons", "les protons"], "correct": 1, "exp": "Ce sont les familles." },
+      { "q": "Les éléments sont classés par ordre croissant de :", "options": ["numéro atomique", "couleur", "température", "volume"], "correct": 0, "exp": "On range par numéro atomique Z." },
+      { "q": "Le néon est :", "options": ["un gaz noble", "un métal alcalin", "un électron", "un proton"], "correct": 0, "exp": "C'est un gaz noble." },
+      { "q": "Le sodium appartient à :", "options": ["la première colonne (métaux alcalins)", "la dernière colonne", "les gaz nobles", "aucune colonne"], "correct": 0, "exp": "Na est un métal alcalin." },
+      { "q": "Les gaz nobles sont :", "options": ["très peu réactifs", "très réactifs", "liquides", "solides"], "correct": 0, "exp": "Ils sont stables et peu réactifs." },
+      { "q": "Les métaux alcalins réagissent :", "options": ["facilement avec l'eau", "jamais", "uniquement dans le vide", "seulement avec l'air sec"], "correct": 0, "exp": "Ils réagissent vivement avec l'eau." },
+      { "q": "Le symbole du potassium est :", "options": ["P", "K", "Po", "Pt"], "correct": 1, "exp": "K vient du latin kalium." },
+      { "q": "Dans une même colonne, les éléments :", "options": ["ont des propriétés chimiques voisines", "sont identiques en tout", "n'ont aucun lien", "ont le même nom"], "correct": 0, "exp": "Ils partagent une famille chimique." },
+      { "q": "Un élément est représenté dans le tableau par :", "options": ["son symbole, son numéro atomique et sa masse", "un dessin", "une couleur seule", "une phrase"], "correct": 0, "exp": "Chaque case contient ces informations." }
+    ]
+  },
+  {
+    "classe": "3eme",
+    "matiere": "Physique-Chimie",
+    "id": "pc3-loi-ohm",
+    "titre": "La loi d'Ohm : tension, intensité et résistance",
+    "duree": "40 min",
+    "contenu": "<p>Dans un circuit électrique, trois grandeurs sont liées : la <b>tension</b> U, l'<b>intensité</b> I et la <b>résistance</b> R. La relation entre elles est la <b>loi d'Ohm</b>.</p><div class='definition'><b>La tension U</b> est la différence de potentiel entre deux bornes d'un dipôle. Elle s'exprime en volt (V).<br><b>L'intensité I</b> est le débit de charges électriques qui circulent. Elle s'exprime en ampère (A).<br><b>La résistance R</b> mesure l'opposition d'un dipôle au passage du courant. Elle s'exprime en ohm (Ω).<br><b>Loi d'Ohm :</b> U = R × I. On en déduit R = U ÷ I et I = U ÷ R.</div><div class='exemple'><b>Exemple :</b> une lampe de résistance R = 10 Ω est alimentée sous U = 6 V. L'intensité est I = U ÷ R = 6 ÷ 10 = 0,6 A.</div><div class='astuce'><b>Astuce :</b> pour retrouver la formule, fais le triangle U en haut, R et I en bas. Cache la grandeur recherchée : tu vois l'opération à faire.</div>",
+    "exercices": [
+      { "q": "Une résistance de 20 Ω est traversée par un courant de 0,5 A. Calcule la tension à ses bornes.", "r": "U = R × I = 20 × 0,5 = 10 V.", "indice": "U = R × I." },
+      { "q": "Une lampe de 5 Ω est alimentée sous 10 V. Calcule l'intensité.", "r": "I = U ÷ R = 10 ÷ 5 = 2 A.", "indice": "I = U ÷ R." },
+      { "q": "Un conducteur a une tension de 12 V et une intensité de 3 A. Calcule sa résistance.", "r": "R = U ÷ I = 12 ÷ 3 = 4 Ω.", "indice": "R = U ÷ I." },
+      { "q": "Quelle est l'unité de l'intensité ? Et celle de la résistance ?", "r": "L'intensité s'exprime en ampère (A) ; la résistance en ohm (Ω).", "indice": "Relis le cours." },
+      { "q": "Pour une même tension, si la résistance double, que devient l'intensité ?", "r": "Elle est divisée par deux, car I = U ÷ R.", "indice": "Regarde la formule : R est au dénominateur." }
+    ],
+    "qcm": [
+      { "q": "La loi d'Ohm s'écrit :", "options": ["U = R × I", "U = R + I", "U = R ÷ I", "U = I − R"], "correct": 0, "exp": "U = R × I." },
+      { "q": "L'unité de la tension est :", "options": ["l'ampère", "le volt", "l'ohm", "le watt"], "correct": 1, "exp": "La tension s'exprime en volt." },
+      { "q": "L'unité de la résistance est :", "options": ["le volt", "l'ampère", "l'ohm", "le newton"], "correct": 2, "exp": "La résistance s'exprime en ohm (Ω)." },
+      { "q": "Si R = 10 Ω et U = 6 V, l'intensité vaut :", "options": ["0,6 A", "60 A", "16 A", "4 A"], "correct": 0, "exp": "6 ÷ 10 = 0,6 A." },
+      { "q": "Une résistance de 4 Ω avec 3 A donne une tension de :", "options": ["12 V", "7 V", "1,33 V", "0,75 V"], "correct": 0, "exp": "U = 4 × 3 = 12 V." },
+      { "q": "Pour une même tension, si la résistance double, l'intensité :", "options": ["double", "reste identique", "est divisée par deux", "devient nulle"], "correct": 2, "exp": "I = U ÷ R : si R double, I est divisée par deux." },
+      { "q": "L'intensité se mesure en :", "options": ["volt", "ampère", "ohm", "mètre"], "correct": 1, "exp": "C'est l'ampère (A)." },
+      { "q": "La résistance mesure :", "options": ["l'opposition au passage du courant", "la tension de la pile", "la vitesse des électrons", "la charge du noyau"], "correct": 0, "exp": "C'est l'opposition du dipôle au courant." },
+      { "q": "À partir de U = R × I, on déduit R =", "options": ["U × I", "U ÷ I", "I ÷ U", "U − I"], "correct": 1, "exp": "R = U ÷ I." },
+      { "q": "Une tension de 230 V avec une résistance de 46 Ω donne une intensité de :", "options": ["5 A", "10 A", "184 A", "0,2 A"], "correct": 0, "exp": "230 ÷ 46 = 5 A." }
+    ]
+  },
+  {
+    "classe": "3eme",
+    "matiere": "Physique-Chimie",
+    "id": "pc3-reflexion-miroirs",
+    "titre": "La réflexion de la lumière sur les miroirs",
+    "duree": "40 min",
+    "contenu": "<p>Lorsque la lumière rencontre une surface lisse et polie, comme un miroir, elle est <b>réfléchie</b>. Le miroir renvoie la lumière dans une direction précise, selon des lois simples.</p><div class='definition'><b>Le rayon incident</b> est le rayon qui arrive sur le miroir.<br><b>Le rayon réfléchi</b> est le rayon qui repart du miroir.<br><b>La normale</b> est la droite perpendiculaire au miroir au point d'impact.<br><b>Première loi :</b> le rayon incident, le rayon réfléchi et la normale sont dans un même plan.<br><b>Deuxième loi :</b> l'angle d'incidence est égal à l'angle de réflexion (i = r), mesurés par rapport à la normale.</div><div class='exemple'><b>Exemple :</b> un rayon arrive sur un miroir avec un angle d'incidence de 30° par rapport à la normale. Il repart avec un angle de réflexion de 30°, de l'autre côté de la normale.</div><div class='astuce'><b>Astuce :</b> mesure toujours les angles par rapport à la normale, jamais par rapport au miroir. C'est l'erreur la plus fréquente.</div>",
+    "exercices": [
+      { "q": "Un rayon arrive sur un miroir avec un angle d'incidence de 40°. Quel est l'angle de réflexion ?", "r": "40°.", "indice": "Deuxième loi : i = r." },
+      { "q": "Qu'est-ce que la normale ?", "r": "La droite perpendiculaire au miroir au point d'impact.", "indice": "Elle forme un angle droit avec le miroir." },
+      { "q": "Un rayon forme un angle de 25° avec le miroir. Quel est son angle d'incidence par rapport à la normale ?", "r": "65°, car 90° − 25° = 65°.", "indice": "La normale fait 90° avec le miroir." },
+      { "q": "Énonce la première loi de la réflexion.", "r": "Le rayon incident, le rayon réfléchi et la normale sont dans un même plan.", "indice": "Pense à la position des trois droites." },
+      { "q": "Pourquoi peut-on voir son reflet dans un miroir ?", "r": "La lumière est réfléchie par le miroir vers l'œil, qui perçoit alors l'image.", "indice": "Pense au trajet de la lumière." }
+    ],
+    "qcm": [
+      { "q": "La réflexion se produit sur :", "options": ["une surface lisse et polie", "une surface rugueuse", "un liquide trouble", "le sable"], "correct": 0, "exp": "Une surface polie renvoie la lumière." },
+      { "q": "Deuxième loi de la réflexion : l'angle d'incidence est :", "options": ["égal à l'angle de réflexion", "le double", "la moitié", "nul"], "correct": 0, "exp": "i = r." },
+      { "q": "La normale est :", "options": ["parallèle au miroir", "perpendiculaire au miroir au point d'impact", "un rayon lumineux", "un angle de 45°"], "correct": 1, "exp": "Elle est perpendiculaire au miroir." },
+      { "q": "Un angle d'incidence de 30° donne un angle de réflexion de :", "options": ["30°", "60°", "90°", "15°"], "correct": 0, "exp": "i = r." },
+      { "q": "Un rayon forme 25° avec le miroir : son angle d'incidence est :", "options": ["25°", "65°", "90°", "115°"], "correct": 1, "exp": "90° − 25° = 65°." },
+      { "q": "Le rayon incident est :", "options": ["le rayon qui arrive sur le miroir", "le rayon qui repart", "la normale", "le miroir"], "correct": 0, "exp": "Il arrive sur la surface." },
+      { "q": "Le rayon réfléchi est :", "options": ["le rayon qui repart du miroir", "le rayon qui arrive", "la normale", "la lumière absente"], "correct": 0, "exp": "Il repart après la réflexion." },
+      { "q": "Les angles dans la réflexion se mesurent :", "options": ["par rapport à la normale", "par rapport au miroir uniquement", "en degrés sur le sol", "au hasard"], "correct": 0, "exp": "C'est la règle de mesure." },
+      { "q": "Le rayon incident, le rayon réfléchi et la normale :", "options": ["sont dans un même plan", "sont perpendiculaires entre eux", "se confondent", "ne se croisent jamais"], "correct": 0, "exp": "C'est la première loi." },
+      { "q": "On voit son reflet dans un miroir car :", "options": ["la lumière est réfléchie vers l'œil", "le miroir produit sa propre lumière", "le miroir absorbe tout", "on imagine l'image"], "correct": 0, "exp": "La lumière réfléchie atteint l'œil." }
+    ]
+  }
+]

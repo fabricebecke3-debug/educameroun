@@ -1,0 +1,110 @@
+[
+  {
+    "classe": "5eme",
+    "matiere": "EPS",
+    "id": "eps5-condition-physique",
+    "titre": "La condition physique : endurance, force et souplesse",
+    "duree": "40 min",
+    "contenu": "<p>La <b>condition physique</b> regroupe les qualités qui permettent de pratiquer une activité sportive sans se fatiguer trop vite et sans risque. Elle se développe par un entraînement régulier.</p><div class='definition'><b>L'endurance</b> est la capacité à maintenir un effort long, à intensité modérée.<br><b>La force</b> est la capacité à produire un effort important contre une résistance (soulever, pousser, sauter).<br><b>La souplesse</b> est la capacité des articulations à effectuer une grande amplitude de mouvement.<br><b>La vitesse</b> est la capacité à effectuer un déplacement ou un geste rapidement.</div><p>Pour progresser, il faut un entraînement <b>régulier</b>, <b>progressif</b> (on augmente la charge petit à petit) et <b>varié</b> (on travaille plusieurs qualités).</p><div class='exemple'><b>Exemple :</b> pour améliorer l'endurance, on court 15 minutes à allure modérée trois fois par semaine. Pour la souplesse, on fait des étirements doux après chaque séance.</div><div class='astuce'><b>Astuce :</b> augmente la difficulté de 10 % à la fois, pas plus. Un progrès trop rapide provoque souvent des douleurs ou des blessures.</div>",
+    "exercices": [
+      { "q": "Qu'est-ce que la condition physique ?", "r": "L'ensemble des qualités qui permettent de pratiquer une activité sportive sans fatigue excessive ni risque.", "indice": "Pense aux qualités physiques qu'un sportif développe." },
+      { "q": "Définis l'endurance et la force.", "r": "Endurance : maintenir un effort long à intensité modérée. Force : produire un effort important contre une résistance.", "indice": "Pense à la durée pour l'endurance, à l'intensité pour la force." },
+      { "q": "Quels sont les trois principes d'un entraînement efficace ?", "r": "Régulier, progressif et varié.", "indice": "Pense à la fréquence, à l'augmentation et à la diversité des exercices." },
+      { "q": "Pourquoi faut-il augmenter la difficulté progressivement ?", "r": "Pour éviter les douleurs et les blessures, et permettre au corps de s'adapter.", "indice": "Pense à ce qui se passe si on en fait trop d'un coup." },
+      { "q": "Propose un exercice pour développer la souplesse.", "r": "Exemple : étirer les muscles des jambes pendant 20 secondes sans douleur.", "indice": "Pense aux étirements." }
+    ],
+    "qcm": [
+      { "q": "L'endurance est la capacité à :", "options": ["soulever un objet lourd", "maintenir un effort long", "bouger très vite", "s'étirer"], "correct": 1, "exp": "L'endurance permet de tenir un effort longtemps." },
+      { "q": "La souplesse concerne :", "options": ["la force des muscles", "la grande amplitude des articulations", "la vitesse de course", "la respiration"], "correct": 1, "exp": "C'est la capacité des articulations à bouger largement." },
+      { "q": "Un entraînement efficace doit être :", "options": ["irrégulier", "régulier, progressif et varié", "unique", "très violent dès le début"], "correct": 1, "exp": "Ces trois principes garantissent le progrès." },
+      { "q": "La force est la capacité à :", "options": ["courir longtemps", "produire un effort important", "étirer les muscles", "respirer profondément"], "correct": 1, "exp": "La force permet de vaincre une résistance." },
+      { "q": "La vitesse désigne :", "options": ["l'effort long", "la rapidité d'un geste ou d'un déplacement", "la souplesse", "la force maximale"], "correct": 1, "exp": "La vitesse est la rapidité d'exécution." },
+      { "q": "Pourquoi augmenter la charge progressivement ?", "options": ["pour aller plus vite", "pour éviter les blessures", "pour fatiguer l'entraîneur", "pour gagner plus"], "correct": 1, "exp": "Un progrès progressif protège le corps." },
+      { "q": "Pour améliorer l'endurance, il faut :", "options": ["faire un seul sprint", "courir régulièrement à allure modérée", "ne rien faire", "soulever des poids uniquement"], "correct": 1, "exp": "La course régulière à allure modérée développe l'endurance." },
+      { "q": "Les étirements doux servent surtout à :", "options": ["développer la force maximale", "améliorer la souplesse", "couper la respiration", "augmenter la fatigue"], "correct": 1, "exp": "Ils améliorent la souplesse." },
+      { "q": "Un entraînement varié signifie :", "options": ["toujours le même exercice", "travailler plusieurs qualités physiques", "ne rien faire", "courir sans arrêt"], "correct": 1, "exp": "On travaille endurance, force, souplesse et vitesse." },
+      { "q": "Augmenter la difficulté de 10 % à la fois permet :", "options": ["un progrès sûr", "une blessure certaine", "aucun progrès", "de tout arrêter"], "correct": 0, "exp": "Une progression douce est plus sûre." }
+    ]
+  },
+  {
+    "classe": "5eme",
+    "matiere": "EPS",
+    "id": "eps5-saut-longueur",
+    "titre": "L'athlétisme : le saut en longueur",
+    "duree": "40 min",
+    "contenu": "<p>Le <b>saut en longueur</b> est une épreuve d'athlétisme qui consiste à sauter le plus loin possible à partir d'une planche d'appel. Il combine vitesse, impulsion et coordination.</p><div class='definition'><b>La course d'élan</b> est la phase de course qui prépare le saut. Elle doit être progressive et régulière.<br><b>La planche d'appel</b> est la zone à partir de laquelle on s'élance. On ne doit pas la dépasser : c'est une faute.<br><b>L'impulsion</b> est la poussée puissante du pied d'appel qui projette le corps vers l'avant.<br><b>La réception</b> consiste à atterrir le plus loin possible, les jambes en avant, sans reculer les fesses.</div><p>La mesure se fait à partir du bord de la planche jusqu'à la trace la plus proche laissée par le corps dans le sable.</p><div class='exemple'><b>Exemple :</b> un élève qui court, pose le pied sur la planche, pousse fort puis atterrit les jambes tendues dans le sable réalise un saut bien exécuté.</div><div class='astuce'><b>Astuce :</b> pendant le vol, lève les genoux vers la poitrine et bras vers l'avant : cela prolonge le saut. Pour la réception, ramène les jambes vers l'avant.</div>",
+    "exercices": [
+      { "q": "En quoi consiste le saut en longueur ?", "r": "Sauter le plus loin possible à partir d'une planche d'appel.", "indice": "Pense au but de l'épreuve." },
+      { "q": "Qu'est-ce que la planche d'appel ? Que se passe-t-il si on la dépasse ?", "r": "C'est la zone de départ du saut. La dépasser est une faute : le saut n'est pas valable.", "indice": "Pense à la limite à ne pas franchir." },
+      { "q": "Comment mesure-t-on un saut ?", "r": "Du bord de la planche jusqu'à la trace la plus proche laissée dans le sable.", "indice": "Pense à l'endroit où commence la mesure." },
+      { "q": "Quelles qualités physiques sont utiles au saut en longueur ?", "r": "La vitesse, la force d'impulsion et la coordination.", "indice": "Relis la définition de l'épreuve." },
+      { "q": "Décris les trois phases d'un saut en longueur.", "r": "L'élan (course), l'impulsion (poussée sur la planche), la réception (atterrissage dans le sable).", "indice": "Pense au déroulement du saut, de la course jusqu'au sable." }
+    ],
+    "qcm": [
+      { "q": "Le saut en longueur consiste à :", "options": ["sauter le plus haut", "sauter le plus loin possible", "courir le plus vite", "lancer un objet"], "correct": 1, "exp": "L'objectif est de sauter le plus loin." },
+      { "q": "La planche d'appel est :", "options": ["la zone où l'on s'élance", "la ligne d'arrivée", "le sable", "un obstacle à franchir"], "correct": 0, "exp": "C'est la zone de départ du saut." },
+      { "q": "Dépasser la planche d'appel est :", "options": ["un record", "une faute", "un avantage", "une obligation"], "correct": 1, "exp": "La faute annule le saut." },
+      { "q": "La mesure se fait :", "options": ["depuis le début de la piste", "depuis le bord de la planche", "depuis la ligne d'arrivée", "au hasard"], "correct": 1, "exp": "On mesure à partir du bord de la planche." },
+      { "q": "L'impulsion est :", "options": ["la course d'élan", "la poussée du pied d'appel", "l'atterrissage", "le repos"], "correct": 1, "exp": "C'est la poussée qui projette le corps vers l'avant." },
+      { "q": "Pour la réception, il faut :", "options": ["reculer les fesses", "ramener les jambes vers l'avant", "tomber sur le dos", "rester debout sur la planche"], "correct": 1, "exp": "Les jambes doivent être ramenées vers l'avant." },
+      { "q": "L'élan doit être :", "options": ["brusque et irrégulier", "progressif et régulier", "inexistant", "très lent"], "correct": 1, "exp": "Un élan régulier prépare une bonne impulsion." },
+      { "q": "Quelle qualité est indispensable au saut en longueur ?", "options": ["la vitesse", "la nage", "le lancer de poids", "le lancer de javelot"], "correct": 0, "exp": "La vitesse de course est essentielle pour l'élan." },
+      { "q": "Pendant le vol, pour prolonger le saut, il faut :", "options": ["fermer les yeux", "lever les genoux vers la poitrine et bras vers l'avant", "se pencher en arrière", "se coucher"], "correct": 1, "exp": "Cette posture aide à prolonger le saut." },
+      { "q": "La réception est :", "options": ["l'atterrissage dans le sable", "l'élan", "la mesure", "le départ"], "correct": 0, "exp": "C'est l'atterrissage dans le sable." }
+    ]
+  },
+  {
+    "classe": "5eme",
+    "matiere": "EPS",
+    "id": "eps5-handball",
+    "titre": "Le handball : passes, tirs et règles de base",
+    "duree": "40 min",
+    "contenu": "<p>Le <b>handball</b> est un sport collectif joué à sept contre sept, avec un ballon que l'on peut tenir, passer et lancer avec les mains. L'objectif est de marquer des buts dans la cage adverse.</p><div class='definition'><b>La passe</b> est l'envoi du ballon à un coéquipier. On la réalise à deux mains ou à une main.<br><b>Le tir</b> est le lancer du ballon vers le but.<br><b>Le dribble</b> est le fait de faire rebondir le ballon sur le sol en se déplaçant.<br><b>Le pas</b> : un joueur ne peut pas faire plus de trois pas en tenant le ballon sans le lâcher ou le passer.<br><b>Le marquage</b> consiste à surveiller un adversaire pour l'empêcher de recevoir le ballon.</div><p>Les règles essentielles interdisent de toucher le ballon avec les pieds (sauf le gardien dans sa surface), de frapper un adversaire et de bloquer un adversaire sans ballon.</p><div class='exemple'><b>Exemple :</b> un joueur reçoit le ballon, fait une passe à son coéquipier démarqué, qui tire au but. Il s'agit d'une action collective réussie.</div><div class='astuce'><b>Astuce :</b> pour bien passer, regarde ton coéquipier et non le ballon. Le démarquage (se libérer du marquage) est souvent plus efficace qu'un long dribble.</div>",
+    "exercices": [
+      { "q": "Quel est l'objectif du handball ?", "r": "Marquer des buts dans la cage adverse avec le ballon.", "indice": "Pense au but du jeu." },
+      { "q": "Décris la différence entre une passe et un tir.", "r": "La passe envoie le ballon à un coéquipier. Le tir lance le ballon vers le but.", "indice": "Pense au destinataire du ballon." },
+      { "q": "Combien de pas peut-on faire avec le ballon en main ?", "r": "Trois pas maximum.", "indice": "Relis la règle du pas." },
+      { "q": "Pourquoi le démarquage est-il important ?", "r": "Il permet au joueur de se libérer de son adversaire pour recevoir le ballon.", "indice": "Pense à un coéquipier libre." },
+      { "q": "Cite deux règles interdites au handball.", "r": "Toucher le ballon avec le pied (sauf le gardien), frapper ou bloquer un adversaire.", "indice": "Pense aux fautes courantes." }
+    ],
+    "qcm": [
+      { "q": "Le handball se joue :", "options": ["avec les pieds", "avec les mains", "avec une raquette", "avec un bâton"], "correct": 1, "exp": "On joue avec les mains." },
+      { "q": "Une équipe de handball compte en principe :", "options": ["5 joueurs", "7 joueurs", "11 joueurs", "15 joueurs"], "correct": 1, "exp": "Chaque équipe est composée de sept joueurs." },
+      { "q": "Le dribble consiste à :", "options": ["lancer le ballon au but", "faire rebondir le ballon au sol", "passer le ballon", "tenir le ballon sans bouger"], "correct": 1, "exp": "Le dribble est le rebond du ballon au sol." },
+      { "q": "Un joueur peut faire au maximum combien de pas avec le ballon ?", "options": ["un", "trois", "cinq", "illimité"], "correct": 1, "exp": "Trois pas maximum avec le ballon en main." },
+      { "q": "Le démarquage consiste à :", "options": ["se libérer du marquage pour recevoir le ballon", "frapper l'adversaire", "sortir du terrain", "se cacher"], "correct": 0, "exp": "C'est se libérer de son adversaire." },
+      { "q": "Toucher le ballon avec le pied est :", "options": ["autorisé", "une faute pour un joueur de champ", "obligatoire", "un tir"], "correct": 1, "exp": "C'est interdit pour les joueurs de champ." },
+      { "q": "Le but du handball est de :", "options": ["marquer des buts", "rester au centre", "toucher les adversaires", "rester immobile"], "correct": 0, "exp": "On marque des buts dans la cage adverse." },
+      { "q": "Pour bien passer le ballon, il faut :", "options": ["regarder seulement le ballon", "regarder son coéquipier", "fermer les yeux", "courir sans passer"], "correct": 1, "exp": "Le regard vers le coéquipier permet une passe précise." },
+      { "q": "Le marquage consiste à :", "options": ["surveiller un adversaire pour l'empêcher de recevoir le ballon", "marquer des buts", "arbitrer le match", "courir vite"], "correct": 0, "exp": "C'est la surveillance de l'adversaire." },
+      { "q": "Frapper un adversaire est :", "options": ["une faute grave", "une stratégie", "un tir", "un dribble"], "correct": 0, "exp": "C'est une faute interdite par les règles." }
+    ]
+  },
+  {
+    "classe": "5eme",
+    "matiere": "EPS",
+    "id": "eps5-securite-sportive",
+    "titre": "Sécurité, fair-play et arbitrage",
+    "duree": "40 min",
+    "contenu": "<p>La pratique sportive doit toujours être <b>sécurisée</b>. Les règles, le fair-play et le respect de l'arbitre garantissent un jeu juste et protègent les joueurs.</p><div class='definition'><b>La sécurité</b> consiste à vérifier le terrain, à porter une tenue adaptée et à respecter les consignes de l'enseignant.<br><b>Le fair-play</b> est l'attitude loyale qui respecte les règles, les adversaires et les décisions de l'arbitre.<br><b>L'arbitre</b> veille au respect des règles. Sa décision est définitive pendant le match.<br><b>Une blessure</b> doit être signalée immédiatement à l'enseignant ou à l'adulte responsable.</div><p>Le fair-play s'applique aussi à la victoire et à la défaite : féliciter l'adversaire, accepter le résultat et ne jamais insulter.</p><div class='exemple'><b>Exemple :</b> pendant un match de football, un joueur voit qu'il a touché le ballon de la main sans que l'arbitre le voie. Il le signale : c'est du fair-play.</div><div class='astuce'><b>Astuce :</b> avant chaque activité, contrôle le sol (pas de pierres, de trous ou de flaques) et tes lacets. Un geste simple prévient de nombreuses blessures.</div>",
+    "exercices": [
+      { "q": "Quelles précautions prendre avant une activité sportive ?", "r": "Vérifier le terrain, porter une tenue adaptée, respecter les consignes.", "indice": "Pense à ce qui peut causer une chute." },
+      { "q": "Qu'est-ce que le fair-play ?", "r": "Une attitude loyale : respecter les règles, les adversaires et les décisions de l'arbitre.", "indice": "Pense à l'attitude en match." },
+      { "q": "Que doit-on faire en cas de blessure ?", "r": "La signaler immédiatement à l'enseignant ou à l'adulte responsable.", "indice": "Ne pas cacher une blessure." },
+      { "q": "Quel est le rôle de l'arbitre ?", "r": "Veiller au respect des règles ; sa décision est définitive pendant le match.", "indice": "Pense à son autorité sur le jeu." },
+      { "q": "Décris une attitude de fair-play après une défaite.", "r": "Féliciter l'équipe adverse, accepter le résultat et ne pas insulter.", "indice": "Pense à la défaite sans colère." }
+    ],
+    "qcm": [
+      { "q": "Avant une activité, il faut :", "options": ["courir sans vérifier", "vérifier le terrain", "enlever ses chaussures", "ne rien faire"], "correct": 1, "exp": "Le contrôle du terrain prévient les chutes." },
+      { "q": "Le fair-play est :", "options": ["tricher pour gagner", "une attitude loyale", "insulter l'arbitre", "abandonner le jeu"], "correct": 1, "exp": "C'est une attitude loyale et respectueuse." },
+      { "q": "En cas de blessure, il faut :", "options": ["la cacher", "la signaler immédiatement", "continuer sans rien dire", "partir du terrain"], "correct": 1, "exp": "Signaler la blessure permet des soins rapides." },
+      { "q": "La décision de l'arbitre pendant le match est :", "options": ["discutable à tout moment", "définitive", "sans valeur", "à voter"], "correct": 1, "exp": "Elle est définitive pendant le match." },
+      { "q": "Après une défaite, le fair-play consiste à :", "options": ["insulter les vainqueurs", "féliciter l'adversaire", "casser le matériel", "bouder"], "correct": 1, "exp": "Féliciter l'adversaire est un acte de fair-play." },
+      { "q": "La sécurité sportive passe par :", "options": ["une tenue adaptée", "des chaussures ouvertes", "aucune consigne", "un terrain dangereux"], "correct": 0, "exp": "La tenue adaptée protège le sportif." },
+      { "q": "Un joueur touche le ballon de la main sans que l'arbitre le voie. Il le signale : c'est :", "options": ["de la triche", "du fair-play", "une provocation", "une faute grave"], "correct": 1, "exp": "Signaler sa propre faute est un acte de loyauté." },
+      { "q": "Le rôle principal de l'arbitre est de :", "options": ["gagner le match", "veiller au respect des règles", "jouer à la place des joueurs", "choisir l'équipe gagnante à l'avance"], "correct": 1, "exp": "L'arbitre applique et fait respecter les règles." },
+      { "q": "Un obstacle sur le terrain représente :", "options": ["un danger", "un avantage", "un but", "une règle"], "correct": 0, "exp": "Il peut provoquer une chute ou une blessure." },
+      { "q": "Insulter l'arbitre est :", "options": ["un geste de fair-play", "une faute et un manque de respect", "un droit", "une stratégie"], "correct": 1, "exp": "C'est un manque de respect contraire au fair-play." }
+    ]
+  }
+]

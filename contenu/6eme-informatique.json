@@ -1,0 +1,110 @@
+[
+  {
+    "classe": "6eme",
+    "matiere": "Informatique",
+    "id": "i6-ordinateur",
+    "titre": "Découvrir l'ordinateur : matériel et logiciel",
+    "duree": "40 min",
+    "contenu": "<p>Un <b>ordinateur</b> est une machine qui reçoit des informations, les traite et produit des résultats. Il fonctionne grâce à deux ensembles : le <b>matériel</b> et le <b>logiciel</b>.</p><div class='definition'><b>Le matériel (hardware)</b> est la partie physique que l'on peut toucher : écran, clavier, souris, unité centrale, disque dur.<br><b>Le logiciel (software)</b> est l'ensemble des programmes qui donnent des instructions à la machine : système d'exploitation, traitement de texte, navigateur.</div><p>On distingue les <b>périphériques d'entrée</b> (clavier, souris, micro, scanner), qui envoient des informations à l'ordinateur, et les <b>périphériques de sortie</b> (écran, imprimante, haut-parleurs), qui affichent ou restituent les résultats.</p><div class='exemple'><b>Exemple :</b> quand tu tapes un texte au clavier, le clavier est un périphérique d'entrée. Le texte apparaît à l'écran, qui est un périphérique de sortie. Le logiciel de traitement de texte permet d'écrire.</div><div class='astuce'><b>Astuce :</b> pour savoir si un élément est matériel ou logiciel, demande-toi : est-ce que je peux le toucher ? Si oui, c'est du matériel. Sinon, c'est du logiciel.</div>",
+    "exercices": [
+      { "q": "Qu'est-ce qu'un ordinateur ?", "r": "Une machine qui reçoit des informations, les traite et produit des résultats.", "indice": "Pense aux trois actions : recevoir, traiter, produire." },
+      { "q": "Classe ces éléments en matériel ou logiciel : clavier, traitement de texte, écran, navigateur internet.", "r": "Matériel : clavier, écran. Logiciel : traitement de texte, navigateur.", "indice": "Demande-toi si tu peux le toucher." },
+      { "q": "Donne un périphérique d'entrée et un périphérique de sortie.", "r": "Entrée : la souris (ou le clavier). Sortie : l'imprimante (ou l'écran).", "indice": "L'entrée envoie des informations, la sortie les restitue." },
+      { "q": "Qu'est-ce qu'un logiciel ?", "r": "C'est un ensemble de programmes qui donnent des instructions à l'ordinateur.", "indice": "C'est la partie non visible qui fait fonctionner la machine." },
+      { "q": "Pourquoi l'ordinateur a-t-il besoin à la fois du matériel et du logiciel ?", "r": "Le matériel fournit la puissance physique, le logiciel donne les instructions. Sans l'un, l'autre ne sert à rien.", "indice": "Compare avec un corps et un cerveau." }
+    ],
+    "qcm": [
+      { "q": "Le matériel informatique est :", "options": ["les programmes", "la partie physique qu'on peut toucher", "internet", "les jeux vidéo uniquement"], "correct": 1, "exp": "Le matériel est la partie physique de l'ordinateur." },
+      { "q": "Un logiciel est :", "options": ["un clavier", "un écran", "un programme qui donne des instructions", "une souris"], "correct": 2, "exp": "Le logiciel est un ensemble de programmes." },
+      { "q": "Le clavier est :", "options": ["un périphérique de sortie", "un périphérique d'entrée", "un logiciel", "un système d'exploitation"], "correct": 1, "exp": "Le clavier envoie des informations à l'ordinateur : c'est une entrée." },
+      { "q": "L'écran est :", "options": ["un périphérique d'entrée", "un périphérique de sortie", "un logiciel", "un programme"], "correct": 1, "exp": "L'écran affiche les résultats : c'est une sortie." },
+      { "q": "Le navigateur internet est :", "options": ["un matériel", "un logiciel", "un écran", "un clavier"], "correct": 1, "exp": "Le navigateur est un programme, donc un logiciel." },
+      { "q": "La souris est :", "options": ["un périphérique de sortie", "un périphérique d'entrée", "un logiciel", "une imprimante"], "correct": 1, "exp": "La souris envoie des commandes à l'ordinateur : c'est une entrée." },
+      { "q": "L'imprimante est :", "options": ["un périphérique d'entrée", "un périphérique de sortie", "un logiciel", "un clavier"], "correct": 1, "exp": "L'imprimante restitue les résultats sur papier : c'est une sortie." },
+      { "q": "Un ordinateur reçoit, traite et :", "options": ["cache", "produit des résultats", "efface", "éteint"], "correct": 1, "exp": "L'ordinateur produit des résultats à partir des informations traitées." },
+      { "q": "Le système d'exploitation est :", "options": ["un matériel", "un logiciel", "un écran", "une souris"], "correct": 1, "exp": "C'est un logiciel qui gère l'ordinateur." },
+      { "q": "Lequel est un élément matériel ?", "options": ["le navigateur", "l'unité centrale", "le traitement de texte", "un jeu"], "correct": 1, "exp": "L'unité centrale est un élément physique : c'est du matériel." }
+    ]
+  },
+  {
+    "classe": "6eme",
+    "matiere": "Informatique",
+    "id": "i6-fichiers-dossiers",
+    "titre": "Organiser ses fichiers et dossiers",
+    "duree": "40 min",
+    "contenu": "<p>Sur un ordinateur, les informations sont enregistrées dans des <b>fichiers</b>. Pour s'y retrouver, on les range dans des <b>dossiers</b>, comme on range des cahiers dans un classeur.</p><div class='definition'><b>Un fichier</b> est un ensemble d'informations enregistré sous un nom : un texte, une image, une vidéo. Il possède une extension, par exemple .docx pour un texte ou .jpg pour une image.<br><b>Un dossier</b> (ou répertoire) est un espace qui contient des fichiers et d'autres dossiers.<br><b>L'arborescence</b> est l'organisation en arbre des dossiers : un dossier principal contient des sous-dossiers.</div><p>Pour bien ranger, on crée des dossiers au nom clair : par matière, par année ou par type de document.</p><div class='exemple'><b>Exemple :</b> Documents → 6ème → Mathématiques → cours_fractions.docx. Ce chemin indique exactement où se trouve le fichier.</div><div class='astuce'><b>Astuce :</b> donne toujours un nom clair à tes fichiers : « devoir_svt_plantes » est plus utile que « doc1 ». Évite les espaces et les accents dans les noms de fichiers.</div>",
+    "exercices": [
+      { "q": "Quelle est la différence entre un fichier et un dossier ?", "r": "Un fichier contient des informations (texte, image, vidéo). Un dossier contient des fichiers et d'autres dossiers.", "indice": "Un dossier range, un fichier contient." },
+      { "q": "À quoi sert l'extension d'un fichier ?", "r": "Elle indique le type de fichier, par exemple .docx pour un texte ou .jpg pour une image.", "indice": "Regarde la fin du nom du fichier." },
+      { "q": "Crée une arborescence pour ranger tes cours : un dossier principal et deux sous-dossiers.", "r": "Exemple : Cours → Français, et Cours → Mathématiques.", "indice": "Un dossier principal contient des sous-dossiers." },
+      { "q": "Pourquoi donner un nom clair à un fichier ?", "r": "Pour le retrouver facilement et savoir ce qu'il contient sans l'ouvrir.", "indice": "Pense à un fichier nommé « doc1 » parmi cent autres." },
+      { "q": "Quel est le bon nom : « devoir svt plantes » ou « devoir_svt_plantes » ? Pourquoi ?", "r": "« devoir_svt_plantes », car on évite les espaces, qui posent souvent problème dans les logiciels et sur internet.", "indice": "Pense aux espaces dans un nom de fichier." }
+    ],
+    "qcm": [
+      { "q": "Un fichier est :", "options": ["un dossier", "un ensemble d'informations enregistré sous un nom", "un écran", "un clavier"], "correct": 1, "exp": "Un fichier est un ensemble d'informations enregistré sous un nom." },
+      { "q": "Un dossier peut contenir :", "options": ["uniquement des images", "des fichiers et d'autres dossiers", "rien", "uniquement du texte"], "correct": 1, "exp": "Un dossier contient fichiers et sous-dossiers." },
+      { "q": "L'extension .jpg indique généralement :", "options": ["un texte", "une image", "une vidéo", "un dossier"], "correct": 1, "exp": "Le .jpg est un format d'image." },
+      { "q": "L'extension .docx indique généralement :", "options": ["un texte de traitement de texte", "une image", "un son", "un dossier"], "correct": 0, "exp": "Le .docx est un document de traitement de texte." },
+      { "q": "L'arborescence désigne :", "options": ["l'organisation en arbre des dossiers", "un arbre réel", "un logiciel", "un écran"], "correct": 0, "exp": "L'arborescence est l'organisation hiérarchique des dossiers." },
+      { "q": "Quel nom de fichier est le plus clair ?", "options": ["doc1", "fichier", "devoir_maths_fractions", "xyz"], "correct": 2, "exp": "Le nom décrit le contenu : c'est le plus utile." },
+      { "q": "Il vaut mieux éviter :", "options": ["les noms clairs", "les espaces dans les noms de fichiers", "les dossiers", "les extensions"], "correct": 1, "exp": "Les espaces peuvent poser des problèmes à certains logiciels." },
+      { "q": "Un chemin comme Documents → 6ème → cours.docx indique :", "options": ["la couleur d'un fichier", "l'emplacement exact d'un fichier", "la taille du fichier", "le prix du fichier"], "correct": 1, "exp": "Le chemin précise où se trouve le fichier." },
+      { "q": "Un dossier principal qui contient des sous-dossiers forme :", "options": ["une arborescence", "un clavier", "un écran", "une imprimante"], "correct": 0, "exp": "C'est une arborescence." },
+      { "q": "Une bonne organisation des fichiers permet :", "options": ["de perdre du temps", "de retrouver rapidement ses documents", "d'effacer les fichiers", "de ne rien faire"], "correct": 1, "exp": "Une bonne organisation fait gagner du temps." }
+    ]
+  },
+  {
+    "classe": "6eme",
+    "matiere": "Informatique",
+    "id": "i6-internet-securite",
+    "titre": "Internet : bien l'utiliser et se protéger",
+    "duree": "40 min",
+    "contenu": "<p>Internet est un réseau mondial qui relie des millions d'ordinateurs. Il permet de chercher des informations, de communiquer et de partager. Mais il faut l'utiliser avec prudence.</p><div class='definition'><b>Un moteur de recherche</b> permet de trouver des pages sur internet à partir de mots-clés.<br><b>Un mot de passe</b> protège l'accès à un compte. Il doit être long et difficile à deviner.<br><b>Une information fiable</b> provient d'une source sûre, vérifiée et datée.</div><p>Pour bien se protéger : ne jamais communiquer son mot de passe, ne pas cliquer sur des liens suspects, demander à un adulte avant d'installer un logiciel, et ne pas partager sa vie privée en ligne.</p><div class='exemple'><b>Exemple :</b> un message qui promet un cadeau gratuit contre des informations personnelles est probablement une arnaque. Il faut l'ignorer et le signaler.</div><div class='astuce'><b>Astuce :</b> avant de croire une information trouvée sur internet, vérifie-la sur un second site fiable ou dans un livre de référence.</div>",
+    "exercices": [
+      { "q": "Qu'est-ce qu'internet ?", "r": "C'est un réseau mondial qui relie des millions d'ordinateurs.", "indice": "Pense au mot réseau." },
+      { "q": "À quoi sert un moteur de recherche ?", "r": "À trouver des pages sur internet à partir de mots-clés.", "indice": "Pense à la recherche d'information." },
+      { "q": "Donne deux règles pour protéger ton mot de passe.", "r": "Le garder secret et le rendre long et difficile à deviner.", "indice": "Pense à ce qu'un voleur pourrait faire." },
+      { "q": "Que faire face à un message qui promet un cadeau gratuit en échange de données personnelles ?", "r": "L'ignorer, ne pas répondre, et le signaler à un adulte.", "indice": "Pense au piège de l'arnaque." },
+      { "q": "Comment vérifier qu'une information trouvée sur internet est fiable ?", "r": "En la comparant avec un second site fiable ou un livre de référence.", "indice": "Ne te contente jamais d'une seule source." }
+    ],
+    "qcm": [
+      { "q": "Internet est :", "options": ["un logiciel", "un réseau mondial d'ordinateurs", "un clavier", "une imprimante"], "correct": 1, "exp": "Internet relie des millions d'ordinateurs à travers le monde." },
+      { "q": "Un moteur de recherche sert à :", "options": ["écrire un texte", "trouver des pages à partir de mots-clés", "imprimer", "stocker des photos"], "correct": 1, "exp": "Il permet de chercher des informations sur internet." },
+      { "q": "Un bon mot de passe est :", "options": ["court et simple", "long et difficile à deviner", "le prénom de l'élève", "partagé avec tout le monde"], "correct": 1, "exp": "Un mot de passe long et complexe protège mieux le compte." },
+      { "q": "Il ne faut jamais :", "options": ["fermer son navigateur", "communiquer son mot de passe", "chercher des informations", "lire un cours"], "correct": 1, "exp": "Le mot de passe est personnel et doit rester secret." },
+      { "q": "Un message promettant un cadeau gratuit est :", "options": ["une bonne nouvelle", "probablement une arnaque", "obligatoire", "une publicité scolaire"], "correct": 1, "exp": "Les offres trop belles pour être vraies sont souvent des arnaques." },
+      { "q": "Une information fiable provient :", "options": ["d'une source sûre et vérifiable", "de n'importe qui", "d'une rumeur", "d'un message anonyme"], "correct": 0, "exp": "Une information fiable vient d'une source vérifiée." },
+      { "q": "Avant d'installer un logiciel, il faut :", "options": ["le faire immédiatement", "demander à un adulte", "le partager", "l'ignorer"], "correct": 1, "exp": "Un adulte peut vérifier que le logiciel est sûr." },
+      { "q": "Que faire d'un lien suspect ?", "options": ["cliquer pour voir", "ne pas cliquer", "le partager", "le copier"], "correct": 1, "exp": "Un lien suspect peut installer un virus ou voler des données." },
+      { "q": "Pour vérifier une information, il faut :", "options": ["la croire sans vérifier", "la comparer avec une autre source fiable", "la partager", "l'ignorer toujours"], "correct": 1, "exp": "Vérifier avec plusieurs sources évite les fausses informations." },
+      { "q": "La vie privée en ligne consiste à :", "options": ["tout partager", "protéger ses informations personnelles", "publier son adresse", "donner son mot de passe"], "correct": 1, "exp": "Il faut protéger ses informations personnelles." }
+    ]
+  },
+  {
+    "classe": "6eme",
+    "matiere": "Informatique",
+    "id": "i6-algorithme",
+    "titre": "Introduction à l'algorithme",
+    "duree": "40 min",
+    "contenu": "<p>Un <b>algorithme</b> est une suite d'instructions précises et ordonnées qui permet de résoudre un problème ou de réaliser une tâche. Tu utilises des algorithmes tous les jours, sans le savoir.</p><div class='definition'><b>Un algorithme</b> est une suite d'étapes claires, dans un ordre précis, qui mène à un résultat.<br><b>Une instruction</b> est une action simple (prendre, poser, ajouter).<br><b>Un programme</b> est un algorithme écrit dans un langage que l'ordinateur comprend.</div><p>Un bon algorithme est <b>précis</b> (chaque étape est claire), <b>ordonné</b> (les étapes se suivent dans le bon ordre) et <b>fini</b> (il s'arrête au bout d'un moment).</p><div class='exemple'><b>Exemple :</b> recette du thé : 1) mettre de l'eau dans la bouilloire ; 2) faire chauffer l'eau ; 3) mettre le sachet dans la tasse ; 4) verser l'eau chaude ; 5) attendre 3 minutes ; 6) retirer le sachet.</div><div class='astuce'><b>Astuce :</b> si tu changes l'ordre des étapes, le résultat peut être différent. Verser l'eau avant de la chauffer ne donne pas le même thé !</div>",
+    "exercices": [
+      { "q": "Qu'est-ce qu'un algorithme ?", "r": "Une suite d'instructions précises et ordonnées pour résoudre un problème.", "indice": "Pense à une recette de cuisine." },
+      { "q": "Donne les étapes d'un algorithme pour se laver les mains.", "r": "1) ouvrir le robinet ; 2) mouiller les mains ; 3) mettre du savon ; 4) frotter ; 5) rincer ; 6) essuyer.", "indice": "Pense à l'ordre logique des gestes." },
+      { "q": "Pourquoi l'ordre des étapes est-il important dans un algorithme ?", "r": "Un changement d'ordre peut donner un résultat différent, voire un échec.", "indice": "Pense au thé : que se passe-t-il si on verse l'eau avant de la chauffer ?" },
+      { "q": "Quelles sont les trois qualités d'un bon algorithme ?", "r": "Précis, ordonné et fini.", "indice": "Pense aux étapes : claires, dans le bon ordre, qui s'arrêtent." },
+      { "q": "Quelle est la différence entre un algorithme et un programme ?", "r": "L'algorithme est la suite d'étapes. Le programme est cet algorithme écrit dans un langage que l'ordinateur comprend.", "indice": "Pense à l'idée, puis à sa traduction." }
+    ],
+    "qcm": [
+      { "q": "Un algorithme est :", "options": ["un logiciel de jeu", "une suite d'instructions précises et ordonnées", "un câble", "un écran"], "correct": 1, "exp": "Un algorithme est une suite d'instructions précises." },
+      { "q": "Une instruction est :", "options": ["une action simple", "un ordinateur", "un dossier", "un écran"], "correct": 0, "exp": "L'instruction est une action simple et précise." },
+      { "q": "Un programme est :", "options": ["un algorithme écrit dans un langage de l'ordinateur", "un objet physique", "un dossier", "une souris"], "correct": 0, "exp": "Le programme traduit l'algorithme pour l'ordinateur." },
+      { "q": "Un bon algorithme doit être :", "options": ["flou", "précis et ordonné", "infini", "sans étapes"], "correct": 1, "exp": "Un algorithme doit être précis, ordonné et fini." },
+      { "q": "Dans la recette du thé, quelle étape vient en premier ?", "options": ["retirer le sachet", "mettre de l'eau dans la bouilloire", "attendre 3 minutes", "verser l'eau chaude"], "correct": 1, "exp": "On commence par mettre de l'eau dans la bouilloire." },
+      { "q": "Un algorithme qui ne s'arrête jamais est :", "options": ["parfait", "non fini, donc incorrect", "plus rapide", "un jeu"], "correct": 1, "exp": "Un bon algorithme se termine toujours." },
+      { "q": "Changer l'ordre des étapes d'un algorithme :", "options": ["ne change jamais le résultat", "peut changer le résultat", "est obligatoire", "supprime l'algorithme"], "correct": 1, "exp": "L'ordre compte : il peut modifier le résultat." },
+      { "q": "Une activité du quotidien qui suit un algorithme est :", "options": ["une recette de cuisine", "une couleur", "un nuage", "le vent"], "correct": 0, "exp": "Une recette est une suite d'étapes ordonnées." },
+      { "q": "Un algorithme permet de :", "options": ["résoudre un problème ou réaliser une tâche", "rien", "remplacer le clavier", "imprimer seul"], "correct": 0, "exp": "L'algorithme sert à résoudre un problème précis." },
+      { "q": "Le mot « algorithme » est utilisé :", "options": ["uniquement en médecine", "en informatique et dans la vie courante", "seulement en sport", "seulement en histoire"], "correct": 1, "exp": "Un algorithme peut décrire une tâche informatique ou une action du quotidien." }
+    ]
+  }
+]

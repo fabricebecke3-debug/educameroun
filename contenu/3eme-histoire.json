@@ -1,0 +1,110 @@
+[
+  {
+    "classe": "3eme",
+    "matiere": "Histoire",
+    "id": "h3-premiere-guerre-mondiale",
+    "titre": "La Première Guerre mondiale (1914-1918)",
+    "duree": "40 min",
+    "contenu": "<p>De 1914 à 1918, les grandes puissances européennes s'affrontent dans la <b>Première Guerre mondiale</b>. C'est le premier conflit à l'échelle mondiale : des combattants venus de nombreux pays, dont des soldats africains, y participent.</p><div class='definition'><b>Les deux camps :</b> la Triple-Entente (France, Royaume-Uni, Russie, puis États-Unis en 1917) face à la Triplice (Allemagne, Autriche-Hongrie, Empire ottoman).<br><b>La guerre de tranchées</b> : les soldats s'enterrent dans des tranchées sur le front, où les combats sont longs et meurtriers.<br><b>L'armistice</b> est la suspension des combats, signée le 11 novembre 1918.<br><b>Le traité de Versailles</b> (1919) impose des sanctions lourdes à l'Allemagne.</div><p>Le conflit fait plus de 9 millions de morts militaires. Il laisse une Europe affaiblie et des peuples colonisés mobilisés, dont beaucoup d'Africains.</p><div class='exemple'><b>Exemple :</b> au Cameroun, la campagne militaire de 1914 à 1916 met fin à la domination allemande sur le territoire. Des tirailleurs africains participent aux combats en Europe.</div><div class='astuce'><b>Astuce :</b> retiens la chronologie : déclenchement en 1914, armistice le 11 novembre 1918, traité de Versailles en 1919.</div>",
+    "exercices": [
+      { "q": "Entre quelles dates a lieu la Première Guerre mondiale ?", "r": "De 1914 à 1918.", "indice": "Pense au déclenchement et à l'armistice." },
+      { "q": "Qu'est-ce que la guerre de tranchées ?", "r": "Une forme de combat où les soldats s'enterrent dans des tranchées sur le front, avec des combats longs et meurtriers.", "indice": "Pense aux soldats enterrés." },
+      { "q": "Quelle est la date de l'armistice ?", "r": "Le 11 novembre 1918.", "indice": "C'est la date de la fin des combats." },
+      { "q": "Quelle conséquence le traité de Versailles a-t-il pour l'Allemagne ?", "r": "Il lui impose des sanctions lourdes (territoriales, financières, militaires).", "indice": "C'est le traité signé après la guerre." },
+      { "q": "Quel rôle les colonies africaines ont-elles joué dans la guerre ?", "r": "Des soldats africains (tirailleurs) ont combattu en Europe et le Cameroun a été le théâtre d'une campagne militaire.", "indice": "Pense au Cameroun allemand." }
+    ],
+    "qcm": [
+      { "q": "La Première Guerre mondiale a lieu :", "options": ["de 1914 à 1918", "de 1939 à 1945", "de 1789 à 1792", "de 1945 à 1960"], "correct": 0, "exp": "Elle se déroule de 1914 à 1918." },
+      { "q": "La guerre de tranchées désigne :", "options": ["une guerre navale", "des combats depuis des tranchées enterrées", "une guerre aérienne", "une guerre des villes"], "correct": 1, "exp": "Les soldats combattent depuis des tranchées." },
+      { "q": "L'armistice est signé le :", "options": ["11 novembre 1918", "14 juillet 1789", "8 mai 1945", "1er janvier 1960"], "correct": 0, "exp": "Le 11 novembre 1918." },
+      { "q": "Le traité de Versailles date de :", "options": ["1919", "1914", "1945", "1960"], "correct": 0, "exp": "Il est signé en 1919." },
+      { "q": "La Triple-Entente comprend notamment :", "options": ["la France et le Royaume-Uni", "l'Allemagne et l'Autriche", "le Japon et la Chine", "le Mali et le Ghana"], "correct": 0, "exp": "France, Royaume-Uni et Russie." },
+      { "q": "Le premier conflit à l'échelle mondiale est :", "options": ["la Première Guerre mondiale", "la guerre de Sécession", "la guerre de Troie", "la guerre froide"], "correct": 0, "exp": "C'est le premier conflit mondial." },
+      { "q": "Au Cameroun, la campagne militaire de 1914 à 1916 :", "options": ["met fin à la domination allemande", "installe l'Allemagne", "n'a pas eu lieu", "concerne seulement la Chine"], "correct": 0, "exp": "Elle met fin à la présence allemande au Cameroun." },
+      { "q": "Le conflit fait plus de :", "options": ["9 millions de morts militaires", "100 morts", "1 000 morts", "un million de morts uniquement civils"], "correct": 0, "exp": "On estime plus de 9 millions de morts militaires." },
+      { "q": "Les tirailleurs africains ont combattu :", "options": ["en Europe", "au pôle Nord", "dans l'espace", "en Asie uniquement"], "correct": 0, "exp": "Ils ont combattu sur le front européen." },
+      { "q": "La Première Guerre mondiale laisse :", "options": ["une Europe affaiblie", "une Europe plus riche", "aucune trace", "une paix immédiate sans conséquence"], "correct": 0, "exp": "Le conflit affaiblit durablement l'Europe." }
+    ]
+  },
+  {
+    "classe": "3eme",
+    "matiere": "Histoire",
+    "id": "h3-seconde-guerre-mondiale",
+    "titre": "La Seconde Guerre mondiale et la Shoah",
+    "duree": "40 min",
+    "contenu": "<p>La <b>Seconde Guerre mondiale</b> (1939-1945) oppose les puissances de l'Axe (Allemagne nazie, Italie, Japon) aux Alliés (France, Royaume-Uni, URSS, États-Unis). Elle est le conflit le plus meurtrier de l'histoire.</p><div class='definition'><b>La Shoah</b> (ou génocide des Juifs) est l'extermination systématique de six millions de Juifs par le régime nazi.<br><b>Le régime nazi</b> est un régime totalitaire dirigé par Hitler, fondé sur le racisme et l'expansion territoriale.<br><b>La résistance</b> désigne l'opposition à l'occupation et au régime nazi, sous des formes variées.<br><b>L'ONU</b> est créée en 1945 pour maintenir la paix et éviter une nouvelle guerre mondiale.</div><p>La guerre se termine en Europe le 8 mai 1945 et dans le Pacifique en août 1945.</p><div class='exemple'><b>Exemple :</b> le camp d'Auschwitz, en Pologne, est le symbole de la Shoah. Il rappelle la nécessité de défendre les droits humains.</div><div class='astuce'><b>Astuce :</b> retiens que la Seconde Guerre mondiale a donné naissance à l'ONU et à la Déclaration universelle des droits de l'homme en 1948. C'est l'origine des droits humains modernes.</div>",
+    "exercices": [
+      { "q": "Entre quelles dates a lieu la Seconde Guerre mondiale ?", "r": "De 1939 à 1945.", "indice": "Elle commence avec l'invasion de la Pologne." },
+      { "q": "Qu'est-ce que la Shoah ?", "r": "L'extermination systématique de six millions de Juifs par le régime nazi.", "indice": "Pense au génocide des Juifs." },
+      { "q": "Quels pays composent les Alliés ?", "r": "La France, le Royaume-Uni, l'URSS, les États-Unis.", "indice": "Ceux qui s'opposent à l'Axe." },
+      { "q": "Pourquoi l'ONU a-t-elle été créée en 1945 ?", "r": "Pour maintenir la paix et éviter une nouvelle guerre mondiale.", "indice": "Pense au but de l'organisation." },
+      { "q": "Qu'est-ce que la résistance ?", "r": "L'opposition à l'occupation et au régime nazi, sous des formes variées.", "indice": "Pense à ceux qui luttent contre l'occupant." }
+    ],
+    "qcm": [
+      { "q": "La Seconde Guerre mondiale a lieu :", "options": ["de 1914 à 1918", "de 1939 à 1945", "de 1960 à 1970", "de 1789 à 1799"], "correct": 1, "exp": "De 1939 à 1945." },
+      { "q": "La Shoah désigne :", "options": ["une fête", "l'extermination systématique des Juifs", "une bataille navale", "un traité de paix"], "correct": 1, "exp": "C'est le génocide des Juifs." },
+      { "q": "Le nombre de Juifs exterminés dans la Shoah est d'environ :", "options": ["six millions", "six mille", "six cents", "six cent mille seulement"], "correct": 0, "exp": "Environ six millions de victimes." },
+      { "q": "Le régime nazi est dirigé par :", "options": ["Hitler", "Napoléon", "Mussolini uniquement", "Ahidjo"], "correct": 0, "exp": "Adolf Hitler." },
+      { "q": "L'ONU est créée en :", "options": ["1919", "1945", "1960", "1989"], "correct": 1, "exp": "En 1945." },
+      { "q": "La guerre se termine en Europe le :", "options": ["8 mai 1945", "11 novembre 1918", "14 juillet 1789", "1er janvier 1960"], "correct": 0, "exp": "Le 8 mai 1945." },
+      { "q": "L'Axe regroupe notamment :", "options": ["l'Allemagne, l'Italie et le Japon", "la France et le Royaume-Uni", "les États-Unis et l'URSS", "le Mali et le Ghana"], "correct": 0, "exp": "Ce sont les puissances de l'Axe." },
+      { "q": "La Déclaration universelle des droits de l'homme date de :", "options": ["1948", "1919", "1914", "1960"], "correct": 0, "exp": "Elle est adoptée en 1948 par l'ONU." },
+      { "q": "Le conflit de 1939-1945 est :", "options": ["le plus meurtrier de l'histoire", "le plus court", "sans victimes", "uniquement européen"], "correct": 0, "exp": "C'est le plus meurtrier de l'histoire." },
+      { "q": "Le camp d'Auschwitz se trouve :", "options": ["en Pologne", "au Cameroun", "au Japon", "au Mali"], "correct": 0, "exp": "C'est un camp situé en Pologne." }
+    ]
+  },
+  {
+    "classe": "3eme",
+    "matiere": "Histoire",
+    "id": "h3-decolonisation-cameroun",
+    "titre": "La décolonisation africaine et l'indépendance du Cameroun",
+    "duree": "40 min",
+    "contenu": "<p>Après 1945, les peuples colonisés réclament leur indépendance. Entre 1957 et 1960, la plupart des colonies d'Afrique deviennent indépendantes : c'est la <b>décolonisation</b>.</p><div class='definition'><b>La décolonisation</b> est le processus par lequel une colonie accède à l'indépendance politique.<br><b>L'UPC</b> (Union des populations du Cameroun), fondée en 1948, réclame l'indépendance immédiate. Son leader, Ruben Um Nyobè, est assassiné en 1958.<br><b>L'indépendance du Cameroun</b> française est proclamée le 1er janvier 1960. Ahmadou Ahidjo devient le premier président.<br><b>La réunification</b> de 1961 rassemble le Cameroun francophone et le Cameroun britannique méridional, après un référendum.</div><p>La décolonisation s'accompagne de tensions : le mouvement nationaliste camerounais a été durement réprimé, et de nombreuses questions restent débattues par les historiens.</p><div class='exemple'><b>Exemple :</b> au Cameroun, la lutte pour l'indépendance a été menée par des mouvements politiques et des leaders comme Um Nyobè. Elle a conduit à l'indépendance de 1960, puis à la réunification de 1961.</div><div class='astuce'><b>Astuce :</b> retiens la chronologie : UPC (1948), indépendance (1er janvier 1960), réunification (1961). Pour l'Afrique, la vague des indépendances est surtout située entre 1957 et 1960.</div>",
+    "exercices": [
+      { "q": "Qu'est-ce que la décolonisation ?", "r": "Le processus par lequel une colonie accède à l'indépendance politique.", "indice": "Pense à la fin de la domination étrangère." },
+      { "q": "Quel est le rôle de l'UPC ?", "r": "L'Union des populations du Cameroun, fondée en 1948, réclame l'indépendance.", "indice": "Pense au mouvement nationaliste camerounais." },
+      { "q": "Quelle est la date de l'indépendance du Cameroun français ?", "r": "Le 1er janvier 1960.", "indice": "Relis le cours." },
+      { "q": "Qui devient le premier président du Cameroun indépendant ?", "r": "Ahmadou Ahidjo.", "indice": "Pense au premier chef de l'État camerounais." },
+      { "q": "Qu'est-ce que la réunification de 1961 ?", "r": "Le rassemblement du Cameroun francophone et du Cameroun britannique méridional, après un référendum.", "indice": "Pense aux deux parties du territoire." }
+    ],
+    "qcm": [
+      { "q": "La décolonisation est :", "options": ["l'accès d'une colonie à l'indépendance", "la conquête d'un territoire", "un traité de commerce", "une guerre mondiale"], "correct": 0, "exp": "C'est l'accès à l'indépendance politique." },
+      { "q": "L'UPC est fondée en :", "options": ["1948", "1914", "1960", "1789"], "correct": 0, "exp": "En 1948." },
+      { "q": "Le leader de l'UPC assassiné en 1958 est :", "options": ["Ruben Um Nyobè", "Ahmadou Ahidjo", "Soundiata Keïta", "Samory Touré"], "correct": 0, "exp": "Um Nyobè est assassiné en 1958." },
+      { "q": "L'indépendance du Cameroun français est proclamée le :", "options": ["1er janvier 1960", "14 juillet 1789", "11 novembre 1918", "8 mai 1945"], "correct": 0, "exp": "Le 1er janvier 1960." },
+      { "q": "Le premier président du Cameroun indépendant est :", "options": ["Ahmadou Ahidjo", "Paul Biya", "Ruben Um Nyobè", "Léopold Senghor"], "correct": 0, "exp": "Ahidjo est le premier président." },
+      { "q": "La réunification du Cameroun a lieu en :", "options": ["1961", "1960", "1948", "1958"], "correct": 0, "exp": "En 1961." },
+      { "q": "La vague des indépendances africaines se situe surtout entre :", "options": ["1957 et 1960", "1914 et 1918", "1939 et 1945", "1789 et 1799"], "correct": 0, "exp": "C'est la période la plus importante." },
+      { "q": "La réunification de 1961 rassemble :", "options": ["le Cameroun francophone et le Cameroun britannique méridional", "le Cameroun et le Nigeria", "le Cameroun et le Gabon", "le Cameroun et le Tchad"], "correct": 0, "exp": "Les deux parties du territoire." },
+      { "q": "La réunification a été décidée après :", "options": ["un référendum", "une guerre", "un coup d'État", "un traité européen"], "correct": 0, "exp": "Elle a été validée par un référendum." },
+      { "q": "Le mouvement nationaliste camerounais a été :", "options": ["durement réprimé", "toujours accepté", "absent", "soutenu par la France sans conflit"], "correct": 0, "exp": "La répression a été importante." }
+    ]
+  },
+  {
+    "classe": "3eme",
+    "matiere": "Histoire",
+    "id": "h3-guerre-froide",
+    "titre": "La guerre froide : deux blocs face à face",
+    "duree": "40 min",
+    "contenu": "<p>De 1947 à 1991, le monde est divisé en deux blocs rivaux : le <b>bloc de l'Ouest</b>, dirigé par les États-Unis, et le <b>bloc de l'Est</b>, dirigé par l'URSS. Cette rivalité s'appelle la <b>guerre froide</b> : il n'y a pas d'affrontement militaire direct entre les deux superpuissances, mais une course aux armements et de nombreux conflits par pays interposés.</p><div class='definition'><b>Le bloc de l'Ouest</b> est organisé autour des États-Unis, avec l'OTAN et l'économie de marché.<br><b>Le bloc de l'Est</b> est organisé autour de l'URSS, avec le pacte de Varsovie et un régime communiste.<br><b>La course aux armements</b> est la compétition entre les deux blocs pour posséder les armes les plus puissantes, dont l'arme nucléaire.<br><b>Le mur de Berlin</b> (1961-1989) sépare Berlin-Est et Berlin-Ouest, symbole de la division du monde.</div><p>La guerre froide prend fin avec la chute du mur de Berlin en 1989 et la dislocation de l'URSS en 1991.</p><div class='exemple'><b>Exemple :</b> lors de la guerre de Corée (1950-1953), les deux blocs s'affrontent indirectement, sans que les États-Unis et l'URSS se combattent directement.</div><div class='astuce'><b>Astuce :</b> retiens : guerre froide = affrontement indirect entre deux superpuissances, sans guerre directe entre elles. Pense aux mots-clés : bloc, course aux armements, mur de Berlin.</div>",
+    "exercices": [
+      { "q": "Quelles sont les deux superpuissances de la guerre froide ?", "r": "Les États-Unis et l'URSS.", "indice": "Pense aux deux blocs." },
+      { "q": "Pourquoi appelle-t-on ce conflit « guerre froide » ?", "r": "Parce qu'il n'y a pas d'affrontement militaire direct entre les deux superpuissances.", "indice": "Relis la définition du cours." },
+      { "q": "Qu'est-ce que la course aux armements ?", "r": "La compétition entre les deux blocs pour posséder les armes les plus puissantes, dont l'arme nucléaire.", "indice": "Pense à la rivalité militaire." },
+      { "q": "Quel est le symbole de la division du monde en 1961 ?", "r": "Le mur de Berlin.", "indice": "Il sépare deux parties d'une ville." },
+      { "q": "Quand la guerre froide prend-elle fin ?", "r": "En 1991, avec la dislocation de l'URSS (après la chute du mur de Berlin en 1989).", "indice": "Pense à la fin de l'URSS." }
+    ],
+    "qcm": [
+      { "q": "La guerre froide dure :", "options": ["de 1947 à 1991", "de 1914 à 1918", "de 1939 à 1945", "de 1960 à 1961"], "correct": 0, "exp": "De 1947 à 1991." },
+      { "q": "Le bloc de l'Ouest est dirigé par :", "options": ["les États-Unis", "l'URSS", "la Chine", "l'Allemagne"], "correct": 0, "exp": "Les États-Unis." },
+      { "q": "Le bloc de l'Est est dirigé par :", "options": ["l'URSS", "les États-Unis", "la France", "le Japon"], "correct": 0, "exp": "L'URSS." },
+      { "q": "Le mur de Berlin sépare :", "options": ["Berlin-Est et Berlin-Ouest", "la France et l'Allemagne", "le Nord et le Sud", "l'Europe et l'Afrique"], "correct": 0, "exp": "Il divise la ville en deux parties." },
+      { "q": "Le mur de Berlin a été construit en :", "options": ["1961", "1914", "1945", "1991"], "correct": 0, "exp": "En 1961." },
+      { "q": "La guerre froide se caractérise par :", "options": ["l'absence d'affrontement militaire direct entre les superpuissances", "une guerre totale entre les États-Unis et l'URSS", "une paix sans tensions", "une alliance permanente"], "correct": 0, "exp": "L'affrontement est indirect." },
+      { "q": "L'OTAN est associée au :", "options": ["bloc de l'Ouest", "bloc de l'Est", "Japon", "Mali"], "correct": 0, "exp": "L'OTAN regroupe les pays de l'Ouest." },
+      { "q": "Le pacte de Varsovie est associé au :", "options": ["bloc de l'Est", "bloc de l'Ouest", "Ghana", "Cameroun"], "correct": 0, "exp": "Il regroupe les pays de l'Est." },
+      { "q": "La guerre froide prend fin notamment avec :", "options": ["la chute du mur de Berlin en 1989", "la prise de la Bastille", "l'armistice de 1918", "la Déclaration de 1789"], "correct": 0, "exp": "La chute du mur de Berlin en 1989." },
+      { "q": "Un exemple de conflit par pays interposés est :", "options": ["la guerre de Corée", "la Révolution française", "la guerre de Troie", "la Renaissance"], "correct": 0, "exp": "Les deux blocs s'affrontent indirectement en Corée." }
+    ]
+  }
+]

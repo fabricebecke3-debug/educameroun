@@ -1,0 +1,110 @@
+[
+  {
+    "classe": "3eme",
+    "matiere": "Français",
+    "id": "f3-theatre",
+    "titre": "Le théâtre : texte, didascalies et représentation",
+    "duree": "40 min",
+    "contenu": "<p>Le <b>théâtre</b> est un genre littéraire destiné à être joué devant un public. Le texte de théâtre se compose de répliques prononcées par les personnages et de <b>didascalies</b>, des indications de mise en scène.</p><div class='definition'><b>Une réplique</b> est la parole d'un personnage.<br><b>Une didascalie</b> est une indication écrite (souvent en italique ou entre parenthèses) qui précise le décor, le ton, les gestes ou les déplacements.<br><b>Un monologue</b> est une longue réplique prononcée par un personnage seul sur scène.<br><b>Un aparté</b> est une réplique que le personnage adresse au public, sans que les autres personnages l'entendent.<br><b>Une scène</b> est une partie de l'acte, délimitée par l'entrée ou la sortie d'un personnage.</div><p>Le théâtre suit des conventions : l'unité de lieu, de temps et d'action (règles du classicisme). Dans le théâtre moderne, ces règles sont souvent assouplies.</p><div class='exemple'><b>Exemple :</b> <i>(Il entre précipitamment, essoufflé.) — Vite, la pluie arrive !</i> La didascalie indique l'attitude du personnage et le ton de la réplique.</div><div class='astuce'><b>Astuce :</b> pour comprendre une scène, lis d'abord les didascalies : elles révèlent les émotions et les intentions que les répliques ne disent pas toujours.</div>",
+    "exercices": [
+      { "q": "Quelle est la différence entre une réplique et une didascalie ?", "r": "La réplique est la parole d'un personnage ; la didascalie est une indication de mise en scène.", "indice": "Qui parle, et qui décrit ?" },
+      { "q": "Qu'est-ce qu'un monologue ?", "r": "Une longue réplique prononcée par un personnage seul sur scène.", "indice": "Mono signifie un seul." },
+      { "q": "Qu'est-ce qu'un aparté ?", "r": "Une réplique adressée au public, que les autres personnages ne sont pas censés entendre.", "indice": "Pense à une confidence faite au public." },
+      { "q": "Explique le rôle des didascalies dans un texte de théâtre.", "r": "Elles précisent le décor, le ton, les gestes et les déplacements, et aident à imaginer la mise en scène.", "indice": "Relis l'astuce du cours." },
+      { "q": "Quelles sont les règles du classicisme au théâtre ?", "r": "L'unité de lieu, de temps et d'action.", "indice": "Trois unités." }
+    ],
+    "qcm": [
+      { "q": "Le théâtre est un genre destiné à :", "options": ["être lu uniquement", "être joué devant un public", "être chanté", "être écrit en vers uniquement"], "correct": 1, "exp": "Le théâtre est fait pour être représenté." },
+      { "q": "Une didascalie est :", "options": ["une réplique", "une indication de mise en scène", "un personnage", "une scène"], "correct": 1, "exp": "Elle précise le jeu et le décor." },
+      { "q": "Un monologue est :", "options": ["un dialogue à deux", "une longue réplique d'un personnage seul", "une indication de décor", "un titre d'acte"], "correct": 1, "exp": "Un seul personnage parle longuement." },
+      { "q": "Un aparté est une réplique :", "options": ["adressée au public, que les autres ne doivent pas entendre", "écrite en vers", "chantée", "sans personnage"], "correct": 0, "exp": "C'est une confidence au public." },
+      { "q": "Les unités classiques sont :", "options": ["lieu, temps, action", "lieu, personnage, couleur", "temps, son, lumière", "auteur, titre, date"], "correct": 0, "exp": "Ce sont les trois unités du classicisme." },
+      { "q": "Une didascalie est souvent écrite :", "options": ["en italique ou entre parenthèses", "en gras uniquement", "en chiffres", "en majuscules seulement"], "correct": 0, "exp": "Elle se distingue visuellement des répliques." },
+      { "q": "Une scène de théâtre est délimitée par :", "options": ["l'entrée ou la sortie d'un personnage", "la couleur du rideau", "le nombre de mots", "la date"], "correct": 0, "exp": "Le départ ou l'arrivée d'un personnage marque la fin ou le début d'une scène." },
+      { "q": "Dans le théâtre moderne, les règles classiques sont :", "options": ["toujours respectées", "souvent assouplies", "interdites", "obligatoires"], "correct": 1, "exp": "Les auteurs modernes les assouplissent." },
+      { "q": "Les émotions d'un personnage peuvent être révélées par :", "options": ["les didascalies", "le titre seulement", "la date de publication", "la couverture"], "correct": 0, "exp": "Les didascalies indiquent le ton et les gestes." },
+      { "q": "Un texte de théâtre est composé de :", "options": ["répliques et didascalies", "chapitres et paragraphes uniquement", "strophes et rimes", "lignes de code"], "correct": 0, "exp": "Ce sont ses deux éléments principaux." }
+    ]
+  },
+  {
+    "classe": "3eme",
+    "matiere": "Français",
+    "id": "f3-poesie-vers",
+    "titre": "La poésie : vers, rimes et rythme",
+    "duree": "40 min",
+    "contenu": "<p>La <b>poésie</b> est un genre littéraire qui joue sur la musicalité, le rythme et les images. Elle est écrite en <b>vers</b>, dont les lignes forment parfois des <b>strophes</b>.</p><div class='definition'><b>Un vers</b> est une ligne de poème. Son nombre de syllabes est sa mesure : l'alexandrin compte 12 syllabes, le décasyllabe 10, l'octosyllabe 8.<br><b>La rime</b> est la répétition du même son à la fin des vers. Elle peut être plate (AABB), croisée (ABAB) ou embrassée (ABBA).<br><b>La strophe</b> est un groupe de vers séparé des autres par un espace.<br><b>La césure</b> est une pause à l'intérieur du vers, qui le divise en deux hémistiches.<br><b>Le e muet</b> à la fin d'un mot ne se prononce généralement pas devant une consonne.</div><div class='exemple'><b>Exemple :</b> <i>Le soleil se lève sur les hautes collines.</i> Ce vers compte 12 syllabes (le-so-leil-se-lè-ve-sur-les-hau-tes-col-lines) : c'est un alexandrin. Le e final de « collines » ne se prononce pas.</div><div class='astuce'><b>Astuce :</b> pour compter les syllabes, prononce le vers à voix haute et compte les voyelles prononcées. Le e muet final ne compte pas, sauf devant une consonne au milieu du vers.</div>",
+    "exercices": [
+      { "q": "Qu'est-ce qu'un vers ?", "r": "Une ligne de poème, dont le nombre de syllabes donne la mesure.", "indice": "Pense à une ligne dans un poème." },
+      { "q": "Combien de syllabes compte un alexandrin ?", "r": "12 syllabes.", "indice": "Relis la définition." },
+      { "q": "Quelle est la différence entre une rime plate et une rime croisée ?", "r": "La rime plate suit le schéma AABB (vers deux à deux) ; la rime croisée suit ABAB.", "indice": "Observe quels vers riment ensemble." },
+      { "q": "Qu'est-ce qu'une strophe ?", "r": "Un groupe de vers séparé des autres par un espace.", "indice": "Pense aux paragraphes d'un poème." },
+      { "q": "Qu'est-ce que la césure ?", "r": "Une pause à l'intérieur d'un vers, qui le divise en deux hémistiches.", "indice": "Pense à la respiration du vers." }
+    ],
+    "qcm": [
+      { "q": "Un alexandrin compte :", "options": ["8 syllabes", "10 syllabes", "12 syllabes", "14 syllabes"], "correct": 2, "exp": "L'alexandrin a 12 syllabes." },
+      { "q": "Un décasyllabe compte :", "options": ["8 syllabes", "10 syllabes", "12 syllabes", "6 syllabes"], "correct": 1, "exp": "Il a 10 syllabes." },
+      { "q": "La rime croisée suit le schéma :", "options": ["AABB", "ABAB", "ABBA", "AAAA"], "correct": 1, "exp": "Les vers 1 et 3 riment ensemble, 2 et 4 ensemble." },
+      { "q": "La rime plate suit le schéma :", "options": ["AABB", "ABAB", "ABBA", "AAAA"], "correct": 0, "exp": "Les vers riment deux à deux." },
+      { "q": "Une strophe est :", "options": ["un groupe de vers séparé par un espace", "une seule ligne", "un titre", "une rime"], "correct": 0, "exp": "C'est un ensemble de vers." },
+      { "q": "La césure est :", "options": ["la fin du poème", "une pause dans le vers", "la rime", "le titre"], "correct": 1, "exp": "Elle marque une pause au milieu du vers." },
+      { "q": "La rime est :", "options": ["la répétition d'un son à la fin des vers", "une image", "un nombre de strophes", "un titre"], "correct": 0, "exp": "C'est la répétition sonore." },
+      { "q": "Un octosyllabe compte :", "options": ["6 syllabes", "8 syllabes", "10 syllabes", "12 syllabes"], "correct": 1, "exp": "Il a 8 syllabes." },
+      { "q": "Le rythme d'un poème désigne :", "options": ["sa musicalité et ses pauses", "son auteur", "sa date", "son éditeur"], "correct": 0, "exp": "Le rythme dépend des syllabes accentuées et des pauses." },
+      { "q": "La rime embrassée suit le schéma :", "options": ["ABBA", "ABAB", "AABB", "AAAA"], "correct": 0, "exp": "Les vers 2 et 3 riment, encadrés par les vers 1 et 4." }
+    ]
+  },
+  {
+    "classe": "3eme",
+    "matiere": "Français",
+    "id": "f3-point-de-vue-narratif",
+    "titre": "Le roman : narrateur et point de vue",
+    "duree": "40 min",
+    "contenu": "<p>Dans un récit, le <b>narrateur</b> est celui qui raconte l'histoire. Le <b>point de vue</b> désigne la position à partir de laquelle l'histoire est racontée : elle détermine ce que le lecteur sait et ressent.</p><div class='definition'><b>Le narrateur omniscient</b> sait tout : il connaît les pensées de tous les personnages et peut commenter l'action.<br><b>Le narrateur interne</b> ne raconte que ce que voit et pense un seul personnage : le lecteur découvre l'histoire avec lui.<br><b>Le narrateur externe</b> décrit uniquement ce qui est visible, sans jamais entrer dans les pensées des personnages : il reste extérieur à l'histoire.<br><b>La focalisation</b> désigne le personnage à travers lequel on perçoit l'histoire.</div><div class='exemple'><b>Exemple :</b> <i>Il avait peur. Son cœur battait fort.</i> Ici, le narrateur accède aux sentiments du personnage : c'est une focalisation interne ou omnisciente. Si l'on lit seulement : <i>Il baissa les yeux et recula</i>, le narrateur est externe.</div><div class='astuce'><b>Astuce :</b> demande-toi : le narrateur peut-il lire dans la tête des personnages ? Si oui, il est omniscient ou interne. Si non, il est externe.</div>",
+    "exercices": [
+      { "q": "Qu'est-ce que le point de vue dans un récit ?", "r": "La position à partir de laquelle l'histoire est racontée, qui détermine ce que le lecteur sait.", "indice": "Pense à qui voit l'histoire." },
+      { "q": "Quelle est la différence entre narrateur omniscient et narrateur interne ?", "r": "L'omniscient connaît les pensées de tous les personnages ; l'interne ne connaît que celles d'un seul personnage.", "indice": "Combien de pensées sont accessibles ?" },
+      { "q": "Dans la phrase « Il baissa les yeux et recula. », quel est le point de vue ?", "r": "Externe : seules les actions visibles sont décrites.", "indice": "Le narrateur ne décrit pas les pensées." },
+      { "q": "Réécris la phrase « Awa hésita. » avec un narrateur interne qui raconte ce que pense Awa.", "r": "Exemple : Awa hésitait : elle savait qu'il fallait partir, mais elle ne voulait pas quitter sa famille.", "indice": "Le narrateur doit accéder aux pensées du personnage." },
+      { "q": "Pourquoi le choix du point de vue est-il important pour le lecteur ?", "r": "Il détermine ce que le lecteur sait et ressent, et la façon dont il perçoit les personnages.", "indice": "Pense à ce que le lecteur peut ignorer." }
+    ],
+    "qcm": [
+      { "q": "Le narrateur est celui qui :", "options": ["raconte l'histoire", "lit le livre", "édite le texte", "vend le livre"], "correct": 0, "exp": "C'est la voix qui raconte." },
+      { "q": "Le narrateur omniscient :", "options": ["connaît les pensées de tous les personnages", "ne connaît rien", "ne parle jamais", "est toujours un enfant"], "correct": 0, "exp": "Il sait tout, y compris les pensées." },
+      { "q": "Le narrateur externe :", "options": ["décrit seulement ce qui est visible", "lit dans toutes les pensées", "ne décrit rien", "est l'auteur uniquement"], "correct": 0, "exp": "Il ne décrit pas les pensées." },
+      { "q": "Le narrateur interne :", "options": ["ne connaît que les pensées d'un personnage", "connaît tout", "n'existe pas", "parle à voix haute"], "correct": 0, "exp": "Il voit par les yeux d'un seul personnage." },
+      { "q": "Dans « Il avait peur. Son cœur battait fort. », le narrateur :", "options": ["accède aux sentiments du personnage", "est externe", "ne sait rien", "est un dialogue"], "correct": 0, "exp": "Il décrit un ressenti intérieur." },
+      { "q": "La focalisation désigne :", "options": ["le personnage à travers lequel on perçoit l'histoire", "la couleur de la couverture", "le titre", "la date"], "correct": 0, "exp": "C'est le regard qui guide la lecture." },
+      { "q": "Pour savoir si le narrateur est externe, il faut vérifier s'il :", "options": ["lit dans les pensées", "décrit seulement l'extérieur", "parle en vers", "change de temps"], "correct": 1, "exp": "Un narrateur externe ne décrit que le visible." },
+      { "q": "Un narrateur qui dit « Il pensa que la vie était injuste » est :", "options": ["omniscient ou interne", "externe", "un personnage", "un dialogue"], "correct": 0, "exp": "Il accède aux pensées." },
+      { "q": "Le point de vue détermine :", "options": ["ce que le lecteur sait et ressent", "le prix du livre", "le nombre de pages", "la couleur"], "correct": 0, "exp": "Il oriente la connaissance du lecteur." },
+      { "q": "Un récit à la première personne, « je », est souvent :", "options": ["un narrateur interne", "un narrateur externe toujours", "un poème", "un dialogue"], "correct": 0, "exp": "Le « je » raconte ce qu'il vit et pense." }
+    ]
+  },
+  {
+    "classe": "3eme",
+    "matiere": "Français",
+    "id": "f3-subjonctif-present",
+    "titre": "Le subjonctif présent : emploi et formation",
+    "duree": "40 min",
+    "contenu": "<p>Le <b>subjonctif</b> est un mode qui exprime souvent un souhait, un doute, une nécessité ou un sentiment. Il est fréquent après certaines expressions et certaines conjonctions.</p><div class='definition'><b>Formation (verbes réguliers) :</b> radical de la 3e personne du pluriel au présent + terminaisons -e, -es, -e, -ions, -iez, -ent. Ex. : finir → ils finissent → que je finisse, que nous finissions.<br><b>Emplois courants :</b> après « il faut que », « je veux que », « bien que », « pour que », « avant que », et après les verbes de sentiment (craindre que, être content que).<br><b>Verbes irréguliers :</b> être → que je sois, que nous soyons ; avoir → que j'aie, que nous ayons ; aller → que j'aille.</div><div class='exemple'><b>Exemple :</b> <i>Il faut que tu travailles davantage.</i> <i>Je veux que nous réussissions ensemble.</i> Le subjonctif exprime ici la nécessité et le souhait.</div><div class='astuce'><b>Astuce :</b> pour reconnaître le subjonctif, cherche la conjonction « que » après une expression de volonté, de nécessité ou de sentiment. Le verbe qui suit sera souvent au subjonctif.</div>",
+    "exercices": [
+      { "q": "Conjugue au subjonctif présent : que je (finir) ; que nous (faire) ; que tu (être).", "r": "que je finisse ; que nous fassions ; que tu sois.", "indice": "Pour finir, pars du pluriel ils finissent. Pour être, c'est irrégulier." },
+      { "q": "Complète : Il faut que vous ... (venir) à l'heure.", "r": "veniez", "indice": "Vous : radical de ils viennent, terminaison -iez." },
+      { "q": "Transforme : « Je suis content de réussir. » avec un sujet différent : « Je suis content que tu ... (réussir). »", "r": "réussisses.", "indice": "Après être content que, on emploie le subjonctif." },
+      { "q": "Quel mode utiliser après « bien que » ?", "r": "Le subjonctif.", "indice": "Relis la liste des conjonctions." },
+      { "q": "Conjugue au subjonctif : qu'il (avoir) ; qu'elles (aller).", "r": "qu'il ait ; qu'elles aillent.", "indice": "Avoir et aller sont irréguliers au subjonctif." }
+    ],
+    "qcm": [
+      { "q": "Le subjonctif exprime souvent :", "options": ["un fait certain", "un souhait ou une nécessité", "une question", "un passé terminé"], "correct": 1, "exp": "Il exprime volonté, doute ou nécessité." },
+      { "q": "Il faut que vous ... (venir) :", "options": ["venez", "veniez", "venons", "venez"], "correct": 1, "exp": "Vous : veniez au subjonctif." },
+      { "q": "Au subjonctif, que nous (faire) devient :", "options": ["que nous faisons", "que nous fassions", "que nous faisions", "que nous ferons"], "correct": 1, "exp": "Faire : que nous fassions." },
+      { "q": "Le subjonctif de « être » pour « que je » est :", "options": ["que je suis", "que je sois", "que je serai", "que je étais"], "correct": 1, "exp": "Que je sois." },
+      { "q": "Après « bien que », on emploie :", "options": ["le subjonctif", "le futur", "l'impératif", "le conditionnel"], "correct": 0, "exp": "Bien que est suivi du subjonctif." },
+      { "q": "Le subjonctif de « avoir » pour « qu'il » est :", "options": ["qu'il a", "qu'il ait", "qu'il avait", "qu'il aura"], "correct": 1, "exp": "Qu'il ait." },
+      { "q": "Pour « finir », le subjonctif de « que je » est :", "options": ["que je finis", "que je finirai", "que je finisse", "que je finissais"], "correct": 2, "exp": "Que je finisse." },
+      { "q": "Après « je veux que », on emploie :", "options": ["le subjonctif", "l'indicatif futur", "le passé composé", "l'infinitif"], "correct": 0, "exp": "La volonté appelle le subjonctif." },
+      { "q": "Le subjonctif de « aller » pour « que j' » est :", "options": ["que j'aille", "que j'allais", "que j'irai", "que j'ai allé"], "correct": 0, "exp": "Que j'aille." },
+      { "q": "Dans « Il faut que tu travailles », le verbe est :", "options": ["au subjonctif", "à l'imparfait", "au futur", "à l'impératif"], "correct": 0, "exp": "Après il faut que, on emploie le subjonctif." }
+    ]
+  }
+]

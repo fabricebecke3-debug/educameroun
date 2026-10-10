@@ -1,0 +1,110 @@
+[
+  {
+    "classe": "5eme",
+    "matiere": "Anglais",
+    "id": "a5-past-simple-regular",
+    "titre": "The past simple : les verbes réguliers",
+    "duree": "40 min",
+    "contenu": "<p>Le <b>past simple</b> (prétérit) sert à raconter des actions terminées dans le passé, à un moment précis : <i>yesterday</i>, <i>last week</i>, <i>in 2010</i>.</p><div class='definition'><b>Verbes réguliers :</b> on ajoute <b>-ed</b> au verbe. Ex. : play → played ; walk → walked.<br><b>Verbes terminés par -e :</b> on ajoute seulement -d. Ex. : love → loved ; live → lived.<br><b>Verbes terminés par consonne + y :</b> y devient ied. Ex. : study → studied ; carry → carried.<br><b>Une seule forme pour toutes les personnes :</b> I played, you played, he played, we played, they played.</div><div class='exemple'><b>Exemple :</b> <i>Yesterday, I walked to school. We played football after class.</i> (Hier, je suis allé à pied à l'école. Nous avons joué au football après les cours.)</div><div class='astuce'><b>Astuce :</b> le past simple ne se conjugue pas avec les personnes : pas besoin de changer selon le sujet. Retiens juste la règle du -ed.</div>",
+    "exercices": [
+      { "q": "Mets au past simple : play, walk, love, study.", "r": "played, walked, loved, studied.", "indice": "Ajoute -ed ; si le verbe finit par -e, ajoute seulement -d ; si consonne + y, remplace y par ied." },
+      { "q": "Traduis : « Hier, nous avons travaillé dans le jardin. »", "r": "Yesterday, we worked in the garden.", "indice": "Work est régulier : work → worked." },
+      { "q": "Complète avec le past simple : Last week, she ... (visit) her grandmother.", "r": "visited", "indice": "Visit est régulier, on ajoute -ed." },
+      { "q": "Écris trois phrases au passé sur ta semaine avec les mots yesterday, last night ou last Sunday.", "r": "Exemple : Yesterday, I cleaned my room. Last night, I listened to music. Last Sunday, we visited my cousins.", "indice": "Utilise les verbes réguliers appris." },
+      { "q": "Quel est le past simple de « stop » (attention : consonne doublée) ?", "r": "stopped.", "indice": "Les verbes courts terminés par consonne + voyelle + consonne doublent la dernière consonne avant -ed." }
+    ],
+    "qcm": [
+      { "q": "Le past simple de « play » est :", "options": ["plays", "played", "playing", "plaied"], "correct": 1, "exp": "Les verbes réguliers prennent -ed : played." },
+      { "q": "Le past simple de « live » est :", "options": ["livved", "lived", "liveed", "live"], "correct": 1, "exp": "Les verbes en -e prennent seulement -d : lived." },
+      { "q": "Le past simple de « study » est :", "options": ["studyed", "studied", "studded", "study"], "correct": 1, "exp": "Consonne + y : y devient ied : studied." },
+      { "q": "Quelle expression indique le passé ?", "options": ["tomorrow", "yesterday", "now", "every day"], "correct": 1, "exp": "Yesterday signifie hier : c'est un repère du passé." },
+      { "q": "« Hier, nous avons visité la ville. »", "options": ["Yesterday, we visit the city.", "Yesterday, we visited the city.", "Yesterday, we visiting the city.", "Yesterday, we will visit the city."], "correct": 1, "exp": "Au past simple : visited." },
+      { "q": "Le past simple est utilisé pour :", "options": ["une action future", "une action terminée dans le passé", "une habitude présente", "un ordre"], "correct": 1, "exp": "C'est le temps des actions achevées au passé." },
+      { "q": "À la forme du past simple, les verbes réguliers :", "options": ["changent selon la personne", "gardent la même forme pour toutes les personnes", "prennent toujours -s", "prennent toujours -ing"], "correct": 1, "exp": "Une seule forme : I played, he played, they played." },
+      { "q": "Le past simple de « walk » est :", "options": ["walked", "walks", "walking", "walkt"], "correct": 0, "exp": "On ajoute -ed : walked." },
+      { "q": "Quelle phrase est correcte ?", "options": ["Last week, I cooked rice.", "Last week, I cook rice.", "Last week, I cooking rice.", "Last week, I cooks rice."], "correct": 0, "exp": "Au passé : cooked." },
+      { "q": "« Le mois dernier, ils ont habité à Bafoussam. »", "options": ["Last month, they lived in Bafoussam.", "Last month, they live in Bafoussam.", "Last month, they living in Bafoussam.", "Last month, they will live in Bafoussam."], "correct": 0, "exp": "Au past simple : lived." }
+    ]
+  },
+  {
+    "classe": "5eme",
+    "matiere": "Anglais",
+    "id": "a5-past-simple-irregular",
+    "titre": "The past simple : les verbes irréguliers",
+    "duree": "40 min",
+    "contenu": "<p>Beaucoup de verbes très courants sont <b>irréguliers</b> : leur forme au passé ne suit pas la règle du -ed. Il faut les apprendre par cœur.</p><div class='definition'><b>Verbes irréguliers courants :</b><br>go → went (aller) · see → saw (voir) · have → had (avoir) · eat → ate (manger) · drink → drank (boire) · write → wrote (écrire) · make → made (faire, fabriquer) · take → took (prendre) · come → came (venir) · do → did (faire) · buy → bought (acheter) · give → gave (donner).</div><div class='exemple'><b>Exemple :</b> <i>Last Monday, I went to the market. I bought fresh fish and I ate lunch with my family.</i> (Lundi dernier, je suis allé au marché. J'ai acheté du poisson frais et j'ai mangé avec ma famille.)</div><div class='astuce'><b>Astuce :</b> regroupe les verbes irréguliers par sons. Ex. : see → saw, make → made... Mais le plus efficace reste de répéter la liste à voix haute pendant 5 minutes par jour.</div>",
+    "exercices": [
+      { "q": "Donne le past simple de : go, see, have, eat, drink.", "r": "went, saw, had, ate, drank.", "indice": "Ce sont des verbes irréguliers : il faut les mémoriser." },
+      { "q": "Traduis : « Hier, j'ai pris le bus pour aller au marché. »", "r": "Yesterday, I took the bus to go to the market.", "indice": "Prendre se dit take, au passé took." },
+      { "q": "Complète : Last year, we ... (write) letters to our friends.", "r": "wrote", "indice": "Write est irrégulier : wrote." },
+      { "q": "Donne le past simple de : buy, give, come, make, do.", "r": "bought, gave, came, made, did.", "indice": "Chacun de ces verbes a une forme irrégulière à apprendre." },
+      { "q": "Écris une phrase au passé avec un verbe irrégulier qui parle de ton week-end.", "r": "Réponse libre. Exemple : Last weekend, I went to the church and I saw my friends.", "indice": "Utilise went, saw, had, ate..." }
+    ],
+    "qcm": [
+      { "q": "Le past simple de « go » est :", "options": ["goed", "went", "gone", "goes"], "correct": 1, "exp": "Go est irrégulier : went." },
+      { "q": "Le past simple de « see » est :", "options": ["seed", "saw", "seen", "sees"], "correct": 1, "exp": "See devient saw." },
+      { "q": "Le past simple de « have » est :", "options": ["haved", "had", "has", "having"], "correct": 1, "exp": "Have devient had." },
+      { "q": "Le past simple de « eat » est :", "options": ["eated", "ate", "eaten", "eats"], "correct": 1, "exp": "Eat devient ate." },
+      { "q": "Le past simple de « write » est :", "options": ["writed", "wrote", "written", "writes"], "correct": 1, "exp": "Write devient wrote." },
+      { "q": "« J'ai acheté un livre. »", "options": ["I buyed a book.", "I bought a book.", "I buy a book.", "I buying a book."], "correct": 1, "exp": "Buy est irrégulier : bought." },
+      { "q": "Le past simple de « take » est :", "options": ["taked", "took", "taken", "takes"], "correct": 1, "exp": "Take devient took." },
+      { "q": "Le past simple de « make » est :", "options": ["maked", "made", "maken", "makes"], "correct": 1, "exp": "Make devient made." },
+      { "q": "Le past simple de « come » est :", "options": ["comed", "came", "come", "comes"], "correct": 1, "exp": "Come devient came." },
+      { "q": "Quelle phrase est correcte ?", "options": ["Yesterday, I go to school.", "Yesterday, I went to school.", "Yesterday, I gone to school.", "Yesterday, I going to school."], "correct": 1, "exp": "Au passé : went." }
+    ]
+  },
+  {
+    "classe": "5eme",
+    "matiere": "Anglais",
+    "id": "a5-comparatives",
+    "titre": "Comparer : comparatives et superlatives",
+    "duree": "40 min",
+    "contenu": "<p>Pour comparer deux personnes ou deux choses, on utilise le <b>comparatif</b>. Pour désigner le plus haut degré, on utilise le <b>superlatif</b>.</p><div class='definition'><b>Adjectif court</b> (une syllabe) : comparatif = adjectif + -er + than ; superlatif = the + adjectif + -est. Ex. : tall → taller than ; the tallest.<br><b>Adjectif long</b> (deux syllabes ou plus) : comparatif = more + adjectif + than ; superlatif = the most + adjectif. Ex. : beautiful → more beautiful than ; the most beautiful.<br><b>Adjectifs irréguliers :</b> good → better ; bad → worse.</div><div class='exemple'><b>Exemple :</b> <i>Douala is bigger than Bafoussam. Yaoundé is the most beautiful city in my opinion.</i> (Douala est plus grande que Bafoussam.)</div><div class='astuce'><b>Astuce :</b> pour un adjectif court qui finit par -y, change y en -ier : happy → happier ; the happiest.</div>",
+    "exercices": [
+      { "q": "Fais le comparatif de : tall, small, big (attention : consonne doublée), good, bad.", "r": "taller, smaller, bigger, better, worse.", "indice": "Adjectif court : -er. Good et bad sont irréguliers." },
+      { "q": "Fais le superlatif de : tall, big, beautiful, good.", "r": "the tallest, the biggest, the most beautiful, the best.", "indice": "Adjectif court : -est. Adjectif long : the most. Good : the best." },
+      { "q": "Traduis : « Le marché est plus grand que l'école. »", "r": "The market is bigger than the school.", "indice": "Big est court : bigger." },
+      { "q": "Complète : This book is ... (interesting) than that one.", "r": "more interesting", "indice": "Interesting est un adjectif long : more." },
+      { "q": "Écris une phrase avec un superlatif sur la ville de ton choix.", "r": "Exemple : Garoua is the hottest city in the north.", "indice": "Utilise the + adjectif + -est, ou the most + adjectif." }
+    ],
+    "qcm": [
+      { "q": "Le comparatif de « tall » est :", "options": ["more tall", "taller", "tallest", "the tall"], "correct": 1, "exp": "Adjectif court : taller." },
+      { "q": "Le superlatif de « big » est :", "options": ["the bigest", "the biggest", "the most big", "biggest the"], "correct": 1, "exp": "Big double la consonne : the biggest." },
+      { "q": "Le comparatif de « beautiful » est :", "options": ["beautifuler", "more beautiful", "most beautiful", "beautifullest"], "correct": 1, "exp": "Adjectif long : more beautiful." },
+      { "q": "Le comparatif de « good » est :", "options": ["gooder", "better", "more good", "best"], "correct": 1, "exp": "Good est irrégulier : better." },
+      { "q": "Le superlatif de « happy » est :", "options": ["the happyest", "the happiest", "the most happy", "happiest the"], "correct": 1, "exp": "Y devient ie : the happiest." },
+      { "q": "« Ce sac est plus lourd que celui-là. »", "options": ["This bag is heavier than that one.", "This bag is more heavy than that one.", "This bag is heavyer than that one.", "This bag is heaviest than that one."], "correct": 0, "exp": "Heavy devient heavier." },
+      { "q": "Le mot « than » sert à :", "options": ["former un superlatif", "introduire le deuxième élément d'une comparaison", "dire le passé", "poser une question"], "correct": 1, "exp": "Than signifie « que » dans une comparaison." },
+      { "q": "Le superlatif s'accompagne de :", "options": ["than", "the", "to", "for"], "correct": 1, "exp": "On écrit the + superlatif." },
+      { "q": "Le comparatif de « bad » est :", "options": ["badder", "worse", "more bad", "worst"], "correct": 1, "exp": "Bad est irrégulier : worse." },
+      { "q": "Quelle phrase est correcte ?", "options": ["Yaoundé is the bigest city.", "Yaoundé is bigger city.", "Yaoundé is the biggest city.", "Yaoundé is biggest than city."], "correct": 2, "exp": "Superlatif correct : the biggest city." }
+    ]
+  },
+  {
+    "classe": "5eme",
+    "matiere": "Anglais",
+    "id": "a5-can-ability",
+    "titre": "Parler de ses capacités : can et can't",
+    "duree": "40 min",
+    "contenu": "<p>Pour exprimer une capacité ou une possibilité, on utilise le modal <b>can</b> (pouvoir, savoir faire). Il ne change jamais de forme et il est suivi du verbe à l'infinitif, sans to.</p><div class='definition'><b>Affirmative :</b> sujet + can + verbe. Ex. : I can swim.<br><b>Négative :</b> sujet + cannot (can't) + verbe. Ex. : She can't cook.<br><b>Question :</b> Can + sujet + verbe ? Ex. : Can you drive?<br><b>Réponse courte :</b> Yes, I can. / No, I can't.<br><b>Au passé :</b> could (ou couldn't). Ex. : I could swim when I was six.</div><div class='exemple'><b>Exemple :</b> <i>My brother can play the drums. He can't speak German, but he can speak French and English.</i> (Mon frère sait jouer de la batterie. Il ne sait pas parler allemand, mais il sait parler français et anglais.)</div><div class='astuce'><b>Astuce :</b> can ne prend jamais -s, même avec he ou she. On dit he can, et non he cans. Et ne mets pas to après can.</div>",
+    "exercices": [
+      { "q": "Traduis : « Je sais nager. » / « Elle ne sait pas cuisiner. »", "r": "I can swim. / She can't cook.", "indice": "Can ne change pas. La négation est can't." },
+      { "q": "Pose la question : « Sais-tu conduire ? »", "r": "Can you drive?", "indice": "Mets can au début de la question." },
+      { "q": "Réponds par une forme courte : « Can you speak English? » (oui, puis non).", "r": "Yes, I can. / No, I can't.", "indice": "Reprends can ou can't dans la réponse." },
+      { "q": "Corrige la phrase : « He cans play football. »", "r": "He can play football.", "indice": "Can ne prend jamais de -s et n'a pas de to après." },
+      { "q": "Écris trois phrases sur tes capacités : une positive, une négative, une question à un camarade.", "r": "Exemple : I can sing. I can't swim. Can you dance?", "indice": "Utilise can, can't et Can you...?" }
+    ],
+    "qcm": [
+      { "q": "Quelle est la forme correcte ?", "options": ["I can swim.", "I cans swim.", "I can to swim.", "I canning swim."], "correct": 0, "exp": "Can est suivi du verbe nu : can swim." },
+      { "q": "La forme négative de « I can swim » est :", "options": ["I can't swim.", "I don't can swim.", "I cannot to swim.", "I no can swim."], "correct": 0, "exp": "On écrit can't ou cannot." },
+      { "q": "Avec « he », on écrit :", "options": ["he cans", "he can", "he can to", "he canning"], "correct": 1, "exp": "Can ne prend jamais de -s." },
+      { "q": "La question « Peux-tu venir ? » se dit :", "options": ["Can you come?", "Do you can come?", "Can to you come?", "You can come?"], "correct": 0, "exp": "On place can en début de phrase." },
+      { "q": "Réponse courte à « Can she sing? » si elle sait chanter :", "options": ["Yes, she can.", "Yes, she sings.", "Yes, she is.", "No, she do."], "correct": 0, "exp": "Yes, she can." },
+      { "q": "Le passé de « can » est :", "options": ["cans", "could", "canned", "can't"], "correct": 1, "exp": "Could est la forme du passé." },
+      { "q": "« Je ne sais pas conduire. »", "options": ["I can't drive.", "I don't can drive.", "I can drive not.", "I cannot to drive."], "correct": 0, "exp": "I can't drive." },
+      { "q": "Après can, le verbe est :", "options": ["à l'infinitif avec to", "à l'infinitif sans to", "au -ing", "au passé"], "correct": 1, "exp": "Can est suivi du verbe nu : sans to." },
+      { "q": "Quelle phrase exprime une capacité ?", "options": ["I can cook rice.", "I cook rice yesterday.", "I will cook rice.", "I cooked rice."], "correct": 0, "exp": "Can exprime la capacité." },
+      { "q": "« Elle sait parler français. »", "options": ["She can speak French.", "She speaks can French.", "She can to speak French.", "She cans speak French."], "correct": 0, "exp": "She can speak French." }
+    ]
+  }
+]

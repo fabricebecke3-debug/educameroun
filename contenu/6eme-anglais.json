@@ -1,0 +1,110 @@
+[
+  {
+    "classe": "6eme",
+    "matiere": "Anglais",
+    "id": "a6-greetings-to-be",
+    "titre": "Greetings and the verb « to be »",
+    "duree": "40 min",
+    "contenu": "<p>En anglais, on se salue et on se présente avec le verbe <b>to be</b> (être). C'est le verbe le plus important du début de l'année.</p><div class='definition'><b>To be au présent :</b><br>I am (je suis) · you are (tu es / vous êtes) · he is (il est) · she is (elle est) · it is (il/elle est, pour une chose ou un animal) · we are (nous sommes) · they are (ils/elles sont).</div><div class='exemple'><b>Exemple :</b> <i>Hello! I am Awa. I am from Douala. We are in class 6.</i> (Bonjour ! Je suis Awa. Je viens de Douala. Nous sommes en 6ème.)</div><p>Les <b>formes contractées</b> sont très utilisées à l'oral et à l'écrit : I am → <b>I'm</b>, he is → <b>he's</b>, we are → <b>we're</b>, they are → <b>they're</b>.</p><p>À la forme négative, on ajoute <b>not</b> après le verbe : I am not = I'm not ; he is not = he isn't.</p><p>Pour poser une question, on inverse le verbe et le sujet : <i>Are you ready?</i> (Tu es prêt ?)</p><div class='astuce'><b>Astuce :</b> les formules pour se saluer : <i>Good morning</i> (le matin), <i>Good afternoon</i> (l'après-midi), <i>Good evening</i> (le soir), et <i>Good night</i> pour dire bonne nuit.</div>",
+    "exercices": [
+      { "q": "Complète avec le bon pronom et la bonne forme de to be : ... (you) ... happy. ... (we) ... in Yaoundé. ... (she) ... my sister.", "r": "You are happy. We are in Yaoundé. She is my sister.", "indice": "you → are ; we → are ; she → is." },
+      { "q": "Mets à la forme contractée : I am ; they are ; he is ; we are.", "r": "I'm ; they're ; he's ; we're.", "indice": "La contraction remplace la voyelle du verbe par une apostrophe." },
+      { "q": "Mets à la forme négative : She is tired. / We are at school.", "r": "She is not (isn't) tired. We are not (aren't) at school.", "indice": "not se place après le verbe to be." },
+      { "q": "Pose la question : You are from Garoua. → ...", "r": "Are you from Garoua?", "indice": "Inverse le verbe et le sujet." },
+      { "q": "Présente-toi en 4 phrases : ton nom, ton âge, ta ville, ta classe.", "r": "Exemple : My name is Paul. I am eleven. I am from Bafoussam. I am in class 6.", "indice": "Utilise I am pour parler de toi." }
+    ],
+    "qcm": [
+      { "q": "Complète : « ... a student. »", "options": ["I am", "I is", "I are", "I be"], "correct": 0, "exp": "Avec I, on utilise toujours am." },
+      { "q": "Quelle est la bonne forme pour « Ils sont en classe » ?", "options": ["They is in class.", "They are in class.", "They am in class.", "They be in class."], "correct": 1, "exp": "They se conjugue avec are." },
+      { "q": "Quelle est la contraction de « she is » ?", "options": ["she's", "shes", "she'is", "she're"], "correct": 0, "exp": "She is se contracte en she's." },
+      { "q": "Quelle phrase est au négatif ?", "options": ["He is at home.", "He isn't at home.", "He at home.", "Is he at home?"], "correct": 1, "exp": "isn't est la forme négative contractée de is not." },
+      { "q": "Comment dit-on « Bonjour » le matin ?", "options": ["Good night", "Good morning", "Good evening", "Good bye"], "correct": 1, "exp": "Good morning se dit le matin." },
+      { "q": "Quelle question est correcte ?", "options": ["You are ready?", "Are you ready?", "Ready you are?", "Are ready you?"], "correct": 1, "exp": "Pour poser une question avec to be, on place le verbe avant le sujet." },
+      { "q": "« Nous sommes à Douala. » se traduit par :", "options": ["We is in Douala.", "We are in Douala.", "We am in Douala.", "Us are in Douala."], "correct": 1, "exp": "We se conjugue avec are." },
+      { "q": "Quelle est la forme correcte pour « Elle est gentille » ?", "options": ["She are kind.", "She is kind.", "She am kind.", "She be kind."], "correct": 1, "exp": "She se conjugue avec is." },
+      { "q": "« Good afternoon » se dit :", "options": ["le matin", "l'après-midi", "le soir", "avant de dormir"], "correct": 1, "exp": "Good afternoon est la salutation de l'après-midi." },
+      { "q": "Dans « It is a dog », « it » désigne :", "options": ["une personne", "un animal ou une chose", "un groupe", "un verbe"], "correct": 1, "exp": "It se réfère à un animal ou une chose." }
+    ]
+  },
+  {
+    "classe": "6eme",
+    "matiere": "Anglais",
+    "id": "a6-family-possessives",
+    "titre": "My family : possessive adjectives",
+    "duree": "40 min",
+    "contenu": "<p>Pour parler de sa famille, on utilise des <b>adjectifs possessifs</b>. En anglais, ils s'accordent avec la personne qui possède, et non avec l'objet possédé.</p><div class='definition'><b>Adjectifs possessifs :</b><br>my (mon, ma, mes) · your (ton, ta, tes / votre) · his (son, sa, ses — pour un homme) · her (son, sa, ses — pour une femme) · its (son, sa, ses — pour un animal ou une chose) · our (notre, nos) · their (leur, leurs).</div><div class='exemple'><b>Exemple :</b> <i>This is my father. His name is Jean. Her name is Marie, she is my mother.</i> (C'est mon père. Son nom est Jean. Son nom est Marie, c'est ma mère.)</div><p><b>Vocabulaire de la famille :</b> father (père), mother (mère), brother (frère), sister (sœur), grandfather (grand-père), grandmother (grand-mère), cousin (cousin/cousine), uncle (oncle), aunt (tante).</p><div class='astuce'><b>Astuce :</b> en anglais, on ne dit pas « son » ou « sa » selon l'objet. On dit <i>his</i> ou <i>her</i> selon le sexe de la personne qui possède. Ex. : <i>his book</i> (son livre à lui), <i>her book</i> (son livre à elle).</div>",
+    "exercices": [
+      { "q": "Complète avec le bon adjectif possessif : ... name is Paul. (I) ... sister is ten. (she) ... house is big. (we)", "r": "My name is Paul. Her sister is ten. Our house is big.", "indice": "Choisis le possessif selon la personne qui possède." },
+      { "q": "Traduis : « Son père est grand » (pour un homme) et « Sa mère est gentille » (pour une femme).", "r": "His father is tall. Her mother is kind.", "indice": "his pour un homme, her pour une femme." },
+      { "q": "Traduis : « Leur école est loin. »", "r": "Their school is far.", "indice": "Pour plusieurs personnes, utilise their." },
+      { "q": "Traduis en anglais : mon frère, ma sœur, mes cousins.", "r": "my brother, my sister, my cousins.", "indice": "my ne change pas, même au pluriel." },
+      { "q": "Présente ta famille avec 4 phrases utilisant les mots father, mother, brother et sister.", "r": "Exemple : This is my father. This is my mother. This is my brother. This is my sister.", "indice": "Utilise This is my... pour présenter une personne." }
+    ],
+    "qcm": [
+      { "q": "Comment dit-on « ma famille » ?", "options": ["your family", "my family", "his family", "their family"], "correct": 1, "exp": "my signifie mon, ma, mes : my family." },
+      { "q": "« Son chien » (pour un homme) se traduit par :", "options": ["her dog", "its dog", "his dog", "our dog"], "correct": 2, "exp": "his correspond à son, sa, ses pour un homme." },
+      { "q": "« Sa sœur » (pour une femme) se traduit par :", "options": ["his sister", "her sister", "their sister", "my sister"], "correct": 1, "exp": "her correspond à son, sa, ses pour une femme." },
+      { "q": "Comment dit-on « notre maison » ?", "options": ["your house", "our house", "their house", "its house"], "correct": 1, "exp": "our signifie notre, nos." },
+      { "q": "« Grand-mère » se dit :", "options": ["grandfather", "grandmother", "grandchild", "grandson"], "correct": 1, "exp": "grandmother signifie grand-mère." },
+      { "q": "Comment dit-on « leurs parents » ?", "options": ["their parents", "his parents", "your parents", "its parents"], "correct": 0, "exp": "their signifie leur, leurs." },
+      { "q": "« Oncle » se traduit par :", "options": ["aunt", "uncle", "cousin", "brother"], "correct": 1, "exp": "uncle désigne l'oncle." },
+      { "q": "« Votre école » (à plusieurs personnes) :", "options": ["my school", "your school", "our school", "his school"], "correct": 1, "exp": "your signifie votre ou ton, ta, tes." },
+      { "q": "Quel adjectif possessif utiliser pour « son chat » quand on parle d'une chatte ?", "options": ["his", "her", "its", "our"], "correct": 1, "exp": "Le possessif dépend du sexe de la personne ou de l'animal qui possède, ici une femelle : her." },
+      { "q": "« Mes cousins » :", "options": ["my cousins", "his cousins", "your cousins", "their cousins"], "correct": 0, "exp": "my ne change pas au pluriel : my cousins." }
+    ]
+  },
+  {
+    "classe": "6eme",
+    "matiere": "Anglais",
+    "id": "a6-present-simple",
+    "titre": "The present simple : habits and routines",
+    "duree": "40 min",
+    "contenu": "<p>Le <b>present simple</b> sert à parler des habitudes, des routines et des faits qui sont toujours vrais.</p><div class='definition'><b>Affirmative :</b> sujet + verbe. Ex. : I play football. We go to school.<br><b>Avec he, she, it :</b> on ajoute <b>-s</b>. Ex. : he plays, she goes.<br><b>Négative :</b> sujet + <b>do not</b> (don't) ou <b>does not</b> (doesn't) + verbe sans -s. Ex. : I don't play. He doesn't play.<br><b>Question :</b> <b>Do</b> ou <b>Does</b> + sujet + verbe. Ex. : Do you play? Does she play?</div><div class='exemple'><b>Exemple :</b> <i>I get up at six. I go to school by bus. Does she live in Bamenda?</i> (Je me lève à six heures. Je vais à l'école en bus. Est-ce qu'elle habite à Bamenda ?)</div><div class='astuce'><b>Astuce :</b> avec he, she, it, le verbe prend -s. Mais avec <i>do</i> et <i>does</i>, le verbe reste à la forme simple : <i>Does she goes?</i> est faux, il faut <i>Does she go?</i></div><p>Les expressions de temps utiles : <i>every day</i> (chaque jour), <i>always</i> (toujours), <i>usually</i> (habituellement), <i>sometimes</i> (parfois), <i>never</i> (jamais).</p>",
+    "exercices": [
+      { "q": "Conjugue au present simple : I (play), he (play), we (go), she (go).", "r": "I play, he plays, we go, she goes.", "indice": "Ajoute -s à la 3e personne du singulier." },
+      { "q": "Mets à la forme négative : She likes rice. / They walk to school.", "r": "She doesn't like rice. They don't walk to school.", "indice": "doesn't avec she ; don't avec they." },
+      { "q": "Pose la question : You play basketball. / He lives in Ebolowa.", "r": "Do you play basketball? Does he live in Ebolowa?", "indice": "Do avec you ; Does avec he." },
+      { "q": "Complète avec le present simple : My father ... (work) in an office. Our school ... (start) at 7 a.m.", "r": "My father works in an office. Our school starts at 7 a.m.", "indice": "La 3e personne du singulier prend -s." },
+      { "q": "Décris ta routine du matin en 4 phrases avec every day ou usually.", "r": "Exemple : I usually wake up at six. I wash my face. I eat breakfast. I go to school every day.", "indice": "Utilise l'affirmative avec les verbes de ta routine." }
+    ],
+    "qcm": [
+      { "q": "Quelle est la forme correcte avec « he » ?", "options": ["he play", "he plays", "he playing", "he do play"], "correct": 1, "exp": "Avec he, le verbe prend -s : he plays." },
+      { "q": "Quelle forme est négative ?", "options": ["She doesn't play.", "She plays not.", "She not plays.", "She don't plays."], "correct": 0, "exp": "On dit doesn't avec she, suivi du verbe simple." },
+      { "q": "Quelle question est correcte ?", "options": ["Do she likes music?", "Does she like music?", "Does she likes music?", "She does like music?"], "correct": 1, "exp": "Avec does, le verbe reste à la forme simple : like." },
+      { "q": "Comment dit-on « Nous jouons au foot chaque jour » ?", "options": ["We play football every day.", "We plays football every day.", "We playing football every day.", "We play football every days."], "correct": 0, "exp": "Avec we, le verbe reste simple : play ; every day est correct." },
+      { "q": "« Ils ne vont pas à l'école le dimanche » :", "options": ["They don't go to school on Sunday.", "They doesn't go to school on Sunday.", "They not go to school on Sunday.", "They goes not to school on Sunday."], "correct": 0, "exp": "Avec they, on utilise don't." },
+      { "q": "La 3e personne du singulier du verbe « watch » est :", "options": ["watch", "watchs", "watches", "watching"], "correct": 2, "exp": "Les verbes terminés par -ch prennent -es : he watches." },
+      { "q": "Quelle expression signifie « parfois » ?", "options": ["always", "never", "sometimes", "every day"], "correct": 2, "exp": "sometimes signifie parfois." },
+      { "q": "Quelle phrase est correcte ?", "options": ["I go to school by bus.", "I goes to school by bus.", "I going to school by bus.", "I go to school by bus?"], "correct": 0, "exp": "Avec I, le verbe reste simple : go." },
+      { "q": "« Est-ce qu'elle habite à Bafoussam ? » :", "options": ["Does she live in Bafoussam?", "Do she live in Bafoussam?", "Does she lives in Bafoussam?", "Is she live in Bafoussam?"], "correct": 0, "exp": "Question au present simple avec does et le verbe simple." },
+      { "q": "Quelle phrase utilise « never » correctement ?", "options": ["I never am late.", "I am never late.", "I late never.", "Never I am late."], "correct": 1, "exp": "never se place après le verbe to be, et avant les autres verbes." }
+    ]
+  },
+  {
+    "classe": "6eme",
+    "matiere": "Anglais",
+    "id": "a6-numbers-days-months",
+    "titre": "Numbers, days, months and colours",
+    "duree": "40 min",
+    "contenu": "<p>Pour donner l'heure, un âge, une date ou décrire un objet, il faut connaître les <b>nombres</b>, les <b>jours</b>, les <b>mois</b> et les <b>couleurs</b>.</p><div class='definition'><b>Les nombres de 1 à 10 :</b> one, two, three, four, five, six, seven, eight, nine, ten.<br><b>De 11 à 20 :</b> eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty.<br><b>Les dizaines :</b> twenty, thirty, forty, fifty, sixty, seventy, eighty, ninety, one hundred.</div><p><b>Les jours :</b> Monday (lundi), Tuesday (mardi), Wednesday (mercredi), Thursday (jeudi), Friday (vendredi), Saturday (samedi), Sunday (dimanche).</p><p><b>Les mois :</b> January (janvier), February (février), March (mars), April (avril), May (mai), June (juin), July (juillet), August (août), September (septembre), October (octobre), November (novembre), December (décembre).</p><p><b>Les couleurs :</b> red (rouge), blue (bleu), green (vert), yellow (jaune), white (blanc), black (noir), orange, brown (marron).</p><div class='exemple'><b>Exemple :</b> <i>I am twelve years old. The school starts on Monday, in September. My bag is blue.</i> (J'ai douze ans. L'école commence le lundi, en septembre. Mon sac est bleu.)</div><div class='astuce'><b>Astuce :</b> en anglais, les jours et les mois prennent une majuscule. On écrit <i>Monday</i> et non <i>monday</i>, <i>January</i> et non <i>january</i>.</div>",
+    "exercices": [
+      { "q": "Écris en lettres : 14, 37, 90.", "r": "fourteen, thirty-seven, ninety.", "indice": "Pour les dizaines et les unités, on met un tiret : thirty-seven." },
+      { "q": "Traduis : lundi, mercredi, samedi.", "r": "Monday, Wednesday, Saturday.", "indice": "Les jours prennent une majuscule." },
+      { "q": "Traduis : janvier, juillet, décembre.", "r": "January, July, December.", "indice": "Les mois prennent une majuscule en anglais." },
+      { "q": "Traduis : « Mon cahier est vert et ma trousse est rouge. »", "r": "My notebook is green and my pencil case is red.", "indice": "Utilise is pour un objet unique." },
+      { "q": "Écris une phrase qui donne ton âge et ta date de naissance (mois).", "r": "Exemple : I am eleven years old. I was born in March.", "indice": "Utilise I am... years old et I was born in..." }
+    ],
+    "qcm": [
+      { "q": "Comment s'écrit le nombre 13 en anglais ?", "options": ["thirteen", "thirty", "three", "fourteen"], "correct": 0, "exp": "13 se dit thirteen." },
+      { "q": "Comment dit-on « quarante » ?", "options": ["fourteen", "forty", "fourty", "four"], "correct": 1, "exp": "40 se dit forty (attention à l'orthographe)." },
+      { "q": "Quel jour signifie « mardi » ?", "options": ["Monday", "Tuesday", "Wednesday", "Friday"], "correct": 1, "exp": "Tuesday signifie mardi." },
+      { "q": "Quel mois signifie « août » ?", "options": ["April", "August", "October", "June"], "correct": 1, "exp": "August signifie août." },
+      { "q": "Quelle couleur est « marron » ?", "options": ["brown", "green", "black", "blue"], "correct": 0, "exp": "brown signifie marron." },
+      { "q": "Quelle est la bonne écriture ?", "options": ["monday", "Monday", "MONDAY mo", "mon day"], "correct": 1, "exp": "Les jours s'écrivent avec une majuscule : Monday." },
+      { "q": "Comment dit-on « douze » ?", "options": ["twelve", "twenty", "two", "twelf"], "correct": 0, "exp": "12 se dit twelve." },
+      { "q": "Quelle est la traduction de « blanc » ?", "options": ["black", "white", "yellow", "red"], "correct": 1, "exp": "white signifie blanc." },
+      { "q": "Quel nombre est « ninety » ?", "options": ["19", "90", "9", "99"], "correct": 1, "exp": "ninety signifie quatre-vingt-dix : 90." },
+      { "q": "Quel mois vient après « June » ?", "options": ["May", "July", "August", "March"], "correct": 1, "exp": "L'ordre est June, July : juillet suit juin." }
+    ]
+  }
+]

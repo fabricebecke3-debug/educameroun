@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#006A4E" />
+  <title>ÉduCameroun — Apprendre le secondaire</title>
+  <link rel="manifest" href="manifest.json" />
+  <link rel="icon" href="icon-192.png" />
+  <link rel="apple-touch-icon" href="icon.png" />
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Segoe UI', Arial, sans-serif; }
+    body { background: linear-gradient(180deg,#eef7f3,#f7f9f8 40%); color: #1f2d2a; padding-bottom: 60px; min-height: 100vh; }
+    header { background: linear-gradient(135deg,#006A4E,#00543d 60%,#CE1126); color: white; padding: 0.9rem 1rem; display: flex; align-items: center; gap: 0.8rem; box-shadow: 0 3px 10px rgba(0,0,0,.25); }
+    header .logo { flex: 0 0 auto; }
+    header h1 { font-size: 1.35rem; letter-spacing: .5px; }
+    header p { font-size: .8rem; opacity: .95; }
+    .search-bar { padding: .7rem; background: white; position: sticky; top: 0; z-index: 99; box-shadow: 0 2px 6px rgba(0,0,0,.08); }
+    .search-bar input { width: 100%; padding: .7rem 1rem; border: 2px solid #006A4E; border-radius: 22px; font-size: 1rem; outline: none; }
+    .search-bar input:focus { box-shadow: 0 0 0 3px #FFD10066; }
+    nav { display: flex; flex-wrap: wrap; gap: .5rem; padding: .8rem 1rem 0; justify-content: center; max-width: 900px; margin: auto; }
+    .nav-title { font-weight: bold; color: #006A4E; font-size: 1rem; }
+    main { padding: 1rem; max-width: 900px; margin: auto; }
+    .btn { background: #CE1126; color: white; padding: .65rem 1.1rem; border-radius: 10px; text-decoration: none; font-weight: bold; border: none; cursor: pointer; font-size: .9rem; transition: transform .15s, box-shadow .15s; }
+    .btn:hover { transform: translateY(-2px); box-shadow: 0 4px 10px rgba(0,0,0,.2); }
+    .btn.secondary { background: #006A4E; }
+    .btn.gold { background: #FFD100; color: #222; }
+    .btn.big { font-size: 1.1rem; padding: .85rem 1.8rem; border-radius: 26px; margin-top: .8rem; }
+    .hero { background: linear-gradient(135deg,#006A4E,#0a8a66); color: white; border-radius: 16px; padding: 1.4rem 1.2rem; text-align: center; box-shadow: 0 6px 18px rgba(0,106,78,.3); margin-bottom: 1rem; position: relative; overflow: hidden; }
+    .hero::after { content: '🎓'; position: absolute; right: -10px; bottom: -18px; font-size: 6rem; opacity: .15; }
+    .hero h2 { font-size: 1.4rem; }
+    .hero p { margin-top: .4rem; line-height: 1.5; }
+    .card { background: white; padding: 1.1rem; border-radius: 14px; box-shadow: 0 2px 10px rgba(0,0,0,.07); margin-bottom: 1rem; }
+    .card h2 { color: #006A4E; margin-bottom: .6rem; font-size: 1.15rem; }
+    .card h3 { color: #CE1126; margin: 1rem 0 .5rem; font-size: 1.05rem; }
+    .card.head { color: white; border-radius: 14px; }
+    .card.head h2, .card.head p { color: white; }
+    .stats { display: grid; grid-template-columns: repeat(3,1fr); gap: .6rem; margin-bottom: 1rem; }
+    .stat { background: white; padding: .8rem; border-radius: 12px; text-align: center; box-shadow: 0 2px 8px rgba(0,0,0,.07); border-top: 4px solid #FFD100; }
+    .stat .num { font-size: 1.2rem; font-weight: bold; color: #006A4E; }
+    .stat .label { font-size: .75rem; color: #666; }
+    .progress-bar { height: 12px; background: #e6ece9; border-radius: 6px; overflow: hidden; margin: .4rem 0; }
+    .progress-fill { height: 100%; background: linear-gradient(90deg,#006A4E,#FFD100); transition: width .6s; }
+    .classes { display: grid; grid-template-columns: repeat(auto-fit,minmax(120px,1fr)); gap: .6rem; }
+    .classe-tile { color: white; border: none; border-radius: 12px; padding: .9rem .5rem; cursor: pointer; display: flex; flex-direction: column; gap: .2rem; align-items: center; box-shadow: 0 3px 8px rgba(0,0,0,.18); transition: transform .15s; }
+    .classe-tile:hover { transform: translateY(-3px) scale(1.02); }
+    .ct-name { font-weight: bold; font-size: 1.05rem; }
+    .ct-n { font-size: .75rem; opacity: .92; }
+    .subjects { display: grid; grid-template-columns: repeat(auto-fit,minmax(150px,1fr)); gap: .6rem; margin-top: .6rem; }
+    .subject-tile { background: white; border: 2px solid #e1ebe6; border-radius: 14px; padding: .9rem .5rem; cursor: pointer; display: flex; flex-direction: column; align-items: center; gap: .3rem; box-shadow: 0 2px 6px rgba(0,0,0,.06); transition: transform .15s, border-color .15s; }
+    .subject-tile:hover { transform: translateY(-3px); border-color: #FFD100; }
+    .subject-tile.soon { opacity: .6; }
+    .sj-ico { font-size: 2rem; }
+    .sj-name { font-weight: bold; color: #1f2d2a; text-align: center; }
+    .sj-n { font-size: .75rem; color: #666; }
+    .steps { display: grid; grid-template-columns: repeat(auto-fit,minmax(170px,1fr)); gap: .6rem; }
+    .step { background: #f3faf7; border-radius: 12px; padding: .8rem; text-align: center; }
+    .step span { font-size: 1.6rem; }
+    .step b { display: block; color: #006A4E; margin: .3rem 0 .2rem; }
+    .step p { font-size: .85rem; color: #555; }
+    .quick { display: flex; gap: .6rem; flex-wrap: wrap; justify-content: center; }
+    .footer { text-align: center; color: #666; font-size: .85rem; margin: 1rem 0; }
+    .qcm button { display: block; width: 100%; text-align: left; margin: .4rem 0; padding: .75rem; background: #eef; border: 2px solid transparent; border-radius: 10px; cursor: pointer; transition: all .2s; }
+    .qcm button:hover { background: #dde; }
+    .qcm button.correct { background: #c8f7c5; border-color: #2e7d32; }
+    .qcm button.wrong { background: #f7c5c5; border-color: #c62828; }
+    #chat { border: 1px solid #ddd; border-radius: 10px; padding: 1rem; height: 350px; overflow-y: auto; background: #fafafa; display: flex; flex-direction: column; gap: .5rem; }
+    .msg-user { background: #CE1126; color: white; padding: .6rem .9rem; border-radius: 12px 12px 0 12px; max-width: 80%; align-self: flex-end; }
+    .msg-ai { background: white; padding: .6rem .9rem; border-radius: 12px 12px 12px 0; max-width: 80%; border: 1px solid #ddd; line-height: 1.5; }
+    input, textarea { width: 100%; padding: .7rem; border: 1px solid #ccc; border-radius: 10px; margin-top: .5rem; font-size: 1rem; }
+    .lesson-content { line-height: 1.75; }
+    .definition { background: #fff8dc; padding: .8rem; border-left: 4px solid #FFD100; margin: .8rem 0; border-radius: 6px; }
+    .exemple { background: #e8f5e9; padding: .8rem; border-left: 4px solid #006A4E; margin: .8rem 0; border-radius: 6px; }
+    .astuce { background: #fff3e0; padding: .8rem; border-left: 4px solid #FF9800; margin: .8rem 0; border-radius: 6px; }
+    .audio-btn { background: #006A4E; color: white; padding: .5rem 1rem; border: none; border-radius: 20px; cursor: pointer; margin: .5rem .3rem .5rem 0; font-size: .85rem; }
+    .fav-btn { background: #FFD100; color: #222; padding: .5rem 1rem; border: none; border-radius: 20px; cursor: pointer; margin: .5rem .3rem .5rem 0; font-size: .85rem; }
+    .badge { display: inline-block; background: #CE1126; color: white; padding: .2rem .6rem; border-radius: 12px; font-size: .75rem; margin-left: .5rem; }
+    .stepper { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: .4rem; margin: .2rem 0 .8rem; }
+    .st { background: #e6ece9; color: #666; padding: .35rem .8rem; border-radius: 20px; font-size: .85rem; font-weight: bold; }
+    .st.on { background: #006A4E; color: white; }
+    .sarrow { color: #999; font-weight: bold; }
+    .trail { text-align: center; color: #555; font-size: .9rem; margin-bottom: .8rem; }
+    .lesson-card { background: white; border-radius: 14px; padding: .9rem; margin-bottom: .6rem; display: flex; align-items: center; gap: .8rem; cursor: pointer; box-shadow: 0 2px 8px rgba(0,0,0,.07); border-left: 5px solid #FFD100; transition: transform .15s; }
+    .lesson-card:hover { transform: translateX(4px); }
+    .lesson-card .num { background: #006A4E; color: white; width: 38px; height: 38px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; flex: 0 0 auto; }
+    .lc-body { flex: 1; }
+    .lc-body h3 { color: #1f2d2a; font-size: 1rem; margin-bottom: .2rem; }
+    .lc-meta { font-size: .8rem; color: #666; }
+    .chips { display: flex; flex-wrap: wrap; gap: .3rem; margin-top: .3rem; }
+    .chips span { background: #f1f6f4; color: #006A4E; font-size: .72rem; padding: .2rem .5rem; border-radius: 10px; }
+    .go { color: #006A4E; font-size: 1.3rem; font-weight: bold; }
+    .badge.ok { background: #2e7d32; }
+    .tabs { display: flex; gap: .4rem; margin: .6rem 0 1rem; flex-wrap: wrap; }
+    .tab { flex: 1; min-width: 110px; padding: .6rem; background: #eef3f1; border: 2px solid transparent; border-radius: 10px; cursor: pointer; font-weight: bold; color: #1f2d2a; }
+    .tab.active { background: #006A4E; color: white; }
+    .tools { display: flex; flex-wrap: wrap; gap: .4rem; align-items: center; }
+    .next { text-align: right; margin-top: 1rem; }
+    .ex { border-bottom: 1px dashed #ddd; padding: .6rem 0; }
+    .ex summary { color: #006A4E; cursor: pointer; font-weight: bold; margin-top: .3rem; }
+    .soon-box { border-left: 5px solid #FF9800; background: #fff8ec; }
+    .soon-box p { margin-top: .3rem; color: #555; font-size: .9rem; }
+    .rubriques { display: grid; grid-template-columns: repeat(auto-fit,minmax(130px,1fr)); gap: .6rem; }
+    .rub { color: white; border: none; border-radius: 14px; padding: .9rem .6rem; cursor: pointer; display: flex; flex-direction: column; align-items: center; gap: .25rem; box-shadow: 0 3px 8px rgba(0,0,0,.18); transition: transform .15s; text-align: center; }
+    .rub:hover { transform: translateY(-3px); }
+    .rub-ico { font-size: 1.8rem; }
+    .rub b { font-size: .95rem; }
+    .rub small { font-size: .72rem; opacity: .92; line-height: 1.3; }
+    .grp { color: #006A4E; margin: 1rem 0 .4rem; }
+    .qhead { font-weight: bold; color: #006A4E; margin-bottom: .4rem; }
+    .qtitle { color: #1f2d2a; margin: .4rem 0 .8rem; font-size: 1.05rem; }
+    .qopts { display: grid; gap: .5rem; }
+    .qopt { text-align: left; padding: .75rem; background: #eef3f1; border: 2px solid transparent; border-radius: 10px; cursor: pointer; font-size: .95rem; }
+    .qopt:hover { background: #dde9e4; }
+    .qopt.correct { background: #c8f7c5; border-color: #2e7d32; }
+    .qopt.wrong { background: #f7c5c5; border-color: #c62828; }
+    .exam-grid { display: grid; grid-template-columns: repeat(auto-fit,minmax(200px,1fr)); gap: .8rem; margin-bottom: 1rem; }
+    .exam h3 { color: #6a1b9a; font-size: 1.2rem; }
+    .chip-link { display: inline-block; background: #fff3e0; color: #8a4b00; padding: .4rem .7rem; border-radius: 10px; text-decoration: none; font-size: .85rem; margin: .2rem; }
+    .card.hero { background: linear-gradient(135deg,#006A4E,#0a8a66); color: white; text-align: center; }
+    .card.hero h2 { color: white; }
+    .timer { color: #CE1126; font-weight: bold; margin-left: .6rem; }
+    .resume { border-left: 5px solid #FFD100; }
+    .resume p { margin: .2rem 0 .6rem; font-weight: bold; color: #1f2d2a; }
+    @media (max-width: 600px) {
+      header h1 { font-size: 1.1rem; }
+      .hero h2 { font-size: 1.2rem; }
+      .stat .num { font-size: 1rem; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="logo">
+      <svg width="50" height="50" viewBox="0 0 64 64" aria-hidden="true">
+        <rect width="64" height="64" rx="14" fill="#ffffff"/>
+        <path d="M8 22 Q20 16 32 22 Q44 16 56 22 V48 Q44 42 32 48 Q20 42 8 48 Z" fill="#006A4E"/>
+        <path d="M32 22 V48" stroke="#FFD100" stroke-width="3"/>
+        <path d="M8 52 Q32 60 56 52" stroke="#CE1126" stroke-width="4" fill="none" stroke-linecap="round"/>
+        <polygon points="32,2 35,10 44,10 37,15 40,24 32,19 24,24 27,15 20,10 29,10" fill="#FFD100"/>
+      </svg>
+    </div>
+    <div>
+      <h1>ÉduCameroun</h1>
+      <p>De la 6ème à la Terminale · Apprends seul, réussis tes examens</p>
+    </div>
+  </header>
+  <div class="search-bar">
+    <input type="text" id="search" placeholder="🔍 Rechercher un cours, une notion (ex : fraction, COD, Ahidjo)..." oninput="search(this.value)" />
+  </div>
+  <nav id="nav"></nav>
+  <main id="app"></main>
+
+  <script src="data.js"></script>
+  <script src="data-import.js"></script>
+  <script src="app.js"></script>
+  <script>
+    // Diagnostic : si les fichiers JavaScript ne sont pas chargés (ex. zip ouvert directement dans Windows), on l'affiche clairement.
+    window.addEventListener('load', () => {
+      if (typeof showMenu !== 'function' || typeof COURS === 'undefined') {
+        document.getElementById('app').innerHTML = `
+          <div class="card" style="border-left:5px solid #CE1126">
+            <h2>⚠️ Les fichiers de l'application ne sont pas chargés</h2>
+            <p>Tu ouvres la page depuis l'aperçu du fichier zip. Il faut d'abord <b>extraire tout le zip</b> :</p>
+            <p>1. Clic droit sur <b>educameroun-v7.zip</b> → <b>Extraire tout…</b><br>
+            2. Ouvre le dossier extrait et double-clique sur <b>index.html</b>.<br>
+            3. Ou mets le dossier en ligne (app.netlify.com/drop) pour l'installer sur ton téléphone.</p>
+          </div>`;
+      }
+    });
+  </script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('sw.js');
+    }
+  </script>
+</body>
+</html>

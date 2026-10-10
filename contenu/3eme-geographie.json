@@ -1,0 +1,110 @@
+[
+  {
+    "classe": "3eme",
+    "matiere": "Géographie",
+    "id": "g3-mondialisation",
+    "titre": "La mondialisation : échanges, firmes et inégalités",
+    "duree": "40 min",
+    "contenu": "<p>La <b>mondialisation</b> est le processus d'intensification des échanges de biens, de services, de capitaux, d'informations et de personnes à l'échelle du monde. Elle rend les économies et les sociétés de plus en plus interdépendantes.</p><div class='definition'><b>Une firme multinationale</b> est une entreprise qui produit ou vend dans plusieurs pays.<br><b>La délocalisation</b> consiste à transférer une activité de production vers un pays où la main-d'œuvre coûte moins cher.<br><b>Les flux</b> désignent les échanges de marchandises, de capitaux, d'informations et de personnes entre les territoires.<br><b>L'interdépendance</b> est le fait que les pays dépendent les uns des autres pour leur économie.</div><p>La mondialisation profite surtout aux pays et aux régions bien connectés aux réseaux de transport et de communication. Elle accentue aussi des inégalités entre régions et entre groupes sociaux.</p><div class='exemple'><b>Exemple :</b> un téléphone conçu aux États-Unis peut être assemblé en Asie avec des composants venus de plusieurs pays, puis vendu en Afrique. Ce produit illustre l'interdépendance mondiale.</div><div class='astuce'><b>Astuce :</b> pour expliquer la mondialisation, utilise trois idées : les flux (ce qui circule), les acteurs (firmes, États, individus) et les inégalités (qui en profite, qui en souffre).</div>",
+    "exercices": [
+      { "q": "Qu'est-ce que la mondialisation ?", "r": "L'intensification des échanges de biens, de services, de capitaux, d'informations et de personnes à l'échelle du monde.", "indice": "Pense à ce qui circule entre les pays." },
+      { "q": "Qu'est-ce qu'une firme multinationale ?", "r": "Une entreprise qui produit ou vend dans plusieurs pays.", "indice": "Multi = plusieurs." },
+      { "q": "Qu'est-ce que la délocalisation ?", "r": "Le transfert d'une activité de production vers un pays où la main-d'œuvre coûte moins cher.", "indice": "Pense au déplacement d'une usine." },
+      { "q": "Donne un exemple d'interdépendance économique.", "r": "Un produit conçu dans un pays, assemblé dans un autre et vendu dans un troisième.", "indice": "Pense à un produit de consommation courante." },
+      { "q": "Pourquoi la mondialisation accentue-t-elle les inégalités ?", "r": "Elle profite surtout aux régions bien connectées aux réseaux, et laisse de côté les régions isolées.", "indice": "Pense aux réseaux de transport et de communication." }
+    ],
+    "qcm": [
+      { "q": "La mondialisation désigne :", "options": ["la fermeture des frontières", "l'intensification des échanges à l'échelle du monde", "la fin du commerce", "une guerre mondiale"], "correct": 1, "exp": "C'est l'intensification des échanges mondiaux." },
+      { "q": "Une firme multinationale :", "options": ["vend dans un seul village", "produit ou vend dans plusieurs pays", "n'a pas de clients", "est un organisme public uniquement"], "correct": 1, "exp": "Elle est présente dans plusieurs pays." },
+      { "q": "La délocalisation consiste à :", "options": ["transférer une production vers un pays à main-d'œuvre moins chère", "fermer toutes les usines", "construire des routes", "augmenter les salaires"], "correct": 0, "exp": "Elle déplace la production." },
+      { "q": "Les flux désignent :", "options": ["les échanges entre territoires", "les fleuves uniquement", "les montagnes", "les monnaies anciennes"], "correct": 0, "exp": "Ce sont les circulations entre territoires." },
+      { "q": "L'interdépendance signifie que :", "options": ["les pays dépendent les uns des autres", "chaque pays vit seul", "il n'y a pas de commerce", "les frontières n'existent plus"], "correct": 0, "exp": "Les économies sont liées." },
+      { "q": "La mondialisation profite surtout :", "options": ["aux régions bien connectées aux réseaux", "aux régions isolées", "aux déserts", "aux pays sans commerce"], "correct": 0, "exp": "Les régions connectées en tirent avantage." },
+      { "q": "Un produit conçu dans un pays, assemblé dans un autre, illustre :", "options": ["l'interdépendance mondiale", "l'autarcie", "la fermeture", "l'isolement"], "correct": 0, "exp": "Plusieurs pays participent à sa fabrication." },
+      { "q": "Les acteurs de la mondialisation comprennent :", "options": ["les firmes, les États et les individus", "seulement les animaux", "seulement les volcans", "seulement les routes"], "correct": 0, "exp": "Plusieurs acteurs interagissent." },
+      { "q": "La mondialisation accentue :", "options": ["des inégalités entre régions", "l'égalité parfaite", "la fin des échanges", "la disparition des villes"], "correct": 0, "exp": "Les écarts se creusent parfois." },
+      { "q": "Les échanges de capitaux font partie :", "options": ["de la mondialisation", "de la géologie", "de la biologie", "de l'histoire ancienne uniquement"], "correct": 0, "exp": "Les capitaux circulent entre pays." }
+    ]
+  },
+  {
+    "classe": "3eme",
+    "matiere": "Géographie",
+    "id": "g3-afrique-developpement",
+    "titre": "L'Afrique : développement, défis et intégration régionale",
+    "duree": "40 min",
+    "contenu": "<p>L'Afrique regroupe plus de cinquante États et une population jeune et en forte croissance. Elle connaît des progrès importants, mais elle fait face à de nombreux défis de développement.</p><div class='definition'><b>Les défis</b> regroupent la pauvreté, l'accès à l'éducation et à la santé, les infrastructures insuffisantes et la dépendance aux matières premières.<br><b>L'intégration régionale</b> désigne la coopération économique et politique entre pays voisins, par exemple dans la CEMAC (Afrique centrale), dont fait partie le Cameroun.<br><b>Les ressources</b> de l'Afrique sont nombreuses : pétrole, gaz, minerais, forêts, terres agricoles.<br><b>L'urbanisation</b> rapide accentue les besoins en logements, eau et transports.</div><p>Pour réduire les inégalités, les pays africains cherchent à diversifier leur économie, à transformer sur place leurs matières premières et à développer les infrastructures.</p><div class='exemple'><b>Exemple :</b> la CEMAC réunit six pays d'Afrique centrale, dont le Cameroun, pour coordonner la monnaie commune (le franc CFA) et favoriser les échanges.</div><div class='astuce'><b>Astuce :</b> pour parler du développement de l'Afrique, pense à trois niveaux : les atouts (ressources, jeunesse), les défis (pauvreté, infrastructures) et les stratégies (intégration, diversification).</div>",
+    "exercices": [
+      { "q": "Cite deux atouts de l'Afrique pour son développement.", "r": "Ses ressources naturelles et sa population jeune.", "indice": "Pense à ce que le continent possède." },
+      { "q": "Cite deux défis de développement de l'Afrique.", "r": "La pauvreté, les infrastructures insuffisantes, l'accès à l'éducation ou à la santé.", "indice": "Relis la définition des défis." },
+      { "q": "Qu'est-ce que l'intégration régionale ?", "r": "La coopération économique et politique entre pays voisins.", "indice": "Pense aux pays qui se regroupent." },
+      { "q": "Qu'est-ce que la CEMAC ?", "r": "La Communauté économique et monétaire de l'Afrique centrale, qui regroupe six pays dont le Cameroun.", "indice": "Pense à l'Afrique centrale et à la monnaie commune." },
+      { "q": "Pourquoi les pays africains cherchent-ils à transformer leurs matières premières sur place ?", "r": "Pour créer de la valeur ajoutée, des emplois et réduire la dépendance aux exportations brutes.", "indice": "Pense à la valeur ajoutée." }
+    ],
+    "qcm": [
+      { "q": "L'Afrique regroupe environ :", "options": ["plus de cinquante États", "dix États", "deux États", "cent États"], "correct": 0, "exp": "Plus de cinquante pays." },
+      { "q": "Un atout de l'Afrique est :", "options": ["sa jeunesse", "son absence de ressources", "son isolement", "son climat uniquement froid"], "correct": 0, "exp": "La population jeune est un atout." },
+      { "q": "L'intégration régionale désigne :", "options": ["la coopération entre pays voisins", "la guerre entre voisins", "la fermeture des frontières", "la vente de terres"], "correct": 0, "exp": "C'est la coopération régionale." },
+      { "q": "La CEMAC regroupe des pays :", "options": ["d'Afrique centrale", "d'Europe", "d'Amérique", "d'Asie"], "correct": 0, "exp": "C'est une organisation d'Afrique centrale." },
+      { "q": "Le Cameroun fait partie de :", "options": ["la CEMAC", "l'Union européenne", "l'OTAN", "le Mercosur"], "correct": 0, "exp": "Il est membre de la CEMAC." },
+      { "q": "Un défi de développement est :", "options": ["les infrastructures insuffisantes", "la richesse en ressources", "la jeunesse", "la coopération"], "correct": 0, "exp": "Le manque d'infrastructures freine le développement." },
+      { "q": "La monnaie commune de la CEMAC s'appelle :", "options": ["le franc CFA", "le dollar", "l'euro", "la livre"], "correct": 0, "exp": "Le franc CFA de la zone CEMAC." },
+      { "q": "Les ressources de l'Afrique comprennent :", "options": ["pétrole, minerais, forêts", "uniquement l'eau de mer", "uniquement des glaces", "rien"], "correct": 0, "exp": "Le continent est riche en ressources variées." },
+      { "q": "Diversifier son économie signifie :", "options": ["ne pas dépendre d'un seul produit", "produire un seul bien", "fermer toutes les usines", "ne plus exporter"], "correct": 0, "exp": "C'est réduire la dépendance à une seule activité." },
+      { "q": "L'urbanisation rapide accentue les besoins en :", "options": ["logements, eau et transports", "volcans", "glaciers", "déserts"], "correct": 0, "exp": "Ces besoins croissent avec la population urbaine." }
+    ]
+  },
+  {
+    "classe": "3eme",
+    "matiere": "Géographie",
+    "id": "g3-environnement-changement-climatique",
+    "titre": "Environnement et changement climatique",
+    "duree": "40 min",
+    "contenu": "<p>Le <b>changement climatique</b> désigne l'évolution du climat à l'échelle de la planète, principalement due aux activités humaines. Il se manifeste par une hausse des températures moyennes et des modifications des précipitations.</p><div class='definition'><b>L'effet de serre</b> est un phénomène naturel : certains gaz (dioxyde de carbone, méthane) retiennent une partie de la chaleur du Soleil. Son renforcement par les activités humaines accentue le réchauffement.<br><b>Les gaz à effet de serre</b> sont émis notamment par la combustion d'énergies fossiles, la déforestation et l'élevage.<br><b>L'adaptation</b> consiste à s'ajuster aux conséquences du changement climatique. <b>L'atténuation</b> consiste à réduire les émissions de gaz à effet de serre.<br><b>La déforestation</b> réduit la capacité de la forêt à absorber le dioxyde de carbone.</div><p>Au Cameroun, les conséquences se font sentir sur l'agriculture, la ressource en eau et les zones côtières.</p><div class='exemple'><b>Exemple :</b> une saison des pluies plus irrégulière peut retarder les semis de maïs ou d'arachide. Les agriculteurs doivent alors adapter leurs calendriers et leurs variétés.</div><div class='astuce'><b>Astuce :</b> retiens la différence : l'adaptation subit le changement, l'atténuation le limite. Les deux sont nécessaires.</div>",
+    "exercices": [
+      { "q": "Qu'est-ce que le changement climatique ?", "r": "L'évolution du climat à l'échelle de la planète, principalement due aux activités humaines.", "indice": "Pense à la hausse des températures." },
+      { "q": "Qu'est-ce que l'effet de serre ?", "r": "Un phénomène naturel où certains gaz retiennent une partie de la chaleur du Soleil.", "indice": "Pense au rôle des gaz dans l'atmosphère." },
+      { "q": "Cite deux sources de gaz à effet de serre liées aux activités humaines.", "r": "La combustion d'énergies fossiles, la déforestation, l'élevage.", "indice": "Pense aux activités économiques." },
+      { "q": "Quelle est la différence entre adaptation et atténuation ?", "r": "L'adaptation consiste à s'ajuster aux conséquences ; l'atténuation consiste à réduire les émissions.", "indice": "Subir ou réduire ?" },
+      { "q": "Pourquoi la déforestation aggrave-t-elle le changement climatique ?", "r": "Elle réduit la capacité de la forêt à absorber le dioxyde de carbone et libère le carbone stocké.", "indice": "Pense au rôle des arbres." }
+    ],
+    "qcm": [
+      { "q": "Le changement climatique est principalement dû :", "options": ["aux activités humaines", "aux volcans uniquement", "aux marées", "aux saisons"], "correct": 0, "exp": "Les activités humaines en sont la cause principale." },
+      { "q": "L'effet de serre est :", "options": ["un phénomène naturel renforcé par les activités humaines", "un phénomène inventé", "une maladie", "une saison"], "correct": 0, "exp": "Il existe naturellement et il est accentué." },
+      { "q": "Le gaz le plus important de l'effet de serre est :", "options": ["le dioxyde de carbone", "l'azote pur", "l'hélium", "l'oxygène"], "correct": 0, "exp": "Le CO2 est un gaz à effet de serre majeur." },
+      { "q": "L'adaptation consiste à :", "options": ["réduire les émissions", "s'ajuster aux conséquences", "arrêter les pluies", "couper les arbres"], "correct": 1, "exp": "C'est s'ajuster aux effets." },
+      { "q": "L'atténuation consiste à :", "options": ["réduire les émissions de gaz à effet de serre", "ignorer le climat", "augmenter les émissions", "fermer les écoles"], "correct": 0, "exp": "Elle vise à limiter le problème à la source." },
+      { "q": "La déforestation :", "options": ["réduit la capacité d'absorption du CO2", "augmente la forêt", "n'a aucun effet", "supprime le climat"], "correct": 0, "exp": "Moins d'arbres, moins d'absorption." },
+      { "q": "Une activité qui émet des gaz à effet de serre est :", "options": ["la combustion d'énergies fossiles", "la plantation d'arbres", "le recyclage", "le compost"], "correct": 0, "exp": "Les énergies fossiles émettent du CO2." },
+      { "q": "Une conséquence du changement climatique au Cameroun est :", "options": ["une saison des pluies plus irrégulière", "la disparition du soleil", "la neige en permanence", "la fin de l'agriculture mondiale"], "correct": 0, "exp": "Les pluies deviennent plus irrégulières." },
+      { "q": "Le changement climatique se manifeste notamment par :", "options": ["une hausse des températures moyennes", "une baisse permanente des températures", "la disparition des nuages", "un climat identique partout"], "correct": 0, "exp": "La température moyenne augmente." },
+      { "q": "Les agriculteurs s'adaptent en :", "options": ["modifiant leurs calendriers et leurs variétés", "arrêtant toute culture", "ignorant les saisons", "important la neige"], "correct": 0, "exp": "Ils ajustent leurs pratiques." }
+    ]
+  },
+  {
+    "classe": "3eme",
+    "matiere": "Géographie",
+    "id": "g3-cameroun-economie",
+    "titre": "L'économie du Cameroun : secteurs, atouts et défis",
+    "duree": "40 min",
+    "contenu": "<p>L'économie camerounaise repose sur trois secteurs : le <b>secteur primaire</b> (agriculture, pêche, forêt, mines, pétrole), le <b>secteur secondaire</b> (industries, bâtiment, transformation) et le <b>secteur tertiaire</b> (commerce, transports, services, administration).</p><div class='definition'><b>Le secteur primaire</b> produit des ressources brutes : cacao, café, bois, pétrole.<br><b>Le secteur secondaire</b> transforme les matières premières : agroalimentaire, cimenterie, raffinage.<br><b>Le secteur tertiaire</b> fournit des services : commerce, banque, transports, éducation, santé.<br><b>Les exportations</b> sont les biens vendus à l'étranger. <b>Les importations</b> sont les biens achetés à l'étranger.</div><p>Le Cameroun dispose d'atouts importants : ressources variées, ports (Douala, Kribi), population nombreuse. Il doit toutefois faire face à la dépendance aux matières premières, aux infrastructures insuffisantes et au chômage des jeunes.</p><div class='exemple'><b>Exemple :</b> le cacao récolté dans le Sud est exporté brut, alors que sa transformation en chocolat sur place créerait plus de valeur et d'emplois. C'est un enjeu de développement industriel.</div><div class='astuce'><b>Astuce :</b> pour analyser une économie, classe les activités dans les trois secteurs, puis repère si le pays exporte surtout des produits bruts (primaire) ou des produits transformés (secondaire).</div>",
+    "exercices": [
+      { "q": "Quels sont les trois secteurs d'activité économique ?", "r": "Le primaire, le secondaire et le tertiaire.", "indice": "Pense à l'agriculture, à l'industrie et aux services." },
+      { "q": "Classe dans le bon secteur : cacao, cimenterie, banque, pétrole.", "r": "Primaire : cacao, pétrole. Secondaire : cimenterie. Tertiaire : banque.", "indice": "Matières brutes, transformation ou services." },
+      { "q": "Quelle est la différence entre exportations et importations ?", "r": "Les exportations sont les biens vendus à l'étranger ; les importations sont les biens achetés à l'étranger.", "indice": "Ex = vers l'extérieur, im = vers l'intérieur." },
+      { "q": "Cite deux atouts économiques du Cameroun.", "r": "Ses ressources variées, ses ports (Douala, Kribi), sa population nombreuse.", "indice": "Relis le cours." },
+      { "q": "Pourquoi la transformation du cacao sur place est-elle intéressante ?", "r": "Elle crée plus de valeur ajoutée, des emplois et réduit la dépendance aux produits bruts.", "indice": "Pense au secteur secondaire." }
+    ],
+    "qcm": [
+      { "q": "Le secteur primaire comprend :", "options": ["l'agriculture, la pêche, les mines", "les banques", "les usines de transformation", "les écoles"], "correct": 0, "exp": "Il produit les ressources brutes." },
+      { "q": "Le secteur secondaire :", "options": ["transforme les matières premières", "produit les ressources brutes", "fournit des services uniquement", "n'existe pas"], "correct": 0, "exp": "Il transforme les matières premières." },
+      { "q": "Le secteur tertiaire comprend :", "options": ["les services comme le commerce et la santé", "les champs de cacao", "les mines de fer", "les forêts"], "correct": 0, "exp": "Il regroupe les services." },
+      { "q": "Les exportations sont :", "options": ["les biens vendus à l'étranger", "les biens achetés à l'étranger", "les biens fabriqués dans le village", "les biens gratuits"], "correct": 0, "exp": "Ce sont les ventes vers l'étranger." },
+      { "q": "Le port de Kribi est un atout pour :", "options": ["les échanges maritimes", "la montagne", "le désert", "la pêche des fleuves uniquement"], "correct": 0, "exp": "Il favorise les exportations." },
+      { "q": "Le pétrole fait partie du :", "options": ["secteur primaire", "secteur secondaire", "secteur tertiaire", "aucun secteur"], "correct": 0, "exp": "C'est une ressource extraite." },
+      { "q": "Un défi de l'économie camerounaise est :", "options": ["la dépendance aux matières premières", "la richesse infinie", "l'absence de ports", "l'absence de population"], "correct": 0, "exp": "Le pays dépend beaucoup de quelques produits." },
+      { "q": "La cimenterie appartient au secteur :", "options": ["secondaire", "primaire", "tertiaire", "naturel"], "correct": 0, "exp": "Elle transforme des matières en produit fini." },
+      { "q": "Le cacao exporté brut est un produit :", "options": ["primaire", "tertiaire", "de service", "transformé"], "correct": 0, "exp": "Il n'a pas encore été transformé." },
+      { "q": "La transformation des matières premières crée :", "options": ["de la valeur ajoutée et des emplois", "uniquement des déchets", "rien", "la fin des exportations"], "correct": 0, "exp": "Elle augmente la richesse produite." }
+    ]
+  }
+]

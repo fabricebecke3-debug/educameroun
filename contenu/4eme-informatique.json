@@ -1,0 +1,110 @@
+[
+  {
+    "classe": "4eme",
+    "matiere": "Informatique",
+    "id": "i4-reseaux-internet",
+    "titre": "Réseaux et internet : client, serveur et adresses IP",
+    "duree": "40 min",
+    "contenu": "<p>Un <b>réseau informatique</b> relie plusieurs appareils pour qu'ils échangent des informations. Le plus grand réseau du monde est <b>internet</b>, qui relie des millions de réseaux.</p><div class='definition'><b>Un client</b> est un appareil qui demande une information (ton téléphone, ton ordinateur).<br><b>Un serveur</b> est un ordinateur puissant qui fournit des services et des données aux clients (site web, messagerie).<br><b>Une adresse IP</b> est un numéro unique qui identifie un appareil sur le réseau (par exemple 192.168.1.10).<br><b>Un réseau local</b> relie les appareils d'un même lieu (école, maison). <b>Internet</b> relie les réseaux du monde entier.</div><p>Quand tu consultes un site, ton appareil (client) envoie une demande au serveur, qui renvoie la page demandée. Les données voyagent sous forme de petits paquets.</p><div class='exemple'><b>Exemple :</b> dans une salle informatique de ton école, les ordinateurs sont reliés à un serveur qui stocke les fichiers communs. Chaque élève accède aux documents depuis son poste.</div><div class='astuce'><b>Astuce :</b> retiens le schéma : client demande, serveur répond. C'est le principe de presque tous les services en ligne.</div>",
+    "exercices": [
+      { "q": "Qu'est-ce qu'un réseau informatique ?", "r": "Un ensemble d'appareils reliés pour échanger des informations.", "indice": "Pense au mot relier." },
+      { "q": "Quelle est la différence entre un client et un serveur ?", "r": "Le client demande une information ; le serveur fournit services et données.", "indice": "Demande ou fournit ?" },
+      { "q": "Qu'est-ce qu'une adresse IP ?", "r": "Un numéro unique qui identifie un appareil sur le réseau.", "indice": "Pense à une adresse postale pour les appareils." },
+      { "q": "Quelle est la différence entre un réseau local et internet ?", "r": "Le réseau local relie des appareils d'un même lieu ; internet relie les réseaux du monde entier.", "indice": "Local ou mondial ?" },
+      { "q": "Décris ce qui se passe quand tu consultes un site web.", "r": "Ton appareil (client) envoie une demande au serveur, qui renvoie la page demandée.", "indice": "Pense au schéma demande-réponse." }
+    ],
+    "qcm": [
+      { "q": "Un réseau informatique relie :", "options": ["des livres", "des appareils pour échanger des informations", "des villes uniquement", "des routes"], "correct": 1, "exp": "Il permet l'échange d'informations entre appareils." },
+      { "q": "Un client est :", "options": ["un appareil qui demande une information", "un serveur", "une adresse IP", "un logiciel de jeu"], "correct": 0, "exp": "Il fait des demandes." },
+      { "q": "Un serveur :", "options": ["fournit des services et des données", "ne fait jamais rien", "est toujours un téléphone", "est un câble"], "correct": 0, "exp": "Il répond aux demandes des clients." },
+      { "q": "Une adresse IP sert à :", "options": ["identifier un appareil sur le réseau", "imprimer", "stocker des images", "jouer"], "correct": 0, "exp": "Elle identifie chaque appareil." },
+      { "q": "Le plus grand réseau du monde est :", "options": ["le réseau local", "internet", "le réseau électrique", "la poste"], "correct": 1, "exp": "Internet relie les réseaux du monde." },
+      { "q": "Un réseau local relie :", "options": ["les appareils d'un même lieu", "le monde entier", "les continents", "les satellites uniquement"], "correct": 0, "exp": "Il couvre un lieu précis, comme une école." },
+      { "q": "Quand tu consultes un site, ton appareil joue le rôle de :", "options": ["serveur", "client", "routeur uniquement", "adresse IP"], "correct": 1, "exp": "Il envoie la demande." },
+      { "q": "Les données sur internet voyagent sous forme de :", "options": ["paquets", "pierres", "lettres papier", "tableaux"], "correct": 0, "exp": "Les données sont découpées en paquets." },
+      { "q": "Le schéma de base d'internet est :", "options": ["demande et réponse", "écriture et effacement", "achat et vente", "lecture seule"], "correct": 0, "exp": "Le client demande, le serveur répond." },
+      { "q": "Dans une école, le serveur sert à :", "options": ["stocker les fichiers communs", "jouer aux jeux", "faire la cuisine", "éclairer les salles"], "correct": 0, "exp": "Il partage les fichiers entre postes." }
+    ]
+  },
+  {
+    "classe": "4eme",
+    "matiere": "Informatique",
+    "id": "i4-codage-binaire",
+    "titre": "Le codage binaire : bits et octets",
+    "duree": "40 min",
+    "contenu": "<p>Un ordinateur ne comprend que deux états électriques : passage ou non-passage du courant. Il représente donc toute information avec des <b>0</b> et des <b>1</b>, c'est le <b>système binaire</b>.</p><div class='definition'><b>Un bit</b> est la plus petite unité d'information : il vaut 0 ou 1.<br><b>Un octet</b> est un ensemble de 8 bits.<br><b>Le système binaire</b> est un système de numération en base 2, qui n'utilise que les chiffres 0 et 1.</div><p><b>Conversion d'un nombre binaire en décimal :</b> chaque position correspond à une puissance de 2 (en partant de la droite : 1, 2, 4, 8, 16, 32, 64, 128). On additionne les puissances dont le chiffre est 1.</p><div class='exemple'><b>Exemple :</b> 1011 en binaire = 8 + 0 + 2 + 1 = 11 en décimal. Et 1111 1111 (un octet complet) = 255 en décimal.</div><div class='astuce'><b>Astuce :</b> retiens les puissances de 2 : 1, 2, 4, 8, 16, 32, 64, 128. Pour un octet, le nombre maximal est 255.</div>",
+    "exercices": [
+      { "q": "Qu'est-ce qu'un bit ?", "r": "La plus petite unité d'information, qui vaut 0 ou 1.", "indice": "C'est le plus petit élément du binaire." },
+      { "q": "Combien de bits contient un octet ?", "r": "8 bits.", "indice": "Octet vient du mot huit." },
+      { "q": "Convertis 101 en décimal.", "r": "4 + 0 + 1 = 5.", "indice": "Les positions valent 4, 2, 1 de gauche à droite." },
+      { "q": "Convertis 1100 en décimal.", "r": "8 + 4 = 12.", "indice": "Additionne les puissances de 2 dont le chiffre est 1." },
+      { "q": "Quel est le plus grand nombre représentable sur un octet ?", "r": "255 (1111 1111).", "indice": "Ajoute 128 + 64 + 32 + 16 + 8 + 4 + 2 + 1." }
+    ],
+    "qcm": [
+      { "q": "Le système binaire utilise les chiffres :", "options": ["0 et 1", "0 à 9", "1 à 10", "a et b"], "correct": 0, "exp": "Il n'utilise que 0 et 1." },
+      { "q": "Un bit vaut :", "options": ["0 ou 1", "0 à 9", "10", "255"], "correct": 0, "exp": "C'est la plus petite information binaire." },
+      { "q": "Un octet contient :", "options": ["4 bits", "8 bits", "16 bits", "2 bits"], "correct": 1, "exp": "Un octet = 8 bits." },
+      { "q": "1011 en décimal vaut :", "options": ["11", "13", "7", "1011"], "correct": 0, "exp": "8 + 2 + 1 = 11." },
+      { "q": "Le nombre 101 en décimal vaut :", "options": ["3", "5", "101", "2"], "correct": 1, "exp": "4 + 1 = 5." },
+      { "q": "Le plus grand nombre sur un octet est :", "options": ["128", "255", "256", "100"], "correct": 1, "exp": "1111 1111 = 255." },
+      { "q": "Dans un nombre binaire, les positions valent (de droite à gauche) :", "options": ["1, 2, 4, 8", "1, 10, 100, 1000", "1, 3, 5, 7", "0, 1, 2, 3"], "correct": 0, "exp": "Ce sont les puissances de 2." },
+      { "q": "1100 en décimal vaut :", "options": ["12", "10", "14", "4"], "correct": 0, "exp": "8 + 4 = 12." },
+      { "q": "Pourquoi les ordinateurs utilisent-ils le binaire ?", "options": ["parce qu'ils ont deux états électriques", "parce qu'ils aiment les chiffres pairs", "parce qu'ils ne savent pas compter", "par tradition"], "correct": 0, "exp": "Un courant passe ou ne passe pas : deux états." },
+      { "q": "128 en binaire sur un octet s'écrit :", "options": ["1000 0000", "0000 0128", "1111 1111", "0100 0000"], "correct": 0, "exp": "128 = 2 puissance 7, donc un seul 1 en première position." }
+    ]
+  },
+  {
+    "classe": "4eme",
+    "matiere": "Informatique",
+    "id": "i4-variables",
+    "titre": "Les variables et l'affectation dans un algorithme",
+    "duree": "40 min",
+    "contenu": "<p>Une <b>variable</b> est un espace de la mémoire qui porte un nom et qui contient une valeur. Sa valeur peut changer pendant l'exécution du programme.</p><div class='definition'><b>Une variable</b> se désigne par un nom (par exemple age, score, total).<br><b>L'affectation</b> donne une valeur à une variable. Elle s'écrit avec une flèche : x ← 5, ou en pseudo-code : x = 5.<br><b>Une variable</b> peut changer : si x vaut 5 et qu'on écrit x ← x + 1, alors x vaut 6.<br><b>Le type</b> de la variable indique la nature de la valeur : nombre, texte, booléen (vrai ou faux).</div><div class='exemple'><b>Exemple :</b> algorithme : score ← 0 ; score ← score + 10 ; score ← score + 10 ; afficher score. Le résultat affiché est 20.</div><div class='astuce'><b>Astuce :</b> lis toujours l'affectation de droite à gauche : on calcule d'abord la valeur à droite, puis on la range dans la variable à gauche.</div>",
+    "exercices": [
+      { "q": "Qu'est-ce qu'une variable ?", "r": "Un espace de mémoire qui porte un nom et contient une valeur.", "indice": "Pense à une boîte nommée." },
+      { "q": "Quelle est la valeur finale de x après : x ← 3 ; x ← x + 4 ?", "r": "7.", "indice": "Calcule x + 4 avec x valant 3." },
+      { "q": "Si total ← 5 puis total ← total × 2, quelle est la valeur de total ?", "r": "10.", "indice": "Multiplie la valeur actuelle par 2." },
+      { "q": "Explique la différence entre x ← 5 et x ← x + 1.", "r": "x ← 5 donne la valeur 5 ; x ← x + 1 ajoute 1 à la valeur actuelle de x.", "indice": "Une valeur fixe ou un calcul avec la valeur actuelle." },
+      { "q": "Donne le type approprié pour : le nom d'un élève ; son âge ; « est-il admis ? ».", "r": "Texte ; nombre ; booléen.", "indice": "Lettres, chiffres, vrai ou faux." }
+    ],
+    "qcm": [
+      { "q": "Une variable est :", "options": ["un espace de mémoire qui porte un nom", "un écran", "un câble", "un logiciel de jeu"], "correct": 0, "exp": "Elle stocke une valeur sous un nom." },
+      { "q": "L'affectation sert à :", "options": ["donner une valeur à une variable", "supprimer un fichier", "imprimer", "éteindre l'écran"], "correct": 0, "exp": "C'est l'attribution d'une valeur." },
+      { "q": "Si x ← 3 puis x ← x + 4, alors x vaut :", "options": ["3", "4", "7", "12"], "correct": 2, "exp": "3 + 4 = 7." },
+      { "q": "Si total ← 5 puis total ← total × 2, total vaut :", "options": ["7", "10", "25", "5"], "correct": 1, "exp": "5 × 2 = 10." },
+      { "q": "Un booléen peut valoir :", "options": ["vrai ou faux", "un nombre entier", "un texte", "une image"], "correct": 0, "exp": "C'est le type vrai/faux." },
+      { "q": "Le nom d'un élève est une valeur de type :", "options": ["texte", "booléen", "entier uniquement", "image"], "correct": 0, "exp": "Un nom est une suite de lettres." },
+      { "q": "Dans x ← x + 1, on :", "options": ["calcule d'abord x + 1, puis on range dans x", "efface x", "multiplie x par 1", "ne fait rien"], "correct": 0, "exp": "On calcule à droite, puis on range à gauche." },
+      { "q": "Si score ← 0, puis score ← score + 10 deux fois, le score final vaut :", "options": ["10", "20", "0", "100"], "correct": 1, "exp": "0 + 10 + 10 = 20." },
+      { "q": "Le contenu d'une variable :", "options": ["peut changer pendant l'exécution", "est toujours fixe", "disparaît au démarrage", "est un câble"], "correct": 0, "exp": "La valeur peut évoluer." },
+      { "q": "Le nom d'une variable doit :", "options": ["être clair et décrire la donnée", "être aléatoire", "être un chiffre seulement", "être le même pour toutes les variables"], "correct": 0, "exp": "Un nom clair facilite la lecture de l'algorithme." }
+    ]
+  },
+  {
+    "classe": "4eme",
+    "matiere": "Informatique",
+    "id": "i4-droit-auteur-logiciels",
+    "titre": "Droit d'auteur, logiciels libres et usage responsable",
+    "duree": "40 min",
+    "contenu": "<p>Les créations numériques (textes, photos, musiques, logiciels) appartiennent à leurs auteurs. Utiliser une création sans autorisation peut constituer une <b>contrefaçon</b>, qui est punie par la loi.</p><div class='definition'><b>Le droit d'auteur</b> protège la création d'une œuvre. L'auteur décide de son utilisation.<br><b>La contrefaçon</b> est la copie ou l'utilisation non autorisée d'une œuvre protégée.<br><b>Un logiciel libre</b> peut être utilisé, étudié, modifié et redistribué librement, dans le respect de sa licence. Exemple : LibreOffice, Linux.<br><b>Un logiciel propriétaire</b> est soumis à une licence payante ou restrictive. Son usage est limité.<br><b>La citation</b> d'une source doit toujours mentionner l'auteur et le document d'origine.</div><div class='exemple'><b>Exemple :</b> pour un exposé, tu copies une photo trouvée sur internet sans indiquer son auteur. Tu risques une contrefaçon. Il faut citer la source ou utiliser une image libre de droits.</div><div class='astuce'><b>Astuce :</b> avant d'utiliser une image ou un texte trouvé en ligne, cherche la mention de la licence. En cas de doute, demande l'autorisation ou choisis une ressource libre.</div>",
+    "exercices": [
+      { "q": "Que protège le droit d'auteur ?", "r": "La création d'une œuvre : l'auteur décide de son utilisation.", "indice": "Pense à la création." },
+      { "q": "Qu'est-ce que la contrefaçon ?", "r": "La copie ou l'utilisation non autorisée d'une œuvre protégée.", "indice": "Pense à l'absence d'autorisation." },
+      { "q": "Cite un logiciel libre.", "r": "LibreOffice ou Linux.", "indice": "Pense à une suite bureautique gratuite." },
+      { "q": "Que faut-il faire pour utiliser une photo trouvée sur internet dans un exposé ?", "r": "Citer la source et l'auteur, ou utiliser une image libre de droits.", "indice": "Pense à la citation." },
+      { "q": "Quelle est la différence entre un logiciel libre et un logiciel propriétaire ?", "r": "Le logiciel libre peut être utilisé, étudié et modifié librement ; le propriétaire est soumis à une licence restrictive.", "indice": "Pense à la liberté d'usage." }
+    ],
+    "qcm": [
+      { "q": "Le droit d'auteur protège :", "options": ["les créations", "les routes", "les marchés", "les arbres"], "correct": 0, "exp": "Il protège les œuvres créées." },
+      { "q": "La contrefaçon est :", "options": ["une copie autorisée", "une utilisation non autorisée d'une œuvre protégée", "une citation", "un logiciel libre"], "correct": 1, "exp": "C'est une utilisation illégale." },
+      { "q": "Un logiciel libre :", "options": ["ne peut jamais être utilisé", "peut être utilisé, étudié et modifié librement", "est toujours gratuit et interdit", "n'a pas de licence"], "correct": 1, "exp": "Il respecte des libertés, selon sa licence." },
+      { "q": "LibreOffice est :", "options": ["un jeu", "un logiciel libre de bureautique", "un réseau", "un matériel"], "correct": 1, "exp": "C'est une suite bureautique libre." },
+      { "q": "Pour un exposé, une image trouvée en ligne doit :", "options": ["être utilisée sans mention", "être citée avec sa source", "être modifiée et cachée", "être vendue"], "correct": 1, "exp": "La citation de la source est obligatoire." },
+      { "q": "Un logiciel propriétaire est :", "options": ["toujours libre", "soumis à une licence restrictive", "sans auteur", "un matériel"], "correct": 1, "exp": "Son usage est encadré par la licence." },
+      { "q": "La citation d'une source doit mentionner :", "options": ["l'auteur et le document d'origine", "uniquement la couleur", "rien", "le prix"], "correct": 0, "exp": "C'est la règle de citation." },
+      { "q": "Linux est :", "options": ["un système d'exploitation libre", "un réseau social", "un jeu vidéo", "un câble"], "correct": 0, "exp": "C'est un système d'exploitation libre." },
+      { "q": "Avant d'utiliser une image en ligne, il faut :", "options": ["vérifier la licence", "la modifier sans la citer", "la vendre", "l'ignorer"], "correct": 0, "exp": "La licence indique les conditions d'utilisation." },
+      { "q": "Un usage responsable du numérique consiste à :", "options": ["respecter les auteurs et citer ses sources", "copier sans citer", "pirater des logiciels", "diffuser des œuvres piratées"], "correct": 0, "exp": "Respecter les auteurs est une règle essentielle." }
+    ]
+  }
+]

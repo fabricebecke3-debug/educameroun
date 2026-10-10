@@ -1,0 +1,110 @@
+[
+  {
+    "classe": "5eme",
+    "matiere": "Géographie",
+    "id": "g5-afrique-relief",
+    "titre": "L'Afrique : relief et grands ensembles",
+    "duree": "40 min",
+    "contenu": "<p>L'<b>Afrique</b> est le deuxième continent du monde par sa superficie. Elle est traversée par l'équateur et la plupart de ses terres se situent entre les deux tropiques.</p><div class='definition'><b>Le relief africain</b> est formé de vastes plateaux et de bassins, séparés par quelques grandes chaînes de montagnes.<br><b>Les plateaux</b> dominent largement le continent : on parle de « continent de plateaux ».<br><b>Les grands fleuves</b> : le Nil, le Congo, le Niger, le Zambèze.<br><b>Le Sahara</b> est le plus grand désert chaud du monde.</div><p>L'Afrique possède aussi de hautes montagnes, comme le Kilimandjaro (en Tanzanie), et le Rift, une grande fracture de l'écorce terrestre qui traverse l'Afrique de l'Est.</p><div class='exemple'><b>Exemple :</b> le bassin du Congo, au centre de l'Afrique, est une vaste cuvette recouverte d'une forêt équatoriale très dense. Le fleuve Congo y draine une grande partie de la région.</div><div class='astuce'><b>Astuce :</b> pour retenir les grands ensembles, pense à « plateaux au centre et au sud, déserts au nord, montagnes à l'est » : ce sont les grandes lignes du relief africain.</div>",
+    "exercices": [
+      { "q": "Quel est le classement de l'Afrique parmi les continents par sa superficie ?", "r": "Deuxième, après l'Asie.", "indice": "Pense à la taille des continents." },
+      { "q": "Qu'appelle-t-on « continent de plateaux » ?", "r": "L'Afrique, car la majorité de son relief est formée de plateaux.", "indice": "Pense à la forme du relief dominant." },
+      { "q": "Cite trois grands fleuves africains.", "r": "Le Nil, le Congo, le Niger, le Zambèze.", "indice": "Pense aux fleuves les plus connus du continent." },
+      { "q": "Quel est le plus grand désert chaud du monde ?", "r": "Le Sahara.", "indice": "Il se trouve au nord du continent." },
+      { "q": "Où se situe le Kilimandjaro ?", "r": "En Tanzanie, dans l'est de l'Afrique.", "indice": "C'est la plus haute montagne d'Afrique." }
+    ],
+    "qcm": [
+      { "q": "L'Afrique est le ... continent par sa superficie :", "options": ["premier", "deuxième", "troisième", "quatrième"], "correct": 1, "exp": "Elle est deuxième, après l'Asie." },
+      { "q": "Le Sahara est :", "options": ["une forêt", "un désert chaud", "une montagne", "un lac"], "correct": 1, "exp": "Le Sahara est le plus grand désert chaud du monde." },
+      { "q": "Le fleuve qui traverse le bassin du Congo est :", "options": ["le Nil", "le Congo", "le Niger", "le Zambèze"], "correct": 1, "exp": "Le bassin du Congo est drainé par le fleuve Congo." },
+      { "q": "Le Kilimandjaro se situe :", "options": ["au Cameroun", "en Tanzanie", "en Égypte", "au Sénégal"], "correct": 1, "exp": "C'est la plus haute montagne d'Afrique, en Tanzanie." },
+      { "q": "Le Rift est :", "options": ["un fleuve", "une fracture de l'écorce terrestre", "un désert", "une ville"], "correct": 1, "exp": "C'est une grande fracture qui traverse l'Afrique de l'Est." },
+      { "q": "L'équateur :", "options": ["ne traverse pas l'Afrique", "traverse l'Afrique", "longe seulement le Sahara", "est en Asie uniquement"], "correct": 1, "exp": "L'équateur traverse le continent africain." },
+      { "q": "Le relief africain est surtout formé de :", "options": ["plaines", "plateaux", "océans", "glaciers"], "correct": 1, "exp": "Les plateaux dominent le relief africain." },
+      { "q": "Le Nil est un fleuve :", "options": ["d'Afrique", "d'Europe", "d'Amérique", "d'Asie"], "correct": 0, "exp": "Le Nil traverse l'Afrique du Nord-Est." },
+      { "q": "La forêt équatoriale se trouve surtout :", "options": ["dans le Sahara", "dans le bassin du Congo", "en Europe", "en Australie"], "correct": 1, "exp": "Le bassin du Congo abrite une vaste forêt équatoriale." },
+      { "q": "Les grandes lignes du relief africain sont :", "options": ["plateaux au centre et au sud, déserts au nord, montagnes à l'est", "plaines partout", "montagnes partout", "glaciers au nord"], "correct": 0, "exp": "C'est la répartition générale du relief africain." }
+    ]
+  },
+  {
+    "classe": "5eme",
+    "matiere": "Géographie",
+    "id": "g5-cameroun-population",
+    "titre": "Le Cameroun : population, villes et migrations",
+    "duree": "40 min",
+    "contenu": "<p>Le <b>Cameroun</b> compte plus de 25 millions d'habitants. Sa population est jeune : une grande part a moins de 25 ans. Elle est très diversifiée, avec plus de 250 groupes ethniques et deux langues officielles, le français et l'anglais.</p><div class='definition'><b>La densité de population</b> est le nombre d'habitants par km². Elle est très forte dans certaines régions et faible dans d'autres.<br><b>L'exode rural</b> est le départ des habitants des campagnes vers les villes, à la recherche de travail et de services.<br><b>La croissance urbaine</b> est l'augmentation de la population des villes.</div><p>Les grandes villes sont Douala (port et capitale économique), Yaoundé (capitale politique) et Garoua, Bafoussam ou Bamenda. Elles concentrent les activités économiques, les écoles et les hôpitaux.</p><div class='exemple'><b>Exemple :</b> de nombreux jeunes quittent les villages du Nord pour travailler à Douala ou à Yaoundé. C'est un exemple d'exode rural.</div><div class='astuce'><b>Astuce :</b> pour parler de la population, utilise les trois notions : densité (combien par km²), exode rural (campagne vers ville) et croissance urbaine (ville qui grandit).</div>",
+    "exercices": [
+      { "q": "Quelle est la population approximative du Cameroun ?", "r": "Plus de 25 millions d'habitants.", "indice": "Le pays est l'un des plus peuplés d'Afrique centrale." },
+      { "q": "Qu'est-ce que l'exode rural ?", "r": "Le départ des habitants des campagnes vers les villes, pour trouver du travail et des services.", "indice": "Pense au mouvement entre campagne et ville." },
+      { "q": "Quelle est la capitale politique et quelle est la capitale économique du Cameroun ?", "r": "Capitale politique : Yaoundé. Capitale économique : Douala.", "indice": "Douala est un grand port." },
+      { "q": "Donne deux caractéristiques de la population camerounaise.", "r": "Elle est jeune, très diversifiée (plus de 250 groupes ethniques), et parle deux langues officielles.", "indice": "Pense à l'âge et à la diversité." },
+      { "q": "Pourquoi les villes attirent-elles les habitants ?", "r": "Elles offrent du travail, des écoles, des hôpitaux et de nombreuses activités économiques.", "indice": "Pense aux services que l'on trouve en ville." }
+    ],
+    "qcm": [
+      { "q": "La capitale politique du Cameroun est :", "options": ["Douala", "Yaoundé", "Garoua", "Bafoussam"], "correct": 1, "exp": "Yaoundé est la capitale politique." },
+      { "q": "La capitale économique du Cameroun est :", "options": ["Douala", "Yaoundé", "Maroua", "Ebolowa"], "correct": 0, "exp": "Douala, grand port, est la capitale économique." },
+      { "q": "L'exode rural désigne :", "options": ["le départ des villes vers les campagnes", "le départ des campagnes vers les villes", "la croissance des villages", "le tourisme"], "correct": 1, "exp": "Les habitants quittent les campagnes pour les villes." },
+      { "q": "La densité de population se mesure en :", "options": ["habitants par km²", "km par habitant", "litres", "degrés"], "correct": 0, "exp": "La densité est le nombre d'habitants par kilomètre carré." },
+      { "q": "Le Cameroun a comme langues officielles :", "options": ["le français et l'anglais", "le latin et le grec", "l'espagnol et le portugais", "le swahili et l'arabe"], "correct": 0, "exp": "Le français et l'anglais sont les deux langues officielles." },
+      { "q": "La population camerounaise est :", "options": ["très âgée", "jeune", "stable depuis 100 ans", "composée d'un seul groupe"], "correct": 1, "exp": "Une grande part de la population est jeune." },
+      { "q": "La croissance urbaine signifie :", "options": ["la diminution des villes", "l'augmentation de la population des villes", "la fermeture des marchés", "la fin de l'exode"], "correct": 1, "exp": "C'est l'augmentation de la population urbaine." },
+      { "q": "Le Cameroun compte plus de :", "options": ["1 000 groupes ethniques", "250 groupes ethniques", "10 groupes ethniques", "aucun"], "correct": 1, "exp": "Plus de 250 groupes ethniques vivent au Cameroun." },
+      { "q": "Garoua est une ville du :", "options": ["Nord", "Sud", "Littoral uniquement", "désert"], "correct": 0, "exp": "Garoua est une grande ville du Nord." },
+      { "q": "Les villes concentrent surtout :", "options": ["les forêts", "les activités économiques, écoles et hôpitaux", "les champs de cacao uniquement", "les glaciers"], "correct": 1, "exp": "Elles concentrent services et activités économiques." }
+    ]
+  },
+  {
+    "classe": "5eme",
+    "matiere": "Géographie",
+    "id": "g5-cameroun-agriculture",
+    "titre": "L'agriculture et les ressources du Cameroun",
+    "duree": "40 min",
+    "contenu": "<p>L'<b>agriculture</b> occupe une part importante de la population camerounaise. Elle fournit la nourriture, des matières premières pour l'industrie et des produits d'exportation.</p><div class='definition'><b>Une culture de rente</b> est destinée à la vente à l'étranger : cacao, café, banane, coton, caoutchouc.<br><b>Une culture vivrière</b> sert à nourrir la population : manioc, maïs, igname, plantain, arachide.<br><b>Une ressource naturelle</b> est un élément de la nature utilisé par l'homme : bois, pétrole, eau, minerais.</div><p>Le Cameroun est un pays de forêts au sud, de savanes au centre et au nord. Le sud est favorable aux cultures de rente comme le cacao et la banane. Le nord, plus sec, se prête aux céréales comme le mil et le sorgho.</p><div class='exemple'><b>Exemple :</b> la région du Sud-Ouest produit de la banane et du cacao, tandis que le Nord cultive le coton et le mil.</div><div class='astuce'><b>Astuce :</b> pour distinguer rente et vivrière, demande-toi : la culture est-elle vendue à l'étranger (rente) ou consommée sur place (vivrière) ?</div>",
+    "exercices": [
+      { "q": "Qu'est-ce qu'une culture de rente ?", "r": "Une culture destinée principalement à l'exportation, comme le cacao ou le café.", "indice": "Pense à ce qui est vendu à l'étranger." },
+      { "q": "Cite trois cultures vivrières camerounaises.", "r": "Par exemple : le manioc, le maïs, l'igname, le plantain, l'arachide.", "indice": "Ce sont des cultures pour nourrir la population." },
+      { "q": "Pourquoi le sud du Cameroun se prête-t-il bien au cacao et à la banane ?", "r": "Il est couvert de forêts et reçoit beaucoup de pluie, ce qui favorise ces cultures.", "indice": "Pense au climat et à la végétation du sud." },
+      { "q": "Donne un exemple de ressource naturelle du Cameroun.", "r": "Le bois, le pétrole, l'eau ou les minerais.", "indice": "C'est un élément de la nature utilisé par l'homme." },
+      { "q": "Quelle différence y a-t-il entre le sud et le nord en matière d'agriculture ?", "r": "Le sud, humide et forestier, cultive cacao et banane. Le nord, plus sec, cultive mil, sorgho et coton.", "indice": "Compare climat et cultures." }
+    ],
+    "qcm": [
+      { "q": "Le cacao est une culture :", "options": ["vivrière", "de rente", "minière", "forestière uniquement"], "correct": 1, "exp": "Le cacao est vendu à l'étranger : c'est une culture de rente." },
+      { "q": "Le manioc est une culture :", "options": ["de rente", "vivrière", "minière", "industrielle"], "correct": 1, "exp": "Le manioc sert à nourrir la population." },
+      { "q": "Le pétrole est une :", "options": ["culture", "ressource naturelle", "ville", "rivière"], "correct": 1, "exp": "Le pétrole est une ressource naturelle." },
+      { "q": "Le sud du Cameroun est principalement :", "options": ["désertique", "forestier", "glacé", "montagneux uniquement"], "correct": 1, "exp": "Le sud est couvert de forêts." },
+      { "q": "Le mil et le sorgho se cultivent surtout :", "options": ["au Sud", "au Nord", "dans l'océan", "en ville"], "correct": 1, "exp": "Ces céréales sont adaptées au climat plus sec du nord." },
+      { "q": "Le coton est cultivé surtout dans :", "options": ["le Nord", "le Littoral uniquement", "les villes", "les forêts denses du Sud"], "correct": 0, "exp": "Le coton est une culture du Nord." },
+      { "q": "L'igname et le plantain sont des cultures :", "options": ["vivrières", "de rente uniquement", "minières", "inconnues au Cameroun"], "correct": 0, "exp": "Ce sont des aliments de base, donc des cultures vivrières." },
+      { "q": "Une culture vivrière sert à :", "options": ["exporter", "nourrir la population", "fabriquer des routes", "produire de l'électricité"], "correct": 1, "exp": "Elle est consommée sur place." },
+      { "q": "Le bois est une :", "options": ["ressource naturelle", "culture vivrière", "ville", "langue"], "correct": 0, "exp": "C'est une ressource prélevée dans la nature." },
+      { "q": "Un pays de forêts au sud et de savanes au nord correspond au :", "options": ["Cameroun", "Maroc", "Canada", "Japon"], "correct": 0, "exp": "Le Cameroun présente ces grands ensembles végétaux." }
+    ]
+  },
+  {
+    "classe": "5eme",
+    "matiere": "Géographie",
+    "id": "g5-hydrographie",
+    "titre": "L'hydrographie : fleuves, lacs et bassins",
+    "duree": "40 min",
+    "contenu": "<p>L'<b>hydrographie</b> désigne l'ensemble des cours d'eau, lacs et nappes d'un territoire. Elle est très importante pour l'agriculture, l'énergie et les transports.</p><div class='definition'><b>Un fleuve</b> est un cours d'eau important qui se jette dans la mer ou dans un lac.<br><b>Un bassin versant</b> est l'ensemble du territoire dont les eaux de pluie rejoignent un même fleuve.<br><b>Un affluent</b> est un cours d'eau qui rejoint un fleuve plus grand.<br><b>Une nappe phréatique</b> est une réserve d'eau souterraine.</div><p>Au Cameroun, les principaux fleuves sont le Wouri (qui traverse Douala), la Sanaga (le plus long fleuve entièrement camerounais), la Bénoué et le Nyong. Le lac Nyos et le lac Monoun sont des lacs de cratère volcanique.</p><div class='exemple'><b>Exemple :</b> le fleuve Wouri se jette dans l'océan Atlantique à Douala. Son port permet aux bateaux d'accéder à la ville.</div><div class='astuce'><b>Astuce :</b> retiens que le Cameroun a trois grands bassins : le bassin du Wouri-Sanaga au sud, celui de la Bénoué au nord, et celui du Logone-Chari vers le lac Tchad.</div>",
+    "exercices": [
+      { "q": "Qu'est-ce que l'hydrographie ?", "r": "L'ensemble des cours d'eau, lacs et nappes d'un territoire.", "indice": "Pense à tout ce qui contient de l'eau." },
+      { "q": "Qu'est-ce qu'un affluent ?", "r": "Un cours d'eau qui rejoint un fleuve plus grand.", "indice": "Pense aux petits cours d'eau qui rejoignent un fleuve." },
+      { "q": "Qu'est-ce qu'une nappe phréatique ?", "r": "Une réserve d'eau souterraine.", "indice": "Elle se trouve sous le sol." },
+      { "q": "Cite deux fleuves du Cameroun.", "r": "Le Wouri, la Sanaga, la Bénoué, le Nyong.", "indice": "Pense au fleuve qui traverse Douala." },
+      { "q": "Pourquoi le Wouri est-il important pour Douala ?", "r": "Il se jette dans l'océan et son estuaire permet au port de Douala d'accueillir les bateaux.", "indice": "Pense au commerce et aux transports." }
+    ],
+    "qcm": [
+      { "q": "L'hydrographie désigne :", "options": ["les montagnes", "les cours d'eau et lacs d'un territoire", "les villes", "les déserts"], "correct": 1, "exp": "C'est l'ensemble des eaux d'un territoire." },
+      { "q": "Un affluent est :", "options": ["un fleuve qui se jette dans la mer", "un cours d'eau qui rejoint un fleuve", "un lac salé", "une nappe souterraine"], "correct": 1, "exp": "Il rejoint un fleuve plus grand." },
+      { "q": "La nappe phréatique est :", "options": ["une rivière visible", "une réserve d'eau souterraine", "un lac de montagne", "un océan"], "correct": 1, "exp": "C'est une réserve d'eau sous le sol." },
+      { "q": "Le fleuve qui traverse Douala est :", "options": ["le Nil", "le Wouri", "le Congo", "le Niger"], "correct": 1, "exp": "Le Wouri traverse Douala." },
+      { "q": "La Sanaga est :", "options": ["un lac", "le plus long fleuve entièrement camerounais", "une ville", "une montagne"], "correct": 1, "exp": "C'est le plus long fleuve entièrement camerounais." },
+      { "q": "Le bassin versant est :", "options": ["l'ensemble du territoire dont les eaux rejoignent un même fleuve", "un bateau", "un port", "une montagne"], "correct": 0, "exp": "C'est le territoire drainé par un même fleuve." },
+      { "q": "Un fleuve se jette généralement :", "options": ["dans la mer ou un lac", "dans le désert", "dans une montagne", "dans le sol"], "correct": 0, "exp": "Il rejoint la mer ou un lac." },
+      { "q": "La Bénoué est un fleuve du :", "options": ["Nord", "Sud", "Littoral", "Désert"], "correct": 0, "exp": "La Bénoué coule dans le Nord du Cameroun." },
+      { "q": "Les lacs Nyos et Monoun sont :", "options": ["des lacs de cratère volcanique", "des océans", "des mers", "des déserts"], "correct": 0, "exp": "Ce sont des lacs formés dans des cratères volcaniques." },
+      { "q": "L'eau est importante pour :", "options": ["l'agriculture, l'énergie et les transports", "uniquement la pêche", "rien", "seulement le tourisme"], "correct": 0, "exp": "Les cours d'eau ont de multiples usages." }
+    ]
+  }
+]

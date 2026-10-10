@@ -1,0 +1,137 @@
+[
+  {
+    "classe": "3eme",
+    "matiere": "Mathématiques",
+    "id": "m3-racines-carrees",
+    "titre": "Les racines carrées et leurs calculs",
+    "duree": "40 min",
+    "contenu": "<p>La <b>racine carrée</b> d'un nombre positif a est le nombre positif dont le carré vaut a. On la note √a. Ainsi √25 = 5, car 5² = 25.</p><div class='definition'><b>Définition :</b> √a est le nombre positif x tel que x² = a (a ≥ 0).<br><b>Carré d'une racine :</b> (√a)² = a.<br><b>Racine d'un carré :</b> √(a²) = a si a ≥ 0.<br><b>Produit :</b> √a × √b = √(a × b).<br><b>Quotient :</b> √a ÷ √b = √(a ÷ b).</div><p><b>Simplifier une racine :</b> on cherche un carré parfait à l'intérieur. Par exemple, √50 = √(25 × 2) = √25 × √2 = 5√2.</p><div class='exemple'><b>Exemple :</b> √18 = √(9 × 2) = 3√2. Et √2 × √8 = √16 = 4.</div><div class='astuce'><b>Astuce :</b> cherche les carrés parfaits usuels : 4, 9, 16, 25, 36, 49, 64, 81, 100, 121, 144. Ils permettent de simplifier rapidement une racine.</div>",
+    "exercices": [
+      { "q": "Calcule √36, √81 et √144.", "r": "6 ; 9 ; 12.", "indice": "Trouve le nombre positif dont le carré donne ce résultat." },
+      { "q": "Simplifie √12 et √75.", "r": "√12 = 2√3 ; √75 = 5√3.", "indice": "Cherche un carré parfait dans la racine : 4 pour 12, 25 pour 75." },
+      { "q": "Calcule √3 × √27.", "r": "√81 = 9.", "indice": "Multiplie les nombres sous la racine." },
+      { "q": "Calcule (√7)² et √(5²).", "r": "7 ; 5.", "indice": "Le carré d'une racine redonne le nombre de départ." },
+      { "q": "Écris sous la forme a√b : √200 ; √128.", "r": "√200 = 10√2 ; √128 = 8√2.", "indice": "200 = 100 × 2 et 128 = 64 × 2." }
+    ],
+    "qcm": [
+      { "q": "√49 vaut :", "options": ["6", "7", "8", "24"], "correct": 1, "exp": "7 × 7 = 49." },
+      { "q": "(√5)² vaut :", "options": ["√5", "5", "25", "10"], "correct": 1, "exp": "Le carré d'une racine redonne le nombre." },
+      { "q": "√12 simplifié vaut :", "options": ["2√3", "3√2", "6", "√12"], "correct": 0, "exp": "√12 = √(4 × 3) = 2√3." },
+      { "q": "√2 × √8 vaut :", "options": ["√10", "4", "16", "2√2"], "correct": 1, "exp": "√16 = 4." },
+      { "q": "√50 simplifié vaut :", "options": ["5√2", "25√2", "2√5", "10"], "correct": 0, "exp": "√(25 × 2) = 5√2." },
+      { "q": "√(a²) pour a positif vaut :", "options": ["a", "a²", "√a", "0"], "correct": 0, "exp": "La racine d'un carré redonne a si a est positif." },
+      { "q": "Quel est le carré parfait le plus proche de 40 ?", "options": ["36", "49", "25", "64"], "correct": 0, "exp": "36 est le plus proche : 6² = 36." },
+      { "q": "√16 + √9 vaut :", "options": ["5", "7", "25", "√25"], "correct": 1, "exp": "4 + 3 = 7." },
+      { "q": "La racine carrée de 0 vaut :", "options": ["1", "0", "impossible", "−1"], "correct": 1, "exp": "0 × 0 = 0." },
+      { "q": "Simplifie √98 :", "options": ["7√2", "14√2", "49√2", "2√7"], "correct": 0, "exp": "√(49 × 2) = 7√2." }
+    ]
+  },
+  {
+    "classe": "3eme",
+    "matiere": "Mathématiques",
+    "id": "m3-thales",
+    "titre": "Le théorème de Thalès",
+    "duree": "40 min",
+    "contenu": "<p>Le <b>théorème de Thalès</b> s'applique à deux droites sécantes coupées par deux droites parallèles. Il permet de calculer une longueur inconnue grâce à des rapports égaux.</p><div class='definition'><b>Configuration :</b> deux droites (AM) et (AN) se coupent en A ; les droites (MN) et (BC) sont parallèles, avec M sur [AB] et N sur [AC].<br><b>Énoncé :</b> AM/AB = AN/AC = MN/BC.<br><b>Réciproque :</b> si les rapports sont égaux, alors les droites (MN) et (BC) sont parallèles.</div><div class='exemple'><b>Exemple :</b> AB = 10 cm, AM = 4 cm, BC = 15 cm. Calcul de MN : MN/15 = 4/10, donc MN = 15 × 4 ÷ 10 = 6 cm.</div><div class='astuce'><b>Astuce :</b> écris toujours les rapports dans le même ordre (petit sur grand, pour les deux triangles). Pour trouver une longueur, utilise le produit en croix.</div>",
+    "exercices": [
+      { "q": "Dans un triangle ABC, M est sur [AB] et N sur [AC], avec (MN) parallèle à (BC). AM = 3, AB = 9, BC = 12. Calcule MN.", "r": "AM/AB = MN/BC, donc 3/9 = MN/12, soit MN = 4.", "indice": "Écris les rapports égaux puis utilise le produit en croix." },
+      { "q": "AM = 2, AB = 5, AN = 6. Calcule AC sachant que (MN) est parallèle à (BC).", "r": "AM/AB = AN/AC, donc 2/5 = 6/AC, soit AC = 15.", "indice": "Produit en croix : 2 × AC = 5 × 6." },
+      { "q": "Un poteau de 3 m projette une ombre de 2 m. À la même heure, un arbre projette une ombre de 10 m. Quelle est sa hauteur ?", "r": "Hauteur/3 = 10/2 donc hauteur = 15 m.", "indice": "Les rayons du Soleil sont parallèles : c'est une situation de Thalès." },
+      { "q": "AM/AB = 0,4 et AN/AC = 0,4. Que peut-on dire de (MN) et (BC) ?", "r": "Elles sont parallèles (réciproque de Thalès).", "indice": "Des rapports égaux donnent des droites parallèles." },
+      { "q": "Explique pourquoi on peut utiliser Thalès pour mesurer la hauteur d'un bâtiment à l'ombre.", "r": "Les rayons du Soleil sont parallèles, donc les triangles formés par l'objet et son ombre sont semblables.", "indice": "Pense aux triangles formés par l'objet, son ombre et le rayon." }
+    ],
+    "qcm": [
+      { "q": "Le théorème de Thalès s'applique à :", "options": ["deux droites sécantes coupées par deux parallèles", "des cercles uniquement", "des carrés", "des nombres premiers"], "correct": 0, "exp": "C'est la configuration de Thalès." },
+      { "q": "Si AM/AB = AN/AC, alors :", "options": ["(MN) et (BC) sont parallèles", "les droites sont perpendiculaires", "les triangles sont égaux", "rien"], "correct": 0, "exp": "C'est la réciproque du théorème." },
+      { "q": "AM = 3, AB = 6, BC = 10. MN vaut :", "options": ["5", "2", "20", "3"], "correct": 0, "exp": "3/6 = MN/10 donc MN = 5." },
+      { "q": "AM = 4, AB = 8, AN = 5. AC vaut :", "options": ["10", "4", "5", "16"], "correct": 0, "exp": "4/8 = 5/AC donc AC = 10." },
+      { "q": "Un bâton de 2 m projette une ombre de 1 m. Un arbre a une ombre de 6 m. Sa hauteur est :", "options": ["12 m", "3 m", "6 m", "2 m"], "correct": 0, "exp": "2/1 = h/6 donc h = 12 m." },
+      { "q": "Le produit en croix permet de :", "options": ["trouver une longueur inconnue", "additionner des fractions", "tracer un cercle", "calculer un volume"], "correct": 0, "exp": "On isole la longueur inconnue." },
+      { "q": "Dans Thalès, les rapports doivent être :", "options": ["égaux", "différents", "nuls", "négatifs"], "correct": 0, "exp": "Les rapports sont égaux." },
+      { "q": "Si (MN) est parallèle à (BC), alors :", "options": ["AM/AB = MN/BC", "AM × AB = MN", "MN = BC toujours", "AM = AB"], "correct": 0, "exp": "C'est l'énoncé du théorème." },
+      { "q": "Thalès est utile pour :", "options": ["mesurer une hauteur inaccessible", "compter les mots", "tracer des courbes de niveau uniquement", "calculer la date"], "correct": 0, "exp": "On mesure indirectement avec l'ombre ou des triangles." },
+      { "q": "Les rayons du Soleil sont considérés comme :", "options": ["parallèles", "perpendiculaires toujours", "courbes", "inexistants"], "correct": 0, "exp": "Ils sont considérés comme parallèles pour ce calcul." }
+    ]
+  },
+  {
+    "classe": "3eme",
+    "matiere": "Mathématiques",
+    "id": "m3-systemes-equations",
+    "titre": "Les systèmes de deux équations à deux inconnues",
+    "duree": "40 min",
+    "contenu": "<p>Un <b>système</b> de deux équations à deux inconnues (x et y) regroupe deux équations qui doivent être vraies en même temps. Résoudre le système, c'est trouver le couple (x ; y) qui vérifie les deux équations.</p><div class='definition'><b>Méthode par substitution :</b> on exprime une inconnue en fonction de l'autre dans une équation, puis on remplace dans la deuxième.<br><b>Méthode par combinaison (addition) :</b> on ajoute ou soustrait les deux équations pour éliminer une inconnue.</div><div class='exemple'><b>Exemple :</b> résoudre {x + y = 10 ; x − y = 2}. En additionnant : 2x = 12, donc x = 6. Puis y = 10 − 6 = 4. Vérification : 6 + 4 = 10 et 6 − 4 = 2. Solution : (6 ; 4).</div><p><b>Problème type :</b> au marché, 2 mangues et 3 ananas coûtent 1 000 FCFA. 1 mangue et 3 ananas coûtent 800 FCFA. On pose m et a les prix. 2m + 3a = 1 000 et m + 3a = 800. En soustrayant : m = 200 FCFA, puis a = 200 FCFA.</p><div class='astuce'><b>Astuce :</b> si les coefficients d'une même inconnue sont égaux, soustrais les équations. S'ils sont opposés, additionne-les.</div>",
+    "exercices": [
+      { "q": "Résous par addition : {x + y = 7 ; x − y = 3}.", "r": "2x = 10, donc x = 5 ; y = 2. Solution (5 ; 2).", "indice": "Additionne les deux équations pour éliminer y." },
+      { "q": "Résous par substitution : {y = 2x ; x + y = 9}.", "r": "x + 2x = 9, donc x = 3 ; y = 6.", "indice": "Remplace y par 2x dans la deuxième équation." },
+      { "q": "Résous : {2x + y = 8 ; x + y = 5}.", "r": "En soustrayant : x = 3 ; y = 2.", "indice": "Soustrais la deuxième équation de la première." },
+      { "q": "Vérifie que (2 ; 3) est solution de {x + 2y = 8 ; 3x − y = 3}.", "r": "2 + 6 = 8 et 6 − 3 = 3 : c'est bien une solution.", "indice": "Remplace x par 2 et y par 3 dans les deux équations." },
+      { "q": "Un cahier et un stylo coûtent 600 FCFA ensemble. Le cahier coûte 400 FCFA de plus que le stylo. Trouve les deux prix.", "r": "c + s = 600 et c = s + 400 ; donc 2s + 400 = 600, s = 100 FCFA, c = 500 FCFA.", "indice": "Pose les deux équations à partir des phrases." }
+    ],
+    "qcm": [
+      { "q": "Résoudre un système, c'est trouver :", "options": ["un couple (x ; y) qui vérifie les deux équations", "un seul nombre", "une figure", "une fraction"], "correct": 0, "exp": "Le couple doit vérifier les deux équations." },
+      { "q": "La solution de {x + y = 10 ; x − y = 2} est :", "options": ["(6 ; 4)", "(4 ; 6)", "(5 ; 5)", "(8 ; 2)"], "correct": 0, "exp": "2x = 12, donc x = 6 et y = 4." },
+      { "q": "La méthode par addition permet de :", "options": ["éliminer une inconnue", "trouver l'aire", "tracer une droite", "calculer un pourcentage"], "correct": 0, "exp": "On élimine une inconnue en additionnant." },
+      { "q": "Pour {y = 2x ; x + y = 9}, on trouve x :", "options": ["3", "2", "9", "6"], "correct": 0, "exp": "x + 2x = 9, donc x = 3." },
+      { "q": "Le couple (2 ; 3) vérifie {x + 2y = 8 ; 3x − y = 3} :", "options": ["oui", "non", "seulement la première", "seulement la seconde"], "correct": 0, "exp": "Les deux équations sont vraies." },
+      { "q": "La méthode par substitution consiste à :", "options": ["remplacer une inconnue par son expression", "additionner les nombres", "multiplier les fractions", "tracer un triangle"], "correct": 0, "exp": "On remplace une inconnue dans l'autre équation." },
+      { "q": "Pour {2x + y = 8 ; x + y = 5}, x vaut :", "options": ["3", "2", "5", "8"], "correct": 0, "exp": "En soustrayant, x = 3." },
+      { "q": "Si deux équations sont contradictoires, le système :", "options": ["n'a pas de solution", "a une infinité de solutions", "a exactement une solution", "est toujours nul"], "correct": 0, "exp": "Aucun couple ne vérifie les deux." },
+      { "q": "Un système a deux équations à deux inconnues car :", "options": ["il y a deux inconnues x et y", "il y a deux équations identiques", "il y a trois inconnues", "il n'y a pas d'inconnue"], "correct": 0, "exp": "Les deux inconnues sont x et y." },
+      { "q": "Dans le problème des mangues, le prix d'une mangue est :", "options": ["200 FCFA", "800 FCFA", "1 000 FCFA", "100 FCFA"], "correct": 0, "exp": "m = 200 FCFA." }
+    ]
+  },
+  {
+    "classe": "3eme",
+    "matiere": "Mathématiques",
+    "id": "m3-trigonometrie",
+    "titre": "La trigonométrie dans le triangle rectangle",
+    "duree": "40 min",
+    "contenu": "<p>La <b>trigonométrie</b> permet de calculer des longueurs et des angles dans un triangle rectangle. Elle repose sur trois rapports, définis à partir d'un angle aigu.</p><div class='definition'>Pour un angle aigu x d'un triangle rectangle :<br><b>Sinus</b> : sin x = côté opposé ÷ hypoténuse.<br><b>Cosinus</b> : cos x = côté adjacent ÷ hypoténuse.<br><b>Tangente</b> : tan x = côté opposé ÷ côté adjacent.<br><b>Mnémotechnique :</b> SOH CAH TOA.</div><div class='exemple'><b>Exemple :</b> dans un triangle rectangle, l'hypoténuse mesure 10 cm et l'angle x = 30°. Le côté opposé à x est : sin 30° = opposé ÷ 10, donc opposé = 10 × sin 30° = 10 × 0,5 = 5 cm.</div><p>Pour trouver un angle, on utilise la fonction inverse de la calculatrice (sin⁻¹, cos⁻¹, tan⁻¹). Exemple : si cos x = 0,5, alors x = 60°.</p><div class='astuce'><b>Astuce :</b> repère d'abord l'angle étudié, puis classe les côtés : opposé (en face de l'angle), adjacent (à côté de l'angle, non hypoténuse), hypoténuse (le plus long). Choisis ensuite le bon rapport.</div>",
+    "exercices": [
+      { "q": "Dans un triangle rectangle, l'hypoténuse mesure 10 cm et l'angle vaut 30°. Calcule le côté adjacent (cos 30° ≈ 0,87).", "r": "adjacent = 10 × cos 30° ≈ 8,7 cm.", "indice": "cos = adjacent ÷ hypoténuse." },
+      { "q": "Un triangle rectangle a un côté opposé de 4 cm et un côté adjacent de 4 cm. Calcule la tangente de l'angle.", "r": "tan = 4 ÷ 4 = 1 ; l'angle vaut 45°.", "indice": "tan = opposé ÷ adjacent." },
+      { "q": "Quel rapport utiliser si l'on connaît l'hypoténuse et qu'on cherche le côté opposé ?", "r": "Le sinus.", "indice": "sin = opposé ÷ hypoténuse." },
+      { "q": "Sur une échelle de 5 m appuyée contre un mur, l'angle avec le sol vaut 60°. Calcule la hauteur (sin 60° ≈ 0,87).", "r": "hauteur = 5 × sin 60° ≈ 4,33 m.", "indice": "La hauteur est le côté opposé à l'angle de 60°." },
+      { "q": "Si cos x = 0,5, quel est l'angle x ?", "r": "x = 60°.", "indice": "Utilise la fonction inverse cos⁻¹." }
+    ],
+    "qcm": [
+      { "q": "Le sinus d'un angle est égal à :", "options": ["opposé ÷ hypoténuse", "adjacent ÷ hypoténuse", "opposé ÷ adjacent", "hypoténuse ÷ opposé"], "correct": 0, "exp": "sin = opposé ÷ hypoténuse." },
+      { "q": "Le cosinus d'un angle est égal à :", "options": ["opposé ÷ hypoténuse", "adjacent ÷ hypoténuse", "opposé ÷ adjacent", "hypoténuse ÷ adjacent"], "correct": 1, "exp": "cos = adjacent ÷ hypoténuse." },
+      { "q": "La tangente d'un angle est égale à :", "options": ["opposé ÷ adjacent", "adjacent ÷ opposé", "opposé ÷ hypoténuse", "hypoténuse ÷ adjacent"], "correct": 0, "exp": "tan = opposé ÷ adjacent." },
+      { "q": "L'hypoténuse est :", "options": ["le plus petit côté", "le côté le plus long, face à l'angle droit", "le côté adjacent", "le côté opposé à l'angle de 30°"], "correct": 1, "exp": "C'est le côté le plus long du triangle rectangle." },
+      { "q": "Pour un angle de 30°, sin 30° vaut environ :", "options": ["0,5", "0,87", "1", "0"], "correct": 0, "exp": "sin 30° = 0,5." },
+      { "q": "Pour trouver un angle à partir de son cosinus, on utilise :", "options": ["cos⁻¹", "sin", "tan", "√"], "correct": 0, "exp": "La fonction inverse cos⁻¹ donne l'angle." },
+      { "q": "Si opposé = 4 et adjacent = 4, tan vaut :", "options": ["1", "0", "2", "0,5"], "correct": 0, "exp": "4 ÷ 4 = 1." },
+      { "q": "La formule mnémotechnique SOH CAH TOA rappelle :", "options": ["les trois rapports trigonométriques", "les quatre saisons", "les règles de Thalès", "les racines carrées"], "correct": 0, "exp": "Sinus, cosinus, tangente." },
+      { "q": "Dans un triangle rectangle avec hypoténuse 10 et angle 30°, l'opposé vaut :", "options": ["5 cm", "8,7 cm", "10 cm", "3 cm"], "correct": 0, "exp": "10 × 0,5 = 5 cm." },
+      { "q": "Pour calculer un côté avec un angle, il faut connaître :", "options": ["un angle aigu et un côté", "trois angles", "l'aire seulement", "le périmètre seulement"], "correct": 0, "exp": "Un angle et un côté suffisent." }
+    ]
+  },
+  {
+    "classe": "3eme",
+    "matiere": "Mathématiques",
+    "id": "m3-statistiques",
+    "titre": "Statistiques : moyenne, médiane et étendue",
+    "duree": "40 min",
+    "contenu": "<p>Les <b>statistiques</b> permettent de résumer une série de données. Les indicateurs les plus utilisés sont la moyenne, la médiane et l'étendue.</p><div class='definition'><b>La moyenne</b> est la somme des valeurs divisée par leur nombre.<br><b>La médiane</b> est la valeur centrale d'une série rangée dans l'ordre : la moitié des valeurs est inférieure, l'autre moitié supérieure. Si la série a un nombre pair de valeurs, la médiane est la moyenne des deux valeurs centrales.<br><b>L'étendue</b> est la différence entre la plus grande et la plus petite valeur.<br><b>L'effectif</b> est le nombre de fois qu'une valeur apparaît.</div><div class='exemple'><b>Exemple :</b> notes d'un élève : 8 ; 12 ; 10 ; 14 ; 6. Moyenne = (8 + 12 + 10 + 14 + 6) ÷ 5 = 10. Série rangée : 6 ; 8 ; 10 ; 12 ; 14, médiane = 10. Étendue = 14 − 6 = 8.</div><div class='astuce'><b>Astuce :</b> la médiane est moins sensible aux valeurs extrêmes que la moyenne. Elle est donc utile quand une valeur très différente fausse la moyenne.</div>",
+    "exercices": [
+      { "q": "Calcule la moyenne de 4 ; 8 ; 10 ; 6.", "r": "(4 + 8 + 10 + 6) ÷ 4 = 28 ÷ 4 = 7.", "indice": "Additionne puis divise par le nombre de valeurs." },
+      { "q": "Calcule la médiane de 9 ; 3 ; 7 ; 5 ; 11.", "r": "Série rangée : 3 ; 5 ; 7 ; 9 ; 11. Médiane = 7.", "indice": "Range d'abord les valeurs." },
+      { "q": "Calcule la médiane de 2 ; 4 ; 6 ; 8.", "r": "(4 + 6) ÷ 2 = 5.", "indice": "Nombre pair de valeurs : prends les deux valeurs centrales." },
+      { "q": "Calcule l'étendue de 12 ; 5 ; 20 ; 9.", "r": "20 − 5 = 15.", "indice": "Différence entre le maximum et le minimum." },
+      { "q": "Une valeur de 100 apparaît dans la série 10 ; 12 ; 11 ; 100. Pourquoi la médiane est-elle plus pertinente que la moyenne ?", "r": "La valeur 100 tire la moyenne vers le haut ; la médiane reste représentative du centre des données.", "indice": "Pense à l'influence des valeurs extrêmes." }
+    ],
+    "qcm": [
+      { "q": "La moyenne de 2 ; 4 ; 6 vaut :", "options": ["4", "3", "6", "12"], "correct": 0, "exp": "(2 + 4 + 6) ÷ 3 = 4." },
+      { "q": "La médiane de 1 ; 3 ; 5 ; 7 ; 9 vaut :", "options": ["5", "3", "7", "9"], "correct": 0, "exp": "La valeur centrale est 5." },
+      { "q": "L'étendue de 3 ; 10 ; 15 vaut :", "options": ["12", "7", "5", "3"], "correct": 0, "exp": "15 − 3 = 12." },
+      { "q": "La médiane de 2 ; 4 ; 6 ; 8 vaut :", "options": ["5", "4", "6", "8"], "correct": 0, "exp": "(4 + 6) ÷ 2 = 5." },
+      { "q": "L'effectif d'une valeur est :", "options": ["le nombre de fois qu'elle apparaît", "la valeur maximale", "la moyenne", "l'étendue"], "correct": 0, "exp": "C'est le nombre d'occurrences." },
+      { "q": "La médiane est :", "options": ["la valeur centrale d'une série rangée", "la somme des valeurs", "la plus grande valeur", "la plus petite valeur"], "correct": 0, "exp": "Elle partage la série en deux moitiés." },
+      { "q": "La moyenne se calcule en :", "options": ["additionnant les valeurs et en divisant par leur nombre", "multipliant les valeurs", "ne gardant que la plus grande", "soustrayant toutes les valeurs"], "correct": 0, "exp": "C'est la définition de la moyenne." },
+      { "q": "Une valeur extrême influence surtout :", "options": ["la moyenne", "la médiane", "l'effectif", "le rang"], "correct": 0, "exp": "La moyenne est sensible aux valeurs extrêmes." },
+      { "q": "Pour une série de 6 valeurs, la médiane est :", "options": ["la moyenne des 3e et 4e valeurs rangées", "la 3e valeur seulement", "la 6e valeur", "la 1re valeur"], "correct": 0, "exp": "Nombre pair : moyenne des deux valeurs centrales." },
+      { "q": "Dans la série 8 ; 12 ; 10 ; 14 ; 6, la moyenne vaut :", "options": ["10", "8", "12", "14"], "correct": 0, "exp": "La somme est 50, divisée par 5 : 10." }
+    ]
+  }
+]

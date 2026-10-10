@@ -1,0 +1,110 @@
+[
+  {
+    "classe": "6eme",
+    "matiere": "Histoire",
+    "id": "h6-prehistoire",
+    "titre": "La Préhistoire : l'homme et les outils",
+    "duree": "40 min",
+    "contenu": "<p>L'<b>Histoire</b> commence avec l'invention de l'écriture, vers 3300 avant notre ère. Ce qui s'est passé avant est la <b>Préhistoire</b> : on la connaît grâce aux fossiles, aux outils et aux peintures laissés par les hommes.</p><div class='definition'><b>Le Paléolithique</b> (âge de la pierre taillée) : les hommes sont chasseurs-cueilleurs. Ils vivent de la chasse et de la cueillette et se déplacent au gré des saisons.<br><b>Le Néolithique</b> (âge de la pierre polie) : les hommes deviennent sédentaires. Ils pratiquent l'agriculture et l'élevage et fabriquent de la poterie.</div><p>En Afrique, des sites comme ceux de la vallée du Rift ou du Sahara ont livré de nombreux outils et des peintures rupestres.</p><div class='exemple'><b>Exemple :</b> un biface, outil en pierre taillée des deux côtés, servait à découper la viande et à travailler le bois. Une poterie, elle, servait à stocker et cuire les aliments.</div><div class='astuce'><b>Astuce :</b> retiens la logique : paléo = ancien (pierre taillée, chasse), néo = nouveau (pierre polie, agriculture).</div>",
+    "exercices": [
+      { "q": "Pourquoi appelle-t-on la période avant l'écriture « la Préhistoire » ?", "r": "Parce que les hommes n'avaient pas encore de texte écrit. On connaît cette période par les fossiles, les outils et les peintures.", "indice": "Pense à ce qui permet de savoir ce qui s'est passé sans écrit." },
+      { "q": "Compare le mode de vie au Paléolithique et au Néolithique.", "r": "Au Paléolithique, les hommes sont chasseurs-cueilleurs et nomades. Au Néolithique, ils deviennent sédentaires, pratiquent l'agriculture et l'élevage.", "indice": "Regarde ce qu'ils mangent et s'ils restent au même endroit." },
+      { "q": "Explique la différence entre pierre taillée et pierre polie.", "r": "La pierre taillée est éclatée pour former un tranchant. La pierre polie est frottée pour lisser sa surface, ce qui la rend plus solide et plus tranchante.", "indice": "Les noms des deux âges donnent la réponse." },
+      { "q": "Quelles innovations du Néolithique ont changé la vie des hommes ?", "r": "L'agriculture, l'élevage et la poterie.", "indice": "Pense à ce qui permet de cultiver et de conserver la nourriture." },
+      { "q": "Quelle est la source principale qui permet de connaître la Préhistoire ?", "r": "Les vestiges : fossiles, outils et peintures rupestres.", "indice": "Ce sont des traces laissées par les hommes." }
+    ],
+    "qcm": [
+      { "q": "Quand commence l'Histoire ?", "options": ["avec l'invention de l'écriture", "avec la naissance de l'homme", "avec la pierre polie", "avec l'agriculture"], "correct": 0, "exp": "L'Histoire commence avec l'écriture, vers 3300 avant notre ère." },
+      { "q": "Comment appelle-t-on l'âge de la pierre taillée ?", "options": ["le Néolithique", "le Paléolithique", "l'Antiquité", "le Moyen Âge"], "correct": 1, "exp": "Le Paléolithique est l'âge de la pierre taillée." },
+      { "q": "Au Paléolithique, les hommes sont :", "options": ["agriculteurs", "chasseurs-cueilleurs", "commerçants", "sédentaires"], "correct": 1, "exp": "Ils vivent de la chasse et de la cueillette, en se déplaçant." },
+      { "q": "Quelle activité apparaît au Néolithique ?", "options": ["la chasse", "l'agriculture", "la cueillette", "le nomadisme"], "correct": 1, "exp": "Avec le Néolithique, les hommes se mettent à cultiver la terre." },
+      { "q": "Le Néolithique est aussi appelé :", "options": ["l'âge de la pierre taillée", "l'âge de la pierre polie", "l'âge du bronze", "l'âge du fer"], "correct": 1, "exp": "Le Néolithique est l'âge de la pierre polie." },
+      { "q": "Quel objet est fabriqué au Néolithique ?", "options": ["un biface", "une poterie", "une écriture", "un fusil"], "correct": 1, "exp": "La poterie apparaît au Néolithique, pour stocker et cuire." },
+      { "q": "Qu'est-ce qu'un peuple sédentaire ?", "options": ["un peuple qui se déplace sans cesse", "un peuple qui vit au même endroit", "un peuple qui ne mange pas", "un peuple sans outils"], "correct": 1, "exp": "Un sédentaire reste installé au même endroit." },
+      { "q": "Quelle source permet de connaître la Préhistoire ?", "options": ["les livres anciens", "les fossiles et les outils", "les journaux", "les archives écrites"], "correct": 1, "exp": "En l'absence d'écrit, on utilise les vestiges : fossiles, outils, peintures." },
+      { "q": "Quel outil sert à découper la viande au Paléolithique ?", "options": ["un biface", "une poterie", "une charrue", "un livre"], "correct": 0, "exp": "Le biface, outil en pierre taillée, servait à découper." },
+      { "q": "Le mot « préhistoire » signifie :", "options": ["l'histoire moderne", "avant l'histoire, avant l'écriture", "l'histoire de la France", "l'histoire du Cameroun"], "correct": 1, "exp": "« Pré » signifie avant : la Préhistoire est la période avant l'écriture." }
+    ]
+  },
+  {
+    "classe": "6eme",
+    "matiere": "Histoire",
+    "id": "h6-egypte",
+    "titre": "L'Égypte ancienne : le Nil et les pharaons",
+    "duree": "40 min",
+    "contenu": "<p>L'<b>Égypte ancienne</b> est l'une des premières grandes civilisations. Elle s'est développée le long du <b>Nil</b>, un fleuve qui inonde régulièrement les terres et les rend fertiles.</p><div class='definition'><b>Pharaon :</b> roi de l'Égypte ancienne, considéré comme le représentant des dieux sur terre.<br><b>Pyramide :</b> tombeau monumental construit pour les pharaons, par exemple à Gizeh.<br><b>Hiéroglyphes :</b> écriture de l'Égypte ancienne, faite de signes représentant des sons, des mots ou des idées.</div><p>Le Nil permet l'agriculture : on cultive le blé, l'orge et le lin. L'Égypte est organisée en un pouvoir fort, avec des scribes qui savent écrire et compter.</p><div class='exemple'><b>Exemple :</b> les pyramides de Gizeh, construites il y a environ 4 500 ans, montrent la puissance du pharaon et l'organisation du travail.</div><div class='astuce'><b>Astuce :</b> retiens le lien : le Nil fournit l'eau, donc l'agriculture, donc la richesse et la civilisation.</div>",
+    "exercices": [
+      { "q": "Pourquoi la civilisation égyptienne s'est-elle développée le long du Nil ?", "r": "Le Nil inonde les terres chaque année et les rend fertiles. Il fournit l'eau et permet l'agriculture.", "indice": "Pense à ce que la plante a besoin pour pousser." },
+      { "q": "Qui est le pharaon ?", "r": "Le pharaon est le roi de l'Égypte ancienne. Il est considéré comme le représentant des dieux sur terre.", "indice": "C'est le chef suprême du pays." },
+      { "q": "À quoi servaient les pyramides ?", "r": "Elles servaient de tombeaux monumentaux pour les pharaons.", "indice": "Pense à leur fonction funéraire." },
+      { "q": "Que sont les hiéroglyphes ?", "r": "Ce sont les signes de l'écriture égyptienne : ils représentent des sons, des mots ou des idées.", "indice": "C'est une écriture différente de l'alphabet que tu utilises." },
+      { "q": "Cite deux cultures que l'Égypte ancienne pratiquait grâce au Nil.", "r": "Le blé et l'orge (ou le lin).", "indice": "Pense aux céréales cultivées dans les terres fertiles." }
+    ],
+    "qcm": [
+      { "q": "Sur quel fleuve s'est développée l'Égypte ancienne ?", "options": ["le Congo", "le Nil", "le Niger", "le Zambèze"], "correct": 1, "exp": "L'Égypte ancienne s'est développée le long du Nil." },
+      { "q": "Comment s'appelle le roi de l'Égypte ancienne ?", "options": ["le sultan", "le pharaon", "l'empereur", "le chef tribal"], "correct": 1, "exp": "Le roi d'Égypte est le pharaon." },
+      { "q": "À quoi servent les pyramides ?", "options": ["à stocker l'eau", "de tombeaux pour les pharaons", "de temples pour les esclaves", "de marchés"], "correct": 1, "exp": "Les pyramides sont des tombeaux monumentaux pour les pharaons." },
+      { "q": "Comment s'appelle l'écriture de l'Égypte ancienne ?", "options": ["le cunéiforme", "les hiéroglyphes", "l'alphabet latin", "le sanskrit"], "correct": 1, "exp": "Les hiéroglyphes sont l'écriture égyptienne." },
+      { "q": "Pourquoi le Nil est-il important ?", "options": ["il fournit du sel", "ses crues rendent les terres fertiles", "il sert de route vers l'Europe", "il fournit du pétrole"], "correct": 1, "exp": "Les crues du Nil fertilisent les terres : c'est la base de l'agriculture." },
+      { "q": "Quelle céréale était cultivée en Égypte ?", "options": ["le blé", "la pomme de terre", "le maïs", "le café"], "correct": 0, "exp": "Le blé et l'orge étaient cultivés grâce au Nil." },
+      { "q": "Où se trouvent les pyramides de Gizeh ?", "options": ["en Égypte", "en Chine", "au Cameroun", "en Inde"], "correct": 0, "exp": "Les pyramides de Gizeh se trouvent en Égypte, près du Caire." },
+      { "q": "Qui étaient les scribes dans l'Égypte ancienne ?", "options": ["des soldats", "des personnes qui savaient écrire et compter", "des esclaves uniquement", "des marchands de bétail"], "correct": 1, "exp": "Les scribes maîtrisaient l'écriture et les calculs : ils travaillaient pour l'administration." },
+      { "q": "Le pharaon est considéré comme :", "options": ["un simple paysan", "le représentant des dieux sur terre", "un commerçant", "un esclave"], "correct": 1, "exp": "Le pharaon était perçu comme le représentant des dieux." },
+      { "q": "Quel est le lien entre le Nil et la civilisation égyptienne ?", "options": ["aucun lien", "le Nil fournit l'eau, donc l'agriculture et la richesse", "le Nil est un désert", "le Nil ne sert qu'aux bateaux de guerre"], "correct": 1, "exp": "L'eau du Nil permet l'agriculture, la richesse et le développement de la civilisation." }
+    ]
+  },
+  {
+    "classe": "6eme",
+    "matiere": "Histoire",
+    "id": "h6-mesopotamie",
+    "titre": "La Mésopotamie : le Tigre, l'Euphrate et l'écriture",
+    "duree": "40 min",
+    "contenu": "<p>La <b>Mésopotamie</b>, qui signifie « entre les fleuves », est située entre le <b>Tigre</b> et l'<b>Euphrate</b>, dans l'actuel Irak. C'est un autre berceau de la civilisation.</p><div class='definition'><b>Cité-État :</b> ville qui gouverne elle-même son territoire avec ses terres et ses dieux (Ur, Uruk, Babylone).<br><b>Écriture cunéiforme :</b> écriture inventée en Mésopotamie, gravée sur des tablettes d'argile avec un roseau taillé en biseau.<br><b>Code de Hammurabi :</b> ensemble de lois écrites vers 1750 avant notre ère, gravées sur une stèle en pierre.</div><p>Les Mésopotamiens pratiquent l'agriculture grâce aux fleuves, mais leurs crues sont irrégulières : il faut construire des canaux pour irriguer les champs.</p><div class='exemple'><b>Exemple :</b> le Code de Hammurabi prévoit « œil pour œil, dent pour dent » : chaque punition dépend de la faute commise.</div><div class='astuce'><b>Astuce :</b> retiens les trois grandes inventions de la Mésopotamie : l'écriture cunéiforme, les cités-États et les lois écrites.</div>",
+    "exercices": [
+      { "q": "Que signifie le mot « Mésopotamie » ?", "r": "« Entre les fleuves » : la région est située entre le Tigre et l'Euphrate.", "indice": "Décompose le mot : méso = au milieu, potamos = fleuve." },
+      { "q": "Quelle est l'invention majeure de la Mésopotamie concernant l'écriture ?", "r": "L'écriture cunéiforme, gravée sur des tablettes d'argile avec un roseau taillé.", "indice": "Pense au support : de l'argile." },
+      { "q": "Qu'est-ce qu'une cité-État ?", "r": "Une ville qui se gouverne elle-même, avec son propre territoire et ses dieux.", "indice": "Compare avec une ville aujourd'hui : elle a ses propres lois et son propre chef." },
+      { "q": "Pourquoi les Mésopotamiens devaient-ils construire des canaux ?", "r": "Parce que les crues des fleuves sont irrégulières : les canaux permettent d'amener l'eau dans les champs.", "indice": "Pense à l'agriculture et à l'eau." },
+      { "q": "Que prévoit le Code de Hammurabi ?", "r": "Des lois écrites qui fixent la punition selon la faute, comme « œil pour œil, dent pour dent ».", "indice": "C'est un ensemble de lois écrites." }
+    ],
+    "qcm": [
+      { "q": "Entre quels fleuves se situe la Mésopotamie ?", "options": ["le Nil et le Congo", "le Tigre et l'Euphrate", "le Niger et le Sénégal", "le Rhin et le Danube"], "correct": 1, "exp": "La Mésopotamie est située entre le Tigre et l'Euphrate." },
+      { "q": "Comment s'appelle l'écriture mésopotamienne ?", "options": ["les hiéroglyphes", "le cunéiforme", "l'alphabet grec", "les idéogrammes chinois"], "correct": 1, "exp": "L'écriture cunéiforme est née en Mésopotamie." },
+      { "q": "Sur quel support écrivait-on en Mésopotamie ?", "options": ["le papyrus", "l'argile", "le bois", "le cuir"], "correct": 1, "exp": "On gravait les signes sur des tablettes d'argile." },
+      { "q": "Une cité-État est :", "options": ["une ville qui se gouverne elle-même", "un pays sans ville", "une prison", "une forêt"], "correct": 0, "exp": "La cité-État est une ville indépendante avec son propre gouvernement." },
+      { "q": "Quel est le nom du roi qui a fait écrire un code de lois ?", "options": ["Ramsès", "Hammurabi", "Néfertiti", "Alexandre"], "correct": 1, "exp": "Hammurabi est le roi qui fit rédiger le célèbre Code de lois." },
+      { "q": "Que signifie « œil pour œil » dans le Code de Hammurabi ?", "options": ["la punition est proportionnelle à la faute", "on pardonne tout", "on ne punit jamais", "on punit les innocents"], "correct": 0, "exp": "La punition doit correspondre à la faute commise." },
+      { "q": "Pourquoi construire des canaux en Mésopotamie ?", "options": ["pour la navigation uniquement", "pour irriguer les champs", "pour se protéger de la mer", "pour produire du sel"], "correct": 1, "exp": "Les crues irrégulières imposent des canaux pour amener l'eau aux cultures." },
+      { "q": "Le mot cunéiforme vient de :", "options": ["cuneus, qui signifie coin", "un roi célèbre", "un fleuve", "une ville"], "correct": 0, "exp": "Les signes ont la forme de petits coins gravés dans l'argile." },
+      { "q": "Quelle ville est une cité-État mésopotamienne ?", "options": ["Ur", "Paris", "Londres", "Dakar"], "correct": 0, "exp": "Ur est une célèbre cité-État de Mésopotamie." },
+      { "q": "Où se situe la Mésopotamie aujourd'hui ?", "options": ["en Irak", "au Cameroun", "au Brésil", "au Japon"], "correct": 0, "exp": "La Mésopotamie correspond à l'actuel Irak, et une partie de la Syrie et de la Turquie." }
+    ]
+  },
+  {
+    "classe": "6eme",
+    "matiere": "Histoire",
+    "id": "h6-afrique-ancienne",
+    "titre": "L'Afrique ancienne : Nok et le royaume de Kush",
+    "duree": "40 min",
+    "contenu": "<p>L'Afrique possède de très anciennes civilisations. Elles sont souvent méconnues, alors qu'elles ont développé l'agriculture, le travail des métaux et l'art.</p><div class='definition'><b>La culture de Nok :</b> société installée dans l'actuel Nigeria vers 1500 avant notre ère jusqu'à environ 500 de notre ère. Elle est célèbre pour ses <b>statuettes en terre cuite</b> et pour le travail du fer.<br><b>Le royaume de Kush :</b> royaume situé sur le Nil, au sud de l'Égypte (actuel Soudan). Il a dominé l'Égypte vers 750 avant notre ère et possédait de nombreuses pyramides.</div><p>Ces civilisations montrent que l'Afrique a connu des sociétés organisées, des techniques avancées et des échanges avec d'autres régions du monde.</p><div class='exemple'><b>Exemple :</b> les statuettes de Nok représentent des têtes humaines aux coiffures travaillées. Elles sont aujourd'hui conservées dans des musées pour leur valeur artistique.</div><div class='astuce'><b>Astuce :</b> quand on parle de l'histoire africaine, pense à citer des exemples précis : Nok pour l'art et le fer, Kush pour le pouvoir politique et les pyramides.</div>",
+    "exercices": [
+      { "q": "Où se situait la culture de Nok ?", "r": "Dans l'actuel Nigeria.", "indice": "Pense au pays d'Afrique de l'Ouest situé à l'est du Cameroun." },
+      { "q": "Pour quelle production artistique la culture de Nok est-elle connue ?", "r": "Pour ses statuettes en terre cuite, représentant souvent des têtes humaines.", "indice": "Pense au matériau utilisé." },
+      { "q": "Où se situait le royaume de Kush ?", "r": "Sur le Nil, au sud de l'Égypte, dans l'actuel Soudan.", "indice": "Il est voisin de l'Égypte." },
+      { "q": "Pourquoi le royaume de Kush est-il important ?", "r": "Il a dominé l'Égypte vers 750 avant notre ère et possédait de nombreuses pyramides.", "indice": "Pense au pouvoir politique et aux constructions." },
+      { "q": "Cite deux preuves que l'Afrique a connu des civilisations avancées.", "r": "Les statuettes de Nok et les pyramides de Kush, ou le travail du fer.", "indice": "Pense à l'art et aux constructions." }
+    ],
+    "qcm": [
+      { "q": "Dans quel pays actuel se trouve la culture de Nok ?", "options": ["Nigeria", "Égypte", "Ghana", "Afrique du Sud"], "correct": 0, "exp": "La culture de Nok s'est développée dans l'actuel Nigeria." },
+      { "q": "Quel matériau est utilisé pour les statuettes de Nok ?", "options": ["le marbre", "la terre cuite", "l'or", "le bois précieux"], "correct": 1, "exp": "Les statuettes de Nok sont en terre cuite." },
+      { "q": "Quel est le nom du royaume situé au sud de l'Égypte ?", "options": ["Kush", "Akkad", "Sumer", "Carthage"], "correct": 0, "exp": "Le royaume de Kush se situait au sud de l'Égypte, sur le Nil." },
+      { "q": "Quelle activité la culture de Nok maîtrisait-elle ?", "options": ["le travail du fer", "la navigation spatiale", "l'imprimerie", "la fabrication de voitures"], "correct": 0, "exp": "La culture de Nok pratiquait le travail du fer." },
+      { "q": "Le royaume de Kush a dominé :", "options": ["la Mésopotamie", "l'Égypte", "la Grèce", "la Chine"], "correct": 1, "exp": "Kush a dominé l'Égypte vers 750 avant notre ère." },
+      { "q": "Le royaume de Kush possédait :", "options": ["des pyramides", "des gratte-ciels", "des châteaux de pierre en Europe", "des bateaux à vapeur"], "correct": 0, "exp": "Les rois de Kush ont fait construire de nombreuses pyramides." },
+      { "q": "La civilisation de Nok est située dans :", "options": ["l'Afrique de l'Ouest", "l'Afrique australe", "l'Asie", "l'Amérique"], "correct": 0, "exp": "Le Nigeria se trouve en Afrique de l'Ouest." },
+      { "q": "Quel fleuve traverse le royaume de Kush ?", "options": ["le Nil", "le Congo", "le Niger", "l'Amazone"], "correct": 0, "exp": "Le royaume de Kush se situait le long du Nil." },
+      { "q": "L'histoire de l'Afrique ancienne montre :", "options": ["qu'elle n'a pas de civilisation", "qu'elle a connu des sociétés organisées et des techniques avancées", "qu'elle était vide", "qu'elle n'avait pas d'art"], "correct": 1, "exp": "L'Afrique a connu de grandes civilisations avec des techniques et un art remarquables." },
+      { "q": "Quel exemple d'art est lié à Nok ?", "options": ["les statuettes en terre cuite", "les tableaux à l'huile", "les vitraux", "les mosaïques romaines"], "correct": 0, "exp": "Les statuettes en terre cuite sont l'art le plus connu de Nok." }
+    ]
+  }
+]

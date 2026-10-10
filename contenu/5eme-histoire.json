@@ -1,0 +1,110 @@
+[
+  {
+    "classe": "5eme",
+    "matiere": "Histoire",
+    "id": "h5-grece-democratie",
+    "titre": "La Grèce antique : la naissance de la démocratie à Athènes",
+    "duree": "40 min",
+    "contenu": "<p>La Grèce antique est constituée de nombreuses <b>cités-États</b> indépendantes, dont la plus célèbre est <b>Athènes</b>. C'est à Athènes, vers le Ve siècle avant notre ère, que naît la <b>démocratie</b>.</p><div class='definition'><b>Démocratie :</b> du grec demos (peuple) et kratos (pouvoir). C'est un régime où le peuple exerce le pouvoir.<br><b>L'Assemblée (Ecclésia) :</b> réunion des citoyens qui votent les lois et décident de la guerre et de la paix.<br><b>Le citoyen :</b> à Athènes, seuls les hommes adultes nés de parents athéniens sont citoyens. Les femmes, les esclaves et les étrangers n'ont pas le droit de vote.</div><p>Les Athéniens tirent au sort certaines fonctions pour éviter qu'une seule famille prenne le pouvoir. Périclès, au Ve siècle avant notre ère, est le dirigeant le plus célèbre de cette période.</p><div class='exemple'><b>Exemple :</b> lorsque l'Assemblée décide de construire une flotte de navires, chaque citoyen peut donner son avis et voter. C'est le principe de la démocratie directe.</div><div class='astuce'><b>Astuce :</b> retiens que la démocratie athénienne était réservée à une minorité de la population. C'est un point important à citer dans une dissertation d'histoire.</div>",
+    "exercices": [
+      { "q": "Que signifie le mot « démocratie » ?", "r": "Pouvoir du peuple (demos : peuple ; kratos : pouvoir).", "indice": "Décompose le mot grec." },
+      { "q": "Qui était citoyen à Athènes ?", "r": "Les hommes adultes nés de parents athéniens. Les femmes, les esclaves et les étrangers ne l'étaient pas.", "indice": "Pense à qui avait le droit de voter." },
+      { "q": "Quel est le rôle de l'Assemblée (Ecclésia) ?", "r": "Elle vote les lois et décide de la guerre et de la paix.", "indice": "Pense au pouvoir des citoyens réunis." },
+      { "q": "Pourquoi les Athéniens tiraient-ils certaines fonctions au sort ?", "r": "Pour empêcher qu'une seule famille ou un seul groupe prenne le pouvoir.", "indice": "Pense à l'égalité entre citoyens." },
+      { "q": "Explique pourquoi la démocratie athénienne était limitée.", "r": "Seule une minorité de la population (hommes adultes athéniens) pouvait voter.", "indice": "Relis la définition du citoyen." }
+    ],
+    "qcm": [
+      { "q": "La démocratie est née :", "options": ["à Rome", "à Athènes", "en Égypte", "au Mali"], "correct": 1, "exp": "La démocratie est née à Athènes au Ve siècle avant notre ère." },
+      { "q": "Le mot démocratie signifie :", "options": ["pouvoir du roi", "pouvoir du peuple", "pouvoir des dieux", "pouvoir des riches"], "correct": 1, "exp": "Demos : peuple ; kratos : pouvoir." },
+      { "q": "L'Assemblée athénienne s'appelait :", "options": ["le Sénat", "l'Ecclésia", "le Forum", "le Parthénon"], "correct": 1, "exp": "L'Ecclésia était l'assemblée des citoyens." },
+      { "q": "À Athènes, les femmes :", "options": ["étaient citoyennes", "n'avaient pas le droit de vote", "votaient comme les hommes", "dirigeaient la cité"], "correct": 1, "exp": "Les femmes n'étaient pas citoyennes." },
+      { "q": "Les esclaves à Athènes :", "options": ["votaient", "n'étaient pas citoyens", "étaient rois", "dirigeaient l'Assemblée"], "correct": 1, "exp": "Les esclaves étaient exclus de la citoyenneté." },
+      { "q": "Périclès est un :", "options": ["roi d'Égypte", "dirigeant athénien célèbre", "empereur romain", "pharaon"], "correct": 1, "exp": "Périclès est l'homme politique athénien le plus connu du Ve siècle." },
+      { "q": "Une cité-État est :", "options": ["un empire immense", "une ville indépendante avec son propre gouvernement", "un village", "une île"], "correct": 1, "exp": "La cité-État est une ville qui se gouverne elle-même." },
+      { "q": "Le tirage au sort permettait :", "options": ["de choisir les champions sportifs", "d'éviter qu'une seule famille prenne le pouvoir", "de payer les impôts", "de construire des temples"], "correct": 1, "exp": "Il assurait l'égalité entre citoyens." },
+      { "q": "Au Ve siècle avant notre ère, Athènes est :", "options": ["une démocratie", "une monarchie absolue", "une colonie égyptienne", "un empire perse"], "correct": 0, "exp": "Athènes est alors une démocratie." },
+      { "q": "La démocratie athénienne était :", "options": ["ouverte à tous les habitants", "réservée à une minorité de citoyens", "une dictature", "une monarchie"], "correct": 1, "exp": "Elle était limitée aux citoyens hommes adultes." }
+    ]
+  },
+  {
+    "classe": "5eme",
+    "matiere": "Histoire",
+    "id": "h5-empire-romain",
+    "titre": "L'Empire romain : organisation et héritage",
+    "duree": "40 min",
+    "contenu": "<p>Rome est d'abord une <b>république</b> (509 av. J.-C.), gouvernée par un <b>Sénat</b> et des magistrats élus. En 27 avant notre ère, Auguste devient le premier <b>empereur</b> : c'est le début de l'Empire romain.</p><div class='definition'><b>Empire :</b> territoire très vaste dirigé par un empereur, qui regroupe des peuples différents.<br><b>Romanisation :</b> processus par lequel les peuples conquis adoptent la langue latine, les lois, les coutumes et le mode de vie romains.<br><b>Les voies romaines :</b> routes pavées qui relient les villes de l'Empire et facilitent le commerce et l'armée.</div><p>L'Empire romain s'étend autour de la Méditerranée. Il laisse un héritage important : le droit (lois écrites), la langue latine (à l'origine des langues romanes comme le français, l'espagnol ou l'italien) et l'architecture (arcs, aqueducs, théâtres).</p><div class='exemple'><b>Exemple :</b> le mot « français » vient du latin. Les lois romaines inspirent encore les codes juridiques de nombreux pays d'aujourd'hui.</div><div class='astuce'><b>Astuce :</b> pour retenir les étapes, pense à : République (509 av. J.-C.) → Empire (27 av. J.-C.). Ce passage est au cœur du programme.</div>",
+    "exercices": [
+      { "q": "Quelle différence y a-t-il entre la république romaine et l'Empire ?", "r": "La république est gouvernée par un Sénat et des magistrats élus. L'Empire est dirigé par un empereur.", "indice": "Pense à qui détient le pouvoir." },
+      { "q": "Qui est le premier empereur romain ?", "r": "Auguste, en 27 avant notre ère.", "indice": "Il devient empereur après la fin de la république." },
+      { "q": "Qu'est-ce que la romanisation ?", "r": "C'est l'adoption par les peuples conquis de la langue latine, des lois, des coutumes et du mode de vie romains.", "indice": "Pense à ce que les peuples conquis adoptent." },
+      { "q": "Cite deux héritages de l'Empire romain.", "r": "Le droit (lois écrites), la langue latine, l'architecture (arcs, aqueducs), les voies romaines.", "indice": "Pense à ce qu'on utilise encore aujourd'hui." },
+      { "q": "À quoi servaient les voies romaines ?", "r": "À relier les villes, faciliter le commerce et permettre à l'armée de se déplacer.", "indice": "Pense aux routes qui traversent l'Empire." }
+    ],
+    "qcm": [
+      { "q": "Rome est d'abord :", "options": ["un empire", "une république", "une monarchie égyptienne", "une colonie grecque"], "correct": 1, "exp": "Rome est d'abord une république avant de devenir un empire." },
+      { "q": "Le premier empereur romain est :", "options": ["Jules César", "Auguste", "Néron", "Périclès"], "correct": 1, "exp": "Auguste devient empereur en 27 avant notre ère." },
+      { "q": "La romanisation désigne :", "options": ["la construction de routes uniquement", "l'adoption de la culture romaine par les peuples conquis", "la fin de l'Empire", "la guerre civile"], "correct": 1, "exp": "C'est l'adoption de la langue, des lois et des coutumes romaines." },
+      { "q": "La langue latine est à l'origine du :", "options": ["chinois", "français", "japonais", "swahili"], "correct": 1, "exp": "Le français est une langue romane, issue du latin." },
+      { "q": "Les voies romaines sont :", "options": ["des routes pavées reliant les villes", "des rivières", "des temples", "des murs"], "correct": 0, "exp": "Ce sont des routes pavées de l'Empire." },
+      { "q": "Le Sénat était une institution :", "options": ["de l'Empire", "de la république romaine", "de la Grèce", "de l'Égypte"], "correct": 1, "exp": "Le Sénat dirige la république romaine." },
+      { "q": "L'Empire romain s'étend autour :", "options": ["de l'océan Pacifique", "de la Méditerranée", "de la mer Noire uniquement", "du désert du Sahara"], "correct": 1, "exp": "L'Empire romain se développe autour de la Méditerranée." },
+      { "q": "Un héritage de l'Empire romain est :", "options": ["l'imprimerie", "le droit écrit", "la voiture", "l'ordinateur"], "correct": 1, "exp": "Le droit romain inspire encore les lois de nombreux pays." },
+      { "q": "La république romaine est dirigée par :", "options": ["un empereur", "un Sénat et des magistrats élus", "un pharaon", "un roi héréditaire"], "correct": 1, "exp": "Le Sénat et les magistrats élus gouvernent la république." },
+      { "q": "L'architecture romaine se reconnaît par :", "options": ["les arcs et les aqueducs", "les pyramides", "les pagodes", "les mosquées"], "correct": 0, "exp": "Arcs, aqueducs et théâtres sont typiques de Rome." }
+    ]
+  },
+  {
+    "classe": "5eme",
+    "matiere": "Histoire",
+    "id": "h5-ghana",
+    "titre": "L'empire du Ghana : or, sel et commerce transsaharien",
+    "duree": "40 min",
+    "contenu": "<p>Le <b>Ghana</b> (ou Wagadou) est un grand empire d'Afrique de l'Ouest, situé entre le Sahara et la savane, vers le VIIIe siècle de notre ère. Il ne doit pas être confondu avec le Ghana actuel, qui porte le même nom.</p><div class='definition'><b>Le commerce transsaharien :</b> échanges entre l'Afrique subsaharienne et l'Afrique du Nord à travers le désert du Sahara.<br><b>Le roi (kaya-magan) :</b> chef de l'empire, qui contrôle le commerce et lève des impôts.<br><b>Les produits d'échange :</b> l'or et les esclaves venaient du sud ; le sel et les produits du Nord arrivaient par les caravanes.</div><p>Le Ghana était très riche grâce à l'or. Il contrôlait les routes du commerce entre le Sud, riche en or, et le Nord, qui avait besoin de l'or. Sa capitale, Koumbi Saleh, était une ville importante.</p><div class='exemple'><b>Exemple :</b> les caravanes transportaient du sel du Sahara vers le sud, où il était très recherché. En échange, elles revenaient avec de l'or.</div><div class='astuce'><b>Astuce :</b> retiens le rôle clé : le Ghana était riche parce qu'il contrôlait le commerce de l'or et du sel entre le Sud et le Nord.</div>",
+    "exercices": [
+      { "q": "Où se situait l'empire du Ghana ?", "r": "En Afrique de l'Ouest, entre le Sahara et la savane.", "indice": "Pense à la position par rapport au désert." },
+      { "q": "Pourquoi le Ghana était-il riche ?", "r": "Il contrôlait le commerce de l'or et du sel entre le Sud et le Nord.", "indice": "Pense aux produits échangés et aux routes." },
+      { "q": "Qu'est-ce que le commerce transsaharien ?", "r": "Les échanges entre l'Afrique subsaharienne et l'Afrique du Nord à travers le Sahara.", "indice": "Sahara = désert au nord." },
+      { "q": "Quels produits venaient du Sud et quels produits venaient du Nord ?", "r": "Du Sud : l'or. Du Nord : le sel.", "indice": "Pense aux richesses de chaque région." },
+      { "q": "Quel est le nom de la capitale du Ghana ?", "r": "Koumbi Saleh.", "indice": "C'était une ville importante de l'empire." }
+    ],
+    "qcm": [
+      { "q": "L'empire du Ghana se situe :", "options": ["en Asie", "en Afrique de l'Ouest", "en Europe", "en Amérique"], "correct": 1, "exp": "Il se trouvait en Afrique de l'Ouest." },
+      { "q": "Le Ghana était riche grâce à :", "options": ["le pétrole", "l'or", "le fer", "le café"], "correct": 1, "exp": "L'or était la principale richesse du Ghana." },
+      { "q": "Le commerce transsaharien traverse :", "options": ["la forêt équatoriale", "le Sahara", "l'océan Atlantique", "la mer Rouge"], "correct": 1, "exp": "Les caravanes traversaient le Sahara." },
+      { "q": "Le sel venait :", "options": ["du Sud", "du Nord", "de l'Est", "de l'océan"], "correct": 1, "exp": "Le sel était produit au Nord et transporté vers le Sud." },
+      { "q": "La capitale du Ghana s'appelait :", "options": ["Koumbi Saleh", "Tombouctou", "Gao", "Niani"], "correct": 0, "exp": "Koumbi Saleh était la capitale du Ghana." },
+      { "q": "Le Ghana ne doit pas être confondu avec :", "options": ["le Mali", "le Ghana actuel", "le Nigeria", "le Sénégal"], "correct": 1, "exp": "Le pays actuel porte le même nom mais est différent de l'empire ancien." },
+      { "q": "Les caravanes transportaient :", "options": ["du sel et de l'or", "des voitures", "des avions", "du pétrole"], "correct": 0, "exp": "Elles transportaient le sel et l'or entre le Nord et le Sud." },
+      { "q": "Le kaya-magan est :", "options": ["le roi du Ghana", "un animal", "une ville", "une monnaie"], "correct": 0, "exp": "Le kaya-magan est le titre du roi du Ghana." },
+      { "q": "Le Ghana contrôlait :", "options": ["les routes du commerce", "les mers", "les montagnes", "les forêts"], "correct": 0, "exp": "Il contrôlait les routes commerciales entre le Sud et le Nord." },
+      { "q": "Le commerce de l'or a fait la richesse :", "options": ["de l'empire du Ghana", "de Rome", "d'Athènes", "de la Mésopotamie"], "correct": 0, "exp": "C'est la richesse principale de l'empire du Ghana." }
+    ]
+  },
+  {
+    "classe": "5eme",
+    "matiere": "Histoire",
+    "id": "h5-mali-soundiata",
+    "titre": "L'empire du Mali et Soundiata Keïta",
+    "duree": "40 min",
+    "contenu": "<p>L'<b>empire du Mali</b> succède au Ghana. Il est fondé au XIIIe siècle par <b>Soundiata Keïta</b>, un chef des Malinkés. Son pouvoir s'étend sur une grande partie de l'Afrique de l'Ouest.</p><div class='definition'><b>Soundiata Keïta :</b> fondateur de l'empire du Mali, vainqueur du roi Soumaoro Kanté à la bataille de Kirina (vers 1235).<br><b>La Charte du Mandé :</b> texte de règles transmis oralement, qui organise la vie de l'empire et protège les droits des habitants.<br><b>Mansa Moussa :</b> souverain célèbre du Mali, connu pour son pèlerinage à La Mecque en 1324, qui impressionna le monde par sa richesse.</div><p>L'empire du Mali contrôle le commerce de l'or et du sel. Des villes comme Tombouctou et Djenné deviennent des centres de savoir : écoles coraniques, manuscrits et mosquées.</p><div class='exemple'><b>Exemple :</b> Mansa Moussa, lors de son pèlerinage à La Mecque, distribue tant d'or au Caire que le cours de l'or baisse dans la région.</div><div class='astuce'><b>Astuce :</b> retiens : Ghana (VIIIe s.) → Mali (XIIIe s.), avec Soundiata Keïta comme fondateur et Mansa Moussa comme souverain le plus célèbre.</div>",
+    "exercices": [
+      { "q": "Qui a fondé l'empire du Mali ?", "r": "Soundiata Keïta, vers le XIIIe siècle.", "indice": "Il a vaincu le roi Soumaoro Kanté." },
+      { "q": "Qu'est-ce que la Charte du Mandé ?", "r": "Un ensemble de règles transmises oralement, qui organise la vie de l'empire et protège les droits des habitants.", "indice": "Pense au mot charte : un texte qui fixe des règles." },
+      { "q": "Pourquoi Mansa Moussa est-il célèbre ?", "r": "Pour son pèlerinage à La Mecque en 1324, où il montra une immense richesse.", "indice": "Pense au voyage vers La Mecque." },
+      { "q": "Cite deux villes importantes du Mali.", "r": "Tombouctou et Djenné.", "indice": "Ce sont des centres de savoir et de commerce." },
+      { "q": "Quelle est la différence entre le Ghana et le Mali ?", "r": "Le Ghana est plus ancien et a fait fortune avec l'or. Le Mali lui succède et contrôle aussi le commerce, mais devient un centre de savoir avec des écoles et des manuscrits.", "indice": "Compare la date, le fondateur et les activités." }
+    ],
+    "qcm": [
+      { "q": "L'empire du Mali est fondé par :", "options": ["Mansa Moussa", "Soundiata Keïta", "Auguste", "Périclès"], "correct": 1, "exp": "Soundiata Keïta est le fondateur de l'empire du Mali." },
+      { "q": "Quel roi est célèbre pour son pèlerinage à La Mecque ?", "options": ["Mansa Moussa", "Soundiata Keïta", "Hammurabi", "Auguste"], "correct": 0, "exp": "Mansa Moussa fit un pèlerinage en 1324." },
+      { "q": "La bataille de Kirina est remportée par :", "options": ["Soundiata Keïta", "Auguste", "Périclès", "Alexandre"], "correct": 0, "exp": "Soundiata vainc Soumaoro Kanté à Kirina." },
+      { "q": "La Charte du Mandé était :", "options": ["écrite sur pierre", "transmise oralement", "une loi romaine", "un traité avec la Grèce"], "correct": 1, "exp": "Elle était transmise oralement." },
+      { "q": "Tombouctou était :", "options": ["une capitale romaine", "un centre de savoir et de commerce", "une ville grecque", "un port de pêche"], "correct": 1, "exp": "Tombouctou était un grand centre intellectuel et commercial." },
+      { "q": "L'empire du Mali succède à :", "options": ["l'Égypte", "le Ghana", "Rome", "Athènes"], "correct": 1, "exp": "Le Mali succède au Ghana." },
+      { "q": "Le Mali contrôle surtout le commerce :", "options": ["de l'or et du sel", "du pétrole", "des voitures", "de la soie chinoise uniquement"], "correct": 0, "exp": "L'or et le sel sont les richesses du Mali." },
+      { "q": "Les manuscrits et écoles coraniques se développent dans :", "options": ["les villes de savoir comme Tombouctou", "les déserts", "les îles", "les montagnes"], "correct": 0, "exp": "Tombouctou et Djenné sont des centres de savoir." },
+      { "q": "Soundiata Keïta est un chef :", "options": ["malinké", "romain", "grec", "égyptien"], "correct": 0, "exp": "Il est un chef malinké." },
+      { "q": "Mansa Moussa est connu pour :", "options": ["sa richesse impressionnante", "sa victoire à Marathon", "ses pyramides", "ses voies romaines"], "correct": 0, "exp": "Son pèlerinage a montré sa grande richesse au monde." }
+    ]
+  }
+]

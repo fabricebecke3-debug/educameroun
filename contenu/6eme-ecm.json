@@ -1,0 +1,110 @@
+[
+  {
+    "classe": "6eme",
+    "matiere": "ECM",
+    "id": "e6-droits-enfant",
+    "titre": "Les droits de l'enfant",
+    "duree": "40 min",
+    "contenu": "<p>Tout enfant, quels que soient son origine, sa religion ou son sexe, a des <b>droits</b>. Ces droits sont reconnus par la Convention internationale des droits de l'enfant, adoptée par l'ONU en 1989 et ratifiée par le Cameroun.</p><div class='definition'><b>Un droit</b> est ce qu'une personne peut légitimement exiger pour vivre dignement.<br><b>Une obligation</b> est ce qu'une personne doit faire vis-à-vis des autres.</div><p>Parmi les droits essentiels de l'enfant, on trouve : le droit à la vie, le droit à un nom et à une nationalité (l'acte de naissance), le droit à l'éducation, le droit à la santé, le droit d'être protégé contre la violence et le droit d'être écouté.</p><div class='exemple'><b>Exemple :</b> tout enfant a le droit d'aller à l'école. En même temps, il a l'obligation de respecter les règles de l'établissement et les camarades.</div><div class='astuce'><b>Astuce :</b> chaque droit a une contrepartie : quand tu as un droit, les autres ont l'obligation de le respecter. Le droit à l'éducation oblige les parents et l'État à t'offrir une école.</div>",
+    "exercices": [
+      { "q": "Qu'est-ce qu'un droit ? Donne un exemple.", "r": "Un droit est ce qu'une personne peut légitimement exiger. Exemple : le droit à l'éducation.", "indice": "Pense à ce que tu peux demander légitimement." },
+      { "q": "Quelle est la différence entre un droit et une obligation ?", "r": "Un droit est ce qu'on peut exiger pour soi. Une obligation est ce qu'on doit faire pour les autres.", "indice": "Un droit protège l'enfant, une obligation engage l'enfant." },
+      { "q": "Cite trois droits de l'enfant reconnus par la Convention de 1989.", "r": "Par exemple : le droit à la vie, le droit à l'éducation, le droit à la santé, le droit à un nom.", "indice": "Pense à ce qui permet à l'enfant de grandir en sécurité." },
+      { "q": "Pourquoi l'acte de naissance est-il important ?", "r": "Il garantit le droit à un nom et à une nationalité, et permet d'accéder à l'école et aux soins.", "indice": "Pense aux démarches officielles de l'enfant." },
+      { "q": "Un enfant est-il concerné par les droits de l'enfant s'il est d'une autre religion ou d'une autre origine ? Explique.", "r": "Oui : les droits sont reconnus à tous les enfants, sans distinction d'origine, de religion ou de sexe.", "indice": "Relis la première phrase du cours." }
+    ],
+    "qcm": [
+      { "q": "La Convention internationale des droits de l'enfant a été adoptée en :", "options": ["1960", "1989", "2000", "2010"], "correct": 1, "exp": "Elle a été adoptée par l'ONU en 1989." },
+      { "q": "Qui a adopté la Convention des droits de l'enfant ?", "options": ["l'UNESCO", "l'ONU", "l'Union africaine", "la Banque mondiale"], "correct": 1, "exp": "C'est l'Organisation des Nations unies qui l'a adoptée." },
+      { "q": "Un droit est :", "options": ["une punition", "ce qu'une personne peut légitimement exiger", "un devoir envers les parents", "une règle de classe"], "correct": 1, "exp": "Un droit est ce qu'on peut exiger légitimement pour vivre dignement." },
+      { "q": "Quel est le droit qui permet à l'enfant d'aller à l'école ?", "options": ["le droit à l'éducation", "le droit de vote", "le droit de conduire", "le droit de travailler la nuit"], "correct": 0, "exp": "Le droit à l'éducation garantit l'accès à l'école." },
+      { "q": "Une obligation est :", "options": ["ce qu'on doit faire vis-à-vis des autres", "un droit exigé", "un jeu", "une fête"], "correct": 0, "exp": "L'obligation est un devoir envers les autres." },
+      { "q": "Quel document garantit le droit à un nom et à une nationalité ?", "options": ["le carnet de notes", "l'acte de naissance", "la carte d'identité d'un adulte", "le certificat médical"], "correct": 1, "exp": "L'acte de naissance enregistre le nom et la nationalité de l'enfant." },
+      { "q": "Le droit à la santé signifie que l'enfant :", "options": ["doit travailler", "peut se soigner et être protégé", "ne doit jamais aller chez le médecin", "doit payer les soins"], "correct": 1, "exp": "Le droit à la santé garantit les soins et la protection." },
+      { "q": "Les droits de l'enfant concernent :", "options": ["seulement les garçons", "tous les enfants sans distinction", "seulement les enfants riches", "seulement les enfants de la ville"], "correct": 1, "exp": "Ils concernent tous les enfants, sans distinction." },
+      { "q": "Quel droit protège l'enfant contre la violence ?", "options": ["le droit d'être protégé", "le droit de punir", "le droit de voter", "le droit de tout dire"], "correct": 0, "exp": "L'enfant a le droit d'être protégé contre toute forme de violence." },
+      { "q": "Quand un enfant a un droit, qu'est-ce que cela implique pour les autres ?", "options": ["rien", "une obligation de le respecter", "une interdiction de parler", "une récompense"], "correct": 1, "exp": "Chaque droit implique une obligation de le respecter pour les autres." }
+    ]
+  },
+  {
+    "classe": "6eme",
+    "matiere": "ECM",
+    "id": "e6-regles-vie-scolaire",
+    "titre": "Le règlement intérieur et la vie scolaire",
+    "duree": "40 min",
+    "contenu": "<p>Pour vivre ensemble dans un établissement, il faut des <b>règles</b>. Elles sont rassemblées dans le <b>règlement intérieur</b>, que chaque élève et chaque parent doit connaître.</p><div class='definition'><b>Le règlement intérieur</b> est l'ensemble des règles qui organisent la vie de l'établissement : horaires, tenue, comportement, respect du matériel, sécurité.<br><b>Un sanction</b> est une mesure prise en cas de non-respect du règlement. Elle doit être juste et proportionnée à la faute.</div><p>Les règles servent à protéger chacun : elles garantissent le travail, la sécurité et le respect entre élèves et adultes.</p><div class='exemple'><b>Exemple :</b> arriver à l'heure en classe est une règle. Elle permet de ne pas déranger le cours et de respecter le travail du professeur et des camarades.</div><div class='astuce'><b>Astuce :</b> pour comprendre une règle, demande-toi à quoi elle sert : protéger qui ? éviter quel problème ? Une règle a toujours une raison.</div>",
+    "exercices": [
+      { "q": "Qu'est-ce que le règlement intérieur ?", "r": "C'est l'ensemble des règles qui organisent la vie de l'établissement.", "indice": "Pense à ce qui encadre les élèves à l'école." },
+      { "q": "Donne trois domaines couverts par le règlement intérieur.", "r": "Par exemple : les horaires, la tenue, le respect du matériel, la sécurité.", "indice": "Pense à ce que tu fais chaque jour à l'école." },
+      { "q": "Pourquoi une sanction doit-elle être proportionnée à la faute ?", "r": "Pour qu'elle soit juste : une faute légère ne doit pas être punie comme une faute grave.", "indice": "Pense à la justice." },
+      { "q": "Explique pourquoi le respect des horaires est important.", "r": "Il permet de commencer les cours à temps, de ne pas déranger la classe et de respecter le travail de tous.", "indice": "Pense au déroulement d'un cours." },
+      { "q": "Propose une règle utile pour la cour de récréation et explique à quoi elle sert.", "r": "Exemple : ne pas jeter de déchets par terre. Elle protège la propreté et la santé de tous.", "indice": "Pense à la sécurité et à l'hygiène." }
+    ],
+    "qcm": [
+      { "q": "Le règlement intérieur est :", "options": ["un livre de cours", "l'ensemble des règles de la vie scolaire", "un journal de classe", "une liste de jeux"], "correct": 1, "exp": "Il rassemble les règles qui organisent la vie de l'établissement." },
+      { "q": "Une règle a pour but principal de :", "options": ["punir", "protéger et organiser la vie commune", "faire peur", "ennuyer"], "correct": 1, "exp": "Les règles protègent chacun et organisent la vie collective." },
+      { "q": "Une sanction doit être :", "options": ["injuste", "proportionnée à la faute", "toujours la même", "publique seulement"], "correct": 1, "exp": "Une sanction juste correspond à la gravité de la faute." },
+      { "q": "Lequel n'est pas un thème du règlement intérieur ?", "options": ["les horaires", "la tenue", "la recette de cuisine", "la sécurité"], "correct": 2, "exp": "La recette de cuisine ne relève pas du règlement de l'établissement." },
+      { "q": "Arriver à l'heure en classe permet :", "options": ["de déranger les camarades", "de ne pas perturber le cours", "de sortir plus tôt", "de manquer les cours"], "correct": 1, "exp": "Être à l'heure respecte le travail de tous." },
+      { "q": "Pourquoi respecter le matériel de l'école ?", "options": ["parce que c'est l'affaire du professeur seul", "pour le garder en bon état pour tous", "pour le revendre", "pour l'emporter chez soi"], "correct": 1, "exp": "Le matériel est partagé : il doit rester utilisable par tous." },
+      { "q": "Une sanction juste est :", "options": ["une punition choisie au hasard", "une mesure liée à la faute commise", "une moquerie publique", "un renvoi sans raison"], "correct": 1, "exp": "Elle doit être liée à la faute et respecter l'élève." },
+      { "q": "Le respect entre élèves et adultes passe par :", "options": ["les insultes", "le respect des règles et des personnes", "l'ignorance", "les moqueries"], "correct": 1, "exp": "Le respect se traduit par le comportement et la politesse." },
+      { "q": "Qui doit connaître le règlement intérieur ?", "options": ["seulement le directeur", "chaque élève et chaque parent", "personne", "seulement les enseignants"], "correct": 1, "exp": "Élèves et parents doivent connaître le règlement." },
+      { "q": "Chaque règle a :", "options": ["aucune raison", "une raison d'être", "une couleur", "une date d'expiration"], "correct": 1, "exp": "Une règle a toujours une raison : protéger, organiser ou éviter un problème." }
+    ]
+  },
+  {
+    "classe": "6eme",
+    "matiere": "ECM",
+    "id": "e6-citoyennete-cameroun",
+    "titre": "Être citoyen au Cameroun : symboles et valeurs",
+    "duree": "40 min",
+    "contenu": "<p>Un <b>citoyen</b> est une personne qui appartient à un pays et qui participe à la vie de la nation. Au Cameroun, la citoyenneté s'exprime à travers les <b>symboles de la nation</b> et les valeurs qui la fondent.</p><div class='definition'><b>La devise du Cameroun :</b> « Paix – Travail – Patrie ».<br><b>L'hymne national :</b> le chant officiel de la nation, joué lors des cérémonies.<br><b>Le drapeau :</b> il porte les couleurs vert, rouge et jaune, et une étoile d'or au centre.</div><p>Les valeurs citoyennes sont la solidarité, le respect de l'autre, la tolérance et le sens de l'intérêt général. Un bon citoyen respecte les lois, paie ses impôts, protège l'environnement et participe à la vie de sa communauté.</p><div class='exemple'><b>Exemple :</b> nettoyer la cour de l'école avec ses camarades est un geste citoyen : on agit pour l'intérêt de tous.</div><div class='astuce'><b>Astuce :</b> retiens la devise « Paix – Travail – Patrie » : la paix permet le travail, le travail construit la patrie.</div>",
+    "exercices": [
+      { "q": "Qu'est-ce qu'un citoyen ?", "r": "Une personne qui appartient à un pays et participe à la vie de la nation.", "indice": "Pense au lien entre une personne et son pays." },
+      { "q": "Donne la devise du Cameroun et explique-la en une phrase.", "r": "« Paix – Travail – Patrie ». La paix permet de travailler, et le travail construit la patrie.", "indice": "Regarde l'ordre des mots." },
+      { "q": "Décris les couleurs du drapeau camerounais.", "r": "Vert, rouge et jaune, avec une étoile d'or au centre.", "indice": "Pense aux trois couleurs et à l'étoile." },
+      { "q": "Cite trois valeurs citoyennes.", "r": "Par exemple : la solidarité, le respect de l'autre, la tolérance.", "indice": "Pense à ce qui permet de bien vivre ensemble." },
+      { "q": "Donne deux gestes citoyens que tu peux accomplir à l'école.", "r": "Exemple : garder la classe propre, aider un camarade en difficulté.", "indice": "Pense à l'intérêt de tous." }
+    ],
+    "qcm": [
+      { "q": "La devise du Cameroun est :", "options": ["Unité – Paix – Justice", "Paix – Travail – Patrie", "Liberté – Égalité – Fraternité", "Travail – Famille – Patrie"], "correct": 1, "exp": "La devise camerounaise est « Paix – Travail – Patrie »." },
+      { "q": "Un citoyen est :", "options": ["un touriste", "une personne qui appartient à un pays et participe à sa vie", "un étranger", "un fonctionnaire seulement"], "correct": 1, "exp": "Le citoyen fait partie d'une nation et participe à sa vie." },
+      { "q": "Quelles couleurs trouve-t-on sur le drapeau camerounais ?", "options": ["bleu, blanc, rouge", "vert, rouge, jaune", "noir, blanc, orange", "rose, vert, violet"], "correct": 1, "exp": "Le drapeau est vert, rouge et jaune." },
+      { "q": "Quel est le chant officiel de la nation ?", "options": ["la devise", "l'hymne national", "le drapeau", "l'armoirie"], "correct": 1, "exp": "L'hymne national est le chant officiel du pays." },
+      { "q": "Parmi ces valeurs, laquelle est citoyenne ?", "options": ["la solidarité", "la violence", "l'indifférence", "le mensonge"], "correct": 0, "exp": "La solidarité est une valeur qui unit les citoyens." },
+      { "q": "Nettoyer la cour de l'école avec ses camarades est :", "options": ["un geste citoyen", "une punition", "une perte de temps", "une faute"], "correct": 0, "exp": "On agit pour l'intérêt de tous : c'est un geste citoyen." },
+      { "q": "Un bon citoyen respecte :", "options": ["les lois", "uniquement ses amis", "personne", "seulement les adultes"], "correct": 0, "exp": "Respecter les lois est un devoir de citoyen." },
+      { "q": "Au centre du drapeau camerounais, on trouve :", "options": ["une étoile d'or", "un lion", "une croix", "un soleil rouge"], "correct": 0, "exp": "Une étoile d'or figure au centre du drapeau." },
+      { "q": "Le mot « tolérance » signifie :", "options": ["accepter les différences des autres", "refuser de parler aux autres", "imposer ses idées", "se moquer"], "correct": 0, "exp": "La tolérance consiste à accepter les différences." },
+      { "q": "L'intérêt général désigne :", "options": ["l'intérêt d'une seule personne", "le bien de tous", "l'argent", "le sport"], "correct": 1, "exp": "L'intérêt général est le bien commun de la société." }
+    ]
+  },
+  {
+    "classe": "6eme",
+    "matiere": "ECM",
+    "id": "e6-dialogue-respect",
+    "titre": "Le dialogue, la tolérance et le respect des différences",
+    "duree": "40 min",
+    "contenu": "<p>Dans une société, les personnes ne pensent pas toutes de la même façon. Pour vivre ensemble, il faut savoir <b>dialoguer</b> et <b>respecter les différences</b>.</p><div class='definition'><b>Le dialogue</b> est l'échange d'idées entre personnes, dans le calme, en écoutant l'autre.<br><b>La tolérance</b> est l'acceptation de ce qui est différent de soi : langue, religion, origine, opinion.<br><b>La discrimination</b> est un traitement injuste d'une personne à cause de ses différences. Elle est interdite par la loi.</div><p>Refuser de se moquer d'un camarade qui parle une autre langue, c'est pratiquer la tolérance. Écouter avant de répondre, c'est pratiquer le dialogue.</p><div class='exemple'><b>Exemple :</b> dans une classe, des élèves parlent le français, le fulfulde ou l'ewondo. Accepter cette diversité, c'est une richesse pour tous.</div><div class='astuce'><b>Astuce :</b> avant de juger une personne, pose-toi la question : est-ce que je la respecte si elle est différente de moi ? Le dialogue commence par l'écoute.</div>",
+    "exercices": [
+      { "q": "Qu'est-ce que le dialogue ?", "r": "C'est l'échange d'idées entre personnes, dans le calme, en écoutant l'autre.", "indice": "Pense à une discussion où chacun parle à son tour." },
+      { "q": "Qu'est-ce que la tolérance ?", "r": "C'est accepter ce qui est différent de soi : langue, religion, origine, opinion.", "indice": "Pense à accepter les autres sans les rejeter." },
+      { "q": "Explique pourquoi la discrimination est interdite.", "r": "Elle traite injustement une personne à cause de ses différences. Elle porte atteinte à la dignité et aux droits.", "indice": "Pense à l'égalité entre les personnes." },
+      { "q": "Un camarade parle une autre langue que la tienne. Comment fais-tu preuve de tolérance ?", "r": "Je l'accepte, je ne me moque pas de lui, et je cherche à comprendre et à échanger avec lui.", "indice": "Pense à ce que tu ferais si c'était toi qui étais différent." },
+      { "q": "Pourquoi la diversité est-elle une richesse ?", "r": "Elle apporte des langues, des cultures et des idées nouvelles qui enrichissent tout le groupe.", "indice": "Pense à ce qu'on apprend en découvrant l'autre." }
+    ],
+    "qcm": [
+      { "q": "Le dialogue consiste à :", "options": ["crier pour se faire entendre", "échanger des idées en écoutant l'autre", "ignorer les autres", "imposer son point de vue"], "correct": 1, "exp": "Le dialogue suppose l'écoute et l'échange calme." },
+      { "q": "La tolérance est :", "options": ["l'acceptation de ce qui est différent", "le rejet des autres", "l'indifférence", "la moquerie"], "correct": 0, "exp": "La tolérance consiste à accepter les différences." },
+      { "q": "La discrimination est :", "options": ["un traitement juste de tous", "un traitement injuste à cause des différences", "une fête", "un jeu scolaire"], "correct": 1, "exp": "La discrimination est injuste et interdite." },
+      { "q": "Se moquer d'un camarade qui parle une autre langue :", "options": ["est un acte de tolérance", "est un manque de respect", "est une bonne plaisanterie", "est un devoir"], "correct": 1, "exp": "Se moquer est un manque de respect et de tolérance." },
+      { "q": "Le dialogue commence par :", "options": ["l'écoute", "le cri", "le silence total", "l'ordre"], "correct": 0, "exp": "Écouter l'autre est le premier pas du dialogue." },
+      { "q": "La tolérance s'applique à :", "options": ["la langue", "la religion", "l'origine", "toutes ces réponses"], "correct": 3, "exp": "La tolérance concerne toutes les différences : langue, religion, origine, opinion." },
+      { "q": "La diversité dans une classe est :", "options": ["un problème", "une richesse", "une faute", "un danger"], "correct": 1, "exp": "Les différences enrichissent le groupe." },
+      { "q": "Le mot discrimination est lié à :", "options": ["l'égalité", "le traitement injuste", "la fête", "la paix"], "correct": 1, "exp": "La discrimination désigne un traitement injuste." },
+      { "q": "Une attitude de respect consiste à :", "options": ["se moquer des différences", "accepter les autres tels qu'ils sont", "exclure les différents", "imposer sa religion"], "correct": 1, "exp": "Le respect implique d'accepter les autres tels qu'ils sont." },
+      { "q": "Pour bien dialoguer, il faut :", "options": ["couper la parole", "écouter avant de répondre", "crier", "partir"], "correct": 1, "exp": "Écouter avant de répondre permet un vrai dialogue." }
+    ]
+  }
+]

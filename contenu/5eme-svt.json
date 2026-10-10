@@ -1,0 +1,110 @@
+[
+  {
+    "classe": "5eme",
+    "matiere": "SVT",
+    "id": "s5-cellule",
+    "titre": "La cellule, unité de base du vivant",
+    "duree": "40 min",
+    "contenu": "<p>Tous les êtres vivants sont constitués de <b>cellules</b>. La cellule est la plus petite unité vivante : elle peut respirer, se nourrir et se reproduire.</p><div class='definition'><b>La cellule</b> est délimitée par une membrane. Elle contient un <b>noyau</b>, qui renferme l'information génétique, et un <b>cytoplasme</b>, où se déroulent les réactions de la vie.<br><b>Un organisme unicellulaire</b> est formé d'une seule cellule (bactérie, levure).<br><b>Un organisme pluricellulaire</b> est formé de milliards de cellules spécialisées (l'homme, la plante).</div><p>Les cellules végétales possèdent en plus une <b>paroi</b> rigide en cellulose et des <b>chloroplastes</b>, qui contiennent la chlorophylle et permettent la photosynthèse. La cellule animale n'a ni paroi ni chloroplastes.</p><div class='exemple'><b>Exemple :</b> la levure utilisée pour faire le pain est un organisme unicellulaire. Un arbre est pluricellulaire : il est formé de cellules spécialisées, comme celles des racines ou des feuilles.</div><div class='astuce'><b>Astuce :</b> retiens les trois éléments communs à toutes les cellules : la membrane, le cytoplasme et le noyau. La paroi et les chloroplastes sont propres aux cellules végétales.</div>",
+    "exercices": [
+      { "q": "Qu'est-ce qu'une cellule ?", "r": "La plus petite unité vivante, capable de respirer, de se nourrir et de se reproduire.", "indice": "Pense à ce qu'un être vivant peut faire à la plus petite échelle." },
+      { "q": "Cite les trois éléments présents dans toutes les cellules.", "r": "La membrane, le cytoplasme et le noyau.", "indice": "Ce sont les éléments de base de toute cellule." },
+      { "q": "Quelle est la différence entre un organisme unicellulaire et pluricellulaire ?", "r": "L'unicellulaire est formé d'une seule cellule ; le pluricellulaire est formé de nombreuses cellules spécialisées.", "indice": "Compte le nombre de cellules." },
+      { "q": "Cite deux structures présentes dans une cellule végétale et absentes de la cellule animale.", "r": "La paroi cellulosique et les chloroplastes.", "indice": "Pense à ce qui permet à la plante de rester rigide et de fabriquer son sucre." },
+      { "q": "Quel est le rôle du noyau ?", "r": "Il contient l'information génétique, qui détermine les caractères de la cellule.", "indice": "C'est le centre de commande de la cellule." }
+    ],
+    "qcm": [
+      { "q": "La plus petite unité vivante est :", "options": ["l'organe", "la cellule", "le tissu", "l'organisme"], "correct": 1, "exp": "La cellule est l'unité de base du vivant." },
+      { "q": "Le noyau contient :", "options": ["l'information génétique", "la chlorophylle", "la paroi", "l'air"], "correct": 0, "exp": "Le noyau renferme l'information génétique." },
+      { "q": "Une bactérie est un organisme :", "options": ["pluricellulaire", "unicellulaire", "sans cellule", "végétal"], "correct": 1, "exp": "Elle est formée d'une seule cellule." },
+      { "q": "Les chloroplastes se trouvent dans :", "options": ["les cellules animales", "les cellules végétales", "les bactéries uniquement", "les neurones"], "correct": 1, "exp": "Les chloroplastes sont propres aux cellules végétales." },
+      { "q": "La paroi cellulosique est :", "options": ["présente chez l'homme", "une caractéristique de la cellule végétale", "un organe", "un tissu musculaire"], "correct": 1, "exp": "La paroi en cellulose est propre aux cellules végétales." },
+      { "q": "Le cytoplasme est :", "options": ["le noyau", "la zone où se déroulent les réactions de la vie", "la paroi", "le sang"], "correct": 1, "exp": "Le cytoplasme est le lieu des réactions vitales." },
+      { "q": "La levure utilisée pour le pain est :", "options": ["pluricellulaire", "unicellulaire", "une plante", "un animal"], "correct": 1, "exp": "C'est un champignon unicellulaire." },
+      { "q": "Un organisme pluricellulaire est formé :", "options": ["d'une cellule", "de nombreuses cellules spécialisées", "de chloroplastes", "de paroi"], "correct": 1, "exp": "Il est formé de nombreuses cellules, certaines spécialisées." },
+      { "q": "Quelles structures sont communes à toutes les cellules ?", "options": ["la membrane, le cytoplasme et le noyau", "la paroi et les chloroplastes", "les chloroplastes seulement", "la chlorophylle seulement"], "correct": 0, "exp": "Ces trois éléments sont présents dans toutes les cellules." },
+      { "q": "La cellule animale ne possède pas :", "options": ["de noyau", "de membrane", "de paroi cellulosique", "de cytoplasme"], "correct": 2, "exp": "Elle n'a pas de paroi cellulosique rigide." }
+    ]
+  },
+  {
+    "classe": "5eme",
+    "matiere": "SVT",
+    "id": "s5-digestion",
+    "titre": "La digestion et l'appareil digestif",
+    "duree": "40 min",
+    "contenu": "<p>La <b>digestion</b> transforme les aliments en substances assez petites pour être absorbées et utilisées par le corps.</p><div class='definition'><b>La digestion mécanique</b> découpe et écrase les aliments : dents, estomac.<br><b>La digestion chimique</b> les transforme grâce aux sucs digestifs : salive, suc gastrique, bile, suc pancréatique.<br><b>L'absorption</b> fait passer les nutriments dans le sang, principalement dans l'intestin grêle.<br><b>L'élimination</b> évacue les déchets par le gros intestin et l'anus.</div><p>Le trajet des aliments : bouche → pharynx → œsophage → estomac → intestin grêle → gros intestin → anus.</p><div class='exemple'><b>Exemple :</b> la salive contient une enzyme qui commence à transformer l'amidon du manioc en sucres simples dès la bouche.</div><div class='astuce'><b>Astuce :</b> pour retenir le trajet, pense à une phrase : « Beaux Pains Œufs Estomac Grêle Gros Anus ». Chaque mot correspond à une étape du tube digestif.</div>",
+    "exercices": [
+      { "q": "Qu'est-ce que la digestion ?", "r": "C'est la transformation des aliments en nutriments assez petits pour être absorbés.", "indice": "Pense à ce que deviennent les aliments dans le corps." },
+      { "q": "Différence entre digestion mécanique et chimique ?", "r": "La mécanique découpe et écrase les aliments. La chimique les transforme grâce aux sucs digestifs.", "indice": "Mécanique = action physique. Chimique = action des enzymes." },
+      { "q": "Donne le trajet des aliments dans le tube digestif.", "r": "Bouche → pharynx → œsophage → estomac → intestin grêle → gros intestin → anus.", "indice": "Suis le chemin de la bouche jusqu'à la sortie." },
+      { "q": "Où se fait principalement l'absorption des nutriments ?", "r": "Dans l'intestin grêle.", "indice": "C'est la partie la plus longue du tube digestif." },
+      { "q": "Quel est le rôle de la salive ?", "r": "Elle commence la digestion chimique, notamment de l'amidon, et humidifie les aliments.", "indice": "Pense à la première étape de la digestion." }
+    ],
+    "qcm": [
+      { "q": "La digestion transforme les aliments en :", "options": ["déchets", "nutriments absorbables", "eau uniquement", "air"], "correct": 1, "exp": "Les nutriments sont les substances absorbées par le corps." },
+      { "q": "Les dents participent à la digestion :", "options": ["chimique", "mécanique", "absente", "nerveuse"], "correct": 1, "exp": "Elles découpent et écrasent : digestion mécanique." },
+      { "q": "L'absorption se fait principalement dans :", "options": ["la bouche", "l'estomac", "l'intestin grêle", "le gros intestin"], "correct": 2, "exp": "L'intestin grêle est le lieu principal d'absorption." },
+      { "q": "Le trajet des aliments commence par :", "options": ["l'estomac", "la bouche", "l'anus", "l'intestin"], "correct": 1, "exp": "Les aliments entrent par la bouche." },
+      { "q": "La bile intervient dans :", "options": ["la digestion chimique", "la respiration", "la circulation sanguine", "la reproduction"], "correct": 0, "exp": "La bile est un suc digestif qui participe à la digestion chimique." },
+      { "q": "L'élimination des déchets se fait dans :", "options": ["le gros intestin", "la bouche", "les poumons", "le cœur"], "correct": 0, "exp": "Le gros intestin évacue les déchets." },
+      { "q": "La salive :", "options": ["ne sert à rien", "commence la digestion de l'amidon", "digère les protéines seulement", "remplace l'estomac"], "correct": 1, "exp": "La salive contient une enzyme qui commence la digestion de l'amidon." },
+      { "q": "Après l'œsophage, les aliments arrivent dans :", "options": ["l'estomac", "le gros intestin", "la bouche", "l'anus"], "correct": 0, "exp": "L'estomac suit l'œsophage dans le trajet digestif." },
+      { "q": "L'estomac réalise :", "options": ["une digestion uniquement mécanique", "une digestion mécanique et chimique", "aucune digestion", "seulement l'absorption"], "correct": 1, "exp": "Il brasse les aliments et les transforme avec le suc gastrique." },
+      { "q": "Le dernier organe du tube digestif est :", "options": ["l'estomac", "l'intestin grêle", "le gros intestin", "l'anus"], "correct": 3, "exp": "L'anus est la sortie du tube digestif." }
+    ]
+  },
+  {
+    "classe": "5eme",
+    "matiere": "SVT",
+    "id": "s5-respiration",
+    "titre": "La respiration et les échanges gazeux",
+    "duree": "40 min",
+    "contenu": "<p>La <b>respiration</b> permet au corps de prélever du <b>dioxygène</b> de l'air et de rejeter du <b>dioxyde de carbone</b>. Le dioxygène est indispensable à la production d'énergie dans les cellules.</p><div class='definition'><b>L'appareil respiratoire</b> comprend les fosses nasales, le pharynx, le larynx, la trachée, les bronches et les poumons.<br><b>Les alvéoles pulmonaires</b> sont de petits sacs où se font les échanges gazeux entre l'air et le sang.<br><b>L'inspiration</b> fait entrer l'air ; <b>l'expiration</b> le fait sortir.</div><p>Au niveau des alvéoles, le dioxygène passe dans le sang, et le dioxyde de carbone passe du sang vers l'air.</p><div class='exemple'><b>Exemple :</b> après une course, la respiration s'accélère. Le corps a besoin de plus de dioxygène pour produire l'énergie nécessaire aux muscles.</div><div class='astuce'><b>Astuce :</b> l'air ne doit pas entrer par la bouche seule : le nez est mieux adapté, car il filtre, réchauffe et humidifie l'air.</div>",
+    "exercices": [
+      { "q": "Quels gaz sont échangés lors de la respiration ?", "r": "Le dioxygène entre dans le corps ; le dioxyde de carbone en sort.", "indice": "Pense au gaz indispensable à la vie et au gaz rejeté." },
+      { "q": "Cite les organes de l'appareil respiratoire dans l'ordre.", "r": "Fosses nasales, pharynx, larynx, trachée, bronches, poumons.", "indice": "Suis le chemin de l'air depuis le nez." },
+      { "q": "Où se produisent les échanges gazeux ?", "r": "Au niveau des alvéoles pulmonaires.", "indice": "Ce sont de petits sacs à la fin des bronches." },
+      { "q": "Quel est le rôle du dioxygène dans les cellules ?", "r": "Il permet la production d'énergie nécessaire au fonctionnement des cellules.", "indice": "Pense à ce qui fait fonctionner les muscles." },
+      { "q": "Pourquoi le nez est-il préférable à la bouche pour respirer ?", "r": "Le nez filtre, réchauffe et humidifie l'air.", "indice": "Pense aux poussières et au froid." }
+    ],
+    "qcm": [
+      { "q": "Le gaz indispensable à la production d'énergie est :", "options": ["le dioxyde de carbone", "le dioxygène", "l'azote", "la vapeur"], "correct": 1, "exp": "Le dioxygène permet la production d'énergie dans les cellules." },
+      { "q": "Le gaz rejeté lors de la respiration est :", "options": ["le dioxygène", "le dioxyde de carbone", "l'hélium", "l'oxygène pur"], "correct": 1, "exp": "Le dioxyde de carbone est le déchet de la respiration." },
+      { "q": "Les échanges gazeux se font dans :", "options": ["la trachée", "les alvéoles pulmonaires", "l'estomac", "les fosses nasales"], "correct": 1, "exp": "Les alvéoles sont le lieu des échanges gazeux." },
+      { "q": "L'inspiration correspond à :", "options": ["faire entrer l'air", "faire sortir l'air", "arrêter de respirer", "avaler"], "correct": 0, "exp": "L'inspiration fait entrer l'air dans les poumons." },
+      { "q": "L'expiration correspond à :", "options": ["faire entrer l'air", "faire sortir l'air", "manger", "boire"], "correct": 1, "exp": "L'expiration rejette l'air hors des poumons." },
+      { "q": "Le conduit qui relie le pharynx aux bronches est :", "options": ["l'œsophage", "la trachée", "l'estomac", "l'intestin"], "correct": 1, "exp": "La trachée conduit l'air vers les bronches." },
+      { "q": "Pourquoi respirer par le nez est préférable ?", "options": ["il filtre et réchauffe l'air", "il ralentit la respiration", "il empêche de sentir", "il produit du dioxygène"], "correct": 0, "exp": "Le nez filtre, réchauffe et humidifie l'air." },
+      { "q": "Après une course, la respiration :", "options": ["ralentit", "s'accélère", "s'arrête", "reste identique"], "correct": 1, "exp": "Les muscles ont besoin de plus de dioxygène : la respiration s'accélère." },
+      { "q": "Les poumons sont situés dans :", "options": ["l'abdomen", "la cage thoracique", "la tête", "les jambes"], "correct": 1, "exp": "Les poumons se trouvent dans la cage thoracique." },
+      { "q": "Au niveau des alvéoles, le dioxygène :", "options": ["passe de l'air vers le sang", "reste dans l'air", "est détruit", "passe du sang vers l'air"], "correct": 0, "exp": "Le dioxygène passe de l'air vers le sang." }
+    ]
+  },
+  {
+    "classe": "5eme",
+    "matiere": "SVT",
+    "id": "s5-circulation-sanguine",
+    "titre": "La circulation sanguine : le cœur et les vaisseaux",
+    "duree": "40 min",
+    "contenu": "<p>Le <b>sang</b> transporte les nutriments et le dioxygène vers les cellules, et ramène les déchets, dont le dioxyde de carbone. Cette circulation est assurée par le <b>cœur</b> et les <b>vaisseaux sanguins</b>.</p><div class='definition'><b>Le cœur</b> est une pompe musculaire à quatre cavités : deux oreillettes et deux ventricules.<br><b>Les artères</b> emmènent le sang du cœur vers les organes. Elles sont à paroi épaisse.<br><b>Les veines</b> ramènent le sang vers le cœur. Elles ont des valves pour empêcher le retour du sang.<br><b>Les capillaires</b> sont de très fins vaisseaux où se font les échanges avec les cellules.</div><p>Le sang composé de <b>plasma</b> (partie liquide) et de cellules : globules rouges (transport du dioxygène), globules blancs (défense), plaquettes (coagulation).</p><div class='exemple'><b>Exemple :</b> le pouls que l'on sent au poignet est dû aux battements du cœur qui envoient le sang dans les artères.</div><div class='astuce'><b>Astuce :</b> retiens : artères = du cœur vers les organes ; veines = des organes vers le cœur. Le sens du sang est le critère, pas la couleur.</div>",
+    "exercices": [
+      { "q": "Quel est le rôle du sang ?", "r": "Il transporte les nutriments et le dioxygène vers les cellules et ramène les déchets.", "indice": "Pense au transport." },
+      { "q": "Différence entre artère et veine ?", "r": "L'artère emmène le sang du cœur vers les organes ; la veine le ramène vers le cœur.", "indice": "Le sens de circulation fait la différence." },
+      { "q": "Quel est le rôle des globules rouges ?", "r": "Ils transportent le dioxygène.", "indice": "Ils sont riches en hémoglobine." },
+      { "q": "Cite les composants du sang.", "r": "Le plasma, les globules rouges, les globules blancs et les plaquettes.", "indice": "Il y a une partie liquide et des cellules." },
+      { "q": "Quel est le rôle du cœur dans la circulation ?", "r": "C'est une pompe musculaire qui fait circuler le sang dans tout le corps.", "indice": "Pense à un moteur qui envoie le liquide." }
+    ],
+    "qcm": [
+      { "q": "Le cœur est :", "options": ["un organe respiratoire", "une pompe musculaire", "un muscle des jambes", "un vaisseau"], "correct": 1, "exp": "Le cœur est une pompe musculaire qui fait circuler le sang." },
+      { "q": "Les artères emmènent le sang :", "options": ["vers le cœur", "du cœur vers les organes", "vers les poumons uniquement", "nulle part"], "correct": 1, "exp": "Les artères partent du cœur vers les organes." },
+      { "q": "Les veines ont des valves pour :", "options": ["colorer le sang", "empêcher le sang de revenir en arrière", "filtrer l'air", "digérer"], "correct": 1, "exp": "Les valves évitent le reflux du sang." },
+      { "q": "Les globules rouges transportent :", "options": ["le dioxygène", "les protéines", "la chaleur", "les hormones uniquement"], "correct": 0, "exp": "Ils transportent le dioxygène dans le sang." },
+      { "q": "Les globules blancs participent à :", "options": ["la défense de l'organisme", "le transport du dioxygène", "la coagulation uniquement", "la digestion"], "correct": 0, "exp": "Ils défendent l'organisme contre les microbes." },
+      { "q": "Le plasma est :", "options": ["la partie solide du sang", "la partie liquide du sang", "un organe", "un globule"], "correct": 1, "exp": "Le plasma est la partie liquide du sang." },
+      { "q": "Les capillaires sont :", "options": ["de très fins vaisseaux où se font les échanges", "les plus gros vaisseaux", "des muscles", "des organes respiratoires"], "correct": 0, "exp": "Les capillaires permettent les échanges avec les cellules." },
+      { "q": "Le pouls est dû :", "options": ["à la respiration", "aux battements du cœur dans les artères", "à la digestion", "aux globules blancs"], "correct": 1, "exp": "Les battements du cœur font pulser les artères." },
+      { "q": "Les plaquettes servent à :", "options": ["transporter le dioxygène", "la coagulation du sang", "digérer", "défendre contre les microbes"], "correct": 1, "exp": "Les plaquettes permettent la coagulation." },
+      { "q": "Le cœur possède :", "options": ["deux cavités", "quatre cavités", "une seule cavité", "trois cavités"], "correct": 1, "exp": "Il a deux oreillettes et deux ventricules." }
+    ]
+  }
+]

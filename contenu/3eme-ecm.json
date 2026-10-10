@@ -1,0 +1,110 @@
+[
+  {
+    "classe": "3eme",
+    "matiere": "ECM",
+    "id": "e3-constitution-cameroun",
+    "titre": "La Constitution et l'organisation de l'État au Cameroun",
+    "duree": "40 min",
+    "contenu": "<p>La <b>Constitution</b> est la loi fondamentale d'un État. Elle organise les pouvoirs publics, définit les droits et les devoirs des citoyens et fixe les règles du jeu démocratique.</p><div class='definition'><b>Le Cameroun</b> est une république unitaire et décentralisée. Il est organisé en régions, départements, arrondissements et communes.<br><b>La décentralisation</b> consiste à transférer certaines compétences de l'État central vers les collectivités locales, élues par la population.<br><b>Le chef de l'État</b> est le Président de la République, élu au suffrage universel direct pour un mandat de sept ans renouvelable.<br><b>Le Premier ministre</b> dirige le Gouvernement.<br><b>La séparation des pouvoirs</b> répartit les fonctions entre le pouvoir exécutif, le pouvoir législatif et le pouvoir judiciaire.</div><p>Le respect de la Constitution est essentiel : aucune loi ne doit la contredire. Le citoyen peut s'informer sur ses droits et ses devoirs grâce à ce texte.</p><div class='exemple'><b>Exemple :</b> le Président de la République est élu au suffrage universel direct : chaque citoyen inscrit sur les listes électorales peut voter. C'est l'application du principe démocratique.</div><div class='astuce'><b>Astuce :</b> retiens les trois niveaux : l'État central (gouvernement), les régions et les communes. La décentralisation rapproche les décisions des citoyens.</div>",
+    "exercices": [
+      { "q": "Qu'est-ce que la Constitution ?", "r": "La loi fondamentale d'un État, qui organise les pouvoirs et définit les droits des citoyens.", "indice": "Pense à la loi la plus importante du pays." },
+      { "q": "Qu'est-ce que la décentralisation ?", "r": "Le transfert de compétences de l'État central vers les collectivités locales élues.", "indice": "Pense aux régions et aux communes." },
+      { "q": "Quel est le mandat du Président de la République ?", "r": "Sept ans, renouvelable.", "indice": "Relis le cours." },
+      { "q": "Qui dirige le Gouvernement ?", "r": "Le Premier ministre.", "indice": "Pense au chef du gouvernement." },
+      { "q": "Pourquoi aucune loi ne doit-elle contredire la Constitution ?", "r": "Parce que la Constitution est la loi suprême, qui organise le pays et protège les droits.", "indice": "Pense à la hiérarchie des normes." }
+    ],
+    "qcm": [
+      { "q": "La Constitution est :", "options": ["la loi fondamentale d'un État", "un journal officiel", "un livre d'histoire", "un règlement scolaire"], "correct": 0, "exp": "C'est la loi suprême." },
+      { "q": "Le Cameroun est une :", "options": ["monarchie absolue", "république unitaire et décentralisée", "fédération de cinquante États", "dictature militaire"], "correct": 1, "exp": "Le Cameroun est une république unitaire décentralisée." },
+      { "q": "La décentralisation transfère des compétences vers :", "options": ["les collectivités locales", "les entreprises étrangères", "les écoles privées", "les tribunaux internationaux"], "correct": 0, "exp": "Vers les régions et les communes." },
+      { "q": "Le Président de la République est élu :", "options": ["au suffrage universel direct", "par les enseignants seulement", "par l'armée", "par tirage au sort"], "correct": 0, "exp": "Les citoyens votent directement." },
+      { "q": "Le mandat présidentiel au Cameroun est de :", "options": ["sept ans", "un an", "quinze ans", "deux mois"], "correct": 0, "exp": "Sept ans, renouvelable." },
+      { "q": "Qui dirige le Gouvernement ?", "options": ["le Premier ministre", "le maire", "le juge", "le député"], "correct": 0, "exp": "Le Premier ministre." },
+      { "q": "La séparation des pouvoirs répartit :", "options": ["les fonctions entre trois pouvoirs", "les richesses", "les terres", "les écoles"], "correct": 0, "exp": "Exécutif, législatif, judiciaire." },
+      { "q": "Les collectivités locales comprennent notamment :", "options": ["les régions et les communes", "les ambassades", "les banques", "les ports uniquement"], "correct": 0, "exp": "Ce sont les régions et les communes." },
+      { "q": "Le citoyen peut connaître ses droits grâce :", "options": ["à la Constitution", "aux publicités", "aux rumeurs", "aux jeux vidéo"], "correct": 0, "exp": "La Constitution définit les droits." },
+      { "q": "Un principe démocratique illustré par l'élection présidentielle est :", "options": ["le suffrage universel", "le tirage au sort du chef", "l'hérédité du pouvoir", "la dictature"], "correct": 0, "exp": "Chaque citoyen inscrit peut voter." }
+    ]
+  },
+  {
+    "classe": "3eme",
+    "matiere": "ECM",
+    "id": "e3-droits-enfant-justice",
+    "titre": "L'enfant, la justice et la protection juridique",
+    "duree": "40 min",
+    "contenu": "<p>Un enfant est une personne mineure, c'est-à-dire âgée de moins de 18 ans. Il bénéficie d'une <b>protection juridique</b> particulière, qui garantit ses droits et son bien-être.</p><div class='definition'><b>La minorité</b> est la période de la vie avant 18 ans, pendant laquelle l'enfant n'a pas la pleine capacité juridique et est sous la responsabilité de ses parents ou de son tuteur.<br><b>La protection de l'enfance</b> regroupe les lois et institutions qui défendent les enfants contre la maltraitance, l'exploitation et l'abandon.<br><b>Le tribunal pour enfants</b> juge les mineurs et privilégie l'éducation et la réinsertion.<br><b>Le travail des enfants</b> est interdit lorsqu'il menace leur santé, leur éducation ou leur développement.</div><p>La justice des mineurs cherche d'abord à éduquer et réinsérer, plutôt qu'à punir de manière sévère.</p><div class='exemple'><b>Exemple :</b> un enfant qui vole par nécessité n'est pas traité comme un adulte : le juge pour enfants cherche des solutions éducatives et sociales, comme un suivi ou un placement adapté.</div><div class='astuce'><b>Astuce :</b> retiens que la justice des mineurs vise la protection et l'éducation. C'est un principe important pour comprendre les droits de l'enfant.</div>",
+    "exercices": [
+      { "q": "Qu'appelle-t-on un mineur ?", "r": "Une personne âgée de moins de 18 ans.", "indice": "Relis le cours." },
+      { "q": "Qu'est-ce que la protection de l'enfance ?", "r": "L'ensemble des lois et institutions qui défendent les enfants contre la maltraitance, l'exploitation et l'abandon.", "indice": "Pense aux menaces qui pèsent sur les enfants." },
+      { "q": "Quel est l'objectif principal de la justice des mineurs ?", "r": "Éduquer et réinsérer l'enfant, plutôt que le punir sévèrement.", "indice": "Pense au but de l'éducation." },
+      { "q": "Dans quelles situations le travail des enfants est-il interdit ?", "r": "Lorsqu'il menace leur santé, leur éducation ou leur développement.", "indice": "Relis la définition." },
+      { "q": "Pourquoi un enfant ne peut-il pas être jugé comme un adulte ?", "r": "Parce qu'il n'a pas la pleine capacité juridique et que la justice des mineurs privilégie l'éducation.", "indice": "Pense à la minorité." }
+    ],
+    "qcm": [
+      { "q": "Un mineur est une personne âgée de :", "options": ["moins de 18 ans", "moins de 25 ans", "plus de 60 ans", "moins de 5 ans"], "correct": 0, "exp": "Un mineur a moins de 18 ans." },
+      { "q": "La protection de l'enfance défend contre :", "options": ["la maltraitance et l'exploitation", "l'école", "le sport", "la musique"], "correct": 0, "exp": "Elle protège contre les dangers." },
+      { "q": "Le tribunal pour enfants :", "options": ["juge les mineurs en privilégiant l'éducation", "juge les adultes uniquement", "n'existe pas", "juge les animaux"], "correct": 0, "exp": "Il juge les mineurs avec une approche éducative." },
+      { "q": "La justice des mineurs vise d'abord :", "options": ["l'éducation et la réinsertion", "la punition sévère", "l'oubli", "l'emprisonnement systématique"], "correct": 0, "exp": "L'éducation est prioritaire." },
+      { "q": "Le travail des enfants est interdit quand il :", "options": ["menace leur santé ou leur éducation", "est léger et sécurisé", "est fait à l'école", "est un jeu"], "correct": 0, "exp": "Il est interdit s'il est dangereux ou nuisible." },
+      { "q": "La minorité est la période :", "options": ["avant 18 ans", "après 60 ans", "entre 18 et 25 ans", "à la retraite"], "correct": 0, "exp": "Elle précède la majorité." },
+      { "q": "Un enfant est sous la responsabilité :", "options": ["de ses parents ou de son tuteur", "de la police uniquement", "de son école uniquement", "de personne"], "correct": 0, "exp": "Les parents ou le tuteur en sont responsables." },
+      { "q": "Un enfant qui vole par nécessité bénéficie d'une réponse :", "options": ["éducative et sociale", "uniquement sévère", "inexistante", "militaire"], "correct": 0, "exp": "La justice des mineurs cherche des solutions éducatives." },
+      { "q": "Le juge pour enfants peut proposer :", "options": ["un suivi éducatif", "une amende de millions", "l'expulsion sans suivi", "rien"], "correct": 0, "exp": "Il propose des mesures éducatives adaptées." },
+      { "q": "La protection juridique de l'enfant garantit :", "options": ["ses droits et son bien-être", "son obéissance absolue", "son silence", "son exploitation"], "correct": 0, "exp": "C'est l'objectif de la protection." }
+    ]
+  },
+  {
+    "classe": "3eme",
+    "matiere": "ECM",
+    "id": "e3-integration-diversite",
+    "titre": "Unité nationale et diversité culturelle au Cameroun",
+    "duree": "40 min",
+    "contenu": "<p>Le Cameroun est un pays très diversifié : il compte plus de deux cent cinquante groupes ethniques, des langues variées et deux langues officielles, le français et l'anglais. Cette diversité est une richesse, et l'<b>unité nationale</b> est un objectif constant de l'État.</p><div class='definition'><b>L'unité nationale</b> est le sentiment d'appartenance commune à une même nation, malgré les différences d'origine, de langue ou de religion.<br><b>La diversité culturelle</b> désigne la richesse des cultures, des langues, des traditions et des modes de vie présents dans un même pays.<br><b>Le bilinguisme officiel</b> reconnaît le français et l'anglais comme langues officielles.<br><b>La cohésion sociale</b> désigne la solidarité entre les membres d'une société.</div><p>Pour préserver l'unité nationale, il faut respecter les différences, lutter contre le tribalisme et les discriminations, et valoriser le patrimoine commun.</p><div class='exemple'><b>Exemple :</b> lors de la fête nationale du 20 mai, les Camerounais de toutes les régions et de toutes les langues célèbrent ensemble le pays. C'est un moment de cohésion nationale.</div><div class='astuce'><b>Astuce :</b> retiens la formule : diversité pour la richesse, unité pour la cohésion. Les deux vont ensemble, et l'une ne doit pas écraser l'autre.</div>",
+    "exercices": [
+      { "q": "Quelle est la différence entre diversité culturelle et unité nationale ?", "r": "La diversité culturelle désigne la variété des cultures ; l'unité nationale désigne le sentiment d'appartenance commune.", "indice": "Varier ou rassembler ?" },
+      { "q": "Cite les deux langues officielles du Cameroun.", "r": "Le français et l'anglais.", "indice": "Pense au bilinguisme officiel." },
+      { "q": "Qu'est-ce que la cohésion sociale ?", "r": "La solidarité entre les membres d'une société.", "indice": "Pense au lien entre les personnes." },
+      { "q": "Donne deux moyens de préserver l'unité nationale.", "r": "Respecter les différences, lutter contre le tribalisme et les discriminations, valoriser le patrimoine commun.", "indice": "Relis la fin du cours." },
+      { "q": "Pourquoi la diversité est-elle une richesse pour le pays ?", "r": "Elle apporte des langues, des savoirs et des traditions variés qui enrichissent la nation.", "indice": "Pense à ce que chaque culture apporte." }
+    ],
+    "qcm": [
+      { "q": "Le Cameroun compte environ :", "options": ["plus de 250 groupes ethniques", "dix groupes ethniques", "un seul groupe", "cent groupes"], "correct": 0, "exp": "Plus de 250 groupes." },
+      { "q": "Les langues officielles du Cameroun sont :", "options": ["le français et l'anglais", "le latin et le grec", "l'arabe et le chinois", "le portugais et l'espagnol"], "correct": 0, "exp": "Le français et l'anglais." },
+      { "q": "L'unité nationale désigne :", "options": ["le sentiment d'appartenance commune à une nation", "l'uniformité totale des cultures", "la séparation des régions", "la fin des langues"], "correct": 0, "exp": "C'est le sentiment d'appartenance commune." },
+      { "q": "Le tribalisme est :", "options": ["un obstacle à l'unité nationale", "un moyen de renforcer l'unité", "une loi", "une fête nationale"], "correct": 0, "exp": "Il divise la nation." },
+      { "q": "La fête nationale du 20 mai illustre :", "options": ["la cohésion nationale", "la division", "la guerre", "l'exclusion"], "correct": 0, "exp": "Elle rassemble tous les citoyens." },
+      { "q": "La cohésion sociale désigne :", "options": ["la solidarité entre les membres d'une société", "la compétition entre familles", "l'isolement", "la vente de terres"], "correct": 0, "exp": "C'est la solidarité sociale." },
+      { "q": "Le bilinguisme officiel signifie que :", "options": ["le français et l'anglais sont reconnus officiellement", "seules les langues locales sont reconnues", "aucune langue n'est reconnue", "le latin est reconnu"], "correct": 0, "exp": "Les deux langues ont un statut officiel." },
+      { "q": "La diversité culturelle désigne :", "options": ["la richesse des cultures et traditions présentes", "l'absence de culture", "une seule culture", "une culture importée"], "correct": 0, "exp": "C'est la variété culturelle." },
+      { "q": "Pour préserver l'unité nationale, il faut :", "options": ["lutter contre les discriminations", "encourager les rivalités", "exclure certains groupes", "supprimer les langues"], "correct": 0, "exp": "La lutte contre les discriminations protège l'unité." },
+      { "q": "La devise « Paix – Travail – Patrie » s'associe à :", "options": ["l'unité et la cohésion nationale", "la guerre", "la division", "l'exclusion"], "correct": 0, "exp": "Elle affirme les valeurs communes." }
+    ]
+  },
+  {
+    "classe": "3eme",
+    "matiere": "ECM",
+    "id": "e3-vote-citoyennete-active",
+    "titre": "Le vote, la liberté et la citoyenneté active",
+    "duree": "40 min",
+    "contenu": "<p>Dans une démocratie, les citoyens choisissent leurs représentants par le <b>vote</b>. Le vote est un droit, mais aussi un acte de responsabilité : il engage l'avenir de la collectivité.</p><div class='definition'><b>Le suffrage universel</b> est le droit de vote accordé à tous les citoyens majeurs, sans distinction de fortune, de sexe ou d'origine.<br><b>Le scrutin secret</b> garantit que le vote reste confidentiel : personne ne peut savoir pour qui un électeur a voté.<br><b>Une élection</b> désigne les représentants du peuple à l'issue d'un vote.<br><b>La citoyenneté active</b> désigne la participation responsable à la vie publique : vote, débats, engagement associatif, respect des lois.</div><p>Le vote libre suppose une information fiable et l'absence de pression. L'abstention, c'est-à-dire ne pas voter, est également un choix, mais elle affaiblit la représentation du peuple.</p><div class='exemple'><b>Exemple :</b> un citoyen qui s'informe sur les programmes des candidats, puis vote librement au scrutin secret, exerce pleinement sa citoyenneté.</div><div class='astuce'><b>Astuce :</b> retiens les trois mots du vote démocratique : universel (tous), secret (confidentiel), libre (sans pression).</div>",
+    "exercices": [
+      { "q": "Qu'est-ce que le suffrage universel ?", "r": "Le droit de vote accordé à tous les citoyens majeurs, sans distinction.", "indice": "Pense à tous les citoyens." },
+      { "q": "Pourquoi le scrutin doit-il être secret ?", "r": "Pour que personne ne puisse savoir pour qui un électeur a voté, et qu'il vote librement.", "indice": "Pense à la pression éventuelle." },
+      { "q": "Qu'est-ce que la citoyenneté active ?", "r": "La participation responsable à la vie publique : vote, débats, engagement, respect des lois.", "indice": "Pense au citoyen qui agit." },
+      { "q": "Que signifie l'abstention ?", "r": "Ne pas voter ; c'est un choix qui affaiblit la représentation du peuple.", "indice": "Pense au fait de ne pas se déplacer." },
+      { "q": "Pourquoi le vote libre suppose-t-il une information fiable ?", "r": "Pour que l'électeur choisisse en connaissance de cause, à partir des programmes et des faits.", "indice": "Pense à un choix éclairé." }
+    ],
+    "qcm": [
+      { "q": "Le suffrage universel signifie :", "options": ["le droit de vote pour tous les citoyens majeurs", "le vote réservé aux riches", "le vote réservé aux hommes", "le vote des enfants"], "correct": 0, "exp": "Il est accessible à tous les citoyens majeurs." },
+      { "q": "Le scrutin secret garantit :", "options": ["la confidentialité du vote", "la publicité du vote", "le vote obligatoire", "le vote par téléphone uniquement"], "correct": 0, "exp": "Le vote reste confidentiel." },
+      { "q": "Une élection désigne :", "options": ["les représentants du peuple", "les juges", "les professeurs", "les médecins"], "correct": 0, "exp": "Elle désigne les représentants." },
+      { "q": "La citoyenneté active comprend :", "options": ["le vote, les débats et le respect des lois", "uniquement le silence", "uniquement la fuite", "rien"], "correct": 0, "exp": "C'est la participation responsable." },
+      { "q": "L'abstention est :", "options": ["le fait de ne pas voter", "le fait de voter deux fois", "une obligation", "un jeu"], "correct": 0, "exp": "Ne pas voter." },
+      { "q": "Le vote démocratique est résumé par les mots :", "options": ["universel, secret, libre", "fort, rapide, vert", "jeune, vieux, sage", "public, obligatoire, payant"], "correct": 0, "exp": "Ce sont les trois principes." },
+      { "q": "Le vote libre suppose :", "options": ["l'absence de pression", "la menace", "l'achat des voix", "l'intimidation"], "correct": 0, "exp": "Le citoyen doit décider sans contrainte." },
+      { "q": "Un citoyen qui s'informe avant de voter exerce :", "options": ["une citoyenneté responsable", "une faute", "une fuite", "un jeu"], "correct": 0, "exp": "Il vote en connaissance de cause." },
+      { "q": "L'abstention affaiblit :", "options": ["la représentation du peuple", "la géographie", "la langue", "la musique"], "correct": 0, "exp": "Moins de voix, moins de légitimité." },
+      { "q": "Le vote est à la fois :", "options": ["un droit et un acte de responsabilité", "un jeu", "une punition", "une dette"], "correct": 0, "exp": "Il engage l'avenir de la collectivité." }
+    ]
+  }
+]

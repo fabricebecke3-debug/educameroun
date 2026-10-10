@@ -1,0 +1,110 @@
+[
+  {
+    "classe": "6eme",
+    "matiere": "Mathématiques",
+    "id": "m6-math-numeration",
+    "titre": "La numération : grands nombres et valeur des chiffres",
+    "duree": "40 min",
+    "contenu": "<p>Notre système de numération est <b>décimal</b> : chaque chiffre a une valeur qui dépend de sa <b>position</b> dans le nombre. En partant de la droite, on trouve les unités, les dizaines, les centaines, puis les milliers, les dizaines de milliers, les centaines de milliers et les millions.</p><div class='definition'><b>Définition :</b> la <b>valeur d'un chiffre</b> est le chiffre multiplié par la valeur de sa position. Dans 4 528, le 5 vaut 5 centaines, soit 500.</div><div class='exemple'><b>Exemple :</b> 4 528 = 4 × 1 000 + 5 × 100 + 2 × 10 + 8 × 1. C'est la <b>décomposition</b> du nombre.</div><p>Pour lire un grand nombre, on le sépare en tranches de trois chiffres en partant de la droite. Ainsi 25 307 se lit « vingt-cinq mille trois cent sept ».</p><div class='astuce'><b>Astuce :</b> pour comparer deux nombres, celui qui a le plus de chiffres est le plus grand (si le premier chiffre n'est pas un zéro). Si les deux ont le même nombre de chiffres, on compare chiffre par chiffre en partant de la gauche.</div><p>Les nombres 1 000 000 (un million) et 10 000 (dix mille) sont très utilisés : pense aux populations, aux distances et aux prix.</p>",
+    "exercices": [
+      { "q": "Écris en chiffres : trois cent quatre mille deux cents.", "r": "304 200", "indice": "304 000 + 200." },
+      { "q": "Quelle est la valeur du chiffre 7 dans le nombre 472 615 ?", "r": "70 000 : le 7 est au rang des dizaines de milliers.", "indice": "Compte les rangs en partant de la droite : unités, dizaines, centaines, milliers, dizaines de milliers." },
+      { "q": "Décompose le nombre 5 046.", "r": "5 × 1 000 + 4 × 10 + 6. Le chiffre des centaines est 0, il n'apparaît donc pas dans la somme.", "indice": "Chaque chiffre se multiplie par la valeur de sa position." },
+      { "q": "Range dans l'ordre croissant : 3 020 ; 302 ; 30 200 ; 3 002.", "r": "302 < 3 002 < 3 020 < 30 200", "indice": "Le nombre qui a le moins de chiffres est le plus petit." },
+      { "q": "Quel est le plus petit nombre de cinq chiffres différents formé avec 3, 0, 7, 2 et 9 ?", "r": "20 379", "indice": "Le premier chiffre ne peut pas être 0. Commence par le plus petit chiffre non nul, puis classe les autres." }
+    ],
+    "qcm": [
+      { "q": "Dans 8 316, quel est le chiffre des centaines ?", "options": ["3", "8", "1", "6"], "correct": 0, "exp": "8 316 = 8 milliers, 3 centaines, 1 dizaine et 6 unités. Le chiffre des centaines est 3." },
+      { "q": "Comment s'écrit « quatre-vingt-dix mille » ?", "options": ["9 000", "90 000", "900 000", "9 900"], "correct": 1, "exp": "Quatre-vingt-dix mille = 90 × 1 000 = 90 000." },
+      { "q": "Lequel de ces nombres est le plus grand ?", "options": ["45 000", "4 500", "450", "54 000"], "correct": 3, "exp": "54 000 a le plus de milliers : 54 000 > 45 000 > 4 500 > 450." },
+      { "q": "Combien vaut un million ?", "options": ["mille", "cent mille", "un million", "dix mille"], "correct": 2, "exp": "Un million s'écrit 1 000 000, soit mille fois mille." },
+      { "q": "Quel est le chiffre des dizaines de 2 508 ?", "options": ["8", "0", "5", "2"], "correct": 1, "exp": "2 508 = 2 milliers, 5 centaines, 0 dizaine et 8 unités." },
+      { "q": "Quel est le plus petit nombre de six chiffres ?", "options": ["100 000", "99 999", "1 000 000", "10 000"], "correct": 0, "exp": "Le plus petit nombre de six chiffres est 100 000 : il a six chiffres, le premier étant 1." },
+      { "q": "Quelle est la décomposition de 3 204 ?", "options": ["3 000 + 200 + 4", "3 000 + 20 + 4", "300 + 204", "3 + 2 + 4"], "correct": 0, "exp": "3 204 = 3 000 + 200 + 4. Le chiffre des dizaines est 0." },
+      { "q": "Quel est le plus petit nombre de quatre chiffres ?", "options": ["9 999", "1 000", "1 001", "999"], "correct": 1, "exp": "Le plus petit nombre de quatre chiffres est 1 000. 999 n'en a que trois." },
+      { "q": "Dans le nombre 6 450, le chiffre 4 vaut :", "options": ["4", "40", "400", "4 000"], "correct": 2, "exp": "Le 4 est au rang des centaines : il vaut 4 × 100 = 400." },
+      { "q": "Quel nombre vient juste après 99 999 ?", "options": ["100 000", "99 990", "100 001", "99 000"], "correct": 0, "exp": "On ajoute 1 : 99 999 + 1 = 100 000." }
+    ]
+  },
+  {
+    "classe": "6eme",
+    "matiere": "Mathématiques",
+    "id": "m6-math-priorites",
+    "titre": "Les opérations et l'ordre des calculs",
+    "duree": "40 min",
+    "contenu": "<p>Une <b>expression</b> est une suite de calculs. Pour obtenir un résultat unique, on respecte toujours le même ordre.</p><div class='definition'><b>Règle des priorités :</b> 1) on calcule d'abord ce qui est entre <b>parenthèses</b> ; 2) puis les <b>multiplications et divisions</b> ; 3) enfin les <b>additions et soustractions</b>. Quand ces opérations sont de même niveau, on calcule de gauche à droite.</div><div class='exemple'><b>Exemple :</b> 3 + 4 × 2 = 3 + 8 = <b>11</b>. Mais (3 + 4) × 2 = 7 × 2 = <b>14</b>. Les parenthèses changent le résultat.</div><p>La division a aussi un vocabulaire : dans 47 ÷ 5, le <b>quotient</b> est 9 et le <b>reste</b> est 2, car 47 = 5 × 9 + 2.</p><div class='astuce'><b>Astuce :</b> pour vérifier une division, multiplie le diviseur par le quotient et ajoute le reste. Tu dois retrouver le nombre de départ. Le reste est toujours plus petit que le diviseur.</div>",
+    "exercices": [
+      { "q": "Calcule 5 + 3 × 6.", "r": "23 (on calcule d'abord 3 × 6 = 18, puis 5 + 18).", "indice": "Pense à la priorité de la multiplication." },
+      { "q": "Calcule (5 + 3) × 6.", "r": "48 (on calcule d'abord 5 + 3 = 8, puis 8 × 6).", "indice": "Les parenthèses passent en premier." },
+      { "q": "Calcule 40 − 12 ÷ 4.", "r": "37 (12 ÷ 4 = 3, puis 40 − 3).", "indice": "La division se fait avant la soustraction." },
+      { "q": "Calcule 7 × 8 − 5 × 6.", "r": "26 (56 − 30).", "indice": "Calcule les deux multiplications, puis soustrais." },
+      { "q": "Effectue 382 ÷ 5 et donne le quotient et le reste.", "r": "Quotient : 76 ; reste : 2, car 5 × 76 = 380 et 380 + 2 = 382.", "indice": "Cherche le plus grand multiple de 5 inférieur ou égal à 382." }
+    ],
+    "qcm": [
+      { "q": "Combien vaut 2 + 3 × 4 ?", "options": ["20", "14", "24", "10"], "correct": 1, "exp": "La multiplication passe avant : 3 × 4 = 12, puis 2 + 12 = 14." },
+      { "q": "Combien vaut (2 + 3) × 4 ?", "options": ["14", "20", "9", "11"], "correct": 1, "exp": "Les parenthèses d'abord : 5 × 4 = 20." },
+      { "q": "Combien vaut 18 ÷ 3 + 4 ?", "options": ["10", "2", "6", "15"], "correct": 0, "exp": "18 ÷ 3 = 6, puis 6 + 4 = 10." },
+      { "q": "Combien vaut 10 − 2 × 3 ?", "options": ["24", "4", "8", "2"], "correct": 1, "exp": "2 × 3 = 6, puis 10 − 6 = 4." },
+      { "q": "Combien vaut 100 ÷ (5 × 2) ?", "options": ["40", "10", "2", "250"], "correct": 1, "exp": "On calcule d'abord la parenthèse : 5 × 2 = 10, puis 100 ÷ 10 = 10." },
+      { "q": "Dans la division 47 = 5 × 9 + 2, quel est le quotient ?", "options": ["5", "9", "2", "47"], "correct": 1, "exp": "Le quotient est 9 : c'est le nombre de fois que 5 rentre dans 47." },
+      { "q": "Combien vaut 6 × 7 ?", "options": ["42", "36", "48", "13"], "correct": 0, "exp": "6 × 7 = 42. Pense à 6 groupes de 7." },
+      { "q": "Combien vaut 15 − 4 + 2 ?", "options": ["9", "13", "17", "11"], "correct": 1, "exp": "Addition et soustraction de gauche à droite : 15 − 4 = 11, puis 11 + 2 = 13." },
+      { "q": "Lequel est égal à 3 × 4 + 2 × 5 ?", "options": ["60", "22", "14", "35"], "correct": 1, "exp": "3 × 4 = 12 et 2 × 5 = 10, donc 12 + 10 = 22." },
+      { "q": "Combien vaut 24 ÷ 4 × 2 ?", "options": ["3", "12", "24", "48"], "correct": 1, "exp": "Multiplication et division de gauche à droite : 24 ÷ 4 = 6, puis 6 × 2 = 12." }
+    ]
+  },
+  {
+    "classe": "6eme",
+    "matiere": "Mathématiques",
+    "id": "m6-math-droites-angles",
+    "titre": "Droites, segments et angles",
+    "duree": "40 min",
+    "contenu": "<p>La géométrie étudie les figures. Les éléments de base sont le <b>point</b>, la <b>droite</b>, le <b>segment</b> et la <b>demi-droite</b>.</p><div class='definition'><b>Droite :</b> elle n'a ni début ni fin : elle se prolonge à l'infini des deux côtés. On la note (AB).<br><b>Segment :</b> il a deux extrémités, A et B. On le note [AB] et on peut le mesurer.<br><b>Demi-droite :</b> elle a un seul point de départ et se prolonge à l'infini d'un seul côté.</div><p>Deux droites sont <b>parallèles</b> si elles ne se coupent jamais. Elles sont <b>perpendiculaires</b> si elles se coupent en formant un angle droit.</p><div class='exemple'><b>Exemple :</b> dans un rectangle ABCD, les côtés [AB] et [DC] sont parallèles. Les côtés [AD] et [BC] sont perpendiculaires à [AB].</div><p>Un <b>angle</b> se mesure en degrés avec un <b>rapporteur</b>. On le classe ainsi :</p><ul><li><b>aigu</b> : moins de 90° ;</li><li><b>droit</b> : exactement 90° (le coin d'une feuille, par exemple) ;</li><li><b>obtus</b> : entre 90° et 180° ;</li><li><b>plat</b> : exactement 180°.</li></ul><div class='astuce'><b>Astuce :</b> pour vérifier un angle droit, utilise l'équerre. Pour tracer une perpendiculaire, c'est le moyen le plus sûr.</div>",
+    "exercices": [
+      { "q": "Quelle est la différence entre une droite et un segment ?", "r": "Une droite est illimitée des deux côtés. Un segment est limité par deux points, ses extrémités, et on peut le mesurer.", "indice": "Compte les extrémités." },
+      { "q": "Un angle mesure 120°. Quel est son nom ?", "r": "C'est un angle obtus, car il est compris entre 90° et 180°.", "indice": "Compare 120° à 90° et à 180°." },
+      { "q": "Deux droites perpendiculaires forment un angle de combien de degrés ?", "r": "90° : c'est un angle droit.", "indice": "Pense à l'équerre." },
+      { "q": "Un angle mesure 45°. Quel est son nom ?", "r": "C'est un angle aigu, car il est inférieur à 90°.", "indice": "Un angle aigu est plus petit qu'un angle droit." },
+      { "q": "Dans un rectangle ABCD, quels côtés sont parallèles à [AB] ? Et perpendiculaires ?", "r": "Parallèle à [AB] : le côté [DC]. Perpendiculaires à [AB] : les côtés [AD] et [BC].", "indice": "Dans un rectangle, les côtés opposés sont parallèles." }
+    ],
+    "qcm": [
+      { "q": "Un segment [AB] est limité par :", "options": ["une seule extrémité", "deux points A et B", "aucun point", "une infinité de points"], "correct": 1, "exp": "Un segment a deux extrémités, ici A et B." },
+      { "q": "Un angle droit mesure :", "options": ["45°", "90°", "180°", "360°"], "correct": 1, "exp": "Un angle droit mesure exactement 90°." },
+      { "q": "Un angle de 150° est :", "options": ["aigu", "droit", "obtus", "plat"], "correct": 2, "exp": "150° est compris entre 90° et 180° : c'est un angle obtus." },
+      { "q": "Un angle plat mesure :", "options": ["90°", "180°", "270°", "360°"], "correct": 1, "exp": "Un angle plat mesure 180°, c'est une demi-tour." },
+      { "q": "Deux droites parallèles :", "options": ["se coupent en un point", "ne se coupent jamais", "sont perpendiculaires", "sont confondues"], "correct": 1, "exp": "Des droites parallèles ne se coupent jamais, quelle que soit leur longueur." },
+      { "q": "Deux droites perpendiculaires forment :", "options": ["un angle aigu", "un angle obtus", "un angle droit", "un angle plat"], "correct": 2, "exp": "Deux droites perpendiculaires se coupent en formant un angle droit (90°)." },
+      { "q": "Un angle de 30° est :", "options": ["aigu", "droit", "obtus", "plat"], "correct": 0, "exp": "30° est inférieur à 90° : c'est un angle aigu." },
+      { "q": "Une droite a combien d'extrémités ?", "options": ["Aucune", "Une", "Deux", "Trois"], "correct": 0, "exp": "Une droite n'a pas d'extrémité : elle se prolonge indéfiniment." },
+      { "q": "Dans un carré ABCD, les côtés [AB] et [DC] sont :", "options": ["perpendiculaires", "parallèles", "confondus", "sécants en A"], "correct": 1, "exp": "Les côtés opposés d'un carré sont parallèles." },
+      { "q": "Un angle de 90° est aussi appelé :", "options": ["angle aigu", "angle plat", "angle droit", "angle nul"], "correct": 2, "exp": "Un angle de 90° est un angle droit." }
+    ]
+  },
+  {
+    "classe": "6eme",
+    "matiere": "Mathématiques",
+    "id": "m6-math-perimetres-aires",
+    "titre": "Périmètres et aires : rectangle, carré, triangle",
+    "duree": "40 min",
+    "contenu": "<p>Deux grandeurs servent à décrire une figure :</p><div class='definition'><b>Périmètre :</b> la longueur tout autour de la figure (son contour). Il s'exprime en cm, m, km.<br><b>Aire :</b> la surface de la figure. Elle s'exprime en cm², m², km².</div><p><b>Formules à connaître :</b></p><ul><li>Rectangle de longueur L et de largeur l : périmètre = 2 × (L + l) ; aire = L × l.</li><li>Carré de côté c : périmètre = 4 × c ; aire = c × c.</li><li>Triangle de base b et de hauteur h : aire = b × h ÷ 2.</li></ul><div class='exemple'><b>Exemple :</b> un rectangle de 8 cm sur 3 cm. Périmètre = 2 × (8 + 3) = 22 cm. Aire = 8 × 3 = 24 cm².</div><div class='astuce'><b>Astuce :</b> ne confonds pas les unités. Un périmètre se mesure en cm, une aire en cm². Une aire de 1 cm² est un carré dont chaque côté mesure 1 cm.</div>",
+    "exercices": [
+      { "q": "Calcule le périmètre d'un rectangle de 7 cm de longueur et 4 cm de largeur.", "r": "2 × (7 + 4) = 22 cm.", "indice": "Additionne longueur et largeur, puis multiplie par 2." },
+      { "q": "Calcule l'aire du même rectangle de 7 cm sur 4 cm.", "r": "7 × 4 = 28 cm².", "indice": "L'aire d'un rectangle est longueur × largeur." },
+      { "q": "Un carré a un côté de 6 m. Calcule son périmètre et son aire.", "r": "Périmètre = 4 × 6 = 24 m ; aire = 6 × 6 = 36 m².", "indice": "Le périmètre additionne les quatre côtés." },
+      { "q": "Calcule l'aire d'un triangle de base 10 cm et de hauteur 6 cm.", "r": "10 × 6 ÷ 2 = 30 cm².", "indice": "N'oublie pas de diviser par 2." },
+      { "q": "Pour clôturer un jardin rectangulaire de 12 m sur 5 m, quelle longueur de grillage faut-il ?", "r": "Le grillage fait le tour du jardin : c'est le périmètre, soit 2 × (12 + 5) = 34 m.", "indice": "Il faut clôturer tout le contour." }
+    ],
+    "qcm": [
+      { "q": "Quel est le périmètre d'un carré de côté 5 cm ?", "options": ["20 cm", "25 cm", "10 cm", "15 cm"], "correct": 0, "exp": "Périmètre = 4 × 5 = 20 cm." },
+      { "q": "Quelle est l'aire d'un rectangle de 9 cm sur 2 cm ?", "options": ["22 cm²", "18 cm²", "11 cm²", "18 cm"], "correct": 1, "exp": "Aire = 9 × 2 = 18 cm². L'unité est bien le cm²." },
+      { "q": "Quelle est l'unité de l'aire ?", "options": ["cm", "cm²", "cm³", "m"], "correct": 1, "exp": "L'aire est une surface : son unité est le cm² (ou m², km²)." },
+      { "q": "Quel est le périmètre d'un rectangle de 6 cm sur 4 cm ?", "options": ["10 cm", "24 cm", "20 cm", "12 cm"], "correct": 2, "exp": "Périmètre = 2 × (6 + 4) = 20 cm." },
+      { "q": "Quelle est l'aire d'un triangle de base 8 cm et de hauteur 5 cm ?", "options": ["40 cm²", "13 cm²", "20 cm²", "26 cm²"], "correct": 2, "exp": "Aire = 8 × 5 ÷ 2 = 20 cm²." },
+      { "q": "Quelle est l'aire d'un carré de côté 4 cm ?", "options": ["8 cm²", "16 cm²", "4 cm²", "12 cm²"], "correct": 1, "exp": "Aire = 4 × 4 = 16 cm²." },
+      { "q": "Le périmètre d'une figure s'exprime en :", "options": ["cm²", "cm", "cm³", "litre"], "correct": 1, "exp": "Le périmètre est une longueur : il s'exprime en cm (ou m, km)." },
+      { "q": "Quelle est l'aire d'un rectangle de 10 m sur 3 m ?", "options": ["13 m", "26 m", "30 m²", "300 m²"], "correct": 2, "exp": "Aire = 10 × 3 = 30 m²." },
+      { "q": "Quel est le périmètre d'un carré de côté 3 cm ?", "options": ["9 cm", "6 cm", "12 cm", "12 cm²"], "correct": 2, "exp": "Périmètre = 4 × 3 = 12 cm. Ce n'est pas une aire, donc pas de cm²." },
+      { "q": "Pour calculer l'aire d'un triangle, on utilise :", "options": ["base × hauteur", "base × hauteur ÷ 2", "(base + hauteur) × 2", "base + hauteur"], "correct": 1, "exp": "L'aire d'un triangle est la moitié du produit base × hauteur." }
+    ]
+  }
+]

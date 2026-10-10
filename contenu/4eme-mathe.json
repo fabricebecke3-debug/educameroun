@@ -1,0 +1,590 @@
+[
+  {
+    "classe": "4eme",
+    "matiere": "Mathématiques",
+    "id": "m4-puissances",
+    "titre": "Les puissances et la notation scientifique",
+    "duree": "40 min",
+    "contenu": "<p>Une <b>puissance</b> est un produit de facteurs identiques. Elle se note avec un <b>exposant</b> : 2⁵ = 2 × 2 × 2 × 2 × 2 = 32.</p><div class='definition'><b>Définition :</b> pour un nombre a non nul et un entier n positif, a^n = a × a × … × a (n facteurs).<br><b>Puissance nulle :</b> a⁰ = 1 (pour a non nul).<br><b>Puissance négative :</b> a^−n = 1 ÷ a^n.</div><p><b>Règles de calcul</b> (a et b non nuls) :</p><ul><li>a^m × a^n = a^m+n (on additionne les exposants)</li><li>a^m ÷ a^n = a^m−n (on soustrait les exposants)</li><li>(a^m)^n = a^m×n</li></ul><div class='exemple'><b>Exemple :</b> 10³ × 10² = 10⁵ = 100 000. Et 10⁻² = 1 ÷ 10² = 0,01.</div><p><b>Notation scientifique :</b> un nombre s'écrit a × 10^n avec 1 ≤ a &lt; 10. Ex. : 45 000 = 4,5 × 10⁴.</p><div class='astuce'><b>Astuce :</b> dans un produit, on additionne les exposants ; dans une puissance de puissance, on les multiplie. Ne confonds pas 2³ (= 8) avec 2 × 3 (= 6).</div>",
+    "exercices": [
+      {
+        "q": "Calcule : 2⁵ ; 3⁴ ; 10⁰.",
+        "r": "32 ; 81 ; 1.",
+        "indice": "Multiplie la base par elle-même autant de fois que l'exposant l'indique."
+      },
+      {
+        "q": "Simplifie : 10³ × 10⁴ ; 5⁶ ÷ 5².",
+        "r": "10⁷ ; 5⁴.",
+        "indice": "Produit : on additionne les exposants. Quotient : on soustrait."
+      },
+      {
+        "q": "Calcule (2³)².",
+        "r": "2⁶ = 64.",
+        "indice": "Puissance de puissance : on multiplie les exposants."
+      },
+      {
+        "q": "Écris en notation scientifique : 3 200 ; 0,0056.",
+        "r": "3,2 × 10³ ; 5,6 × 10⁻³.",
+        "indice": "Le nombre doit être entre 1 et 10 ; compte les rangs de la virgule."
+      },
+      {
+        "q": "Écris sous forme de puissance de 10 : 1 000 000 ; 0,001.",
+        "r": "10⁶ ; 10⁻³.",
+        "indice": "Compte le nombre de zéros, et utilise un exposant négatif pour les petits nombres."
+      }
+    ],
+    "qcm": [
+      {
+        "q": "2⁴ vaut :",
+        "options": [
+          "8",
+          "16",
+          "6",
+          "24"
+        ],
+        "correct": 1,
+        "exp": "2 × 2 × 2 × 2 = 16."
+      },
+      {
+        "q": "10³ × 10² vaut :",
+        "options": [
+          "10⁶",
+          "10⁵",
+          "100⁵",
+          "10¹"
+        ],
+        "correct": 1,
+        "exp": "On additionne les exposants : 3 + 2 = 5."
+      },
+      {
+        "q": "a⁰ vaut (a non nul) :",
+        "options": [
+          "0",
+          "a",
+          "1",
+          "impossible"
+        ],
+        "correct": 2,
+        "exp": "Toute puissance nulle d'un nombre non nul vaut 1."
+      },
+      {
+        "q": "5⁶ ÷ 5² vaut :",
+        "options": [
+          "5³",
+          "5⁴",
+          "5⁸",
+          "1"
+        ],
+        "correct": 1,
+        "exp": "On soustrait les exposants : 6 − 2 = 4."
+      },
+      {
+        "q": "(2³)² vaut :",
+        "options": [
+          "2⁵",
+          "2⁶",
+          "2⁹",
+          "4³ uniquement"
+        ],
+        "correct": 1,
+        "exp": "On multiplie les exposants : 3 × 2 = 6."
+      },
+      {
+        "q": "La notation scientifique de 45 000 est :",
+        "options": [
+          "45 × 10³",
+          "4,5 × 10⁴",
+          "0,45 × 10⁵",
+          "450 × 10²"
+        ],
+        "correct": 1,
+        "exp": "Le nombre doit être entre 1 et 10 : 4,5 × 10⁴."
+      },
+      {
+        "q": "10⁻² vaut :",
+        "options": [
+          "−100",
+          "0,01",
+          "−0,01",
+          "100"
+        ],
+        "correct": 1,
+        "exp": "10⁻² = 1 ÷ 10² = 0,01."
+      },
+      {
+        "q": "2³ est égal à :",
+        "options": [
+          "6",
+          "8",
+          "9",
+          "5"
+        ],
+        "correct": 1,
+        "exp": "2 × 2 × 2 = 8 (et non 2 × 3)."
+      },
+      {
+        "q": "a^m × a^n est égal à :",
+        "options": [
+          "a^m×n",
+          "a^m+n",
+          "a^m−n",
+          "a^mn uniquement"
+        ],
+        "correct": 1,
+        "exp": "Produit de puissances de même base : on additionne les exposants."
+      },
+      {
+        "q": "Le nombre 0,0056 en notation scientifique est :",
+        "options": [
+          "5,6 × 10³",
+          "5,6 × 10⁻³",
+          "56 × 10⁻⁴",
+          "0,56 × 10⁻²"
+        ],
+        "correct": 1,
+        "exp": "Le nombre 5,6 est entre 1 et 10, et il faut décaler la virgule de 3 rangs vers la droite : 10⁻³."
+      }
+    ]
+  },
+  {
+    "classe": "4eme",
+    "matiere": "Mathématiques",
+    "id": "m4-calcul-litteral",
+    "titre": "Le calcul littéral : développer et réduire",
+    "duree": "40 min",
+    "contenu": "<p>Le <b>calcul littéral</b> utilise des lettres pour représenter des nombres. Il permet d'écrire des expressions générales et de les simplifier.</p><div class='definition'><b>Développer</b> une expression, c'est transformer un produit en somme.<br><b>Simple distributivité :</b> k(a + b) = ka + kb. Ex. : 3(x + 4) = 3x + 12.<br><b>Double distributivité :</b> (a + b)(c + d) = ac + ad + bc + bd. Ex. : (x + 2)(x + 3) = x² + 3x + 2x + 6 = x² + 5x + 6.<br><b>Réduire</b> une expression, c'est regrouper les termes de même nature : 3x + 5x − 2 = 8x − 2.</div><div class='exemple'><b>Exemple :</b> le périmètre d'un rectangle de longueur x + 3 et de largeur 2 vaut P = 2(x + 3 + 2) = 2(x + 5) = 2x + 10.</div><div class='astuce'><b>Astuce :</b> attention au signe moins : −2(x − 4) = −2x + 8. Le signe moins devant la parenthèse change le signe de chaque terme à l'intérieur.</div>",
+    "exercices": [
+      {
+        "q": "Développe : 4(x + 5) ; 2(3x − 1).",
+        "r": "4x + 20 ; 6x − 2.",
+        "indice": "Multiplie chaque terme à l'intérieur par le nombre devant la parenthèse."
+      },
+      {
+        "q": "Réduis : 5x + 3x − 7 ; 4a − 2a + a.",
+        "r": "8x − 7 ; 3a.",
+        "indice": "Regroupe les termes qui contiennent la même lettre."
+      },
+      {
+        "q": "Développe et réduis : (x + 2)(x + 4).",
+        "r": "x² + 4x + 2x + 8 = x² + 6x + 8.",
+        "indice": "Chaque terme de la première parenthèse multiplie chaque terme de la seconde."
+      },
+      {
+        "q": "Développe : −3(x − 2).",
+        "r": "−3x + 6.",
+        "indice": "Le signe moins change les signes à l'intérieur : −3 × (−2) = +6."
+      },
+      {
+        "q": "Un carré de côté (x + 1) : exprime son aire développée.",
+        "r": "(x + 1)² = (x + 1)(x + 1) = x² + 2x + 1.",
+        "indice": "Un carré a pour aire le côté multiplié par lui-même."
+      }
+    ],
+    "qcm": [
+      {
+        "q": "Développe 3(x + 4) :",
+        "options": [
+          "3x + 4",
+          "3x + 12",
+          "x + 12",
+          "3x + 7"
+        ],
+        "correct": 1,
+        "exp": "3 × x + 3 × 4 = 3x + 12."
+      },
+      {
+        "q": "Réduis 5x + 2x :",
+        "options": [
+          "7x²",
+          "7x",
+          "10x",
+          "5x + 2"
+        ],
+        "correct": 1,
+        "exp": "Termes de même nature : 7x."
+      },
+      {
+        "q": "Développe −2(x − 5) :",
+        "options": [
+          "−2x − 10",
+          "−2x + 10",
+          "2x − 10",
+          "−2x − 5"
+        ],
+        "correct": 1,
+        "exp": "−2 × x + (−2) × (−5) = −2x + 10."
+      },
+      {
+        "q": "(x + 2)(x + 3) développé et réduit donne :",
+        "options": [
+          "x² + 5x + 6",
+          "x² + 6",
+          "x + 5",
+          "2x + 6"
+        ],
+        "correct": 0,
+        "exp": "x² + 3x + 2x + 6 = x² + 5x + 6."
+      },
+      {
+        "q": "Réduis : 4a − a + 2 :",
+        "options": [
+          "5a + 2",
+          "3a + 2",
+          "3a − 2",
+          "4a + 1"
+        ],
+        "correct": 1,
+        "exp": "4a − a = 3a, donc 3a + 2."
+      },
+      {
+        "q": "Développe 2(3x − 1) :",
+        "options": [
+          "6x − 1",
+          "6x − 2",
+          "5x − 2",
+          "3x − 2"
+        ],
+        "correct": 1,
+        "exp": "2 × 3x + 2 × (−1) = 6x − 2."
+      },
+      {
+        "q": "Le carré de (x + 1) s'écrit développé :",
+        "options": [
+          "x² + 1",
+          "x² + 2x + 1",
+          "x² + x + 1",
+          "2x + 2"
+        ],
+        "correct": 1,
+        "exp": "(x + 1)² = x² + 2x + 1."
+      },
+      {
+        "q": "Réduis : 3x² + 2x² :",
+        "options": [
+          "5x",
+          "5x²",
+          "6x²",
+          "5x⁴"
+        ],
+        "correct": 1,
+        "exp": "Même nature (x²) : 5x²."
+      },
+      {
+        "q": "Développe x(x + 3) :",
+        "options": [
+          "x + 3x",
+          "x² + 3x",
+          "2x + 3",
+          "x² + 3"
+        ],
+        "correct": 1,
+        "exp": "x × x + x × 3 = x² + 3x."
+      },
+      {
+        "q": "Quelle expression est égale à 4(a + 2) − 3 ?",
+        "options": [
+          "4a + 5",
+          "4a + 8 − 3",
+          "4a − 1",
+          "4a + 2"
+        ],
+        "correct": 0,
+        "exp": "4a + 8 − 3 = 4a + 5."
+      }
+    ]
+  },
+  {
+    "classe": "4eme",
+    "matiere": "Mathématiques",
+    "id": "m4-equations-premier-degre",
+    "titre": "Les équations du premier degré",
+    "duree": "40 min",
+    "contenu": "<p>Une <b>équation</b> est une égalité qui contient une inconnue (souvent notée x). Résoudre l'équation, c'est trouver la valeur de x qui rend l'égalité vraie.</p><div class='definition'><b>Règles de résolution :</b><br>1) on peut ajouter ou soustraire le même nombre aux deux membres ;<br>2) on peut multiplier ou diviser les deux membres par le même nombre non nul.<br><b>Vérifier</b> une solution : on remplace x par la valeur trouvée et on contrôle que l'égalité est vraie.</div><div class='exemple'><b>Exemple :</b> résoudre 2x + 3 = 11. On soustrait 3 : 2x = 8. On divise par 2 : x = 4. Vérification : 2 × 4 + 3 = 11 ✓.</div><p><b>Problème :</b> au marché, 3 mangues et 2 ananas coûtent 1 600 FCFA ; une mangue coûte 300 FCFA. Quel est le prix d'un ananas ? On écrit 3 × 300 + 2p = 1 600, donc 2p = 700, soit p = 350 FCFA.</p><div class='astuce'><b>Astuce :</b> pour résoudre une équation, regroupe les x d'un côté et les nombres de l'autre, puis divise. Termine toujours par une vérification.</div>",
+    "exercices": [
+      {
+        "q": "Résous : x + 7 = 12.",
+        "r": "x = 5.",
+        "indice": "Soustrais 7 aux deux membres."
+      },
+      {
+        "q": "Résous : 3x − 4 = 11.",
+        "r": "3x = 15, donc x = 5.",
+        "indice": "Ajoute 4 aux deux membres, puis divise par 3."
+      },
+      {
+        "q": "Résous : 5x = 2x + 9.",
+        "r": "3x = 9, donc x = 3.",
+        "indice": "Regroupe les x d'un côté : soustrais 2x."
+      },
+      {
+        "q": "Vérifie que x = −2 est solution de 4x + 1 = −7.",
+        "r": "4 × (−2) + 1 = −8 + 1 = −7. C'est vrai.",
+        "indice": "Remplace x par −2 et calcule."
+      },
+      {
+        "q": "Un cahier coûte x FCFA. 4 cahiers et 500 FCFA font 2 100 FCFA. Trouve le prix d'un cahier.",
+        "r": "4x + 500 = 2 100, donc 4x = 1 600, donc x = 400 FCFA.",
+        "indice": "Mets le problème en équation puis résous."
+      }
+    ],
+    "qcm": [
+      {
+        "q": "La solution de x + 7 = 12 est :",
+        "options": [
+          "19",
+          "5",
+          "7",
+          "12"
+        ],
+        "correct": 1,
+        "exp": "12 − 7 = 5."
+      },
+      {
+        "q": "La solution de 2x = 10 est :",
+        "options": [
+          "20",
+          "5",
+          "8",
+          "12"
+        ],
+        "correct": 1,
+        "exp": "On divise par 2 : x = 5."
+      },
+      {
+        "q": "La solution de 3x − 4 = 11 est :",
+        "options": [
+          "3",
+          "5",
+          "7",
+          "15"
+        ],
+        "correct": 1,
+        "exp": "3x = 15, donc x = 5."
+      },
+      {
+        "q": "Pour vérifier une solution, on :",
+        "options": [
+          "la divise par 2",
+          "remplace x par la valeur trouvée",
+          "l'ajoute à 10",
+          "l'efface"
+        ],
+        "correct": 1,
+        "exp": "On remplace x et on contrôle l'égalité."
+      },
+      {
+        "q": "Si on soustrait 5 aux deux membres de x + 5 = 9, on obtient :",
+        "options": [
+          "x + 10 = 4",
+          "x = 4",
+          "x = 14",
+          "x − 5 = 9"
+        ],
+        "correct": 1,
+        "exp": "On obtient x = 4."
+      },
+      {
+        "q": "La solution de 5x = 2x + 9 est :",
+        "options": [
+          "x = 9",
+          "x = 3",
+          "x = 2",
+          "x = 7"
+        ],
+        "correct": 1,
+        "exp": "3x = 9, donc x = 3."
+      },
+      {
+        "q": "Dans 4x + 1 = −7, la solution est :",
+        "options": [
+          "x = 2",
+          "x = −2",
+          "x = 1",
+          "x = −1"
+        ],
+        "correct": 1,
+        "exp": "4x = −8, donc x = −2."
+      },
+      {
+        "q": "Une équation est une égalité qui contient :",
+        "options": [
+          "toujours un seul nombre",
+          "une inconnue",
+          "des images",
+          "un texte"
+        ],
+        "correct": 1,
+        "exp": "Elle contient une inconnue, souvent notée x."
+      },
+      {
+        "q": "On peut multiplier les deux membres d'une équation :",
+        "options": [
+          "par 0",
+          "par le même nombre non nul",
+          "par des nombres différents",
+          "jamais"
+        ],
+        "correct": 1,
+        "exp": "Il faut multiplier par le même nombre non nul."
+      },
+      {
+        "q": "Si un ananas coûte 350 FCFA et un cahier 400 FCFA, combien coûtent 2 ananas ?",
+        "options": [
+          "700 FCFA",
+          "750 FCFA",
+          "800 FCFA",
+          "350 FCFA"
+        ],
+        "correct": 0,
+        "exp": "2 × 350 = 700 FCFA."
+      }
+    ]
+  },
+  {
+    "classe": "4eme",
+    "matiere": "Mathématiques",
+    "id": "m4-pythagore",
+    "titre": "Le théorème de Pythagore",
+    "duree": "40 min",
+    "contenu": "<p>Le <b>théorème de Pythagore</b> s'applique aux triangles <b>rectangles</b>. Il relie les longueurs des trois côtés.</p><div class='definition'><b>L'hypoténuse</b> est le côté le plus long d'un triangle rectangle. C'est le côté opposé à l'angle droit.<br><b>Théorème de Pythagore :</b> dans un triangle rectangle, le carré de l'hypoténuse est égal à la somme des carrés des deux autres côtés.<br>Si ABC est rectangle en A : BC² = AB² + AC².</div><div class='exemple'><b>Exemple :</b> un triangle rectangle a des côtés de 3 cm et 4 cm. L'hypoténuse vaut : c² = 3² + 4² = 9 + 16 = 25, donc c = √25 = 5 cm.</div><p><b>Réciproque :</b> si, dans un triangle, le carré du plus grand côté est égal à la somme des carrés des deux autres, alors le triangle est rectangle. Par exemple, 5, 12, 13 : 13² = 169 = 25 + 144, donc le triangle est rectangle.</p><div class='astuce'><b>Astuce :</b> cherche d'abord l'hypoténuse (le côté opposé à l'angle droit). Si tu cherches un côté de l'angle droit, utilise c² − a² = b².</div>",
+    "exercices": [
+      {
+        "q": "Dans un triangle rectangle ABC rectangle en A, AB = 6 cm et AC = 8 cm. Calcule BC.",
+        "r": "BC² = 36 + 64 = 100, donc BC = 10 cm.",
+        "indice": "L'hypoténuse est le côté opposé à l'angle droit, ici BC."
+      },
+      {
+        "q": "Calcule l'hypoténuse d'un triangle rectangle dont les côtés de l'angle droit mesurent 5 cm et 12 cm.",
+        "r": "13 cm, car 5² + 12² = 25 + 144 = 169 et √169 = 13.",
+        "indice": "Calcule les carrés, additionne, puis prends la racine carrée."
+      },
+      {
+        "q": "Dans un triangle rectangle, l'hypoténuse mesure 13 cm et un côté de l'angle droit mesure 5 cm. Calcule l'autre côté.",
+        "r": "b² = 169 − 25 = 144, donc b = 12 cm.",
+        "indice": "Soustrais le carré du côté connu au carré de l'hypoténuse."
+      },
+      {
+        "q": "Les côtés d'un triangle mesurent 6 cm, 8 cm et 10 cm. Ce triangle est-il rectangle ?",
+        "r": "10² = 100 et 6² + 8² = 36 + 64 = 100. Oui, il est rectangle.",
+        "indice": "Utilise la réciproque du théorème."
+      },
+      {
+        "q": "Une échelle de 5 m est appuyée contre un mur. Son pied est à 3 m du mur. À quelle hauteur touche-t-elle le mur ?",
+        "r": "h² = 25 − 9 = 16, donc h = 4 m.",
+        "indice": "L'échelle est l'hypoténuse, le mur et le sol forment l'angle droit."
+      }
+    ],
+    "qcm": [
+      {
+        "q": "L'hypoténuse est :",
+        "options": [
+          "le plus petit côté",
+          "le côté le plus long, opposé à l'angle droit",
+          "le côté du milieu",
+          "la base"
+        ],
+        "correct": 1,
+        "exp": "C'est le côté le plus long, face à l'angle droit."
+      },
+      {
+        "q": "Le théorème de Pythagore s'applique à :",
+        "options": [
+          "tous les triangles",
+          "les triangles rectangles",
+          "les cercles",
+          "les carrés uniquement"
+        ],
+        "correct": 1,
+        "exp": "Il ne concerne que les triangles rectangles."
+      },
+      {
+        "q": "Avec les côtés 3 et 4 (angle droit), l'hypoténuse vaut :",
+        "options": [
+          "5",
+          "7",
+          "12",
+          "25"
+        ],
+        "correct": 0,
+        "exp": "√(9 + 16) = √25 = 5."
+      },
+      {
+        "q": "Un triangle de côtés 5, 12, 13 est :",
+        "options": [
+          "rectangle",
+          "équilatéral",
+          "quelconque sans propriété",
+          "isocèle uniquement"
+        ],
+        "correct": 0,
+        "exp": "13² = 25 + 144, donc rectangle."
+      },
+      {
+        "q": "Dans un triangle rectangle, la formule est :",
+        "options": [
+          "a² + b² = c²",
+          "a + b = c",
+          "a² − b² = c²",
+          "a × b = c"
+        ],
+        "correct": 0,
+        "exp": "a² + b² = c², c étant l'hypoténuse."
+      },
+      {
+        "q": "Si l'hypoténuse vaut 10 et un côté 6, l'autre côté vaut :",
+        "options": [
+          "4",
+          "8",
+          "16",
+          "2"
+        ],
+        "correct": 1,
+        "exp": "100 − 36 = 64, √64 = 8."
+      },
+      {
+        "q": "Un triangle de côtés 6, 8 et 9 est :",
+        "options": [
+          "rectangle",
+          "non rectangle",
+          "isocèle",
+          "équilatéral"
+        ],
+        "correct": 1,
+        "exp": "9² = 81 ≠ 36 + 64 = 100."
+      },
+      {
+        "q": "Le carré de l'hypoténuse est égal à :",
+        "options": [
+          "la différence des carrés",
+          "la somme des carrés des deux autres côtés",
+          "le produit des côtés",
+          "la somme des côtés"
+        ],
+        "correct": 1,
+        "exp": "C'est l'énoncé du théorème."
+      },
+      {
+        "q": "Une échelle de 5 m, pied à 3 m du mur, touche le mur à :",
+        "options": [
+          "4 m",
+          "2 m",
+          "8 m",
+          "3 m"
+        ],
+        "correct": 0,
+        "exp": "h² = 25 − 9 = 16 donc h = 4 m."
+      },
+      {
+        "q": "La racine carrée de 144 vaut :",
+        "options": [
+          "12",
+          "14",
+          "72",
+          "11"
+        ],
+        "correct": 0,
+        "exp": "12 × 12 = 144."
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "classe": "3eme",
+    "matiere": "SVT",
+    "id": "modele-json-exemple",
+    "titre": "Titre de la leçon",
+    "duree": "30 min",
+    "contenu": "<div class=\"definition\"><b>Définition :</b> texte de la définition.</div><p>Explication du cours, paragraphe par paragraphe, avec des exemples tirés du contexte camerounais.</p><div class=\"astuce\">💡 Un conseil de méthode.</div>",
+    "exercices": [
+      { "q": "Question de l'exercice d'application.", "r": "<b>Réponse détaillée</b>.", "indice": "Une piste pour commencer." }
+    ],
+    "qcm": [
+      { "q": "Question du QCM ?", "options": ["Réponse A", "Réponse B", "Réponse C", "Réponse D"], "correct": 1, "exp": "Explication de la bonne réponse." }
+    ]
+  }
+]

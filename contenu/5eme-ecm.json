@@ -1,0 +1,110 @@
+[
+  {
+    "classe": "5eme",
+    "matiere": "ECM",
+    "id": "e5-droits-devoirs",
+    "titre": "Droits et devoirs du citoyen",
+    "duree": "40 min",
+    "contenu": "<p>Vivre en société suppose d'avoir des <b>droits</b> et de remplir des <b>devoirs</b>. Ces deux notions sont indissociables : chaque droit d'une personne implique un devoir pour les autres.</p><div class='definition'><b>Un droit</b> est une liberté ou une protection garantie par la loi : droit à la vie, à l'éducation, à la liberté d'expression.<br><b>Un devoir</b> est une obligation morale ou légale : respecter les lois, payer les impôts, respecter autrui.<br><b>La Constitution</b> est le texte fondamental qui organise l'État et garantit les droits des citoyens.</div><p>Au Cameroun, la Constitution affirme l'égalité de tous les citoyens devant la loi, quels que soient leur origine, leur religion ou leur sexe.</p><div class='exemple'><b>Exemple :</b> le droit de voter est un droit du citoyen. Le devoir de payer les impôts permet à l'État de financer les écoles et les hôpitaux.</div><div class='astuce'><b>Astuce :</b> pour chaque droit, demande-toi quel devoir il entraîne pour les autres. Le droit à l'éducation oblige l'État à construire des écoles.</div>",
+    "exercices": [
+      { "q": "Donne la différence entre un droit et un devoir.", "r": "Un droit est une liberté ou une protection garantie par la loi. Un devoir est une obligation envers la société ou envers autrui.", "indice": "Pense à ce que l'on reçoit et à ce que l'on doit." },
+      { "q": "Cite trois droits du citoyen.", "r": "Par exemple : le droit à la vie, le droit à l'éducation, la liberté d'expression.", "indice": "Pense à ce qui protège la personne." },
+      { "q": "Cite trois devoirs du citoyen.", "r": "Par exemple : respecter les lois, payer les impôts, respecter autrui.", "indice": "Pense à ce qu'un bon citoyen fait pour la société." },
+      { "q": "Explique le lien entre le droit à l'éducation et le devoir de l'État.", "r": "Le droit à l'éducation oblige l'État à mettre en place des écoles et des enseignants.", "indice": "Chaque droit crée une obligation pour quelqu'un d'autre." },
+      { "q": "Qu'est-ce que la Constitution ?", "r": "C'est le texte fondamental qui organise l'État et garantit les droits des citoyens.", "indice": "C'est la loi la plus importante du pays." }
+    ],
+    "qcm": [
+      { "q": "Un droit est :", "options": ["une obligation", "une liberté garantie par la loi", "une punition", "un devoir scolaire"], "correct": 1, "exp": "Le droit est une liberté ou une protection garantie." },
+      { "q": "Un devoir est :", "options": ["une liberté", "une obligation envers la société", "un jeu", "un privilège"], "correct": 1, "exp": "C'est une obligation envers la société et autrui." },
+      { "q": "La Constitution est :", "options": ["le texte fondamental de l'État", "un journal", "un livre de sport", "un calendrier"], "correct": 0, "exp": "C'est la loi fondamentale qui organise le pays." },
+      { "q": "Payer ses impôts est :", "options": ["un droit", "un devoir", "une option", "une punition"], "correct": 1, "exp": "C'est un devoir du citoyen." },
+      { "q": "Le droit de vote est :", "options": ["un devoir", "un droit du citoyen", "une sanction", "une dette"], "correct": 1, "exp": "C'est un droit reconnu aux citoyens." },
+      { "q": "Au Cameroun, la Constitution affirme :", "options": ["l'égalité des citoyens devant la loi", "la supériorité d'un groupe", "l'interdiction de voter", "la fin des droits"], "correct": 0, "exp": "Tous les citoyens sont égaux devant la loi." },
+      { "q": "Chaque droit implique :", "options": ["aucun devoir", "un devoir pour les autres", "une amende", "une récompense"], "correct": 1, "exp": "Un droit crée une obligation de le respecter pour autrui." },
+      { "q": "Le droit à la liberté d'expression signifie :", "options": ["pouvoir dire ce qu'on pense dans le respect de la loi", "pouvoir insulter", "pouvoir se taire toujours", "ne rien dire"], "correct": 0, "exp": "C'est la liberté de s'exprimer, dans le respect des lois et des autres." },
+      { "q": "Respecter les lois est :", "options": ["un devoir du citoyen", "un droit facultatif", "une option", "une punition"], "correct": 0, "exp": "C'est un devoir fondamental du citoyen." },
+      { "q": "Quel exemple est un devoir ?", "options": ["aller à l'école", "respecter la propriété d'autrui", "voter", "être soigné"], "correct": 1, "exp": "Respecter les biens d'autrui est un devoir." }
+    ]
+  },
+  {
+    "classe": "5eme",
+    "matiere": "ECM",
+    "id": "e5-institutions",
+    "titre": "Les institutions de l'État camerounais",
+    "duree": "40 min",
+    "contenu": "<p>Un État fonctionne grâce à des <b>institutions</b> qui exercent le pouvoir. On distingue généralement trois pouvoirs, qui doivent être séparés pour éviter l'abus de pouvoir : le <b>pouvoir exécutif</b>, le <b>pouvoir législatif</b> et le <b>pouvoir judiciaire</b>.</p><div class='definition'><b>Le pouvoir exécutif</b> applique les lois et gère l'État. Au Cameroun, il est exercé par le Président de la République, assisté du Gouvernement.<br><b>Le pouvoir législatif</b> vote les lois. Il est exercé par le Parlement, composé de l'Assemblée nationale et du Sénat.<br><b>Le pouvoir judiciaire</b> rend la justice et veille au respect des lois. Il est exercé par les tribunaux.</div><p>La <b>séparation des pouvoirs</b> est un principe démocratique : aucun de ces pouvoirs ne doit dominer les autres.</p><div class='exemple'><b>Exemple :</b> lorsqu'un juge tranche un litige entre deux personnes, il exerce le pouvoir judiciaire. Lorsque les députés votent une nouvelle loi sur l'école, ils exercent le pouvoir législatif.</div><div class='astuce'><b>Astuce :</b> retiens les trois pouvoirs avec le verbe qui les caractérise : exécuter (exécutif), voter la loi (législatif), juger (judiciaire).</div>",
+    "exercices": [
+      { "q": "Quels sont les trois pouvoirs de l'État ?", "r": "Le pouvoir exécutif, le pouvoir législatif et le pouvoir judiciaire.", "indice": "Pense aux trois fonctions : appliquer, voter, juger." },
+      { "q": "Qui exerce le pouvoir législatif ?", "r": "Le Parlement, composé de l'Assemblée nationale et du Sénat.", "indice": "C'est l'institution qui vote les lois." },
+      { "q": "Quel est le rôle du pouvoir judiciaire ?", "r": "Rendre la justice et veiller au respect des lois, à travers les tribunaux.", "indice": "Pense aux juges." },
+      { "q": "Pourquoi sépare-t-on les trois pouvoirs ?", "r": "Pour éviter qu'un seul pouvoir ne domine les autres et n'abuse de son autorité.", "indice": "Pense au risque d'abus de pouvoir." },
+      { "q": "Dans l'exemple d'une loi sur l'école votée par les députés, quel pouvoir agit ?", "r": "Le pouvoir législatif.", "indice": "Voter une loi relève de ce pouvoir." }
+    ],
+    "qcm": [
+      { "q": "Le pouvoir qui vote les lois est :", "options": ["exécutif", "législatif", "judiciaire", "militaire"], "correct": 1, "exp": "Le pouvoir législatif vote les lois." },
+      { "q": "Le pouvoir qui rend la justice est :", "options": ["exécutif", "législatif", "judiciaire", "religieux"], "correct": 2, "exp": "Le pouvoir judiciaire rend la justice." },
+      { "q": "Le Parlement est composé de :", "options": ["l'Assemblée nationale et le Sénat", "les tribunaux", "le Gouvernement", "les écoles"], "correct": 0, "exp": "Il réunit l'Assemblée nationale et le Sénat." },
+      { "q": "Le pouvoir exécutif :", "options": ["vote les lois", "applique les lois et gère l'État", "juge les crimes", "élit les députés"], "correct": 1, "exp": "Il applique les lois et gère l'État." },
+      { "q": "La séparation des pouvoirs sert à :", "options": ["donner tout le pouvoir à un seul", "éviter l'abus de pouvoir", "supprimer la justice", "supprimer les lois"], "correct": 1, "exp": "Elle empêche qu'un pouvoir domine les autres." },
+      { "q": "Un juge qui tranche un litige exerce :", "options": ["le pouvoir législatif", "le pouvoir exécutif", "le pouvoir judiciaire", "aucun pouvoir"], "correct": 2, "exp": "Juger relève du pouvoir judiciaire." },
+      { "q": "Le Président de la République fait partie :", "options": ["du pouvoir exécutif", "du pouvoir judiciaire", "du pouvoir législatif", "des tribunaux"], "correct": 0, "exp": "Il exerce le pouvoir exécutif avec le Gouvernement." },
+      { "q": "Les députés font partie :", "options": ["du pouvoir législatif", "du pouvoir judiciaire", "du pouvoir exécutif uniquement", "de la police"], "correct": 0, "exp": "Ils votent les lois au Parlement." },
+      { "q": "Le verbe qui caractérise le pouvoir judiciaire est :", "options": ["voter", "appliquer", "juger", "élire"], "correct": 2, "exp": "Le pouvoir judiciaire juge." },
+      { "q": "Une institution est :", "options": ["un organe qui exerce une fonction de l'État", "un animal", "une ville", "un sport"], "correct": 0, "exp": "C'est un organe de l'État avec une fonction précise." }
+    ]
+  },
+  {
+    "classe": "5eme",
+    "matiere": "ECM",
+    "id": "e5-environnement",
+    "titre": "Protéger l'environnement : un devoir citoyen",
+    "duree": "40 min",
+    "contenu": "<p>L'<b>environnement</b> désigne l'ensemble des éléments naturels (air, eau, sol, forêts, animaux) et des aménagements humains. Le protéger est une responsabilité de tous les citoyens.</p><div class='definition'><b>La pollution</b> est la dégradation de l'environnement par des substances nocives : déchets plastiques, fumées, eaux usées.<br><b>Le développement durable</b> consiste à répondre aux besoins actuels sans compromettre la capacité des générations futures à répondre aux leurs.<br><b>Le recyclage</b> consiste à transformer les déchets pour les réutiliser.</div><p>Au Cameroun, la déforestation, la pollution des cours d'eau par les déchets et l'érosion des sols sont des problèmes importants. Chacun peut agir : trier ses déchets, ne pas jeter de plastique dans la nature, planter des arbres.</p><div class='exemple'><b>Exemple :</b> à Douala, des sachets plastiques bouchent les caniveaux et polluent le fleuve. Ramasser les déchets et les mettre dans une poubelle est un geste citoyen.</div><div class='astuce'><b>Astuce :</b> pense à la règle des 3R : réduire, réutiliser, recycler. C'est la base d'une attitude écologique.</div>",
+    "exercices": [
+      { "q": "Qu'est-ce que l'environnement ?", "r": "L'ensemble des éléments naturels (air, eau, sol, forêts, animaux) et des aménagements humains.", "indice": "Pense à tout ce qui nous entoure." },
+      { "q": "Qu'est-ce que la pollution ?", "r": "La dégradation de l'environnement par des substances nocives.", "indice": "Pense aux déchets, aux fumées et aux eaux sales." },
+      { "q": "Explique la notion de développement durable.", "r": "Répondre aux besoins actuels sans compromettre la capacité des générations futures à répondre aux leurs.", "indice": "Pense au présent et à l'avenir." },
+      { "q": "Cite deux gestes citoyens pour protéger l'environnement.", "r": "Trier ses déchets, ne pas jeter de plastique dans la nature, planter des arbres.", "indice": "Pense aux gestes du quotidien." },
+      { "q": "Que signifie la règle des 3R ?", "r": "Réduire, réutiliser, recycler.", "indice": "Ce sont trois attitudes pour limiter les déchets." }
+    ],
+    "qcm": [
+      { "q": "L'environnement comprend :", "options": ["uniquement les villes", "les éléments naturels et les aménagements humains", "uniquement les animaux", "rien"], "correct": 1, "exp": "L'environnement inclut la nature et ce que l'homme aménage." },
+      { "q": "La pollution est :", "options": ["une protection", "la dégradation de l'environnement", "une plante", "une loi"], "correct": 1, "exp": "C'est la dégradation de l'environnement par des substances nocives." },
+      { "q": "Le développement durable vise à :", "options": ["consommer tout de suite", "répondre aux besoins actuels sans compromettre l'avenir", "détruire la nature", "arrêter toute activité"], "correct": 1, "exp": "C'est le principe de préservation pour les générations futures." },
+      { "q": "Le recyclage consiste à :", "options": ["jeter les déchets", "transformer les déchets pour les réutiliser", "brûler les déchets", "enterrer les déchets sans tri"], "correct": 1, "exp": "Le recyclage transforme les déchets en nouvelles matières." },
+      { "q": "La règle des 3R signifie :", "options": ["réduire, réutiliser, recycler", "rire, rêver, répéter", "rendre, reprendre, rejeter", "répondre, rester, rentrer"], "correct": 0, "exp": "Ce sont les trois principes de la gestion des déchets." },
+      { "q": "Un geste citoyen pour l'environnement est :", "options": ["jeter du plastique dans la rue", "trier ses déchets", "brûler des pneus", "polluer le fleuve"], "correct": 1, "exp": "Trier ses déchets est un geste écologique." },
+      { "q": "La déforestation est :", "options": ["la plantation d'arbres", "la destruction des forêts", "un recyclage", "un traitement de l'eau"], "correct": 1, "exp": "C'est la destruction des forêts." },
+      { "q": "Au Cameroun, un problème environnemental important est :", "options": ["la déforestation", "la neige", "les volcans glacés", "le désert de glace"], "correct": 0, "exp": "La déforestation est un problème réel au Cameroun." },
+      { "q": "Les sachets plastiques dans les caniveaux provoquent :", "options": ["une amélioration de l'environnement", "la pollution et des bouchons", "rien", "la pluie"], "correct": 1, "exp": "Ils polluent et bouchent les canalisations." },
+      { "q": "Un devoir de tous les citoyens est :", "options": ["de polluer", "de protéger l'environnement", "de couper les arbres", "d'ignorer les déchets"], "correct": 1, "exp": "Protéger l'environnement est une responsabilité collective." }
+    ]
+  },
+  {
+    "classe": "5eme",
+    "matiere": "ECM",
+    "id": "e5-egalite-genre",
+    "titre": "L'égalité entre filles et garçons",
+    "duree": "40 min",
+    "contenu": "<p>L'<b>égalité</b> entre les filles et les garçons est un principe reconnu par la Constitution et par les textes internationaux. Elle signifie que chacun a les mêmes droits et les mêmes chances, sans discrimination fondée sur le sexe.</p><div class='definition'><b>L'égalité</b> est le fait que tous les individus ont les mêmes droits, quels que soient leur sexe, leur origine ou leur religion.<br><b>La discrimination</b> est un traitement injuste d'une personne à cause de son sexe, de son origine ou de ses opinions. Elle est interdite par la loi.<br><b>Les stéréotypes</b> sont des idées toutes faites sur ce que doivent faire les filles ou les garçons. Ils peuvent limiter les choix de chacun.</div><p>L'égalité ne signifie pas que tout est identique : elle signifie que chacun peut choisir sa voie, son métier et sa vie, sans être limité par son sexe.</p><div class='exemple'><b>Exemple :</b> une fille peut devenir ingénieure ou pilote, et un garçon peut devenir infirmier ou enseignant de maternelle. Le sexe ne doit pas décider du métier.</div><div class='astuce'><b>Astuce :</b> quand tu entends « ce n'est pas un métier de fille » ou « un garçon ne fait pas ça », repère le stéréotype : c'est une idée toute faite, pas une règle.</div>",
+    "exercices": [
+      { "q": "Qu'est-ce que l'égalité entre filles et garçons ?", "r": "Le fait que chacun a les mêmes droits et les mêmes chances, sans discrimination fondée sur le sexe.", "indice": "Pense aux droits et aux chances." },
+      { "q": "Qu'est-ce qu'un stéréotype ?", "r": "Une idée toute faite sur ce que doivent faire les filles ou les garçons.", "indice": "Pense à une idée répétée sans réflexion." },
+      { "q": "L'égalité signifie-t-elle que filles et garçons sont identiques ? Explique.", "r": "Non : elle signifie que chacun a les mêmes droits et peut choisir sa voie, sans être limité par son sexe.", "indice": "Distingue égalité des droits et identité." },
+      { "q": "Donne un exemple de stéréotype et explique pourquoi il est injuste.", "r": "Exemple : « les filles ne peuvent pas être ingénieures ». Il limite les choix des filles sans raison.", "indice": "Pense à une idée qui empêche quelqu'un de choisir librement." },
+      { "q": "Pourquoi la discrimination fondée sur le sexe est-elle interdite ?", "r": "Parce qu'elle porte atteinte aux droits et à la dignité des personnes.", "indice": "Pense à la justice." }
+    ],
+    "qcm": [
+      { "q": "L'égalité entre filles et garçons signifie :", "options": ["les mêmes droits et les mêmes chances", "qu'ils font tous la même chose", "que les filles sont supérieures", "que les garçons sont supérieurs"], "correct": 0, "exp": "C'est l'égalité des droits et des chances." },
+      { "q": "La discrimination est :", "options": ["un traitement juste", "un traitement injuste fondé sur des différences", "une fête", "un métier"], "correct": 1, "exp": "C'est un traitement injuste lié à une différence." },
+      { "q": "Un stéréotype est :", "options": ["une loi", "une idée toute faite sur un groupe", "une preuve scientifique", "un droit"], "correct": 1, "exp": "C'est une idée figée sur un groupe de personnes." },
+      { "q": "Une fille peut devenir :", "options": ["ingénieure", "uniquement couturière", "interdite de métier", "esclave"], "correct": 0, "exp": "Chacun peut choisir son métier librement." },
+      { "q": "L'égalité signifie :", "options": ["que tout est identique", "que chacun peut choisir sa voie", "que le sexe décide du métier", "que seule une partie peut voter"], "correct": 1, "exp": "L'égalité garantit le libre choix de chacun." },
+      { "q": "La Constitution reconnaît :", "options": ["l'égalité des citoyens", "des droits pour un seul sexe", "des privilèges", "aucun droit"], "correct": 0, "exp": "Elle reconnaît l'égalité des citoyens." },
+      { "q": "« Un garçon ne fait pas ça » est :", "options": ["une règle de la loi", "un stéréotype", "un droit", "un devoir scolaire"], "correct": 1, "exp": "C'est une idée toute faite qui limite les choix." },
+      { "q": "Les stéréotypes peuvent :", "options": ["élargir les choix", "limiter les choix de chacun", "garantir l'égalité", "supprimer les droits"], "correct": 1, "exp": "Ils limitent les choix de chacun." },
+      { "q": "Un garçon peut devenir :", "options": ["infirmier", "interdit de soins", "sans droits", "seulement agriculteur"], "correct": 0, "exp": "Chacun peut exercer le métier de son choix." },
+      { "q": "La discrimination est :", "options": ["autorisée", "interdite par la loi", "obligatoire", "encouragée"], "correct": 1, "exp": "Elle est interdite par la loi." }
+    ]
+  }
+]

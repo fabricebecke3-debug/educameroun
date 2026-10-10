@@ -1,0 +1,110 @@
+[
+  {
+    "classe": "4eme",
+    "matiere": "Histoire",
+    "id": "h4-traite-negriere",
+    "titre": "La traite négrière transatlantique",
+    "duree": "40 min",
+    "contenu": "<p>Entre le XVe et le XIXe siècle, des millions d'Africains ont été déportés vers les Amériques pour travailler comme esclaves. Cette déportation forme la <b>traite négrière transatlantique</b>. On estime qu'environ 12 millions d'hommes, de femmes et d'enfants ont été embarqués.</p><div class='definition'><b>La traite</b> est le commerce d'êtres humains, considérés comme des marchandises.<br><b>Le commerce triangulaire</b> est le circuit suivi par les navires : l'Europe fournissait des marchandises (armes, tissus, alcool) pour l'Afrique ; les captifs étaient vendus en Amérique ; les navires revenaient en Europe chargés de sucre, de coton ou de tabac.<br><b>L'esclavage</b> est la privation de liberté d'une personne, qui appartient à un maître et travaille sans salaire.</div><p>La traite a profondément affaibli les sociétés africaines : départs massifs de jeunes, déstructuration des familles et des royaumes. Elle a aussi enrichi des commerçants européens et américains, et a nourri le développement économique de l'Europe.</p><div class='exemple'><b>Exemple :</b> le port de Gorée, au Sénégal, est un lieu de mémoire de la traite. Les captifs y attendaient le départ vers les Amériques.</div><div class='astuce'><b>Astuce :</b> pour bien comprendre la traite, retiens le circuit des trois continents : Europe, Afrique, Amériques. Chaque trajet a un rôle précis dans le commerce.</div>",
+    "exercices": [
+      { "q": "Qu'est-ce que la traite négrière ?", "r": "Le commerce de millions d'Africains déportés vers les Amériques pour être réduits en esclavage.", "indice": "Pense à la déportation et à la vente des personnes." },
+      { "q": "Décris le commerce triangulaire.", "r": "L'Europe envoie des marchandises en Afrique ; les captifs sont vendus en Amérique ; les navires reviennent en Europe chargés de sucre, de coton ou de tabac.", "indice": "Suis le trajet des navires entre trois continents." },
+      { "q": "Cite deux conséquences de la traite pour l'Afrique.", "r": "Départs massifs de jeunes, affaiblissement démographique, déstructuration des familles et des royaumes.", "indice": "Pense aux populations et aux sociétés." },
+      { "q": "Qui profite de la traite ?", "r": "Les commerçants européens et américains, qui s'enrichissent grâce au travail forcé.", "indice": "Pense au travail gratuit des esclaves dans les plantations." },
+      { "q": "Pourquoi le port de Gorée est-il un lieu de mémoire ?", "r": "Il rappelle le départ forcé des captifs vers les Amériques.", "indice": "Pense à ce qui s'y est passé." }
+    ],
+    "qcm": [
+      { "q": "La traite négrière transatlantique concerne environ :", "options": ["10 000 personnes", "12 millions de personnes", "100 personnes", "1 000 personnes"], "correct": 1, "exp": "On estime environ 12 millions de personnes déportées." },
+      { "q": "Le commerce triangulaire relie :", "options": ["Europe, Afrique et Amériques", "Asie et Europe", "Afrique et Asie", "Europe et Océanie"], "correct": 0, "exp": "Il relie trois continents." },
+      { "q": "Les captifs étaient vendus principalement en :", "options": ["Afrique", "Amériques", "Asie", "Océanie"], "correct": 1, "exp": "Ils étaient vendus dans les colonies américaines." },
+      { "q": "Les navires revenaient en Europe chargés de :", "options": ["sucre, coton ou tabac", "pétrole", "or uniquement", "charbon"], "correct": 0, "exp": "Ces produits venaient des plantations américaines." },
+      { "q": "L'esclavage est :", "options": ["un travail salarié", "la privation de liberté d'une personne", "une fête", "un métier"], "correct": 1, "exp": "L'esclave appartient à un maître et n'est pas libre." },
+      { "q": "La traite a affaibli l'Afrique par :", "options": ["le départ massif de jeunes", "la construction de routes", "le développement des villes", "l'augmentation de la population"], "correct": 0, "exp": "Les départs ont fragilisé les sociétés." },
+      { "q": "Le port de Gorée se trouve :", "options": ["au Sénégal", "au Cameroun", "en Égypte", "au Brésil"], "correct": 0, "exp": "Gorée est une île au large de Dakar, au Sénégal." },
+      { "q": "La traite est une pratique qui considère les êtres humains comme :", "options": ["des citoyens", "des marchandises", "des élèves", "des fonctionnaires"], "correct": 1, "exp": "Les personnes étaient traitées comme des marchandises." },
+      { "q": "Au XVe au XIXe siècle, la traite a eu lieu :", "options": ["entre l'Afrique et l'Europe uniquement", "entre l'Afrique et les Amériques", "uniquement en Asie", "nulle part"], "correct": 1, "exp": "Elle touche principalement l'Afrique et les Amériques." },
+      { "q": "Un lieu de mémoire de la traite est :", "options": ["un musée sur le sport", "le port de Gorée", "un stade", "un marché de fruits"], "correct": 1, "exp": "Gorée rappelle l'histoire de la traite." }
+    ]
+  },
+  {
+    "classe": "4eme",
+    "matiere": "Histoire",
+    "id": "h4-colonisation-berlin",
+    "titre": "La colonisation de l'Afrique et la conférence de Berlin",
+    "duree": "40 min",
+    "contenu": "<p>À la fin du XIXe siècle, les grandes puissances européennes, comme la France, la Grande-Bretagne, l'Allemagne, la Belgique et le Portugal, se partagent l'Afrique. C'est la <b>colonisation</b>.</p><div class='definition'><b>La colonisation</b> est la domination d'un territoire par une puissance étrangère, qui l'administre et exploite ses richesses.<br><b>La conférence de Berlin</b> (1884-1885) réunit les puissances européennes pour se partager le continent africain, sans consulter les peuples africains.<br><b>Le partage</b> a été réalisé en traçant des frontières, souvent artificielles, qui ne tenaient pas compte des peuples et des régions.</div><p>Les colonisateurs ont imposé leur administration, leur langue et leur économie, centrée sur l'exportation de matières premières. Les résistances africaines, comme celles de Samory Touré ou des Ashanti, ont été nombreuses.</p><div class='exemple'><b>Exemple :</b> un même peuple peut se retrouver coupé en deux par une frontière tracée à Berlin, ce qui a créé des problèmes durables après les indépendances.</div><div class='astuce'><b>Astuce :</b> retiens les dates clés : conférence de Berlin (1884-1885), partage de l'Afrique, puis indépendances après la Seconde Guerre mondiale, surtout entre 1957 et 1960.</div>",
+    "exercices": [
+      { "q": "Qu'est-ce que la colonisation ?", "r": "La domination d'un territoire par une puissance étrangère, qui l'administre et exploite ses richesses.", "indice": "Pense à qui décide et qui en profite." },
+      { "q": "Quel est l'objectif de la conférence de Berlin (1884-1885) ?", "r": "Se partager le continent africain entre puissances européennes.", "indice": "Pense au partage du continent." },
+      { "q": "Pourquoi les frontières tracées à Berlin posent-elles problème ?", "r": "Elles ne tiennent pas compte des peuples et coupent parfois une même communauté en deux.", "indice": "Pense aux peuples qui se retrouvent séparés." },
+      { "q": "Cite deux puissances européennes qui se sont partagé l'Afrique.", "r": "La France, la Grande-Bretagne, l'Allemagne, la Belgique, le Portugal.", "indice": "Il y en a plusieurs." },
+      { "q": "Donne un exemple de résistance africaine à la colonisation.", "r": "Samory Touré ou les Ashanti.", "indice": "Pense aux chefs qui ont combattu l'occupation." }
+    ],
+    "qcm": [
+      { "q": "La conférence de Berlin a eu lieu entre :", "options": ["1884 et 1885", "1914 et 1918", "1945 et 1960", "1789 et 1792"], "correct": 0, "exp": "Elle s'est tenue en 1884-1885." },
+      { "q": "La colonisation est :", "options": ["une alliance entre peuples égaux", "la domination d'un territoire par une puissance étrangère", "une fête", "une république"], "correct": 1, "exp": "C'est la domination d'un territoire." },
+      { "q": "Parmi ces puissances, laquelle n'était pas coloniale en Afrique ?", "options": ["la France", "la Grande-Bretagne", "le Japon", "le Portugal"], "correct": 2, "exp": "Le Japon n'a pas colonisé l'Afrique." },
+      { "q": "Les frontières tracées lors du partage :", "options": ["tenaient compte des peuples", "ne tenaient pas compte des peuples", "étaient décidées par les Africains", "n'existaient pas"], "correct": 1, "exp": "Elles étaient souvent artificielles." },
+      { "q": "Le partage de l'Afrique a été décidé :", "options": ["par les peuples africains", "par les puissances européennes", "par l'ONU", "par la Chine"], "correct": 1, "exp": "Ce sont les Européens qui se sont partagé le continent." },
+      { "q": "Les colonisateurs exploitaient surtout :", "options": ["les matières premières", "les écoles", "les musées", "les villes touristiques"], "correct": 0, "exp": "L'économie coloniale était tournée vers l'exportation." },
+      { "q": "Samory Touré est :", "options": ["un explorateur européen", "un chef africain qui a résisté à la colonisation", "un roi égyptien", "un commerçant portugais"], "correct": 1, "exp": "C'est un chef africain qui a combattu l'occupation." },
+      { "q": "La résistance africaine à la colonisation :", "options": ["n'a jamais existé", "a été nombreuse", "a été acceptée partout", "a eu lieu seulement en Europe"], "correct": 1, "exp": "De nombreux peuples ont résisté." },
+      { "q": "Les indépendances africaines ont eu lieu surtout :", "options": ["au XVe siècle", "entre 1957 et 1960", "au XIXe siècle", "en 1800"], "correct": 1, "exp": "La vague d'indépendances est surtout de 1957-1960." },
+      { "q": "Un peuple séparé par une frontière coloniale a souvent connu :", "options": ["une amélioration immédiate", "des difficultés durables", "la fin de sa langue", "aucun changement"], "correct": 1, "exp": "Les frontières artificielles ont créé des tensions." }
+    ]
+  },
+  {
+    "classe": "4eme",
+    "matiere": "Histoire",
+    "id": "h4-revolution-francaise",
+    "titre": "La Révolution française : de 1789 à la République",
+    "duree": "40 min",
+    "contenu": "<p>En 1789, la France traverse une grave crise financière et sociale. Le peuple, c'est-à-dire le <b>tiers état</b>, supporte presque tous les impôts. Il se soulève, et cela conduit à la <b>Révolution française</b>.</p><div class='definition'><b>Les trois ordres :</b> le clergé (1er ordre), la noblesse (2e ordre), le tiers état (3e ordre, le peuple).<br><b>La prise de la Bastille</b> (14 juillet 1789) est le symbole du début de la Révolution.<br><b>La Déclaration des droits de l'homme et du citoyen</b> (26 août 1789) affirme la liberté, l'égalité des droits et la souveraineté de la nation.<br><b>La République</b> est proclamée en 1792, après la chute de la monarchie.</div><p>La devise « Liberté, Égalité, Fraternité » résume les idées de la Révolution. Elle a inspiré de nombreux mouvements de libération dans le monde.</p><div class='exemple'><b>Exemple :</b> l'article 1 de la Déclaration de 1789 affirme que « les hommes naissent et demeurent libres et égaux en droits ». C'est une idée nouvelle pour l'époque.</div><div class='astuce'><b>Astuce :</b> retiens trois dates : 1789 (Bastille et Déclaration), 1792 (République), et retiens le sens des mots du tiers état : c'est le peuple qui paie et réclame ses droits.</div>",
+    "exercices": [
+      { "q": "Quelle était la situation du tiers état en 1789 ?", "r": "Le peuple supportait presque tous les impôts sans avoir de privilèges.", "indice": "Pense aux impôts et aux privilèges." },
+      { "q": "Quel est le symbole du début de la Révolution ?", "r": "La prise de la Bastille, le 14 juillet 1789.", "indice": "C'est une date célébrée chaque année en France." },
+      { "q": "Que proclame la Déclaration des droits de l'homme et du citoyen ?", "r": "La liberté, l'égalité des droits et la souveraineté de la nation.", "indice": "Pense aux idées de la Révolution." },
+      { "q": "Explique la devise « Liberté, Égalité, Fraternité ».", "r": "Liberté : pouvoir agir sans être opprimé ; égalité : mêmes droits pour tous ; fraternité : solidarité entre citoyens.", "indice": "Pense à chacun des trois mots." },
+      { "q": "Quelle est la date de proclamation de la République ?", "r": "1792.", "indice": "Elle suit la chute de la monarchie." }
+    ],
+    "qcm": [
+      { "q": "Le tiers état représente :", "options": ["le clergé", "la noblesse", "le peuple", "le roi"], "correct": 2, "exp": "Le tiers état est le peuple." },
+      { "q": "La prise de la Bastille a lieu le :", "options": ["14 juillet 1789", "1er janvier 1800", "26 août 1792", "10 mai 1945"], "correct": 0, "exp": "Le 14 juillet 1789." },
+      { "q": "La Déclaration des droits de l'homme est adoptée en :", "options": ["1789", "1792", "1848", "1900"], "correct": 0, "exp": "Elle date de 1789." },
+      { "q": "La République est proclamée en :", "options": ["1789", "1792", "1815", "1960"], "correct": 1, "exp": "En 1792." },
+      { "q": "La devise de la Révolution est :", "options": ["Paix, Travail, Patrie", "Liberté, Égalité, Fraternité", "Unité, Justice, Progrès", "Ordre, Discipline, Honneur"], "correct": 1, "exp": "Liberté, Égalité, Fraternité." },
+      { "q": "Le clergé est :", "options": ["le 1er ordre", "le 2e ordre", "le 3e ordre", "le roi"], "correct": 0, "exp": "C'est le premier ordre." },
+      { "q": "La noblesse constitue :", "options": ["le 1er ordre", "le 2e ordre", "le 3e ordre", "le tiers état"], "correct": 1, "exp": "Elle est le deuxième ordre." },
+      { "q": "La Déclaration affirme que les hommes naissent :", "options": ["inégaux", "libres et égaux en droits", "esclaves", "soumis au roi"], "correct": 1, "exp": "C'est l'article 1." },
+      { "q": "Le tiers état supportait :", "options": ["aucun impôt", "presque tous les impôts", "seulement la guerre", "le clergé"], "correct": 1, "exp": "Il payait presque tous les impôts." },
+      { "q": "La Révolution française a inspiré :", "options": ["aucun mouvement", "de nombreux mouvements de libération", "uniquement la France", "la colonisation"], "correct": 1, "exp": "Ses idées ont inspiré de nombreux mouvements dans le monde." }
+    ]
+  },
+  {
+    "classe": "4eme",
+    "matiere": "Histoire",
+    "id": "h4-cameroun-colonial",
+    "titre": "Le Cameroun colonial : de l'Allemagne à l'indépendance",
+    "duree": "40 min",
+    "contenu": "<p>Le Cameroun a connu plusieurs puissances coloniales. Son histoire coloniale est un exemple de la façon dont le continent africain a été partagé et administré.</p><div class='definition'><b>Le Kamerun allemand</b> : en 1884, l'Allemagne établit un protectorat sur le littoral, notamment à Douala, puis étend son contrôle à l'intérieur du pays.<br><b>La tutelle franco-britannique</b> : pendant la Première Guerre mondiale, l'Allemagne est vaincue au Cameroun. Après 1919, la Société des Nations confie le territoire à la France et au Royaume-Uni (mandats).<br><b>Le Cameroun français</b> devient indépendant le 1er janvier 1960. Le Cameroun britannique se réunit au Cameroun francophone en 1961, après un référendum.</div><div class='exemple'><b>Exemple :</b> la ville de Douala, port du littoral, est un centre important dès la période allemande. Elle reste aujourd'hui la capitale économique du pays.</div><div class='astuce'><b>Astuce :</b> retiens la succession : Allemagne (1884), puis France et Royaume-Uni (après 1918), puis indépendance (1960) et réunification (1961).</div>",
+    "exercices": [
+      { "q": "Quelle puissance a d'abord colonisé le Cameroun ?", "r": "L'Allemagne, à partir de 1884.", "indice": "Pense au Kamerun." },
+      { "q": "Pourquoi la France et le Royaume-Uni se sont-ils partagé le Cameroun après 1918 ?", "r": "Parce que l'Allemagne a été vaincue pendant la Première Guerre mondiale ; la Société des Nations leur a confié des mandats.", "indice": "Pense à la guerre et à la SDN." },
+      { "q": "Quelle est la date de l'indépendance du Cameroun français ?", "r": "Le 1er janvier 1960.", "indice": "C'est une date à retenir." },
+      { "q": "Que s'est-il passé en 1961 pour le Cameroun britannique ?", "r": "Il s'est réuni au Cameroun francophone, après un référendum.", "indice": "Pense à la réunification." },
+      { "q": "Pourquoi Douala est-elle importante dès la période allemande ?", "r": "C'est un port du littoral, centre commercial et administratif.", "indice": "Pense au commerce maritime." }
+    ],
+    "qcm": [
+      { "q": "L'Allemagne établit son protectorat sur le Cameroun en :", "options": ["1884", "1914", "1960", "1789"], "correct": 0, "exp": "En 1884." },
+      { "q": "La Première Guerre mondiale a conduit à :", "options": ["la victoire allemande au Cameroun", "la défaite de l'Allemagne au Cameroun", "l'indépendance immédiate", "la fin du Cameroun"], "correct": 1, "exp": "L'Allemagne a été vaincue." },
+      { "q": "Après 1919, le Cameroun est confié à :", "options": ["la France et le Royaume-Uni", "l'Espagne et le Portugal", "la Chine", "le Japon"], "correct": 0, "exp": "Sous forme de mandats de la Société des Nations." },
+      { "q": "Le Cameroun français devient indépendant :", "options": ["le 1er janvier 1960", "le 14 juillet 1789", "en 1884", "en 1945"], "correct": 0, "exp": "Le 1er janvier 1960." },
+      { "q": "La réunification du Cameroun a eu lieu en :", "options": ["1960", "1961", "1884", "1919"], "correct": 1, "exp": "En 1961." },
+      { "q": "Le Cameroun britannique s'est réuni :", "options": ["au Nigeria", "au Cameroun francophone", "au Tchad", "au Gabon"], "correct": 1, "exp": "Il s'est réuni au Cameroun francophone." },
+      { "q": "La Société des Nations a été chargée :", "options": ["d'organiser les mandats", "de construire des routes", "de faire la guerre", "de fixer les prix"], "correct": 0, "exp": "Elle a confié les territoires sous mandat." },
+      { "q": "Douala est :", "options": ["un désert", "un port du littoral", "une montagne", "un lac"], "correct": 1, "exp": "C'est un port important du littoral." },
+      { "q": "La capitale économique actuelle du Cameroun est :", "options": ["Yaoundé", "Douala", "Garoua", "Maroua"], "correct": 1, "exp": "Douala." },
+      { "q": "L'ordre chronologique correct est :", "options": ["indépendance, protectorat allemand, réunification", "protectorat allemand, mandats franco-britanniques, indépendance, réunification", "réunification, indépendance, protectorat", "mandats, réunification, protectorat"], "correct": 1, "exp": "Protectorat (1884), mandats (après 1919), indépendance (1960), réunification (1961)." }
+    ]
+  }
+]

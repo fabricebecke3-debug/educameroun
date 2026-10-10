@@ -1,0 +1,110 @@
+[
+  {
+    "classe": "3eme",
+    "matiere": "EPS",
+    "id": "eps3-planification-entrainement",
+    "titre": "Planifier son entraînement : principes et progressivité",
+    "duree": "40 min",
+    "contenu": "<p>Pour progresser durablement, un sportif ne s'entraîne pas au hasard : il <b>planifie</b> ses séances. Un entraînement efficace respecte des principes simples qui permettent d'améliorer la performance tout en protégeant le corps.</p><div class='definition'><b>La charge d'entraînement</b> est la quantité et l'intensité d'un effort : nombre de répétitions, durée, rythme.<br><b>La surcompensation</b> est le phénomène par lequel le corps, après un effort suivi d'un repos suffisant, s'adapte et devient plus performant.<br><b>La récupération</b> est la période de repos qui permet au corps de se reconstruire entre deux séances.<br><b>La progressivité</b> consiste à augmenter la charge petit à petit, pour éviter le surmenage et les blessures.<br><b>La spécificité</b> consiste à entraîner les qualités utiles à l'activité pratiquée.</div><p>Une bonne planification alterne les séances intenses et les séances légères, et prévoit des jours de repos.</p><div class='exemple'><b>Exemple :</b> un coureur qui s'entraîne trois fois par semaine : une séance de vitesse, une séance d'endurance et une séance légère de récupération. Le repos du lendemain permet la surcompensation.</div><div class='astuce'><b>Astuce :</b> ne jamais enchaîner deux séances très intenses sans repos. Un programme sain alterne charge et récupération, comme les marches d'un escalier.</div>",
+    "exercices": [
+      { "q": "Qu'est-ce que la charge d'entraînement ?", "r": "La quantité et l'intensité d'un effort : répétitions, durée, rythme.", "indice": "Pense à ce que l'on fait pendant l'effort." },
+      { "q": "Qu'est-ce que la surcompensation ?", "r": "L'adaptation du corps après un effort suivi de repos, qui le rend plus performant.", "indice": "Le corps devient plus fort après le repos." },
+      { "q": "Pourquoi la récupération est-elle indispensable ?", "r": "Elle permet au corps de se reconstruire et de progresser, sans surmenage.", "indice": "Pense au moment où le corps s'adapte." },
+      { "q": "Qu'est-ce que la progressivité ?", "r": "Augmenter la charge petit à petit pour éviter le surmenage et les blessures.", "indice": "Pense à une montée par étapes." },
+      { "q": "Construis une semaine d'entraînement équilibrée pour un élève de 3ème.", "r": "Exemple : lundi vitesse, mercredi endurance, vendredi séance légère, samedi et dimanche repos et souplesse.", "indice": "Alterne intensité et récupération." }
+    ],
+    "qcm": [
+      { "q": "La charge d'entraînement désigne :", "options": ["la quantité et l'intensité de l'effort", "le poids du sac", "la durée des vacances", "le nombre de sportifs"], "correct": 0, "exp": "Elle mesure l'effort fourni." },
+      { "q": "La surcompensation correspond à :", "options": ["une adaptation qui rend plus performant après repos", "une blessure", "un excès de repos", "un refus de s'entraîner"], "correct": 0, "exp": "Le corps s'adapte après l'effort et le repos." },
+      { "q": "La récupération est :", "options": ["le repos qui permet de se reconstruire", "un entraînement intense", "une compétition", "une blessure"], "correct": 0, "exp": "Elle permet la reconstruction." },
+      { "q": "La progressivité consiste à :", "options": ["augmenter la charge petit à petit", "toujours faire le maximum", "ne jamais augmenter la charge", "s'entraîner sans repos"], "correct": 0, "exp": "Une progression douce protège le corps." },
+      { "q": "La spécificité consiste à :", "options": ["entraîner les qualités utiles à l'activité", "faire tous les sports sans lien", "éviter l'effort", "ne rien planifier"], "correct": 0, "exp": "On travaille ce qui sert à la discipline." },
+      { "q": "Un programme sain alterne :", "options": ["charge et récupération", "uniquement charge", "uniquement repos", "aucune séance"], "correct": 0, "exp": "L'alternance est essentielle." },
+      { "q": "Enchaîner deux séances très intenses sans repos :", "options": ["est déconseillé", "est recommandé", "est obligatoire", "n'a pas d'effet"], "correct": 0, "exp": "Cela augmente le risque de blessure." },
+      { "q": "Planifier un entraînement permet :", "options": ["de progresser durablement", "de ne plus s'entraîner", "de tricher", "de perdre des qualités"], "correct": 0, "exp": "La planification structure les progrès." },
+      { "q": "Pour un élève de 3ème, une séance légère sert surtout à :", "options": ["la récupération", "battre un record", "se blesser", "ne rien faire"], "correct": 0, "exp": "Elle favorise la récupération active." },
+      { "q": "Le repos entre deux séances intenses permet :", "options": ["la surcompensation", "la fatigue permanente", "la déshydratation", "l'immobilité totale"], "correct": 0, "exp": "C'est la condition de la surcompensation." }
+    ]
+  },
+  {
+    "classe": "3eme",
+    "matiere": "EPS",
+    "id": "eps3-demi-fond",
+    "titre": "L'athlétisme : le demi-fond et la gestion de l'effort",
+    "duree": "40 min",
+    "contenu": "<p>Le <b>demi-fond</b> regroupe les courses de 800 m et 1 500 m. Ces épreuves combinent vitesse et endurance : il faut savoir doser son effort sur toute la distance.</p><div class='definition'><b>Le départ</b> est la phase initiale : on prend une bonne position et on accélère sans s'épuiser.<br><b>L'allure</b> est la vitesse de course maintenue sur la distance.<br><b>La gestion de l'effort</b> consiste à répartir son énergie sur toute la course, en gardant de la réserve pour la fin.<br><b>Le dernier tour</b> est souvent le moment d'accélérer, si l'énergie le permet.<br><b>Les splits</b> désigne le temps réalisé sur chaque tour ou chaque portion, pour contrôler son allure.</div><p>Partir trop vite est l'erreur la plus fréquente : on s'épuise avant l'arrivée. Une course régulière, avec une accélération maîtrisée, donne souvent les meilleurs résultats.</p><div class='exemple'><b>Exemple :</b> sur 800 m (deux tours de piste), un élève court le premier tour à allure régulière, garde de l'énergie, puis accélère dans les derniers mètres. Il évite de partir à fond.</div><div class='astuce'><b>Astuce :</b> pour un 800 m, pense à trois phases : un départ contrôlé, une allure stable au milieu, et une accélération finale. Ne grille pas ta réserve trop tôt.</div>",
+    "exercices": [
+      { "q": "Quelles courses forment le demi-fond ?", "r": "Le 800 m et le 1 500 m.", "indice": "Ce sont les épreuves intermédiaires entre le sprint et le fond." },
+      { "q": "Quelle est l'erreur la plus fréquente au départ d'un demi-fond ?", "r": "Partir trop vite et s'épuiser avant l'arrivée.", "indice": "Relis le cours." },
+      { "q": "Qu'est-ce que la gestion de l'effort ?", "r": "Répartir son énergie sur toute la course, en gardant de la réserve pour la fin.", "indice": "Pense à la répartition de l'énergie." },
+      { "q": "Décris les trois phases d'un 800 m.", "r": "Un départ contrôlé, une allure stable au milieu, une accélération finale.", "indice": "Pense au début, au milieu et à la fin." },
+      { "q": "À quoi servent les temps intermédiaires (splits) ?", "r": "À contrôler son allure et à savoir si l'on est dans le rythme prévu.", "indice": "Pense au chronomètre pendant la course." }
+    ],
+    "qcm": [
+      { "q": "Le demi-fond comprend :", "options": ["le 800 m et le 1 500 m", "le 100 m", "le marathon", "le lancer du poids"], "correct": 0, "exp": "Ce sont les courses intermédiaires." },
+      { "q": "L'erreur la plus fréquente en demi-fond est :", "options": ["partir trop vite", "partir trop lentement", "courir en silence", "ne pas courir"], "correct": 0, "exp": "On s'épuise avant l'arrivée." },
+      { "q": "L'allure désigne :", "options": ["la vitesse maintenue sur la distance", "la couleur du maillot", "le nom de la piste", "le nombre de coureurs"], "correct": 0, "exp": "C'est la vitesse de course." },
+      { "q": "La gestion de l'effort consiste à :", "options": ["répartir son énergie sur toute la course", "tout donner au départ", "ne rien donner", "courir sans rythme"], "correct": 0, "exp": "On garde de la réserve." },
+      { "q": "Le dernier tour est souvent :", "options": ["le moment d'accélérer si l'énergie le permet", "le moment d'arrêter", "le moment de marcher", "le moment de dormir"], "correct": 0, "exp": "On accélère quand la réserve est là." },
+      { "q": "Les splits sont :", "options": ["les temps intermédiaires", "les chaussures", "les blessures", "les records"], "correct": 0, "exp": "Ils mesurent les portions de course." },
+      { "q": "Le demi-fond combine :", "options": ["vitesse et endurance", "force et souplesse uniquement", "lancer et saut", "natation et plongée"], "correct": 0, "exp": "Il demande les deux qualités." },
+      { "q": "Sur 800 m, il y a :", "options": ["deux tours de piste", "un tour", "quatre tours", "huit tours"], "correct": 0, "exp": "Deux tours d'une piste de 400 m." },
+      { "q": "Une course régulière donne souvent :", "options": ["les meilleurs résultats", "les pires résultats", "aucun résultat", "une disqualification"], "correct": 0, "exp": "La régularité paie." },
+      { "q": "Le départ d'un demi-fond doit être :", "options": ["contrôlé", "très brutal sans limite", "inexistant", "lent sans accélération"], "correct": 0, "exp": "Il faut doser son effort dès le début." }
+    ]
+  },
+  {
+    "classe": "3eme",
+    "matiere": "EPS",
+    "id": "eps3-securite-preparation-physique",
+    "titre": "Échauffement spécifique, hydratation et prévention des blessures",
+    "duree": "40 min",
+    "contenu": "<p>Avant une compétition ou un entraînement intense, la <b>préparation</b> du corps réduit fortement le risque de blessure. Elle comprend un échauffement adapté, une bonne hydratation et une attention particulière à la fatigue.</p><div class='definition'><b>L'échauffement spécifique</b> reprend les gestes de l'activité pratiquée, à intensité progressive (par exemple, des accélérations courtes avant un sprint).<br><b>L'hydratation</b> consiste à boire régulièrement avant, pendant et après l'effort, surtout par forte chaleur.<br><b>La prévention des blessures</b> repose sur l'échauffement, la progressivité, le repos et une tenue adaptée.<br><b>La fatigue</b> est un signal d'alerte : une fatigue inhabituelle, des douleurs persistantes ou une baisse de performance doivent faire réfléchir.</div><p>Les crampes, les élongations et les tendinites sont des blessures fréquentes qui peuvent être évitées par une bonne préparation.</p><div class='exemple'><b>Exemple :</b> avant un 800 m, un élève fait un footing léger, des montées de genoux, des accélérations de 50 m et des étirements doux. Il boit de l'eau régulièrement pendant la journée.</div><div class='astuce'><b>Astuce :</b> si une douleur persiste plus de quelques jours malgré le repos, ne continue pas à t'entraîner : parles-en à un adulte ou à un médecin.</div>",
+    "exercices": [
+      { "q": "Qu'est-ce qu'un échauffement spécifique ?", "r": "Un échauffement qui reprend les gestes de l'activité pratiquée, à intensité progressive.", "indice": "Pense aux gestes du sport concerné." },
+      { "q": "Pourquoi faut-il boire avant, pendant et après l'effort ?", "r": "Pour compenser l'eau perdue par la transpiration et éviter la déshydratation.", "indice": "Pense à la transpiration." },
+      { "q": "Cite trois blessures fréquentes du sportif.", "r": "Les crampes, les élongations, les tendinites.", "indice": "Pense aux douleurs musculaires et tendineuses." },
+      { "q": "Quels sont les signaux d'alerte d'une fatigue anormale ?", "r": "Une fatigue inhabituelle, des douleurs persistantes, une baisse de performance.", "indice": "Pense à ce que le corps signale." },
+      { "q": "Décris un échauffement possible avant un 800 m.", "r": "Un footing léger, des montées de genoux, des accélérations courtes et des étirements doux.", "indice": "Pense à une progression d'intensité." }
+    ],
+    "qcm": [
+      { "q": "L'échauffement spécifique reprend :", "options": ["les gestes de l'activité pratiquée", "uniquement la marche arrière", "rien", "des jeux vidéo"], "correct": 0, "exp": "Il prépare aux gestes du sport." },
+      { "q": "L'hydratation doit se faire :", "options": ["avant, pendant et après l'effort", "uniquement après", "jamais", "une seule fois par semaine"], "correct": 0, "exp": "Boire régulièrement protège le corps." },
+      { "q": "Une blessure fréquente chez le sportif est :", "options": ["la tendinite", "la carie", "la myopie", "l'acné"], "correct": 0, "exp": "La tendinite est fréquente." },
+      { "q": "Une douleur qui persiste malgré le repos doit conduire à :", "options": ["continuer à s'entraîner", "consulter un adulte ou un médecin", "ignorer le problème", "courir plus fort"], "correct": 1, "exp": "Il faut consulter." },
+      { "q": "Les crampes sont souvent liées à :", "options": ["la déshydratation ou la fatigue", "une vitamine de trop", "le sommeil", "la lecture"], "correct": 0, "exp": "Un manque d'eau ou de fatigue peut les provoquer." },
+      { "q": "Une montée de genoux est :", "options": ["un exercice d'échauffement", "une compétition", "une blessure", "un jeu d'eau"], "correct": 0, "exp": "C'est un exercice préparatoire." },
+      { "q": "La prévention des blessures repose notamment sur :", "options": ["l'échauffement et la progressivité", "l'absence de repos", "l'effort maximum permanent", "l'absence de tenue"], "correct": 0, "exp": "Ces éléments réduisent les risques." },
+      { "q": "Une fatigue inhabituelle est :", "options": ["un signal d'alerte", "un signe de forme", "un record", "sans importance"], "correct": 0, "exp": "Elle invite à la prudence." },
+      { "q": "Un élongation est :", "options": ["une blessure musculaire", "une course", "un saut", "un jeu"], "correct": 0, "exp": "C'est une blessure du muscle." },
+      { "q": "Par forte chaleur, il faut surtout :", "options": ["bien s'hydrater", "éviter de boire", "courir sans pause", "retirer sa tenue"], "correct": 0, "exp": "L'hydratation est essentielle par la chaleur." }
+    ]
+  },
+  {
+    "classe": "3eme",
+    "matiere": "EPS",
+    "id": "eps3-arbitrage-observation",
+    "titre": "Arbitrer et observer : la responsabilité dans le sport",
+    "duree": "40 min",
+    "contenu": "<p>Dans une activité sportive, chacun peut tenir un rôle utile : joueur, entraîneur, arbitre ou observateur. L'<b>arbitrage</b> et l'<b>observation</b> développent la compréhension des règles et le sens des responsabilités.</p><div class='definition'><b>L'arbitre</b> applique les règles, prend les décisions et assure la sécurité du jeu.<br><b>L'observateur</b> regarde le jeu avec attention pour analyser les actions des joueurs et proposer des améliorations.<br><b>La fiche d'observation</b> est un document qui note les actions réussies et les points à améliorer.<br><b>La responsabilité</b> consiste à accepter les conséquences de ses choix et de ses actes, dans le sport comme dans la vie.</div><p>Arbitrer ou observer demande de l'impartialité : on ne doit pas favoriser une équipe, mais appliquer les règles de la même façon pour tous.</p><div class='exemple'><b>Exemple :</b> lors d'un match scolaire, un élève observateur note le nombre de passes réussies de chaque équipe et propose à son camarade de travailler la passe en retrait. Il exerce une observation utile.</div><div class='astuce'><b>Astuce :</b> un bon observateur décrit les faits avant de juger. « Il a perdu le ballon après trois passes » est plus utile que « il est nul ».</div>",
+    "exercices": [
+      { "q": "Quel est le rôle de l'arbitre ?", "r": "Appliquer les règles, prendre les décisions et assurer la sécurité du jeu.", "indice": "Pense à l'autorité pendant le match." },
+      { "q": "Qu'est-ce qu'une fiche d'observation ?", "r": "Un document qui note les actions réussies et les points à améliorer.", "indice": "Pense au suivi écrit d'un joueur." },
+      { "q": "Pourquoi l'arbitre doit-il être impartial ?", "r": "Pour appliquer les règles de la même façon à toutes les équipes.", "indice": "Pense à l'équité." },
+      { "q": "Quelle différence y a-t-il entre décrire un fait et juger une personne ?", "r": "Décrire un fait reste objectif ; juger une personne est une appréciation souvent subjective.", "indice": "Relis l'astuce." },
+      { "q": "Donne un exemple d'observation utile pendant un match scolaire.", "r": "Compter les passes réussies et proposer un travail précis sur la passe en retrait.", "indice": "Pense à une donnée mesurable." }
+    ],
+    "qcm": [
+      { "q": "L'arbitre applique :", "options": ["les règles du jeu", "ses préférences", "les rumeurs", "l'humeur du public"], "correct": 0, "exp": "Il fait respecter les règles." },
+      { "q": "L'observateur sert à :", "options": ["analyser les actions et proposer des améliorations", "marquer des buts", "interdire le sport", "remplacer l'arbitre"], "correct": 0, "exp": "Il analyse le jeu." },
+      { "q": "Une fiche d'observation note :", "options": ["les actions réussies et les points à améliorer", "les recettes de cuisine", "les horaires de cours", "les prix"], "correct": 0, "exp": "C'est un outil de suivi." },
+      { "q": "L'impartialité signifie :", "options": ["appliquer les règles de la même façon pour tous", "favoriser son équipe", "ignorer les règles", "changer les règles selon les joueurs"], "correct": 0, "exp": "C'est l'équité de traitement." },
+      { "q": "Un bon observateur :", "options": ["décrit les faits avant de juger", "insulte les joueurs", "juge sans regarder", "ne note rien"], "correct": 0, "exp": "Il s'appuie sur des faits observés." },
+      { "q": "La responsabilité dans le sport consiste à :", "options": ["accepter les conséquences de ses actes", "fuir les décisions", "accuser les autres", "ne rien faire"], "correct": 0, "exp": "Chacun assume ses choix." },
+      { "q": "Dans un match, qui assure la sécurité du jeu ?", "options": ["l'arbitre", "le public", "le marchand", "personne"], "correct": 0, "exp": "L'arbitre veille à la sécurité." },
+      { "q": "« Il a perdu le ballon après trois passes » est :", "options": ["une observation factuelle", "une insulte", "une règle", "un jugement de valeur"], "correct": 0, "exp": "C'est un fait observé." },
+      { "q": "L'observateur peut proposer :", "options": ["des améliorations précises", "rien jamais", "des insultes", "un arrêt du match"], "correct": 0, "exp": "Son rôle est d'aider à progresser." },
+      { "q": "Dans une équipe, chacun peut tenir un rôle :", "options": ["utile", "inutile", "interdit", "secret"], "correct": 0, "exp": "Chaque rôle est important." }
+    ]
+  }
+]

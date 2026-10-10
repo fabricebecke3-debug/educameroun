@@ -1,0 +1,110 @@
+[
+  {
+    "classe": "6eme",
+    "matiere": "SVT",
+    "id": "s6-etres-vivants",
+    "titre": "Les caractéristiques des êtres vivants",
+    "duree": "40 min",
+    "contenu": "<p>Autour de nous, certains objets sont <b>vivants</b> (un arbre, un chien, un enfant) et d'autres ne le sont pas (une pierre, une table, l'eau d'une bouteille). Pour les distinguer, on observe ce qu'un être vivant est capable de faire.</p><div class='definition'><b>Les êtres vivants ont les fonctions suivantes :</b><br>- la <b>nutrition</b> : ils se nourrissent et utilisent leur nourriture pour grandir et fonctionner ;<br>- la <b>respiration</b> : ils échangent des gaz avec le milieu (ils consomment du dioxygène et rejettent du dioxyde de carbone) ;<br>- la <b>reproduction</b> : ils donnent naissance à des individus semblables à eux ;<br>- la <b>relation avec le milieu</b> : ils réagissent à leur environnement (lumière, chaleur, danger).</div><p>Un être vivant <b>naît</b>, <b>grandit</b>, <b>se reproduit</b> et <b>meurt</b>. Il a besoin d'eau, d'air, de nourriture et d'une température convenable.</p><div class='exemple'><b>Exemple :</b> une plante pousse vers la lumière : c'est une réaction au milieu. Une pierre ne grandit pas et ne se nourrit pas : elle n'est donc pas vivante.</div><div class='astuce'><b>Astuce :</b> pour savoir si quelque chose est vivant, cherche s'il ou elle se nourrit, respire, se reproduit ou grandit. Il suffit souvent d'une seule de ces réponses négatives pour conclure qu'un objet n'est pas vivant... mais un être vivant doit les avoir toutes.</div>",
+    "exercices": [
+      { "q": "Classe ces éléments en « vivant » ou « non vivant » : un manguier, une pierre, un poisson, une bouteille d'eau, un champignon.", "r": "Vivant : le manguier, le poisson, le champignon. Non vivant : la pierre, la bouteille d'eau.", "indice": "Demande-toi si l'élément se nourrit, respire, grandit ou se reproduit." },
+      { "q": "Cite les quatre fonctions de nutrition, respiration, reproduction et relation avec le milieu. Donne un exemple pour chacune chez un chien.", "r": "Nutrition : il mange. Respiration : il inspire du dioxygène. Reproduction : il peut avoir des petits. Relation avec le milieu : il réagit aux bruits et aux dangers.", "indice": "Pense à ce que fait un animal tous les jours." },
+      { "q": "Pourquoi un être vivant a-t-il besoin d'air ?", "r": "L'air contient du dioxygène, que l'être vivant utilise pour respirer et produire l'énergie dont il a besoin.", "indice": "Le dioxygène est nécessaire à la respiration." },
+      { "q": "Une graine qui germe est-elle vivante ? Justifie ta réponse.", "r": "Oui : elle respire, elle utilise ses réserves pour grandir et elle réagit à l'eau et à la chaleur.", "indice": "Une graine sèche et une graine qui germe ne se comportent pas de la même façon." },
+      { "q": "Un enfant grandit. Donne deux caractéristiques des êtres vivants qu'il illustre.", "r": "La croissance (il grandit) et la nutrition (il mange pour se développer), mais aussi la respiration.", "indice": "Pense à ce qui permet à l'enfant de se développer." }
+    ],
+    "qcm": [
+      { "q": "Laquelle de ces fonctions n'est pas une caractéristique des êtres vivants ?", "options": ["la nutrition", "la respiration", "la reproduction", "la fusion des roches"], "correct": 3, "exp": "La fusion des roches n'est pas une fonction vitale : c'est un phénomène géologique." },
+      { "q": "Quel élément est vivant ?", "options": ["une pierre", "un manguier", "une table", "l'eau d'un verre"], "correct": 1, "exp": "Le manguier naît, grandit, se nourrit et se reproduit : il est vivant." },
+      { "q": "Un être vivant consomme du dioxygène et rejette :", "options": ["du diazote", "du dioxyde de carbone", "de l'eau uniquement", "de la chaleur seulement"], "correct": 1, "exp": "Lors de la respiration, le vivant consomme du dioxygène et rejette du dioxyde de carbone." },
+      { "q": "La reproduction permet :", "options": ["de manger", "de donner naissance à des individus semblables", "de respirer", "de réagir à la lumière"], "correct": 1, "exp": "La reproduction assure la naissance de nouveaux individus de la même espèce." },
+      { "q": "Une plante qui se tourne vers la lumière illustre :", "options": ["la nutrition", "la reproduction", "la relation avec le milieu", "la mort"], "correct": 2, "exp": "La plante réagit à son environnement : c'est la relation avec le milieu." },
+      { "q": "Un être vivant ne peut pas vivre sans :", "options": ["une pierre", "de l'eau", "un téléphone", "une table"], "correct": 1, "exp": "L'eau est indispensable à la vie de tous les êtres vivants." },
+      { "q": "Parmi ces éléments, lequel n'est pas vivant ?", "options": ["un champignon", "un poisson", "une pierre", "un arbre"], "correct": 2, "exp": "La pierre ne se nourrit pas, ne respire pas et ne se reproduit pas." },
+      { "q": "Les étapes de la vie d'un être vivant sont :", "options": ["naître, grandir, se reproduire, mourir", "manger, dormir, jouer", "couper, scier, casser", "chauffer, refroidir"], "correct": 0, "exp": "Un être vivant naît, grandit, se reproduit puis meurt." },
+      { "q": "Un être vivant a besoin :", "options": ["d'eau, d'air et de nourriture", "uniquement de lumière", "de pierres", "de piles électriques"], "correct": 0, "exp": "L'eau, l'air et la nourriture sont indispensables aux êtres vivants." },
+      { "q": "Quelle fonction permet à un animal de transformer sa nourriture ?", "options": ["la reproduction", "la respiration", "la nutrition", "la relation avec le milieu"], "correct": 2, "exp": "La nutrition comprend l'alimentation et la transformation des aliments." }
+    ]
+  },
+  {
+    "classe": "6eme",
+    "matiere": "SVT",
+    "id": "s6-besoins-plantes",
+    "titre": "Les besoins et la nutrition des plantes vertes",
+    "duree": "40 min",
+    "contenu": "<p>Une plante verte fabrique elle-même sa nourriture. Elle a besoin de <b>eau</b> et de <b>sels minéraux</b>, puisés dans le sol par les racines, de <b>dioxyde de carbone</b> de l'air, capté par les feuilles, et de <b>lumière</b>.</p><div class='definition'><b>La photosynthèse</b> est la fabrication de sucre (matière organique) par la plante, grâce à la lumière et à la <b>chlorophylle</b>, le pigment vert des feuilles.<br>Bilan simplifié : eau + sels minéraux + dioxyde de carbone + lumière → matière organique (sucre) + <b>dioxygène rejeté</b>.</div><div class='exemple'><b>Exemple :</b> une plante placée dans une pièce sans lumière jaunit et ne grandit plus : elle ne peut pas fabriquer son sucre. C'est la preuve que la lumière est indispensable.</div><p>Les plantes sont des <b>producteurs</b> : elles fabriquent leur matière organique. Elles sont à la base de la chaîne alimentaire, car les animaux se nourrissent directement ou indirectement d'elles.</p><div class='astuce'><b>Astuce :</b> retiens le trajet de la nourriture de la plante : les racines prennent l'eau et les sels minéraux, les feuilles prennent le dioxyde de carbone et la lumière, et la plante rejette du dioxygène.</div>",
+    "exercices": [
+      { "q": "Cite les quatre besoins d'une plante verte et dis par quel organe chacun est prélevé.", "r": "Eau et sels minéraux : par les racines. Dioxyde de carbone : par les feuilles. Lumière : captée par les feuilles. Chaque plante a aussi besoin de chaleur.", "indice": "Les racines sont dans le sol, les feuilles sont à l'air libre." },
+      { "q": "Explique le rôle de la chlorophylle.", "r": "La chlorophylle est le pigment vert des feuilles. Elle capte la lumière, ce qui permet à la plante de fabriquer son sucre.", "indice": "Pense à la couleur des feuilles et à la lumière." },
+      { "q": "Recopie et complète le bilan de la photosynthèse : eau + sels minéraux + ... + lumière → ... + dioxygène.", "r": "eau + sels minéraux + dioxyde de carbone + lumière → matière organique (sucre) + dioxygène.", "indice": "Il manque le gaz pris dans l'air et le produit fabriqué par la plante." },
+      { "q": "Pourquoi les plantes rejettent-elles du dioxygène ?", "r": "Pendant la photosynthèse, la plante utilise du dioxyde de carbone et rejette du dioxygène dans l'air.", "indice": "Le dioxygène est un déchet de la photosynthèse." },
+      { "q": "Une plante est placée dans une cave sans lumière. Que se passe-t-il et pourquoi ?", "r": "Elle jaunit et ne grandit plus, car elle ne peut plus fabriquer de sucre sans lumière.", "indice": "Pense à l'effet de la lumière sur la chlorophylle." }
+    ],
+    "qcm": [
+      { "q": "Où les racines d'une plante prélèvent-elles l'eau ?", "options": ["dans l'air", "dans le sol", "dans les feuilles", "dans la lumière"], "correct": 1, "exp": "Les racines puisent l'eau et les sels minéraux dans le sol." },
+      { "q": "Quel gaz les feuilles absorbent-elles pour la photosynthèse ?", "options": ["le dioxygène", "le dioxyde de carbone", "le diazote", "l'hydrogène"], "correct": 1, "exp": "Les feuilles captent le dioxyde de carbone de l'air pour fabriquer leur sucre." },
+      { "q": "Quel est le pigment vert des feuilles ?", "options": ["la chlorophylle", "le glucose", "l'amidon", "le dioxygène"], "correct": 0, "exp": "La chlorophylle donne sa couleur verte aux feuilles et capte la lumière." },
+      { "q": "La photosynthèse produit :", "options": ["du dioxyde de carbone", "de la matière organique (sucre)", "des racines", "de la lumière"], "correct": 1, "exp": "La plante fabrique de la matière organique, du sucre, à partir de l'eau, des sels minéraux et du dioxyde de carbone." },
+      { "q": "Pendant la photosynthèse, la plante rejette :", "options": ["du dioxygène", "du dioxyde de carbone", "de l'eau uniquement", "des sels minéraux"], "correct": 0, "exp": "La plante rejette du dioxygène dans l'air pendant la photosynthèse." },
+      { "q": "Une plante privée de lumière :", "options": ["grandit plus vite", "jaunit et ne grandit plus", "devient plus verte", "fabrique plus de sucre"], "correct": 1, "exp": "Sans lumière, la plante ne peut plus fabriquer de sucre : elle jaunit." },
+      { "q": "Les plantes sont appelées producteurs car :", "options": ["elles produisent des fruits", "elles fabriquent leur propre matière organique", "elles vendent leurs feuilles", "elles fabriquent des animaux"], "correct": 1, "exp": "Les plantes vertes produisent elles-mêmes leur matière organique." },
+      { "q": "Parmi ces besoins, lequel n'est pas nécessaire à la photosynthèse ?", "options": ["la lumière", "le dioxyde de carbone", "la chlorophylle", "le sang"], "correct": 3, "exp": "Le sang est propre aux animaux : il n'intervient pas dans la photosynthèse." },
+      { "q": "Où la plante capte-t-elle la lumière ?", "options": ["dans les racines", "dans les feuilles", "dans les fleurs uniquement", "dans le sol"], "correct": 1, "exp": "La lumière est captée par la chlorophylle contenue dans les feuilles." },
+      { "q": "Dans la chaîne alimentaire, les plantes sont :", "options": ["les consommateurs", "les décomposeurs", "les producteurs", "les prédateurs"], "correct": 2, "exp": "Les plantes sont des producteurs : elles sont à la base de la chaîne alimentaire." }
+    ]
+  },
+  {
+    "classe": "6eme",
+    "matiere": "SVT",
+    "id": "s6-reproduction-fleur",
+    "titre": "La reproduction des plantes à fleurs",
+    "duree": "40 min",
+    "contenu": "<p>Chez les plantes à fleurs, la reproduction permet de produire des <b>graines</b>, qui donneront de nouvelles plantes. La fleur est l'organe reproducteur.</p><div class='definition'><b>Les parties de la fleur :</b><br>- les <b>sépales</b> (verts, à la base) et les <b>pétales</b> (souvent colorés) protègent et attirent ;<br>- les <b>étamines</b> (partie mâle) produisent le <b>pollen</b> dans leur <b>anthère</b> ;<br>- le <b>pistil</b> (partie femelle) possède un <b>stigmate</b>, un <b>style</b> et un <b>ovaire</b> qui contient les <b>ovules</b>.</div><p>La <b>pollinisation</b> transporte le pollen vers le stigmate, grâce au vent ou aux insectes. Ensuite, la <b>fécondation</b> a lieu : le pollen féconde l'ovule. L'ovaire devient alors le <b>fruit</b> et les ovules deviennent les <b>graines</b>.</p><div class='exemple'><b>Exemple :</b> la mangue. La fleur du manguier est fécondée, son ovaire se transforme en mangue, et la graine contenue à l'intérieur pourra germer pour donner un nouveau manguier.</div><div class='astuce'><b>Astuce :</b> retiens le chemin du pollen : anthère → stigmate → ovule. La pollinisation déplace le pollen, la fécondation le réunit à l'ovule.</div>",
+    "exercices": [
+      { "q": "Nomme les quatre parties principales d'une fleur et indique si elles sont mâles ou femelles.", "r": "Sépales et pétales : protection et attraction. Étamines : partie mâle (pollen). Pistil : partie femelle (ovules).", "indice": "Une partie est mâle si elle produit du pollen." },
+      { "q": "Qu'est-ce que la pollinisation ?", "r": "C'est le transport du pollen de l'anthère vers le stigmate, par le vent ou par les insectes.", "indice": "Le pollen doit voyager pour atteindre la partie femelle." },
+      { "q": "Explique ce qui devient le fruit et ce qui devient la graine après la fécondation.", "r": "L'ovaire devient le fruit. Les ovules fécondés deviennent les graines.", "indice": "Pense à la mangue ou à l'orange : que trouve-t-on à l'intérieur ?" },
+      { "q": "Range dans l'ordre : fécondation, pollinisation, formation du fruit et des graines.", "r": "1) pollinisation ; 2) fécondation ; 3) formation du fruit et des graines.", "indice": "Le pollen doit d'abord arriver sur le stigmate avant de féconder l'ovule." },
+      { "q": "Pourquoi les graines sont-elles importantes pour la plante ?", "r": "Elles permettent à la plante de se reproduire : une graine peut germer et donner une nouvelle plante.", "indice": "Que se passe-t-il quand une graine est plantée dans un sol humide ?" }
+    ],
+    "qcm": [
+      { "q": "Quelle partie de la fleur produit le pollen ?", "options": ["le pistil", "les étamines", "les sépales", "les pétales"], "correct": 1, "exp": "Les étamines, la partie mâle, produisent le pollen dans leur anthère." },
+      { "q": "Où se trouvent les ovules ?", "options": ["dans l'anthère", "dans l'ovaire", "dans le sépale", "dans le pétale"], "correct": 1, "exp": "Les ovules sont contenus dans l'ovaire, à la base du pistil." },
+      { "q": "La pollinisation consiste à :", "options": ["fabriquer le fruit", "transporter le pollen vers le stigmate", "féconder l'ovule", "germer la graine"], "correct": 1, "exp": "La pollinisation transporte le pollen jusqu'au stigmate." },
+      { "q": "Quel agent peut assurer la pollinisation ?", "options": ["la pluie uniquement", "le vent ou les insectes", "le sol", "les racines"], "correct": 1, "exp": "Le vent et les insectes transportent le pollen d'une fleur à l'autre." },
+      { "q": "Après la fécondation, l'ovaire devient :", "options": ["une racine", "un fruit", "une feuille", "une étamine"], "correct": 1, "exp": "L'ovaire se transforme en fruit qui protège les graines." },
+      { "q": "Les ovules fécondés deviennent :", "options": ["des pétales", "des graines", "des sépales", "des racines"], "correct": 1, "exp": "Les ovules fécondés donnent les graines." },
+      { "q": "La partie femelle de la fleur est :", "options": ["les étamines", "le pistil", "les sépales", "l'anthère"], "correct": 1, "exp": "Le pistil, avec son stigmate, son style et son ovaire, est la partie femelle." },
+      { "q": "Le stigmate est :", "options": ["la partie qui reçoit le pollen", "la partie qui produit le pollen", "le fruit", "la graine"], "correct": 0, "exp": "Le stigmate reçoit le pollen lors de la pollinisation." },
+      { "q": "Que doit faire le pollen pour féconder l'ovule ?", "options": ["rester dans l'anthère", "arriver jusqu'au stigmate puis jusqu'à l'ovule", "se transformer en pétale", "tomber sur le sol"], "correct": 1, "exp": "Le pollen passe par le stigmate puis le style pour féconder l'ovule." },
+      { "q": "Une graine peut donner :", "options": ["un fruit uniquement", "une nouvelle plante", "un pétale", "du pollen"], "correct": 1, "exp": "La graine, si elle germe, donne une nouvelle plante." }
+    ]
+  },
+  {
+    "classe": "6eme",
+    "matiere": "SVT",
+    "id": "s6-aliments-nutriments",
+    "titre": "Les aliments et les nutriments",
+    "duree": "40 min",
+    "contenu": "<p>Pour vivre, l'être humain doit manger. Les aliments contiennent des <b>nutriments</b>, des substances utiles à l'organisme.</p><div class='definition'><b>Les grandes familles de nutriments :</b><br>- les <b>glucides</b> (riz, manioc, maïs, banane plantain, mil) : ils donnent de l'<b>énergie</b> ;<br>- les <b>lipides</b> (huile, arachide, beurre de karité, poisson gras) : ils fournissent de l'énergie en réserve ;<br>- les <b>protéines</b> (viande, poisson, œuf, haricot, soja) : elles servent à <b>construire et réparer</b> le corps ;<br>- les <b>vitamines</b> et les <b>sels minéraux</b> (fruits, légumes) : ils <b>protègent</b> et régulent le fonctionnement de l'organisme ;<br>- l'<b>eau</b> : indispensable, elle permet de réguler la température et de transporter les substances.</div><div class='exemple'><b>Exemple :</b> un repas équilibré au Cameroun peut associer du manioc (glucides), du poisson (protéines), des légumes comme la morelle ou les feuilles de manioc (vitamines et sels minéraux) et de l'huile de palme ou d'arachide (lipides).</div><p>Une alimentation <b>équilibrée</b> apporte tous ces nutriments en quantités suffisantes. Une alimentation déséquilibrée peut provoquer des maladies, par manque ou par excès.</p><div class='astuce'><b>Astuce :</b> pour vérifier l'équilibre d'un repas, cherche la présence des trois familles : une source d'énergie (glucides ou lipides), une source de construction (protéines) et une source de protection (fruits et légumes).</div>",
+    "exercices": [
+      { "q": "Donne le rôle des glucides, des protéines et des vitamines, avec un aliment camerounais pour chacun.", "r": "Glucides : donnent de l'énergie (manioc, plantain). Protéines : construisent le corps (poisson, haricot). Vitamines : protègent l'organisme (fruits, légumes).", "indice": "Pense à ce qui est utile pour courir, pour grandir et pour rester en bonne santé." },
+      { "q": "Classe ces aliments selon leur nutriment principal : riz, œuf, papaye, huile d'arachide.", "r": "Riz : glucides. Œuf : protéines. Papaye : vitamines. Huile d'arachide : lipides.", "indice": "Demande-toi quel nutriment domine dans chacun." },
+      { "q": "Qu'est-ce qu'un repas équilibré ?", "r": "Un repas qui apporte tous les nutriments (glucides, lipides, protéines, vitamines, sels minéraux et eau) en quantités suffisantes.", "indice": "Le mot-clé est tous les nutriments." },
+      { "q": "Pourquoi l'eau est-elle indispensable ?", "r": "Elle régule la température du corps et transporte les substances dans l'organisme.", "indice": "Pense à la transpiration et au sang." },
+      { "q": "Un élève ne mange que du riz chaque jour. Quel problème peut-il avoir et comment le corriger ?", "r": "Il manque de protéines, de vitamines et de sels minéraux. Il faut ajouter du poisson ou des haricots, et des fruits et légumes.", "indice": "Un repas composé d'un seul aliment ne contient pas tous les nutriments." }
+    ],
+    "qcm": [
+      { "q": "Quel nutriment fournit surtout de l'énergie rapide ?", "options": ["les protéines", "les glucides", "les vitamines", "les sels minéraux"], "correct": 1, "exp": "Les glucides, comme le manioc ou le riz, sont la principale source d'énergie." },
+      { "q": "Quel nutriment sert à construire et réparer le corps ?", "options": ["les glucides", "les lipides", "les protéines", "l'eau"], "correct": 2, "exp": "Les protéines sont les matériaux de construction du corps." },
+      { "q": "Quel aliment est une bonne source de protéines ?", "options": ["le manioc", "la banane plantain", "l'œuf", "le sucre"], "correct": 2, "exp": "L'œuf contient des protéines de bonne qualité." },
+      { "q": "Les vitamines et les sels minéraux se trouvent surtout dans :", "options": ["les fruits et légumes", "les huiles", "le sucre", "les viandes uniquement"], "correct": 0, "exp": "Les fruits et légumes sont riches en vitamines et en sels minéraux." },
+      { "q": "Quel aliment est riche en lipides ?", "options": ["l'huile d'arachide", "le riz", "la papaye", "l'eau"], "correct": 0, "exp": "L'huile, comme celle d'arachide, est riche en lipides." },
+      { "q": "Une alimentation équilibrée :", "options": ["contient tous les nutriments en quantité suffisante", "contient uniquement des glucides", "ne contient pas d'eau", "exclut les protéines"], "correct": 0, "exp": "Un repas équilibré apporte tous les nutriments dont le corps a besoin." },
+      { "q": "L'eau sert notamment à :", "options": ["construire les os", "réguler la température du corps", "donner de l'énergie rapide", "produire des vitamines"], "correct": 1, "exp": "L'eau régule la température et transporte les substances dans le corps." },
+      { "q": "Une alimentation déséquilibrée peut provoquer :", "options": ["des maladies", "une croissance parfaite", "une meilleure santé", "rien de particulier"], "correct": 0, "exp": "Un manque ou un excès de nutriments peut entraîner des maladies." },
+      { "q": "Quel aliment est une source de glucides ?", "options": ["le haricot", "le mil", "la viande", "l'œuf"], "correct": 1, "exp": "Le mil, comme le manioc, le maïs ou le plantain, est riche en glucides." },
+      { "q": "Parmi ces aliments, lequel est une source de protéines végétales ?", "options": ["le haricot", "le sucre", "l'huile de palme", "le riz blanc"], "correct": 0, "exp": "Le haricot est une légumineuse riche en protéines végétales." }
+    ]
+  }
+]

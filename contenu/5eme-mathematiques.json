@@ -1,0 +1,110 @@
+[
+  {
+    "classe": "5eme",
+    "matiere": "Mathématiques",
+    "id": "m5-nombres-relatifs",
+    "titre": "Les nombres relatifs : positifs, négatifs et repérage",
+    "duree": "40 min",
+    "contenu": "<p>Les <b>nombres relatifs</b> sont des nombres précédés d'un signe. Ils permettent de représenter des températures négatives, des altitudes sous le niveau de la mer, ou des dettes.</p><div class='definition'><b>Un nombre positif</b> est précédé du signe + (ou sans signe) : +5, 5.<br><b>Un nombre négatif</b> est précédé du signe − : −3.<br><b>Zéro</b> n'est ni positif ni négatif.<br><b>L'opposé</b> d'un nombre est le nombre de même distance à zéro, de signe contraire : l'opposé de −4 est 4.<br><b>La valeur absolue</b> d'un nombre est sa distance à zéro : |−4| = 4.</div><p>Sur une droite graduée, un nombre est d'autant plus grand qu'il est placé à droite. Ainsi, −5 &lt; −2 &lt; 0 &lt; 1 &lt; 3.</p><div class='exemple'><b>Exemple :</b> en altitude, un relevé peut donner −2 °C, et plus haut encore −5 °C. Entre −5 °C et −2 °C, la température la plus basse est −5 °C.</div><div class='astuce'><b>Astuce :</b> pour comparer deux nombres négatifs, compare leurs valeurs absolues dans l'autre sens : −7 est plus petit que −2, car 7 est plus grand que 2.</div>",
+    "exercices": [
+      { "q": "Range dans l'ordre croissant : −3 ; 5 ; −8 ; 0 ; 2.", "r": "−8 < −3 < 0 < 2 < 5.", "indice": "Les négatifs sont toujours plus petits que zéro. Parmi les négatifs, le plus éloigné de zéro est le plus petit." },
+      { "q": "Donne l'opposé de −6, de 9 et de 0.", "r": "L'opposé de −6 est 6 ; de 9 est −9 ; de 0 est 0.", "indice": "L'opposé change le signe." },
+      { "q": "Calcule |−7| et |4|.", "r": "|−7| = 7 ; |4| = 4.", "indice": "La valeur absolue est la distance à zéro, toujours positive." },
+      { "q": "Place sur une droite graduée les nombres −4, −1, 2 et 3, puis indique lequel est le plus à gauche.", "r": "Le plus à gauche est −4.", "indice": "Sur une droite, les nombres augmentent de gauche à droite." },
+      { "q": "Une température passe de −2 °C à 3 °C. Quelle est la variation ? (on calcule 3 − (−2))", "r": "3 − (−2) = 3 + 2 = 5 : la température a augmenté de 5 °C.", "indice": "Soustraire un nombre négatif revient à ajouter son opposé." }
+    ],
+    "qcm": [
+      { "q": "Lequel est le plus petit ?", "options": ["−1", "0", "−10", "3"], "correct": 2, "exp": "−10 est le plus à gauche sur la droite graduée." },
+      { "q": "L'opposé de −12 est :", "options": ["−12", "12", "0", "−1"], "correct": 1, "exp": "L'opposé change le signe : 12." },
+      { "q": "|−9| vaut :", "options": ["−9", "9", "0", "−1"], "correct": 1, "exp": "La valeur absolue est toujours positive : 9." },
+      { "q": "Quel nombre est négatif ?", "options": ["+4", "0", "−2", "7"], "correct": 2, "exp": "−2 est précédé du signe moins." },
+      { "q": "Parmi ces nombres, lequel est le plus grand ?", "options": ["−5", "−2", "−9", "−7"], "correct": 1, "exp": "−2 est le plus proche de zéro, donc le plus grand des négatifs." },
+      { "q": "Quelle inégalité est vraie ?", "options": ["−3 > 0", "−3 < −1", "5 < −1", "0 > 2"], "correct": 1, "exp": "−3 est à gauche de −1 sur la droite graduée." },
+      { "q": "Zéro est :", "options": ["positif", "négatif", "ni positif ni négatif", "toujours opposé à lui-même et négatif"], "correct": 2, "exp": "Zéro n'est ni positif ni négatif." },
+      { "q": "La distance à zéro de −15 est :", "options": ["−15", "15", "0", "−1"], "correct": 1, "exp": "La valeur absolue de −15 est 15." },
+      { "q": "L'opposé de 0 est :", "options": ["1", "−1", "0", "impossible à dire"], "correct": 2, "exp": "L'opposé de zéro est zéro." },
+      { "q": "Sur une droite graduée, un nombre est plus grand s'il est :", "options": ["plus à gauche", "plus à droite", "plus proche de −10", "plus grand en valeur absolue"], "correct": 1, "exp": "Les nombres augmentent de gauche à droite." }
+    ]
+  },
+  {
+    "classe": "5eme",
+    "matiere": "Mathématiques",
+    "id": "m5-addition-soustraction-relatifs",
+    "titre": "Additionner et soustraire des nombres relatifs",
+    "duree": "40 min",
+    "contenu": "<p>Pour additionner des nombres relatifs, on regarde d'abord leurs <b>signes</b>.</p><div class='definition'><b>Même signe :</b> on additionne les distances à zéro et on garde le signe commun. Ex. : (−3) + (−4) = −7.<br><b>Signes différents :</b> on soustrait les distances à zéro, et le résultat prend le signe du nombre qui est le plus éloigné de zéro. Ex. : (−9) + 4 = −5 ; (−2) + 6 = 4.<br><b>Soustraire</b> un nombre revient à ajouter son opposé : a − b = a + (−b). Ex. : 5 − 8 = 5 + (−8) = −3.</div><div class='exemple'><b>Exemple :</b> un commerçant a une dette de 25 000 FCFA, soit −25 000. Il encaisse 40 000 FCFA. Son solde est −25 000 + 40 000 = 15 000 FCFA.</div><div class='astuce'><b>Astuce :</b> pour un calcul avec signes différents, pense à « qui gagne ? » : le plus grand en distance à zéro décide du signe.</div>",
+    "exercices": [
+      { "q": "Calcule : (−3) + (−4) ; (−9) + 4 ; (−2) + 6.", "r": "−7 ; −5 ; 4.", "indice": "Même signe : on additionne et on garde le signe. Signes différents : on soustrait et on prend le signe du plus grand." },
+      { "q": "Calcule : 5 − 8 ; 2 − (−3) ; −4 − 6.", "r": "−3 ; 5 ; −10.", "indice": "Soustraire revient à ajouter l'opposé : 2 − (−3) = 2 + 3." },
+      { "q": "Un élève doit 1 500 FCFA (−1 500). Il reçoit 4 000 FCFA. Quel est son solde ?", "r": "−1 500 + 4 000 = 2 500 FCFA.", "indice": "Calcule la différence entre 4 000 et 1 500 et prends le signe du plus grand." },
+      { "q": "Calcule : (−12) + (−8) + 5.", "r": "−20 + 5 = −15.", "indice": "Additionne d'abord les deux négatifs." },
+      { "q": "Écris sous forme d'addition puis calcule : 7 − 10 − 2.", "r": "7 + (−10) + (−2) = −3 + (−2) = −5.", "indice": "Remplace chaque soustraction par l'addition de l'opposé." }
+    ],
+    "qcm": [
+      { "q": "(−3) + (−4) =", "options": ["−1", "−7", "7", "1"], "correct": 1, "exp": "Même signe : 3 + 4 = 7 et on garde le signe négatif." },
+      { "q": "(−9) + 4 =", "options": ["5", "−5", "13", "−13"], "correct": 1, "exp": "Signes différents : 9 − 4 = 5, et le signe est celui de −9, donc −5." },
+      { "q": "5 − 8 =", "options": ["3", "−3", "13", "−13"], "correct": 1, "exp": "5 + (−8) = −3." },
+      { "q": "2 − (−3) =", "options": ["−1", "1", "5", "−5"], "correct": 2, "exp": "Soustraire −3 revient à ajouter 3 : 2 + 3 = 5." },
+      { "q": "−4 − 6 =", "options": ["2", "−2", "10", "−10"], "correct": 3, "exp": "−4 + (−6) = −10." },
+      { "q": "Quel est le résultat de (−2) + 6 ?", "options": ["−4", "4", "8", "−8"], "correct": 1, "exp": "Signes différents : 6 − 2 = 4, et le signe est positif." },
+      { "q": "a − b est égal à :", "options": ["a + b", "a + (−b)", "−a + b", "−(a + b)"], "correct": 1, "exp": "Soustraire b revient à ajouter son opposé −b." },
+      { "q": "Un solde de −15 000 suivi de +10 000 donne :", "options": ["25 000", "−5 000", "5 000", "−25 000"], "correct": 1, "exp": "−15 000 + 10 000 = −5 000." },
+      { "q": "(−12) + (−8) + 5 =", "options": ["−25", "−15", "15", "25"], "correct": 1, "exp": "−20 + 5 = −15." },
+      { "q": "Calculer 0 − 7 donne :", "options": ["7", "−7", "0", "−1"], "correct": 1, "exp": "0 − 7 = 0 + (−7) = −7." }
+    ]
+  },
+  {
+    "classe": "5eme",
+    "matiere": "Mathématiques",
+    "id": "m5-multiplication-division-relatifs",
+    "titre": "Multiplier et diviser des nombres relatifs",
+    "duree": "40 min",
+    "contenu": "<p>Pour multiplier ou diviser des nombres relatifs, on calcule d'abord la valeur des nombres sans leurs signes, puis on applique la <b>règle des signes</b>.</p><div class='definition'><b>Règle des signes :</b><br>+ × + = +   et   − × − = +<br>+ × − = −   et   − × + = −<br>La même règle s'applique à la division.<br>En résumé : deux signes identiques donnent +, deux signes différents donnent −.</div><div class='exemple'><b>Exemple :</b> (−4) × (−5) = +20 ; 6 × (−3) = −18 ; (−24) ÷ 6 = −4 ; (−36) ÷ (−9) = +4.</div><p>Un produit de plusieurs facteurs : s'il y a un nombre pair de facteurs négatifs, le résultat est positif. S'il y en a un nombre impair, il est négatif.</p><div class='astuce'><b>Astuce :</b> compte les signes moins. Si leur nombre est pair, le résultat est positif. S'il est impair, le résultat est négatif.</div>",
+    "exercices": [
+      { "q": "Calcule : (−4) × (−5) ; 6 × (−3) ; (−7) × 2.", "r": "+20 ; −18 ; −14.", "indice": "Compte les signes : deux négatifs donnent un positif." },
+      { "q": "Calcule : (−24) ÷ 6 ; (−36) ÷ (−9) ; 40 ÷ (−8).", "r": "−4 ; +4 ; −5.", "indice": "La règle des signes est la même pour la division." },
+      { "q": "Calcule : (−2) × (−3) × (−4).", "r": "(−2) × (−3) = 6 ; 6 × (−4) = −24.", "indice": "Il y a trois facteurs négatifs : le résultat est négatif." },
+      { "q": "Une voiture perd 3 litres de carburant par heure pendant 4 heures. Quelle est la variation de carburant ? (écris-la avec un signe)", "r": "(−3) × 4 = −12 litres.", "indice": "Une perte est un nombre négatif." },
+      { "q": "Calcule : (−5) × 0 ; (−6)² (l'exposant 2 signifie (−6) × (−6)).", "r": "0 ; 36.", "indice": "Tout nombre multiplié par zéro donne zéro. Un carré est toujours positif." }
+    ],
+    "qcm": [
+      { "q": "(−4) × (−5) =", "options": ["−20", "20", "−9", "9"], "correct": 1, "exp": "Deux signes négatifs donnent un positif : 20." },
+      { "q": "6 × (−3) =", "options": ["18", "−18", "3", "−3"], "correct": 1, "exp": "Signes différents : le résultat est négatif, 18 donc −18." },
+      { "q": "(−24) ÷ 6 =", "options": ["4", "−4", "18", "−18"], "correct": 1, "exp": "Signes différents : −4." },
+      { "q": "(−36) ÷ (−9) =", "options": ["−4", "4", "−27", "27"], "correct": 1, "exp": "Deux signes négatifs donnent un positif : 4." },
+      { "q": "(−2) × (−3) × (−4) =", "options": ["24", "−24", "9", "−9"], "correct": 1, "exp": "Trois facteurs négatifs donnent un résultat négatif : −24." },
+      { "q": "(−5) × 0 =", "options": ["−5", "5", "0", "−1"], "correct": 2, "exp": "Tout nombre multiplié par zéro vaut zéro." },
+      { "q": "Le produit de deux nombres de signes différents est :", "options": ["positif", "négatif", "nul", "impossible à déterminer"], "correct": 1, "exp": "Signes différents : résultat négatif." },
+      { "q": "(−6)² vaut :", "options": ["−36", "36", "−12", "12"], "correct": 1, "exp": "(−6) × (−6) = 36." },
+      { "q": "Quatre facteurs négatifs multipliés entre eux donnent :", "options": ["un résultat négatif", "un résultat positif", "zéro", "un résultat impossible"], "correct": 1, "exp": "Un nombre pair de facteurs négatifs donne un positif." },
+      { "q": "40 ÷ (−8) =", "options": ["5", "−5", "320", "−320"], "correct": 1, "exp": "Signes différents : −5." }
+    ]
+  },
+  {
+    "classe": "5eme",
+    "matiere": "Mathématiques",
+    "id": "m5-triangles",
+    "titre": "Les triangles : somme des angles et triangles particuliers",
+    "duree": "40 min",
+    "contenu": "<p>Un <b>triangle</b> est une figure à trois côtés et trois angles. Ses trois sommets sont désignés par des lettres, par exemple le triangle ABC.</p><div class='definition'><b>Propriété fondamentale :</b> dans un triangle, la somme des trois angles est égale à <b>180°</b>.<br><b>Triangle isocèle :</b> il a deux côtés de même longueur.<br><b>Triangle équilatéral :</b> il a trois côtés de même longueur et trois angles de 60°.<br><b>Triangle rectangle :</b> il a un angle droit (90°).</div><div class='exemple'><b>Exemple :</b> dans un triangle ABC, si l'angle A mesure 50° et l'angle B mesure 60°, alors l'angle C mesure 180 − 50 − 60 = 70°.</div><p>Un triangle peut avoir plusieurs caractéristiques à la fois : par exemple, un triangle rectangle isocèle a un angle droit et deux côtés égaux.</p><div class='astuce'><b>Astuce :</b> pour trouver un angle manquant, fais « 180 − somme des deux angles connus ». C'est le calcul le plus utilisé en géométrie du collège.</div>",
+    "exercices": [
+      { "q": "Dans un triangle ABC, on connaît A = 50° et B = 60°. Calcule C.", "r": "C = 180 − 50 − 60 = 70°.", "indice": "La somme des angles d'un triangle est 180°." },
+      { "q": "Un triangle a deux angles de 45° et de 90°. Calcule le troisième angle et donne son nom.", "r": "Troisième angle : 180 − 45 − 90 = 45°. C'est un triangle rectangle isocèle.", "indice": "Un angle de 90° indique un triangle rectangle." },
+      { "q": "Un triangle équilatéral : combien mesure chacun de ses angles ?", "r": "180 ÷ 3 = 60°.", "indice": "Les trois angles sont égaux." },
+      { "q": "Un triangle isocèle a un angle au sommet de 40°. Les deux autres angles sont égaux. Calcule-les.", "r": "180 − 40 = 140 ; 140 ÷ 2 = 70°. Les deux autres angles mesurent 70°.", "indice": "Soustrais d'abord l'angle connu, puis partage le reste en deux." },
+      { "q": "Peut-on avoir un triangle avec deux angles droits ? Justifie.", "r": "Non : deux angles droits valent déjà 180°, il ne reste plus rien pour le troisième angle.", "indice": "Calcule la somme de deux angles droits." }
+    ],
+    "qcm": [
+      { "q": "La somme des angles d'un triangle est :", "options": ["90°", "180°", "270°", "360°"], "correct": 1, "exp": "Dans tout triangle, la somme des angles vaut 180°." },
+      { "q": "Dans un triangle, si deux angles mesurent 50° et 60°, le troisième mesure :", "options": ["70°", "80°", "90°", "110°"], "correct": 0, "exp": "180 − 50 − 60 = 70°." },
+      { "q": "Un triangle équilatéral a :", "options": ["deux côtés égaux", "trois côtés égaux", "un angle droit", "aucun côté égal"], "correct": 1, "exp": "Un triangle équilatéral a ses trois côtés égaux." },
+      { "q": "Chaque angle d'un triangle équilatéral mesure :", "options": ["45°", "60°", "90°", "120°"], "correct": 1, "exp": "Les trois angles sont égaux : 180 ÷ 3 = 60°." },
+      { "q": "Un triangle rectangle a :", "options": ["un angle droit", "trois angles aigus", "trois angles obtus", "aucun angle"], "correct": 0, "exp": "Un triangle rectangle possède un angle droit de 90°." },
+      { "q": "Un triangle isocèle a :", "options": ["trois côtés égaux", "deux côtés égaux", "aucun côté égal", "quatre côtés"], "correct": 1, "exp": "Il possède deux côtés de même longueur." },
+      { "q": "Un triangle peut-il avoir deux angles droits ?", "options": ["oui", "non", "seulement s'il est isocèle", "seulement s'il est équilatéral"], "correct": 1, "exp": "Deux angles droits font déjà 180°, le troisième serait nul." },
+      { "q": "Si deux angles d'un triangle mesurent 30° et 30°, le troisième mesure :", "options": ["60°", "120°", "90°", "150°"], "correct": 1, "exp": "180 − 30 − 30 = 120°." },
+      { "q": "Un triangle rectangle isocèle a :", "options": ["un angle droit et deux côtés égaux", "trois angles égaux", "trois côtés égaux", "aucun angle droit"], "correct": 0, "exp": "C'est un triangle rectangle dont deux côtés de l'angle droit sont égaux." },
+      { "q": "Dans un triangle ABC, la lettre A désigne :", "options": ["un côté", "un sommet", "un angle droit uniquement", "une droite"], "correct": 1, "exp": "Les lettres désignent les sommets du triangle." }
+    ]
+  }
+]

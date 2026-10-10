@@ -1,0 +1,110 @@
+[
+  {
+    "classe": "6eme",
+    "matiere": "EPS",
+    "id": "eps6-echauffement",
+    "titre": "L'échauffement et la sécurité en sport",
+    "duree": "40 min",
+    "contenu": "<p>Avant toute activité sportive, on doit <b>s'échauffer</b>. L'échauffement prépare le corps à l'effort et réduit les risques de blessure.</p><div class='definition'><b>L'échauffement</b> est une série d'exercices légers (marche, course lente, étirements doux) qui augmente progressivement la température du corps et la fréquence cardiaque.<br><b>Le retour au calme</b> est une phase de marche lente et d'étirements après l'effort, pour permettre au corps de récupérer.</div><p>Pendant l'effort, le cœur bat plus vite et la respiration s'accélère. C'est normal. Mais il faut s'arrêter en cas de douleur, de vertige ou d'essoufflement excessif.</p><div class='exemple'><b>Exemple :</b> avant un match de football, on commence par 5 minutes de course lente, puis des petits mouvements de jambes et de bras. Après le match, on marche doucement et on s'étire.</div><div class='astuce'><b>Astuce :</b> une bonne séance suit toujours trois temps : échauffement, activité principale, retour au calme. Ne saute jamais l'échauffement.</div>",
+    "exercices": [
+      { "q": "À quoi sert l'échauffement ?", "r": "À préparer le corps à l'effort et à réduire les risques de blessure.", "indice": "Pense à ce qui se passe quand le corps passe brusquement à l'effort." },
+      { "q": "Donne trois exemples d'exercices d'échauffement.", "r": "Par exemple : la marche rapide, la course lente, les étirements doux.", "indice": "Ce sont des exercices légers." },
+      { "q": "Qu'est-ce que le retour au calme ?", "r": "C'est une phase de marche lente et d'étirements après l'effort, pour que le corps récupère.", "indice": "Pense à ce qui se passe après un match." },
+      { "q": "Quels signes doivent t'inciter à arrêter l'effort ?", "r": "Une douleur, un vertige, un essoufflement excessif.", "indice": "Pense aux signaux d'alerte du corps." },
+      { "q": "Décris une séance d'EPS complète en trois temps.", "r": "Échauffement, activité principale, retour au calme.", "indice": "Une séance a un début, un milieu et une fin." }
+    ],
+    "qcm": [
+      { "q": "L'échauffement sert principalement à :", "options": ["fatiguer le corps", "préparer le corps à l'effort", "gagner du poids", "ne rien faire"], "correct": 1, "exp": "L'échauffement prépare le corps et réduit les blessures." },
+      { "q": "Le retour au calme consiste à :", "options": ["courir très vite", "marcher lentement et s'étirer", "sauter", "rester immobile"], "correct": 1, "exp": "C'est une phase de récupération douce." },
+      { "q": "Pendant l'effort, le cœur :", "options": ["bat plus lentement", "bat plus vite", "s'arrête", "ne change pas"], "correct": 1, "exp": "Le cœur accélère pour fournir plus de sang aux muscles." },
+      { "q": "Il faut s'arrêter immédiatement en cas de :", "options": ["une légère transpiration", "une douleur ou un vertige", "une envie de boire", "un peu de fatigue normale"], "correct": 1, "exp": "La douleur et le vertige sont des signaux d'alerte." },
+      { "q": "Quel exercice convient à l'échauffement ?", "options": ["le sprint maximal", "la marche rapide", "le saut en hauteur", "le soulèvement de poids"], "correct": 1, "exp": "La marche rapide est un exercice léger, adapté à l'échauffement." },
+      { "q": "Une séance d'EPS comprend :", "options": ["une seule partie", "trois temps : échauffement, activité, retour au calme", "deux temps seulement", "aucun repos"], "correct": 1, "exp": "La séance se structure en trois temps." },
+      { "q": "Pourquoi ne jamais sauter l'échauffement ?", "options": ["pour perdre du temps", "pour réduire le risque de blessure", "pour être fatigué", "pour arriver en retard"], "correct": 1, "exp": "L'échauffement protège les muscles et les articulations." },
+      { "q": "Pendant l'effort, la respiration :", "options": ["s'arrête", "s'accélère", "devient silencieuse", "ne change pas"], "correct": 1, "exp": "Le corps a besoin de plus d'oxygène : la respiration s'accélère." },
+      { "q": "Les étirements doux sont plutôt utilisés :", "options": ["avant un effort intense uniquement", "pendant l'échauffement et le retour au calme", "jamais", "seulement en natation"], "correct": 1, "exp": "Les étirements doux font partie de l'échauffement et du retour au calme." },
+      { "q": "La fréquence cardiaque est :", "options": ["le nombre de battements du cœur par minute", "la température du corps", "la taille du cœur", "la quantité de sang"], "correct": 0, "exp": "La fréquence cardiaque mesure le nombre de battements par minute." }
+    ]
+  },
+  {
+    "classe": "6eme",
+    "matiere": "EPS",
+    "id": "eps6-course-endurance",
+    "titre": "La course et l'endurance",
+    "duree": "40 min",
+    "contenu": "<p>La <b>course</b> est une activité de base. Elle développe la <b>vitesse</b>, la <b>résistance</b> et l'<b>endurance</b>, c'est-à-dire la capacité à tenir un effort longtemps.</p><div class='definition'><b>La vitesse</b> est la capacité à parcourir une distance courte le plus vite possible (ex. : 60 m).<br><b>L'endurance</b> est la capacité à maintenir un effort modéré sur une longue durée (ex. : 1 000 m).<br><b>Le rythme</b> est la régularité de la course : courir à une allure que l'on peut tenir.</div><p>Pour bien courir, il faut adapter son allure à la distance : on part plus vite pour un sprint, et plus régulièrement pour une course longue.</p><div class='exemple'><b>Exemple :</b> lors d'une course de 800 m, on ne part pas à fond. On garde un rythme régulier, puis on accélère dans le dernier tour.</div><div class='astuce'><b>Astuce :</b> pour progresser en endurance, cours régulièrement à une allure où tu peux encore parler. Si tu ne peux plus parler, tu vas trop vite.</div>",
+    "exercices": [
+      { "q": "Qu'est-ce que l'endurance ?", "r": "La capacité à maintenir un effort modéré pendant une longue durée.", "indice": "Pense à une course longue." },
+      { "q": "Quelle différence y a-t-il entre la vitesse et l'endurance ?", "r": "La vitesse concerne une distance courte parcourue très vite. L'endurance concerne une longue durée d'effort.", "indice": "Compare un sprint de 60 m et une course de 1 000 m." },
+      { "q": "Pourquoi ne faut-il pas partir trop vite sur une course de 800 m ?", "r": "On risque de s'épuiser et de ne plus pouvoir maintenir l'effort jusqu'à l'arrivée.", "indice": "Pense à la gestion de l'effort sur la distance." },
+      { "q": "Comment savoir qu'on court à une allure adaptée ?", "r": "On peut encore parler sans être à bout de souffle.", "indice": "Pense à la respiration pendant l'effort." },
+      { "q": "Décris une stratégie pour courir 1 000 m.", "r": "Partir régulièrement, garder un rythme constant, puis accélérer légèrement dans le dernier tour.", "indice": "Une course longue se gère par étapes." }
+    ],
+    "qcm": [
+      { "q": "La vitesse est :", "options": ["la capacité à courir longtemps", "la capacité à parcourir une courte distance très vite", "la capacité à sauter", "la capacité à nager"], "correct": 1, "exp": "La vitesse concerne les distances courtes parcourues rapidement." },
+      { "q": "L'endurance est :", "options": ["la capacité à courir très vite sur 60 m", "la capacité à tenir un effort longtemps", "la force des bras", "la souplesse"], "correct": 1, "exp": "L'endurance permet de tenir un effort sur une longue durée." },
+      { "q": "Le rythme d'une course désigne :", "options": ["la couleur du maillot", "la régularité de l'allure", "la distance totale", "le nombre de coureurs"], "correct": 1, "exp": "Le rythme est la régularité de la course." },
+      { "q": "Sur 800 m, il vaut mieux :", "options": ["partir à fond", "garder un rythme régulier", "marcher", "s'arrêter au milieu"], "correct": 1, "exp": "Un rythme régulier permet de tenir jusqu'à la fin." },
+      { "q": "Un bon indicateur d'une allure adaptée est :", "options": ["ne plus pouvoir respirer", "pouvoir encore parler", "courir les yeux fermés", "tomber"], "correct": 1, "exp": "Si on peut parler, l'allure est modérée et tenable." },
+      { "q": "Quelle distance correspond à un sprint ?", "options": ["60 m", "1 000 m", "10 km", "marathon"], "correct": 0, "exp": "Le sprint concerne les courtes distances, comme 60 m." },
+      { "q": "Pour progresser en endurance, il faut :", "options": ["courir rarement", "courir régulièrement à allure modérée", "courir uniquement au sprint", "éviter tout effort"], "correct": 1, "exp": "La régularité et l'allure modérée développent l'endurance." },
+      { "q": "Dans un 800 m, l'accélération se fait :", "options": ["au départ", "dans le dernier tour", "jamais", "au milieu seulement"], "correct": 1, "exp": "On garde ses forces pour accélérer à la fin." },
+      { "q": "La résistance désigne :", "options": ["la capacité à supporter un effort", "la couleur des chaussures", "la distance parcourue", "le temps de repos"], "correct": 0, "exp": "La résistance est la capacité à supporter la fatigue lors d'un effort." },
+      { "q": "Une course longue demande surtout :", "options": ["de la vitesse maximale", "de l'endurance et une bonne gestion du rythme", "de la force brute", "de l'immobilité"], "correct": 1, "exp": "Sur longue distance, l'endurance et le rythme comptent le plus." }
+    ]
+  },
+  {
+    "classe": "6eme",
+    "matiere": "EPS",
+    "id": "eps6-jeux-collectifs",
+    "titre": "Les jeux collectifs : coopération et fair-play",
+    "duree": "40 min",
+    "contenu": "<p>Les <b>jeux collectifs</b> (football, handball, basket-ball, ballon au pied) se pratiquent en équipe. Ils demandent de la coopération, de la communication et le respect des règles.</p><div class='definition'><b>La coopération</b> est le travail commun vers un même objectif.<br><b>Le fair-play</b> est l'attitude loyale : respecter les règles, l'adversaire et l'arbitre, accepter la défaite comme la victoire.<br><b>Un rôle</b> est une fonction dans l'équipe : attaquant, défenseur, gardien, capitaine.</div><p>Dans un jeu collectif, chacun a un rôle utile. Un joueur seul ne gagne pas un match : c'est le travail de l'équipe qui compte.</p><div class='exemple'><b>Exemple :</b> au football, le défenseur protège le but, le milieu fait circuler le ballon et l'attaquant marque. Si l'un ne fait pas son rôle, l'équipe est déséquilibrée.</div><div class='astuce'><b>Astuce :</b> le fair-play, c'est aussi : serrer la main de l'adversaire à la fin du match, quel que soit le résultat.</div>",
+    "exercices": [
+      { "q": "Cite trois jeux collectifs.", "r": "Par exemple : football, handball, basket-ball, ballon au pied.", "indice": "Ce sont des jeux joués par équipes." },
+      { "q": "Qu'est-ce que le fair-play ?", "r": "C'est une attitude loyale : respecter les règles, l'adversaire et l'arbitre.", "indice": "Pense à l'attitude en match." },
+      { "q": "Décris le rôle du gardien de but au football.", "r": "Il protège le but et empêche le ballon d'entrer dans la cage.", "indice": "Pense à sa position dans le but." },
+      { "q": "Pourquoi la coopération est-elle indispensable dans un jeu collectif ?", "r": "Parce qu'un joueur seul ne peut pas gagner : l'équipe doit travailler ensemble vers un même objectif.", "indice": "Pense au travail d'équipe." },
+      { "q": "Que fais-tu si tu perds un match, en fair-play ?", "r": "J'accepte le résultat, je félicite l'équipe adverse et je tire des leçons pour progresser.", "indice": "Pense à la défaite comme à une étape." }
+    ],
+    "qcm": [
+      { "q": "Un jeu collectif se joue :", "options": ["seul", "en équipe", "sans règles", "uniquement dans l'eau"], "correct": 1, "exp": "Les jeux collectifs se pratiquent en équipe." },
+      { "q": "Le fair-play consiste à :", "options": ["tricher pour gagner", "respecter les règles et l'adversaire", "insulter l'arbitre", "abandonner"], "correct": 1, "exp": "Le fair-play est une attitude loyale." },
+      { "q": "La coopération signifie :", "options": ["travailler seul", "travailler ensemble vers un même but", "gagner à tout prix", "éviter les autres"], "correct": 1, "exp": "Coopérer, c'est agir ensemble pour un objectif commun." },
+      { "q": "Le rôle du gardien de but est :", "options": ["marquer des buts", "protéger le but", "arbitrer le match", "courir le plus vite"], "correct": 1, "exp": "Le gardien protège la cage contre les tirs." },
+      { "q": "Lequel n'est pas un jeu collectif ?", "options": ["le football", "le handball", "le saut en longueur seul", "le basket-ball"], "correct": 2, "exp": "Le saut en longueur se pratique individuellement." },
+      { "q": "Serrer la main de l'adversaire après le match est :", "options": ["un geste de fair-play", "une faute", "une perte de temps", "une tricherie"], "correct": 0, "exp": "C'est un geste de respect et de fair-play." },
+      { "q": "Dans une équipe, chaque joueur a :", "options": ["le même rôle", "un rôle utile", "aucun rôle", "le droit de faire ce qu'il veut"], "correct": 1, "exp": "Chaque joueur a une fonction utile à l'équipe." },
+      { "q": "Accepter la défaite avec fair-play signifie :", "options": ["se fâcher", "reconnaître le résultat et progresser", "accuser l'arbitre", "quitter l'équipe"], "correct": 1, "exp": "Le fair-play permet d'accepter le résultat et de progresser." },
+      { "q": "Le capitaine de l'équipe :", "options": ["est le seul à jouer", "représente l'équipe et guide ses partenaires", "remplace l'arbitre", "ne doit pas courir"], "correct": 1, "exp": "Le capitaine représente l'équipe et aide les partenaires." },
+      { "q": "Un jeu collectif demande surtout :", "options": ["de l'individualisme", "de la communication entre joueurs", "de la solitude", "de l'indifférence"], "correct": 1, "exp": "La communication est essentielle au travail collectif." }
+    ]
+  },
+  {
+    "classe": "6eme",
+    "matiere": "EPS",
+    "id": "eps6-hygiene-sport",
+    "titre": "Hygiène, alimentation et sport",
+    "duree": "40 min",
+    "contenu": "<p>La pratique sportive améliore la santé, à condition de respecter quelques règles d'<b>hygiène</b> et d'<b>alimentation</b>.</p><div class='definition'><b>L'hygiène corporelle</b> comprend la douche après l'effort, le port de vêtements propres et secs, et le lavage des mains.<br><b>L'hydratation</b> est le fait de boire régulièrement de l'eau, surtout par temps chaud, avant, pendant et après l'effort.<br><b>Le repos</b> permet au corps de récupérer : un sommeil suffisant est indispensable.</div><p>Il faut éviter de manger un repas lourd juste avant de courir. Un repas léger, pris environ deux heures avant l'effort, est préférable.</p><div class='exemple'><b>Exemple :</b> avant un cours de sport à midi, on évite un plat très gras et on boit de l'eau. Après l'effort, on se lave et on prend un repas équilibré.</div><div class='astuce'><b>Astuce :</b> pour savoir si tu bois assez, regarde la couleur de tes urines : si elles sont très foncées, tu dois boire davantage.</div>",
+    "exercices": [
+      { "q": "Cite trois règles d'hygiène après une séance de sport.", "r": "Se doucher, porter des vêtements propres et secs, se laver les mains.", "indice": "Pense à la transpiration et à la propreté." },
+      { "q": "Pourquoi faut-il boire régulièrement pendant le sport ?", "r": "Pour compenser l'eau perdue par la transpiration et éviter la déshydratation.", "indice": "Pense à ce qui s'échappe du corps pendant l'effort." },
+      { "q": "Pourquoi éviter un repas lourd juste avant de courir ?", "r": "Il ralentit la digestion et peut provoquer un malaise pendant l'effort.", "indice": "Pense à la digestion et aux efforts du corps." },
+      { "q": "Pourquoi le repos est-il important pour un sportif ?", "r": "Il permet au corps de récupérer et de progresser.", "indice": "Pense à la fatigue et à la récupération." },
+      { "q": "Propose un repas léger avant une séance de sport à midi.", "r": "Exemple : une bouillie de maïs, un fruit, de l'eau.", "indice": "Pense à des aliments faciles à digérer." }
+    ],
+    "qcm": [
+      { "q": "Après une séance de sport, il faut :", "options": ["rester transpirant", "se doucher", "ne pas se laver", "boire de l'alcool"], "correct": 1, "exp": "La douche élimine la transpiration et protège la peau." },
+      { "q": "L'hydratation consiste à :", "options": ["manger beaucoup", "boire régulièrement de l'eau", "dormir peu", "éviter l'eau"], "correct": 1, "exp": "L'hydratation est l'apport régulier d'eau." },
+      { "q": "Avant un effort, il vaut mieux manger :", "options": ["un repas très gras", "un repas léger", "rien du tout", "beaucoup de sucre seul"], "correct": 1, "exp": "Un repas léger évite de gêner l'effort." },
+      { "q": "Le repos permet au corps :", "options": ["de vieillir", "de récupérer", "de grossir", "de cesser de grandir"], "correct": 1, "exp": "Le repos favorise la récupération." },
+      { "q": "Des urines très foncées indiquent souvent :", "options": ["un manque d'eau", "un excès d'eau", "une bonne santé", "rien"], "correct": 0, "exp": "Des urines foncées signalent qu'il faut boire davantage." },
+      { "q": "Le lavage des mains sert à :", "options": ["jouer", "éviter les microbes", "gagner du temps", "marquer des points"], "correct": 1, "exp": "Le lavage des mains réduit la transmission des microbes." },
+      { "q": "Quel moment est le plus adapté pour boire ?", "options": ["jamais pendant le sport", "avant, pendant et après l'effort", "seulement à la fin", "une fois par semaine"], "correct": 1, "exp": "Il faut s'hydrater avant, pendant et après l'effort." },
+      { "q": "Un vêtement sale et mouillé après le sport doit être :", "options": ["porté le lendemain", "changé", "gardé pour le match", "mis au soleil uniquement"], "correct": 1, "exp": "Il faut porter des vêtements propres et secs." },
+      { "q": "L'alimentation d'un sportif doit être :", "options": ["équilibrée", "uniquement sucrée", "absente", "très grasse"], "correct": 0, "exp": "Une alimentation équilibrée soutient l'effort et la santé." },
+      { "q": "Le sport améliore :", "options": ["la santé", "les maladies", "la fatigue permanente", "rien"], "correct": 0, "exp": "La pratique régulière améliore la santé." }
+    ]
+  }
+]

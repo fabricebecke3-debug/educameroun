@@ -1,0 +1,110 @@
+[
+  {
+    "classe": "4eme",
+    "matiere": "SVT",
+    "id": "s4-systeme-nerveux",
+    "titre": "Le système nerveux : neurones, nerfs et réflexes",
+    "duree": "40 min",
+    "contenu": "<p>Le <b>système nerveux</b> reçoit les informations de l'environnement, les analyse et commande les réponses de l'organisme. Il est constitué du cerveau, de la moelle épinière et des nerfs.</p><div class='definition'><b>Le neurone</b> est la cellule nerveuse. Il transmet des messages électriques le long de ses prolongements.<br><b>Un nerf</b> est un faisceau de neurones qui relie les organes au système nerveux central.<br><b>Un récepteur sensoriel</b> (œil, oreille, peau) capte une information.<br><b>Un centre nerveux</b> (cerveau, moelle épinière) analyse l'information et élabore la réponse.<br><b>Un effecteur</b> (muscle, glande) exécute la réponse.</div><p>Le chemin d'une information : récepteur → nerf sensitif → centre nerveux → nerf moteur → effecteur.</p><div class='exemple'><b>Exemple :</b> si tu touches une casserole chaude, la peau (récepteur) envoie un message à la moelle épinière. Ta main se retire immédiatement (effecteur, les muscles) : c'est un réflexe.</div><div class='astuce'><b>Astuce :</b> retiens le chemin en quatre étapes : je reçois (récepteur), je transmets (nerf), j'analyse (centre), j'agis (muscle). Un réflexe passe par la moelle épinière sans attendre le cerveau.</div>",
+    "exercices": [
+      { "q": "Quels sont les éléments constitutifs du système nerveux ?", "r": "Le cerveau, la moelle épinière et les nerfs.", "indice": "Pense au centre et aux prolongements." },
+      { "q": "Qu'est-ce qu'un neurone ?", "r": "La cellule nerveuse qui transmet des messages électriques.", "indice": "C'est l'unité de base du système nerveux." },
+      { "q": "Décris le chemin d'une information lors d'un réflexe.", "r": "Récepteur → nerf sensitif → moelle épinière (centre nerveux) → nerf moteur → muscle (effecteur).", "indice": "Suis le message de la peau jusqu'au muscle." },
+      { "q": "Quelle est la différence entre un récepteur et un effecteur ?", "r": "Le récepteur capte l'information ; l'effecteur (muscle ou glande) exécute la réponse.", "indice": "Pense à l'entrée et à la sortie du message." },
+      { "q": "Pourquoi le réflexe est-il plus rapide que la réponse volontaire ?", "r": "Il passe par la moelle épinière, sans attendre l'analyse du cerveau.", "indice": "Relis l'astuce du cours." }
+    ],
+    "qcm": [
+      { "q": "La cellule nerveuse s'appelle :", "options": ["le neurone", "le globule", "le nerf", "le muscle"], "correct": 0, "exp": "Le neurone est la cellule nerveuse." },
+      { "q": "Un nerf est :", "options": ["une cellule isolée", "un faisceau de neurones", "un muscle", "un organe des sens"], "correct": 1, "exp": "Il regroupe des neurones." },
+      { "q": "Le centre nerveux qui analyse l'information est :", "options": ["le cœur", "le cerveau ou la moelle épinière", "le foie", "le poumon"], "correct": 1, "exp": "Ce sont les centres nerveux." },
+      { "q": "L'œil est :", "options": ["un effecteur", "un récepteur sensoriel", "un centre nerveux", "un nerf moteur"], "correct": 1, "exp": "Il capte la lumière : c'est un récepteur." },
+      { "q": "Le muscle qui exécute une réponse est un :", "options": ["récepteur", "effecteur", "neurone sensitif", "centre"], "correct": 1, "exp": "Il réalise la réponse : c'est un effecteur." },
+      { "q": "Un réflexe est :", "options": ["une réponse automatique et rapide", "une décision longuement réfléchie", "un sommeil", "une maladie"], "correct": 0, "exp": "Il est involontaire et rapide." },
+      { "q": "Le réflexe passe notamment par :", "options": ["la moelle épinière", "le cœur", "l'estomac", "le foie"], "correct": 0, "exp": "La moelle épinière gère les réflexes." },
+      { "q": "Le bon ordre du chemin de l'information est :", "options": ["effecteur, nerf, récepteur, centre", "récepteur, nerf, centre, nerf moteur, effecteur", "centre, récepteur, effecteur", "nerf, effecteur, récepteur"], "correct": 1, "exp": "L'information part du récepteur et finit à l'effecteur." },
+      { "q": "La moelle épinière fait partie :", "options": ["du système digestif", "du système nerveux central", "du système circulatoire", "des muscles"], "correct": 1, "exp": "Elle est un centre nerveux." },
+      { "q": "Toucher une casserole chaude et retirer la main est :", "options": ["un réflexe", "un souvenir", "un sommeil", "une digestion"], "correct": 0, "exp": "C'est un réflexe involontaire." }
+    ]
+  },
+  {
+    "classe": "4eme",
+    "matiere": "SVT",
+    "id": "s4-reproduction-humaine",
+    "titre": "La reproduction humaine et la puberté",
+    "duree": "40 min",
+    "contenu": "<p>La <b>reproduction humaine</b> permet la formation d'un nouvel être. Elle repose sur la rencontre d'un <b>spermatozoïde</b> (cellule reproductrice masculine) et d'un <b>ovule</b> (cellule reproductrice féminine).</p><div class='definition'><b>La puberté</b> est la période où le corps devient capable de se reproduire. Elle s'accompagne de changements physiques et hormonaux.<br><b>Chez le garçon</b> : apparition de la barbe et de la pomme d'Adam, élargissement des épaules, mue de la voix, production de spermatozoïdes.<br><b>Chez la fille</b> : développement des seins, apparition des règles (menstruations), élargissement du bassin.<br><b>La fécondation</b> est la rencontre de l'ovule et du spermatozoïde, qui a généralement lieu dans la trompe de Fallope.</div><div class='exemple'><b>Exemple :</b> lors de la puberté, un élève de 13 ans voit sa voix changer. C'est une conséquence de l'action des hormones sur le larynx.</div><div class='astuce'><b>Astuce :</b> la puberté ne se produit pas au même âge chez tout le monde. Il est normal d'avoir des différences de rythme entre camarades. Parle-en à un adulte de confiance si tu as des questions.</div>",
+    "exercices": [
+      { "q": "Quelles sont les deux cellules reproductrices nécessaires à la reproduction humaine ?", "r": "Le spermatozoïde (masculin) et l'ovule (féminin).", "indice": "Une cellule vient de l'homme, l'autre de la femme." },
+      { "q": "Qu'est-ce que la puberté ?", "r": "La période où le corps devient capable de se reproduire, avec des changements physiques et hormonaux.", "indice": "Pense à l'adolescence." },
+      { "q": "Cite deux changements physiques chez le garçon et deux chez la fille à la puberté.", "r": "Garçon : mue de la voix, barbe. Fille : développement des seins, apparition des règles.", "indice": "Pense aux transformations visibles." },
+      { "q": "Où a lieu la fécondation chez la femme ?", "r": "Dans la trompe de Fallope.", "indice": "C'est le conduit qui relie l'ovaire à l'utérus." },
+      { "q": "Pourquoi la voix du garçon change-t-elle à la puberté ?", "r": "Sous l'action des hormones, le larynx grandit et les cordes vocales s'allongent.", "indice": "Pense au larynx et aux hormones." }
+    ],
+    "qcm": [
+      { "q": "La cellule reproductrice masculine s'appelle :", "options": ["l'ovule", "le spermatozoïde", "le neurone", "le globule"], "correct": 1, "exp": "C'est le spermatozoïde." },
+      { "q": "La cellule reproductrice féminine s'appelle :", "options": ["le spermatozoïde", "l'ovule", "l'hématie", "le neurone"], "correct": 1, "exp": "C'est l'ovule." },
+      { "q": "La puberté est :", "options": ["la naissance", "la période où le corps devient capable de se reproduire", "la vieillesse", "la fin de l'enfance"], "correct": 1, "exp": "Elle marque la capacité à se reproduire." },
+      { "q": "Chez le garçon, un changement de puberté est :", "options": ["les règles", "la mue de la voix", "le développement des seins", "l'élargissement du bassin"], "correct": 1, "exp": "La mue de la voix est propre au garçon." },
+      { "q": "Chez la fille, un changement de puberté est :", "options": ["la barbe", "l'apparition des règles", "la mue de la voix", "la pomme d'Adam"], "correct": 1, "exp": "Les règles apparaissent chez la fille." },
+      { "q": "La fécondation a lieu :", "options": ["dans l'estomac", "dans la trompe de Fallope", "dans le cerveau", "dans le foie"], "correct": 1, "exp": "Elle a lieu dans la trompe." },
+      { "q": "Les hormones :", "options": ["ne jouent aucun rôle", "agissent sur les changements de la puberté", "sont des neurones", "sont des muscles"], "correct": 1, "exp": "Elles déclenchent les transformations de la puberté." },
+      { "q": "L'âge de la puberté :", "options": ["est identique pour tous", "varie d'une personne à l'autre", "n'existe pas", "dépend uniquement de la taille"], "correct": 1, "exp": "Il varie selon les individus." },
+      { "q": "La rencontre de l'ovule et du spermatozoïde est appelée :", "options": ["la digestion", "la fécondation", "la respiration", "la circulation"], "correct": 1, "exp": "C'est la fécondation." },
+      { "q": "Un adolescent qui a des questions sur la puberté doit :", "options": ["les ignorer", "en parler à un adulte de confiance", "se moquer des autres", "éviter tout sujet"], "correct": 1, "exp": "Un adulte de confiance peut aider à comprendre." }
+    ]
+  },
+  {
+    "classe": "4eme",
+    "matiere": "SVT",
+    "id": "s4-ist-vih",
+    "titre": "Les IST et le VIH/SIDA : prévention et comportements responsables",
+    "duree": "40 min",
+    "contenu": "<p>Les <b>infections sexuellement transmissibles (IST)</b> sont des maladies transmises lors de rapports sexuels non protégés. Certaines sont bénignes, d'autres peuvent avoir des conséquences graves sur la santé.</p><div class='definition'><b>Le VIH</b> (virus de l'immunodéficience humaine) attaque les défenses immunitaires de l'organisme.<br><b>Le SIDA</b> (syndrome d'immunodéficience acquise) est le stade avancé de l'infection par le VIH, où le corps ne peut plus se défendre contre les infections.<br><b>La transmission</b> du VIH se fait par le sang, les rapports sexuels non protégés et de la mère à l'enfant.<br><b>La prévention</b> consiste à utiliser un préservatif, à se faire dépister, à éviter de partager des objets qui peuvent contenir du sang (lames, aiguilles).</div><p>Le VIH ne se transmet pas par la salive, la poignée de main, le partage d'un repas ou l'air.</p><div class='exemple'><b>Exemple :</b> un jeune qui partage une lame de rasoir avec un ami peut transmettre le virus si la lame contient du sang. Ne jamais partager ce type d'objet.</div><div class='astuce'><b>Astuce :</b> le seul moyen de savoir si l'on est infecté est de se faire dépister. Un test rapide et gratuit existe dans de nombreux centres de santé au Cameroun.</div>",
+    "exercices": [
+      { "q": "Qu'est-ce qu'une IST ?", "r": "Une maladie transmise lors de rapports sexuels non protégés.", "indice": "Pense au mode de transmission." },
+      { "q": "Quelle est la différence entre le VIH et le SIDA ?", "r": "Le VIH est le virus qui attaque les défenses immunitaires. Le SIDA est le stade avancé de l'infection, où le corps ne se défend plus.", "indice": "Le virus d'abord, la maladie ensuite." },
+      { "q": "Cite deux moyens de prévention du VIH.", "r": "Utiliser un préservatif et se faire dépister ; ne pas partager lames et aiguilles.", "indice": "Pense aux gestes protecteurs." },
+      { "q": "Le VIH se transmet-il par une poignée de main ? Justifie.", "r": "Non : il ne se transmet pas par la salive, la poignée de main, le partage d'un repas ou l'air.", "indice": "Il se transmet par le sang et les rapports non protégés." },
+      { "q": "Pourquoi le dépistage est-il important ?", "r": "C'est le seul moyen de savoir si l'on est infecté, et il permet un suivi médical rapide.", "indice": "Pense à savoir sans supposer." }
+    ],
+    "qcm": [
+      { "q": "IST signifie :", "options": ["infection sexuellement transmissible", "infection sanguine totale", "intervention sur tissus", "inflammation sans traitement"], "correct": 0, "exp": "C'est infection sexuellement transmissible." },
+      { "q": "Le VIH est :", "options": ["une bactérie", "un virus qui attaque les défenses immunitaires", "un aliment", "un médicament"], "correct": 1, "exp": "C'est un virus." },
+      { "q": "Le SIDA est :", "options": ["le premier contact avec le virus", "le stade avancé de l'infection par le VIH", "un vaccin", "une bactérie"], "correct": 1, "exp": "C'est le stade avancé." },
+      { "q": "Le VIH se transmet par :", "options": ["la poignée de main", "le sang et les rapports non protégés", "la salive", "l'air"], "correct": 1, "exp": "Ce sont les principales voies de transmission." },
+      { "q": "Un moyen de prévention efficace est :", "options": ["le préservatif", "le partage des lames", "le silence", "l'ignorance"], "correct": 0, "exp": "Le préservatif protège lors des rapports." },
+      { "q": "Le VIH ne se transmet pas par :", "options": ["le sang", "les rapports non protégés", "la poignée de main", "de la mère à l'enfant"], "correct": 2, "exp": "La poignée de main ne transmet pas le virus." },
+      { "q": "Le seul moyen de savoir si l'on est infecté est :", "options": ["de deviner", "de se faire dépister", "d'attendre", "de consulter un horoscope"], "correct": 1, "exp": "Le dépistage permet de le savoir avec certitude." },
+      { "q": "Partager une lame de rasoir peut :", "options": ["protéger", "transmettre le virus si elle contient du sang", "soigner", "ne rien changer"], "correct": 1, "exp": "C'est un risque de transmission." },
+      { "q": "Le VIH affaiblit :", "options": ["les défenses immunitaires", "les os", "la peau uniquement", "les cheveux"], "correct": 0, "exp": "Il attaque le système immunitaire." },
+      { "q": "Le comportement responsable consiste à :", "options": ["se protéger et se faire dépister", "ignorer les risques", "se moquer des malades", "partager sans précaution"], "correct": 0, "exp": "C'est la prévention et la responsabilité." }
+    ]
+  },
+  {
+    "classe": "4eme",
+    "matiere": "SVT",
+    "id": "s4-formation-sol",
+    "titre": "Le sol : formation, composition et érosion",
+    "duree": "40 min",
+    "contenu": "<p>Le <b>sol</b> est la couche superficielle de la croûte terrestre. Il est indispensable à la vie : il fournit de l'eau, des sels minéraux et un support aux plantes.</p><div class='definition'><b>L'altération</b> est la dégradation des roches sous l'effet de l'eau, du vent, du gel et des variations de température.<br><b>L'humus</b> est la matière organique issue de la décomposition des êtres vivants (feuilles, animaux morts).<br><b>La texture du sol</b> dépend de la taille des particules : sable (grosses), limon (moyennes), argile (très fines).<br><b>L'érosion</b> est l'usure et le transport du sol par l'eau ou le vent.</div><p>Un sol fertile contient de l'humus, de l'eau et des sels minéraux. Les vers de terre et les micro-organismes participent à sa formation.</p><div class='exemple'><b>Exemple :</b> au Cameroun, lorsque la forêt est coupée sur une pente, les pluies emportent la couche de terre fertile : c'est l'érosion. Le sol devient pauvre et ne peut plus être cultivé.</div><div class='astuce'><b>Astuce :</b> pour protéger le sol, garde-le couvert de végétation, évite les feux de brousse et les cultures sur de fortes pentes sans aménagement.</div>",
+    "exercices": [
+      { "q": "Qu'est-ce que l'altération des roches ?", "r": "La dégradation des roches sous l'effet de l'eau, du vent, du gel et des variations de température.", "indice": "C'est la première étape de la formation du sol." },
+      { "q": "Qu'est-ce que l'humus ?", "r": "La matière organique issue de la décomposition des êtres vivants.", "indice": "Pense aux feuilles mortes qui se décomposent." },
+      { "q": "Classe par taille : sable, argile, limon (du plus gros au plus fin).", "r": "Sable (gros), limon (moyen), argile (très fin).", "indice": "Le sable est visible à l'œil nu et doux au toucher ; l'argile est très fine." },
+      { "q": "Qu'est-ce que l'érosion ?", "r": "L'usure et le transport du sol par l'eau ou le vent.", "indice": "Pense à ce qui emporte la terre." },
+      { "q": "Explique pourquoi couper la forêt sur une pente favorise l'érosion.", "r": "Sans couvert végétal, la pluie emporte la terre fertile, surtout sur une pente.", "indice": "Pense au rôle des racines et des feuilles." }
+    ],
+    "qcm": [
+      { "q": "Le sol est :", "options": ["la couche superficielle de la croûte terrestre", "l'océan", "l'atmosphère", "le noyau"], "correct": 0, "exp": "Le sol est la couche superficielle de la croûte." },
+      { "q": "L'altération des roches est causée par :", "options": ["l'eau, le vent, le gel et la température", "les animaux seuls", "les humains seuls", "la lumière seule"], "correct": 0, "exp": "Ces agents dégradent les roches." },
+      { "q": "L'humus provient :", "options": ["de la décomposition d'êtres vivants", "des volcans", "de l'eau de mer", "des métaux"], "correct": 0, "exp": "Il vient de la matière organique décomposée." },
+      { "q": "La particule la plus fine est :", "options": ["le sable", "le limon", "l'argile", "le gravier"], "correct": 2, "exp": "L'argile a les particules les plus fines." },
+      { "q": "L'érosion est :", "options": ["la formation de l'humus", "l'usure et le transport du sol", "la construction d'un barrage", "la plantation d'arbres"], "correct": 1, "exp": "C'est l'usure et le transport du sol." },
+      { "q": "Un sol fertile contient :", "options": ["uniquement du sable", "de l'humus, de l'eau et des sels minéraux", "uniquement de l'argile", "rien"], "correct": 1, "exp": "Ces éléments rendent le sol fertile." },
+      { "q": "Les vers de terre :", "options": ["abîment le sol toujours", "participent à la formation du sol", "n'ont aucun rôle", "remplacent l'eau"], "correct": 1, "exp": "Ils enrichissent et aèrent le sol." },
+      { "q": "Pour protéger le sol de l'érosion, il faut :", "options": ["le laisser à nu", "le garder couvert de végétation", "brûler la végétation", "couper les arbres sur les pentes"], "correct": 1, "exp": "La végétation protège le sol." },
+      { "q": "Le sable est :", "options": ["la particule la plus fine", "la particule la plus grosse des trois", "un liquide", "de l'humus"], "correct": 1, "exp": "C'est la plus grosse des trois particules citées." },
+      { "q": "Au Cameroun, une cause d'érosion est :", "options": ["la déforestation sur les pentes", "la plantation d'arbres", "la rotation des cultures", "le compost"], "correct": 0, "exp": "La déforestation laisse le sol sans protection." }
+    ]
+  }
+]
